@@ -1,0 +1,2472 @@
+﻿Cover Panduan FIKSI SMA-MA-SMK Tahun 2025 
+(*akan dibantu oleh Tim BPTI)  
+
+
+
+ 
+ 
+
+PANDUAN AJANG FESTIFAL INOVASI DAN 
+KEWIRAUSAHAAN INDONESIA (FIKSI) TINGKAT 
+
+NASIONAL TAHUN 2025 
+Diterbitkan oleh: 
+
+Balai Pengembangan Talenta Indonesia  
+Pusat Prestasi Nasional 
+
+Kementerian Pendidikan Dasar dan Menengah 
+ 
+
+Pengarah: 
+Suharti 
+
+Mariman Darto 
+Maria Veronica Irene Herdjiono 
+
+ 
+Penanggung Jawab: 
+
+Retno Juni Rochmaningsih 
+Kus Ani Andayani 
+
+ 
+Tim Penyusun: 
+
+Dr. Wisnu Sakti Dewobroto, S.T., M.Sc. 
+Dr. Asep Taryana Sujana, S.TP., M.M. 
+Dr. Wachyu Hari Haji, S.Kom., M.M. 
+Dr. Ika Suhartanti Darmo, S.E., M.M. 
+
+Wulan Ayodya, S.E., M.M. 
+Sonny Rustiadi SE., MBA., PhD. 
+
+ 
+Penyunting: 
+
+Tim Kerja Bidang Vokasi dan Kewirausahaah BPTI 
+ 
+ 
+
+Desain dan Layout: 
+Muhamad Nafi' Rizaldi 
+
+Achmad Latif 
+ 
+ 
+
+Maret 2025 
+©2025 Kementerian Pendidikan Dasar dan Menengah 
+
+Hak cipta dilindungi Undang-Undang. All rights reserved.
+
+2 
+ 
+
+
+
+ 
+ 
+
+KATA PENGANTAR 
+
+ 
+Dengan rasa syukur kepada Tuhan Yang Maha Esa, Balai Pengembangan Talenta Indonesia 
+dengan bangga mempersembahkan Panduan Ajang Festival Inovasi dan Kewirausahaan 
+Siswa Indonesia (FIKSI) Tahun 2025. Panduan ini hadir sebagai acuan yang komprehensif 
+bagi para siswa, pendamping, juri, dan pemangku kepentingan lainnya dalam mengikuti 
+ajang bergengsi di bidang kewirausahaan untuk siswa jenjang menengah. FIKSI bertujuan 
+untuk mengembangkan potensi dan kreativitas generasi muda Indonesia, menjadikannya 
+sebagai salah satu ajang penting dalam mendukung pencapaian visi Indonesia Emas 2045. 
+
+FIKSI  Tahun 2025 dirancang dengan mengedepankan prinsip inklusivitas, keberlanjutan, dan 
+inovasi. Berlandaskan pada program Manajemen Talenta Nasional, ajang ini menjadi wadah 
+strategis bagi para siswa SMA/MA dan SMK/MAK untuk berkompetisi secara sehat dalam 
+berbagai bidang yang relevan dengan tantangan global. Pendekatan yang mengintegrasikan 
+ekonomi hijau, ekonomi kreatif, dan ekonomi digital diharapkan dapat melahirkan solusi 
+kewirausahaan yang memberikan dampak positif, baik secara sosial maupun lingkungan. 
+
+Kami menyadari bahwa keberhasilan penyelenggaraan FIKSI  Tahun 2025 tidak terlepas dari 
+kontribusi berbagai pihak. Oleh karena itu, kami mengucapkan terima kasih kepada 
+Kementerian Pendidikan Dasar dan Menengah, para mitra, juri, serta seluruh tim yang telah 
+bekerja keras dalam menyusun Panduan ini. Kerja sama dan dedikasi mereka menjadi fondasi 
+penting bagi terlaksananya FIKSI  Tahun 2025 secara optimal. 
+
+Akhir kata, kami berharap Panduan ini dapat menjadi acuan yang jelas dan memotivasi seluruh 
+peserta untuk berprestasi dengan semangat inovasi dan kewirausahaan. Semoga ajang ini tidak 
+hanya menjadi kompetisi, tetapi juga inspirasi bagi generasi muda untuk terus berkarya dan 
+membawa Indonesia menuju masa depan yang lebih gemilang. 
+
+ 
+ 
+
+Jakarta,      Maret 2025 
+Plt. Kepala, 
+ 
+ 
+ 
+ 
+Dr. Maria Veronica Irene Herdjiono, S.E., M.Si 
+NIP 198103292012122001 
+
+ 
+  
+
+3 
+ 
+
+
+
+ 
+ 
+
+DAFTAR ISI 
+ 
+ 
+ 
+KATA PENGANTAR .............................................................................................................. 3 
+DAFTAR ISI ............................................................................................................................ 4 
+BAB I  PENDAHULUAN ....................................................................................................... 6 
+
+A. Latar Belakang ............................................................................................................. 6 
+B. Dasar Hukum ................................................................................................................ 7 
+C. Tujuan ........................................................................................................................... 8 
+D. Hasil Yang Diharapkan ................................................................................................ 8 
+E. Luaran yang diharapkan ............................................................................................... 8 
+
+BAB II KONSEP DASAR DAN PRINSIP PENYELENGGARAAN .................................... 9 
+A. Nilai-Nilai Dasar .......................................................................................................... 9 
+B. Prinsip Penyelenggaraan .............................................................................................. 9 
+C. Logo dan Tema FIKSI  Tahun 2025 .......................................................................... 10 
+
+BAB III PENYELENGGARAAN ......................................................................................... 11 
+A. PRA-AJANG .............................................................................................................. 11 
+B. PELAKSANAAN AJANG ........................................................................................ 14 
+C. Daftar Cabang Ajang Talenta ..................................................................................... 14 
+D. PASCA PELAKSANAAN AJANG .......................................................................... 18 
+
+BAB IV MEKANISME AJANG FIKSI ................................................................................ 19 
+A. Proses Seleksi ............................................................................................................. 19 
+B. Penilaian dan Penentuan Juara ................................................................................... 19 
+C. Tahap Penilaian .......................................................................................................... 20 
+D. Pengiriman Purwarupa/Produk ................................................................................... 24 
+
+BAB V PENGHARGAAN DAN PEMBIAYAAN ............................................................... 26 
+BAB VI PENUTUP ............................................................................................................... 27 
+LAMPIRAN ........................................................................................................................... 28 
+
+Lampiran A: Format Karya Ilmiah ..................................................................................... 28 
+Lampiran B: Penjelasan Detail Cabang Ajang Talenta ...................................................... 29 
+1. Agribisnis, Agroteknologi dan Kemaritiman ............................................................. 29 
+2. Kesehatan ................................................................................................................... 30 
+3. Kewirausahaan Sosial ................................................................................................. 31 
+4. Pariwisata ................................................................................................................... 32 
+5. Teknologi Digital ....................................................................................................... 33 
+
+4 
+ 
+
+
+
+ 
+ 
+
+6. Kuliner ........................................................................................................................ 34 
+7. Fashion (Fesyen) ........................................................................................................ 35 
+8. Games ......................................................................................................................... 36 
+9. Kriya ........................................................................................................................... 37 
+10.   Industri Musik, Film, Video, dan Animasi ................................................................. 38 
+11.   Seni Rupa dan Desain ................................................................................................. 39 
+
+ 
+ 
+  
+
+5 
+ 
+
+
+
+ 
+ 
+
+BAB I  
+PENDAHULUAN 
+
+ 
+ 
+A. Latar Belakang 
+
+ Festival Inovasi dan Kewirausahaan Siswa Indonesia (FIKSI) 2025 hadir sebagai 
+sebuah platform strategis untuk mencetak generasi muda Indonesia yang unggul dalam 
+inovasi dan kewirausahaan. Penyelenggaraan FIKSI kali ini menjadi lebih relevan dan 
+visioner karena selaras dengan visi besar Asta Cita Presiden Prabowo yang bertumpu 
+pada kemandirian nasional melalui kreativitas dan inovasi. Visi ini diterjemahkan dalam 
+17 Program Prioritas pemerintah yang menekankan pada pembangunan sumber daya 
+manusia unggul, penguatan ekonomi kreatif, serta keberlanjutan lingkungan hidup. 
+FIKSI, dalam konteks ini, memainkan peranan penting sebagai wahana pengembangan 
+talenta siswa SMA/MA, dan SMK/MAK di seluruh Indonesia. 
+ Dalam implementasinya, FIKSI  Tahun 2025 berlandaskan pada Peraturan 
+Presiden No. 108 Tahun 2024 tentang Desain Besar Manajemen Talenta Nasional. 
+Peraturan ini menggariskan pentingnya identifikasi, pengembangan, dan optimalisasi 
+potensi talenta muda sebagai bagian dari strategi besar untuk membangun bangsa yang 
+kompetitif. FIKSI menjadi salah satu perwujudan nyata dari kebijakan tersebut dengan 
+memberikan ruang bagi siswa untuk berinovasi, berkreasi, dan berkompetisi secara sehat 
+di berbagai bidang yang relevan dengan perkembangan zaman. 
+ FIKSI Tingkat Nasional pertama kali dilaksanakan di tahun 2016, yang 
+diselenggarakan oleh direktorat teknis Kementerian Pendidikan Dasar dan Menengah 
+pada Direktorat Pembinaan SMK, untuk jenjang SMK dan Direktorat Pembinaan SMA 
+untuk jenjang SMA. Meskipun dilaksanakan oleh dua Direktorat yang berbeda, namun 
+kedua nya memiliki tujuan yang sama, untuk pengembangan prestasi siswa dibidang 
+kewirausahaan. 
+ Pada Penyelenggaraan FIKSI tahun 2025 terjadi penggabungan FIKSI SMA dan 
+FIKSI SMK menjadi FIKSI jenjang Pendidikan menengah yang diselenggarakan oleh 
+Balai Pengembangan Talenta Indonesia (BPTI), Pusat Prestasi Nasional, Kementerian 
+Pendidikan Dasar dan Menengah. FIKSI tahun 2025 difokuskan pada pengembangan 
+solusi inovatif yang sejalan dengan prinsip ekonomi sirkular, ekonomi hijau, ekonomi 
+biru, dan ekonomi kreatif. Pendekatan ini tidak hanya memperkenalkan siswa pada 
+konsep keberlanjutan, tetapi juga mendorong mereka untuk menghasilkan dampak positif 
+yang nyata bagi masyarakat dan lingkungan.  
+ Fokus utama FIKSI pada 11 bidang usaha, yaitu: Agribisnis, Agroteknologi, 
+Kemaritiman, Kesehatan, Wirausaha Sosial, Pariwisata, Teknologi Digital, Kuliner, 
+Fashion, Games, Kriya, Video, Musik, Film, dan Animasi. Untuk memastikan bahwa 
+inovasi yang dihasilkan mampu memberikan kontribusi signifikan pada pengembangan 
+sektor-sektor strategis nasional. 
+ Dengan tema besar yang menekankan pada inovasi dan keberlanjutan, FIKSI  
+Tahun 2025 diharapkan mampu menginspirasi siswa untuk menjadi agen perubahan yang 
+kreatif, adaptif, dan peduli terhadap tantangan global. Melalui kolaborasi dengan mitra 
+strategis, pembinaan intensif, dan kompetisi yang berstandar tinggi, FIKSI memberikan 
+kesempatan emas bagi siswa untuk mengasah keterampilan, memperluas wawasan, dan 
+membangun jaringan. Semua ini dilakukan demi mendukung misi besar menciptakan 
+
+6 
+ 
+
+
+
+ 
+ 
+
+generasi muda yang mampu membawa Indonesia menuju masa depan yang lebih cerah 
+dan berdaya saing global. 
+ 
+
+B. Dasar Hukum 
+1. Peraturan Presiden No. 108 Tahun 2024 tentang Desain Besar Manajemen Talenta 
+
+Nasional. 
+2. Undang-undang Indonesia 20 Tahun 2003 Tentang Sistem Pendidikan Nasional; 
+3. Peraturan Pemerintah (PP) Nomor 17 Tahun 2010 tentang Pengelolaan Dan 
+
+Penyelenggaraan Pendidikan (Lembaran Negara Republik Indonesia Tahun 2010 
+Nomor 23, Tambahan Lembaran Negara Republik Indonesia Nomor 5105) 
+sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 66 Tahun 2010 
+tentang Perubahan atas Peraturan Pemerintah Nomor 17 Tahun 2010 tentang 
+Pengelolaan dan Penyelenggaraan Pendidikan (Lembaran Negara Republik Indonesia 
+Tahun 2010 Nomor 112, Tambahan Lembaran Negara Nomor 5157); 
+
+4. Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintah Daerah (Lembaran 
+Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5587) sebagaimana telah diubah dengan Undang-Undang 
+9 Tahun 2015 tentang perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2015 
+tentang Pemerintah Daerah (Lembaran Negara Republik Indonesia Tahun 2015 
+Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679); 
+
+5. Peraturan Pemerintah RI Indonesia. 41 Tahun 2011 tentang Pengembangan 
+kewirausahaan dan Kepeloporan Pemuda serta Penyediaan Prasarana dan Sarana 
+Kepemudaan; 
+
+6. Peraturan Presiden Indonesia. 2 Tahun 2022 tentang Pengembangan Kewirausahaan 
+Nasional; 
+
+7. Peraturan Menteri Pendidikan Nasional Nomor 19 Tahun 2007 tentang Standar 
+Pengelolaan Pendidikan dan Satuan Pendidikan Dasar dan Menengah; 
+
+8. Peraturan Menteri Pendidikan Nasional Republik Indonesia Nomor 39 Tahun 2008 
+tentang Pembinaan Kesiswaan; 
+
+9. Peraturan Menteri Pendidikan dan Kebudayaan Nomor 62 Tahun 2014 tentang 
+Kegiatan Ekstrakurikuler; 
+
+10. Permendikbud Indonesia. 27 Tahun 2021 tentang Organisasi dan Tata kelola Balai 
+Pengembangan Talenta Indonesia; 
+
+11. Permendikbudristek Indonesia. 5 Tahun 2022 tentang Standar Kompetensi Lulusan 
+Pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan 
+Menengah; 
+
+12. Kepmendikbudristek RI Nomor 455/O/2022 tahun 2023 tentang Rincian Tugas Balai 
+Pengembangan Talenta Indonesia;  
+
+13. Peraturan Presiden Republik Indonesia Nomor 108 Tahun 2024 tentang Desain Besar 
+Manajemen Talenta Nasional 
+
+14. Peraturan Menteri Pendidikan Dasar dan Menengah No. 1 tahun 2024 tentang 
+Organisasi dan Tata Kerja Kementerian Pendidikan Dasar dan Menengah; 
+
+15. Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi RI Nomor 71 Tahun 
+2024 tentang Manajemen Talenta Peserta Didik; 
+
+16. DIPA (Daftar Isian Pelaksanaan Anggaran) Balai Pengembangan Talenta Indonesia 
+Tahun 2025. 
+
+7 
+ 
+
+
+
+ 
+ 
+
+C. Tujuan 
+1. Menumbuhkan generasi wirausaha muda kreatif dengan wawasan sosial; 
+2. Merupakan wahana bagi peserta didik jenjang pendidikan menengah yang berbasis 
+
+kearifan lokal untuk mengasah kepedulian, karakter positif dan strategis, produktif, 
+kreatif, dan inovatif; 
+
+3. Mempersiapkan peserta didik jenjang pendidikan menengah untuk tangguh dan 
+mampu bersaing secara global; 
+
+4. Memberikan bekal pengalaman, pengetahuan dan pembinaan kewirausahaan agar 
+siswa kelak dapat memulai dan mengakselerasi wirausaha mandiri; 
+
+5. Mengaktivasi empati, daya inovasi, dan membangun rasa tanggung jawab, serta 
+kemandirian ekonomi pada peserta didik; 
+
+6. Membentuk jejaring dan kolaborasi yang dapat mendukung kegiatan wirausaha, 
+terutama dalam mempertahankan keberlanjutannya; 
+
+7. Mendorong terbentuknya model praktik pembelajaran kewirausahaan di tingkat 
+SMA/MA dan SMK; 
+
+8. Menjadi media sosialisasi/diseminasi hasil karya wirausaha muda kreatif kepada 
+masyarakat. 
+
+ 
+D. Hasil Yang Diharapkan 
+
+1. Terwujudnya generasi wirausaha muda kreatif dengan wawasan sosial secara 
+berkelanjutan; 
+
+2. Terciptanya wahana bagi peserta didik jenjang pendidikan menengah yang 
+berbasis kearifan lokal untuk mengasah kepedulian, karakter positif dan strategis, 
+produktif, kreatif, dan inovatif; 
+
+3. Terbentuknya peserta didik jenjang pendidikan menengah untuk tangguh dan 
+mampu bersaing secara global; 
+
+4. Adanya bekal pengalaman, pengetahuan dan pembinaan kewirausahaan agar siswa 
+kelak dapat memulai dan mengakselerasi wirausaha mandiri; 
+
+5. Terbentuk empati, daya inovasi, dan membangun rasa tanggung jawab, serta 
+kemandirian ekonomi pada peserta didik; 
+
+6. Terbentuknya jejaring dan kolaborasi yang dapat mendukung kegiatan wirausaha, 
+terutama dalam mempertahankan keberlanjutannya; 
+
+7. Terbentuknya model praktik pembelajaran kewirausahaan di jenjang pendidikan 
+menengah; 
+
+8. Terwujudnya media sosialisasi/diseminasi hasil karya wirausaha muda kreatif 
+kepada masyarakat. 
+ 
+
+E. Luaran yang diharapkan 
+ Pelaksanaan FIKSI Tahun 2025 memiliki luaran pada setiap kategori ajang. Di antaranya: 
+
+1. Kategori Perencanaan Usaha: Menghasilkan gagasan produk yang ditampilkan dalam 
+bentuk purwarupa dan juga karya ilmiah dari ide inovasi tersebut.  
+
+2. Kategori Pengembangan Usaha: Menghasilkan inovasi produk yang ditampilkan 
+dalam bentuk profil usaha dan juga karya ilmiah dari pengembangan inovasi produk 
+tersebut. 
+
+ 
+ 
+
+8 
+ 
+
+
+
+ 
+ 
+
+BAB II  
+KONSEP DASAR DAN PRINSIP PENYELENGGARAAN 
+
+ 
+ 
+
+A. Nilai-Nilai Dasar 
+Nilai-nilai dasar yang melandasi ajang talenta ini untuk menciptakan kegiatan yang bermakna, 
+berintegritas, dan sesuai dengan tujuan pendidikan nasional. Dengan memadukan nilai, 
+norma, dan asas penyelenggaraan, ajang ini diharapkan dapat menjadi wadah yang 
+mendukung pengembangan karakter, kreativitas, dan prestasi peserta didik secara inklusif dan 
+berkelanjutan. 
+
+1. Nilai 
+Nilai-nilai yang dikandung dalam pelaksanaan ajang talenta tidak bertentangan dengan 
+nilai-nilai pendidikan, seperti pembelajaran, objektivitas, produktivitas, estetika, 
+keteladanan, kedisiplinan, kejujuran, dan nilai-nilai karakter positif lainnya. Nilai-nilai 
+tersebut perlu disosialisasikan kepada seluruh komponen yang terlibat dalam 
+penyelenggaraan agar dipahami dan diaktualisasikan dalam berbagai aspek kegiatan. 
+
+2. Norma 
+Norma ajang talenta mencakup norma etika yang tidak tertulis, yang berlaku sesuai 
+dengan kebudayaan setempat, serta norma tertulis yang berwujud ketentuan atau 
+peraturan, termasuk tata tertib acara seremonial dan kegiatan ajang itu sendiri. Selain 
+untuk mengatur berlangsungnya kegiatan yang tertib, lancar, dan aman, penegakan 
+norma diharapkan dapat mendorong tumbuh dan berkembangnya motivasi berprestasi 
+para peserta, mengekspresikan kreativitas dan keindahan, serta keterbukaan. Selain itu, 
+penyelenggaraan ajang talenta juga harus mengikuti asas dan prinsip penyelenggaraan 
+yang ditentukan dalam dokumen ini. 
+
+3. Asas penyelenggaraan 
+a. diselenggarakan dalam kerangka pembangunan pendidikan Nasional; 
+b. menjadi bagian dari gerakan perubahan menuju kemajuan; 
+c. menjadi wadah bagi aktualisasi prestasi talenta peserta didik; 
+d. terbuka bagi peserta didik dari semua jenjang dan jenis Pendidikan. 
+
+ 
+B. Prinsip Penyelenggaraan 
+
+Penyelenggaraan Ajang Talenta mengikuti prinsip Inklusif, Bertumbuh, Partisipatif, dan 
+Berkelanjutan yang diwujudkan dengan upaya-upaya berikut: 
+
+a. pemerataan kesempatan bagi seluruh peserta didik Indonesia tanpa membedakan 
+suku, agama, rupa, dan ras; 
+
+b. pemberian kebebasan pengenalan diri dan kesempatan tumbuh-kembang peserta 
+didik tanpa intervensi yang eksploitatif; 
+
+c. pembinaan yang membuka peluang peserta didik untuk berprestasi internasional 
+dan berkarya sebagai pelopor perubahan bangsa meraih keunggulan kompetitif 
+(competitive advantage); 
+
+d. tata kelola penyelenggaraan yang objektif, efisien, akuntabel dan transparan; 
+e. intensifikasi pembinaan di daerah dalam rangka mengupayakan pemerataan 
+
+prestasi melalui kegiatan pencarian dan pemanduan bakat (talent scouting) yang 
+melibatkan seluruh pemangku kepentingan; 
+
+f. partisipasi seluruh pemangku kepentingan di semua aspek penyelenggaraan; 
+g. perencanaan, pelaksanaan, dan evaluasi yang konsisten dan berkesinambungan; 
+
+9 
+ 
+
+
+
+ 
+ 
+
+h. implementasi penjaminan mutu yang berkelanjutan. 
+ 
+
+C. Logo dan Tema FIKSI  Tahun 2025 
+Logo FIKSI Tahun 2025 adalah sebagai berikut:  
+
+ 
+ 
+
+TEMA UMUM : 
+“Talenta Wirausaha, Majukan Bangsa” 
+
+TEMA KHUSUS : 
+     “Kewirausahaan Hijau: Solusi Lokal untuk Masa Depan 
+
+Berkelanjutan” 
+Tema FIKSI  Tahun 2025 ini menempatkan generasi muda sebagai motor penggerak 
+perubahan melalui penggabungan kreativitas, inovasi, dan empati sosial. Melalui ajang 
+FIKSI  Tahun 2025, para siswa SMA/MA dan SMK didorong untuk menciptakan solusi 
+kewirausahaan yang tidak hanya berorientasi pada keuntungan, tetapi juga membawa 
+dampak positif bagi masyarakat dan lingkungan. Dengan pendekatan ini, FIKSI menjadi 
+wadah yang mengintegrasikan nilai-nilai kearifan lokal, teknologi digital, dan prinsip-
+prinsip ekonomi berkelanjutan untuk menjawab tantangan sosial di tingkat lokal hingga 
+global. Tema ini mencerminkan komitmen untuk mempersiapkan generasi muda 
+Indonesia yang tangguh, kreatif, dan berdaya saing di tengah perubahan dunia yang 
+semakin kompleks. 
+Dampak dari pelaksanaan FIKSI  Tahun 2025 tidak hanya dirasakan oleh para peserta, 
+tetapi juga memiliki pengaruh luas bagi masyarakat dan perekonomian Indonesia. Dengan 
+mengasah potensi inovatif dan keterampilan kolaborasi siswa, kegiatan ini berkontribusi 
+pada terciptanya ekosistem kewirausahaan yang inklusif dan berkelanjutan. Generasi 
+wirausaha muda yang terbentuk melalui FIKSI diharapkan mampu menjadi agen 
+perubahan, menciptakan lapangan kerja baru, serta mendukung penguatan ekonomi 
+berbasis kreativitas dan keberlanjutan. Selain itu, FIKSI juga berperan dalam membangun 
+budaya inovasi yang mendorong sinergi antara pendidikan, dunia usaha, dan masyarakat, 
+sehingga mempercepat tercapainya visi Indonesia sebagai pusat inovasi di tingkat 
+regional maupun global. 
+
+ 
+10 
+
+ 
+
+
+
+ 
+ 
+
+BAB III  
+PENYELENGGARAAN 
+
+ 
+ 
+A. PRA-AJANG  
+
+I.  Penyelenggara 
+1. Balai Pengembangan Talenta Indonesia  
+
+Balai Pengembangan Talenta Indonesia (BPTI) bertanggung jawab sebagai 
+penyelenggara utama Festival Inovasi dan Kewirausahaan Siswa Indonesia (FIKSI) 
+2025. Sebagai Unit Pelaksana Teknis, Pusat Prestasi Nasional, Sekretariat Jenderal 
+Kementerian Penddikan Dasar dan Menengah, BPTI memiliki peran strategis dalam 
+merancang dan mengelola seluruh rangkaian kegiatan, mulai dari penyusunan 
+Panduan hingga pelaksanaan kompetisi di tingkat nasional. Peran utama BPTI 
+mencakup koordinasi antar pihak terkait, seperti dinas pendidikan provinsi, sekolah, 
+juri, dan mitra pendukung lainnya. BPTI juga memastikan bahwa setiap aspek 
+kegiatan, seperti sistem pendaftaran, seleksi, dan penilaian, dilakukan secara 
+transparan, adil, dan profesional. Dalam upaya mendukung kompetisi yang inklusif 
+dan berkelanjutan, BPTI berkomitmen untuk menyediakan fasilitas, sarana, dan 
+sumber daya yang memadai agar peserta dapat mengikuti ajang ini dengan optimal. 
+
+2. Panitia 
+a. Panitia merupakan orang atau sekelompok orang yang ditunjuk oleh 
+
+penyelenggara untuk melaksanakan pengelolaan Ajang Talenta dalam urusan 
+teknis dan administratif.  
+
+b. Pembentukan panitia dilakukan dengan ketentuan:  
+1) Ketua tim kerja mengusulkan susunan panitia dan pembagian tugas dalam 
+
+kepanitiaan.  
+2) Kepanitiaan terdiri atas:  
+
+a) Panitia Pengarah (Steering Committee) beserta uraian tugas dan 
+fungsinya;  
+
+b) Panitia Penyelenggara (Organizing Committee) beserta uraian tugas dan 
+fungsinya terdiri atas ketua, sekretaris, bendahara, dan penanggung 
+jawab ajang yang diduduki oleh orang yang berbeda.  
+
+3) Panitia dapat berasal dari internal dan eksternal Balai Pengembangan Talenta 
+Indonesia (BPTI).  
+
+4) Panitia ditetapkan oleh Kepala BPTI melalui Surat Keputusan 
+3. Tim Pengembang Aplikasi 
+
+a. Membangun aplikasi pendaftaran dan penilaian; 
+b. Berkoordinasi dengan tim penyusun Panduan FIKSI Tahun 2025 terkait 
+
+dengan sistem penilaian; 
+c. Melakukan pemantauan dan pembaruan data peserta, hasil karya dan 
+
+menyampaikan kepada Koordinator FIKSI Tahun 2025; 
+a. Melaporkan permasalahan yang terjadi terkait aplikasi ajang kepada 
+
+Koordinator FIKSI  Tahun 2025 dan memberikan solusi permasalahan 
+tersebut. 
+
+4. Tim Narahubung 
+a. Memberikan layanan informasi kepada setiap peserta, Dinas Pendidikan 
+
+Provinsi dan guru pembimbing tentang kegiatan FIKSI Tahun 2025; 
+
+11 
+ 
+
+
+
+ 
+ 
+
+b. Melaporkan permasalahan teknis dari peserta, Dinas Pendidikan Provinsi dan 
+guru pembimbing serta menyampaikan solusi atas permasalahan tersebut; 
+
+c. Sebagai administrator pada layanan ULT atau Whatsapp Group untuk 
+memudahkan layanan informasi dan koordinasi kepada peserta dan guru 
+pembimbing. 
+
+5. Juri 
+a. Juri adalah individu atau sekelompok yang melaksanakan penjurian sesuai 
+
+pedoman yang telah dipublikasikan; dan bertanggung jawab memberikan 
+penilaian terhadap Talenta dalam pelaksanaan kompetisi Ajang Talenta.  
+
+b. Juri harus memiliki:  
+1) kompetensi, yakni memiliki kepakaran yang relevan dengan Cabang Ajang 
+
+Talenta yang dinilai dan harus dibuktikan dengan sertifikat, rekam jejak 
+(CV), lisensi/penyetaraan, dan/atau pengakuan lain yang dapat 
+dipertanggungjawabkan; dan 
+
+2) profesionalitas, yakni tidak memiliki konflik kepentingan, tidak menjadi 
+pembina peserta pada Ajang Talenta dan institusi yang sama, dan memiliki 
+rekam jejak tidak profesional dalam melaksanakan penjurian pada cabang 
+ajang talenta 
+
+c. Pemilihan juri memperhatikan aspek keterwakilan wilayah dan organisasi yang 
+berkepentingan sesuai dengan Ajang Talenta dan Cabang Ajang Talenta.  
+
+d. Setiap juri yang ditunjuk wajib menandatangani Pakta Integritas (format 
+terlampir). 
+
+e. Juri yang ditunjuk tidak sebagai tim penyusun Panduan dan panduan pada 
+Cabang Ajang Talenta yang sama.  
+
+f. Juri tidak berasal dari unsur penyelenggara dan panitia pada Ajang Talenta yang 
+sama.  
+
+g. Juri pada setiap Cabang Ajang Talenta ditentukan, ditetapkan, dan dievaluasi 
+oleh Kepala BPTI. 
+
+ 
+6. Dinas Pendidikan Provinsi 
+
+a. Melakukan Sosialisasi Panduan Pelaksanaan FIKSI  Tahun 2025 Tingkat Provinsi 
+dan Tingkat Nasional secara daring/online kepada Dinas Pendidikan Kab/Kota, 
+Musyawarah Kerja Kepala Sekolah (MKKS) Provinsi/Kabupaten/Kota, dan 
+Kepala SMA/MA dan SMK; 
+
+b. Mendistribusikan informasi kepada seluruh SMA/MA dan SMK di wilayahnya; 
+c. Mendorong, mendukung, dan membina calon peserta untuk berprestasi di ajang 
+
+FIKSI Tahun 2025. 
+  
+7. Sekolah 
+
+a. Memastikan peserta memiliki akses internet, sarana, dan prasarana ajang; 
+b. Menunjuk guru sebagai pembimbing, yang membantu peserta dalam memastikan 
+
+kepatuhan administratif, kualitas dan validitas karya yang dilombakan. dibuktikan 
+dengan surat tugas; 
+
+c. Memastikan guru pembimbing dan peserta memahami Panduan FIKSI tahun 
+2025; 
+
+d. Meminta izin kepada orang tua/wali peserta didik untuk diikutsertakan dalam 
+FIKSI Jenjang SMA/MA dan SMK; 
+
+e. Menerbitkan surat keterangan siswa aktif di sekolah bersangkutan; 
+
+12 
+ 
+
+
+
+ 
+ 
+
+f. Memastikan peserta berhasil mendaftar sebagai peserta dengan memenuhi segala 
+persyaratannya; 
+
+g. Mendampingi peserta didik dalam menyiapkan kegiatan taping (bukan live 
+streaming) atau pengambilan audio/video, dengan memperhatikan protokol 
+kesehatan yang berlaku; 
+
+h. Membantu peserta didik dalam mengunggah karya berupa video, naskah, foto, dan 
+dokumen. 
+
+ 
+8. Peserta Didik 
+
+a. Membaca dan memahami Panduan FIKSI Jenjang SMA/MA dan SMK tahun 
+2025; 
+
+b. Melakukan pendaftaran secara daring/online melalui laman https://daftar-
+bpti.kemdikbud.go.id/ 
+
+c. Melakukan perekaman video sesuai Cabang Ajang Talenta yang diikuti 
+berdasarkan mekanisme yang sudah ditentukan, didampingi oleh orangtua/guru 
+pembimbing; 
+
+d. Mengunggah hasil karya sesuai ketentuan ajang. 
+                               
+
+9. Orang Tua/Wali 
+a. Membuat Surat Pernyataan izin sebagai orangtua/wali peserta didik (sebagaimana 
+
+format terlampir); 
+b. Mendukung peserta didik dalam menyiapkan kebutuhan ajang; 
+c. Membantu peserta didik dalam mengunggah karya sesuai ketentuan ajang. 
+
+ 
+II. Jadwal Pelaksanaan 
+
+Jadwal pelaksanaan FIKSI Tahun 2025 direncanakan sebagai berikut: 
+No. Kegiatan Waktu 
+
+1 Publikasi Pedoman FIKSI  Tahun 
+2025 19 Maret 2025 
+
+2 Sosialisasi Pedoman dan Tatacara 
+Pendaftaran 25 April 2025 
+
+3 Periode Pendaftaran peserta dan 
+Unggah Proposal 22 April - 2 Agustus 2025 
+
+4 Periode Penilaian Tahap 1 (Seleksi 
+Berkas) 4 - 23 Agustus 2025 
+
+5 Pleno Penilaian Tahap 1 24-29 Agustus 2025 
+
+6 Publikasi Pengumuman Finalis FIKSI 
+Tahun 2025 1 September 2025 
+
+7 Periode Unggah Bahan Presentasi dan 
+Karya Ilmiah 1 September - 11 Oktober 2025 
+
+13 
+ 
+
+
+
+ 
+ 
+
+No. Kegiatan Waktu 
+
+8 Batas akhir penerimaan 
+purwarupa/produk di BPTI 9 Oktober 2025 
+
+Penilaian Tahap 2 (Final) dan 
+9 Pengumuman Juara FIKSI Tahun 13-18 Oktober 2025 
+
+2025 
+*) Jika ada perubahan jadwal akan diberitahukan kemudian 
+
+ 
+III. Sosialisasi Ajang Talenta 
+
+Sosialisasi dilakukan melalui berbagai media seperti media sosial, laman resmi, dan surat 
+pemberitahuan resmi kepada Peserta Didik, Satuan Pendidikan, Pemerintah Daerah, dan 
+kelompok/organisasi pendidikan lainnya yang terkait dengan pelaksanaan Ajang Talenta.  
+
+ 
+ 
+B. PELAKSANAAN AJANG 
+
+I. KATEGORI DAN Cabang Ajang Talenta 
+A. Kategori Ajang 
+
+1. Rencana Usaha 
+Kompetisi rencana usaha adalah kompetisi yang bisa diikuti peserta didik jenjang 
+SMA/MA dan SMK yang baru memiliki ide usaha dan dapat dituangkan dalam 
+format perencanaan usaha dan memiliki purwarupa. 
+
+2. Pengembangan Usaha 
+Kompetisi pengembangan usaha adalah kompetisi yang ditujukan kepada peserta 
+didik jenjang SMA/MA dan SMK yang sudah menjalankan usaha pribadi (bukan 
+merupakan produk usaha sekolah) sesuai dengan Cabang Ajang Talenta yang 
+diambil; setidaknya sudah melakukan penjualan dan berjalan minimal selama 3 
+(tiga) bulan sebelum pendaftaran. Penjelasan lebih detail akan diuraikan pada 
+masing-masing Cabang Ajang Talenta. 
+ 
+
+ 
+C. Daftar Cabang Ajang Talenta 
+
+No. Cabang Penjelasan Umum 
+Ajang 
+
+Talenta 
+
+Bidang ini berfokus pada inovasi berbasis sektor pertanian, 
+peternakan, kehutanan, dan kelautan untuk menciptakan 
+
+Agribisnis, produk dengan nilai tambah. Peserta diharapkan dapat 
+1 Agroteknologi menghadirkan solusi inovasi keberlanjutan yang relevan 
+
+dan dengan teknologi terkini, efisiensi proses, dan pemanfaatan 
+Kemaritiman sumber daya lokal secara optimal. Inovasi yang diajukan dapat 
+
+berupa produk baru, model bisnis, atau strategi distribusi yang 
+mendukung pertumbuhan ekonomi lokal dan nasional. 
+
+14 
+ 
+
+
+
+ 
+ 
+
+No. Cabang Penjelasan Umum 
+Ajang 
+
+Talenta 
+
+Bidang ini mendorong pengembangan solusi kreatif di sektor 
+kesehatan termasuk layanan medis, farmasi, alat kesehatan, 
+kecantikan, dan teknologi kesehatan berbasis digital. Fokus 
+Cabang Ajang Talenta ada pada inovasi produk, peningkatan 
+
+2 Kesehatan kualitas layanan kesehatan, dan transformasi digital dalam 
+ekosistem kesehatan. Peserta dapat menghadirkan ide yang 
+membantu masyarakat dalam meningkatkan kesehatan fisik, 
+mental, atau preventif, serta solusi berbasis teknologi seperti 
+aplikasi kesehatan. 
+
+Bidang ini merupakan pengembangan solusi kewirausahaan 
+yang berorientasi pada dampak sosial. Peserta diharapkan 
+menciptakan usaha yang tidak hanya menguntungkan, tetapi 
+
+3 Wirausaha juga mampu menyelesaikan masalah sosial di komunitas dan 
+Sosial lingkungannya. Ide-ide seperti pemberdayaan masyarakat, 
+
+pendidikan, pengelolaan lingkungan, atau peningkatan 
+kesejahteraan menjadi fokus utama. Pendekatan kreatif dan 
+inovatif sangat didorong dalam kompetisi ini. 
+
+Kompetisi ini menitikberatkan pada pengembangan layanan 
+wisata, penginapan, atraksi, atau destinasi yang kreatif dan 
+berkelanjutan. Peserta diharapkan mampu mengangkat budaya 
+lokal, menciptakan pengalaman wisata yang unik, serta 
+
+4  Pariwisata memperkenalkan solusi digital untuk kebutuhan industri 
+pariwisata. Ide-ide yang relevan dapat mencakup 
+pengembangan destinasi berbasis komunitas, aplikasi wisata, 
+konsep penginapan inovatif ataupun aktivitas yang berkorelasi 
+dengan pengalaman wisata yang unik dan kreatif. 
+
+Teknologi Digital adalah kategori kompetisi yang bertujuan 
+untuk mendorong kreativitas, inovasi, dan pemanfaatan 
+teknologi digital untuk berwirausaha dan/atau mendukung 
+
+5 Teknologi jalannya wirausaha. Kategori ini dirancang untuk menantang 
+Digital peserta dalam menciptakan, mengembangkan, atau 
+
+menerapkan solusi digital yang relevan dan berdampak, baik 
+dalam bentuk perangkat lunak, perangkat keras, aplikasi 
+mobile/web, maupun ide teknologi yang inovatif.  
+
+15 
+ 
+
+
+
+ 
+ 
+
+No. Cabang Penjelasan Umum 
+Ajang 
+
+Talenta 
+
+Peserta diajak untuk menciptakan inovasi dalam pengolahan 
+makanan dan minuman berbasis ketersediaan bahan lokal atau 
+dengan nilai tambah. Kreasi dapat mencakup inovasi citarasa, 
+olahan bahan yang sudah layak dan aman dikonsumsi, aroma, 
+
+6 Kuliner tampilan/tekstur produk, kemasan beserta informasinya, 
+ketahanan produk, dengan strategi pemasaran konvensional 
+atau via media digital yang menarik. Selain itu, kompetisi ini 
+mendorong pengembangan produk kuliner yang berkelanjutan 
+dan dapat memperkenalkan keunikan daerah ke pasar yang 
+lebih luas, baik secara nasional maupun internasional. 
+
+Peserta diharapkan menciptakan usaha yang bergerak di 
+bidang fesyen yang memadukan estetika, etika, keberlanjutan, 
+kolaboratif, inovasi, orisinalitas, dan kreativitas. Kategori 
+produk barang dapat berupa busana dan aksesori, untuk produk 
+
+7 Fashion jasa dapat berupa jasa menggambar teknik/produksi dan 
+(Fesyen) ilustrasi fesyen yang disertai detail material, ukuran dan 
+
+lainnya. Nilai potensi lokal dipadukan dengan isu industri 
+fesyen global menjadi tema yang diintegrasikan dalam tahapan 
+perancangan, produksi, dan hasil akhir berupa produk bernilai 
+jual. 
+
+Kompetisi di bidang game digital fokus pada upaya kreatif 
+membangun kolaborasi elemen desain, teknologi, dan narasi 
+interaktif dengan memenuhi aspek estetik, gameplay, 
+tantangan, dan penghargaan. Game dapat berupa hiburan, 
+
+8 Games edukasi, atau media promosi yang relevan dengan kebutuhan 
+masyarakat. Peserta didorong untuk menghadirkan ide yang 
+kreatif, inovatif, dan menarik dengan memanfaatkan teknologi 
+terkini untuk menciptakan pengalaman pengguna yang unik. 
+
+Kriya berfokus pada karya kerajinan tangan yang 
+mengutamakan nilai keindahan, keunikan, dan keterampilan 
+pengolahan material lokal. Peserta diharapkan dapat 
+
+9 Kriya menghasilkan produk yang tidak hanya bernilai estetik tinggi, 
+tetapi juga memiliki daya saing di pasar. Ide-ide inovatif yang 
+menggabungkan teknologi dan seni tradisional sangat 
+didorong untuk memberikan dampak ekonomi yang nyata. 
+
+16 
+ 
+
+
+
+ 
+ 
+
+No. Cabang Penjelasan Umum 
+Ajang 
+
+Talenta 
+
+Inovasi di bidang musik, film, animasi, & video yang 
+Industri menonjolkan nilai-nilai atau pesan-pesan positif. Kompetisi ini 
+
+memberikan ruang bagi karya content creator kreatif yang 
+10 Musik, Film, 
+
+Animasi, & memanfaatkan teknologi untuk menyampaikan cerita atau 
+Video menciptakan pengalaman audio-visual yang menginspirasi. 
+
+Kolaborasi antara seni tradisional dan teknologi digital 
+menjadi nilai tambah yang signifikan. 
+
+Mengembangkan kreativitas peserta dalam menciptakan karya 
+seni visual dan desain yang inovatif, estetis, dan fungsional. 
+Fokusnya adalah pada karya yang dapat diaplikasikan di 
+berbagai bidang, seperti komunikasi visual, produk konsumen, 
+atau seni publik. Bidang wirausaha Desain Grafis menuntut 
+
+11 Seni Rupa & 
+Desain kolaborasi dua kemampuan kreatif dan inovatif, antara 
+
+kewirausahaan (entrepreneurship) dan kerja desain grafis. 
+Kewirausahaan adalah kemampuan kreatif dan inovatif yang 
+menjadi dasar untuk membaca kebutuhan/peluang 
+pasar/pengguna dan menciptakan dampak yang lebih luas di 
+masyarakat. 
+
+ 
+II. Persyaratan Peserta 
+
+Persyaratan administrasi peserta FIKSI Tahun 2025 dengan ketentuan sebagai berikut: 
+1. Berstatus peserta didik aktif maksimal kelas 11 pada saat mendaftar sebagai 
+
+peserta FIKSI 2024; 
+2. Memiliki NISN (Nomor Induk Siswa Nasional) dan terdaftar di Data Pokok 
+
+Pendidikan (Dapodik); 
+3. Jumlah Peserta Ajang dengan kategori: 
+
+● Rencana Usaha: Perorangan atau Kelompok (maksimal 2 Orang); 
+● Pengembangan Usaha: Perorangan atau Kelompok (maksimal 2 Orang); 
+
+4. Setiap siswa hanya boleh ada dalam 1 kelompok, baik sebagai ketua tim atau 
+anggota tim pada sekolah yang sama; 
+
+5. Cabang Ajang Talenta yang diikuti tidak harus sesuai dengan program keahlian 
+yang diselenggarakan sekolah masing-masing; 
+
+6. Mengunggah Surat Rekomendasi dari Kepala Sekolah ke laman 
+https://smk.pusatprestasinasional.kemdikbud.go.id/fiksi/; 
+
+7. Mengunggah Surat Persetujuan yang ditandatangani oleh Orang Tua/Wali tentang 
+persetujuan mengikuti ajang ke laman 
+https://smk.pusatprestasinasional.kemdikbud.go.id/fiksi/ 
+
+8. BILA pada tahap 2, Peserta Finalis memutuskan untuk tidak mengirimkan 
+purwarupa/produk kepada BPTI maka WAJIB mengungah Surat Pernyataan yang 
+ditandatangani bersama guru pendamping ke laman 
+
+         https://smk.pusatprestasinasional.kemdikbud.go.id/fiksi/ 
+9. Peserta tidak diperbolehkan mengajukan produk sekolah/teaching factory 
+
+(TEFA), usaha keluarga/orang lain 
+17 
+
+ 
+
+
+
+ 
+ 
+
+10. Peserta tidak diperbolehkan mengikut-sertakan produk/materi karya yang pernah 
+menjuarai perlombaan lain pada tingkat/jenjang yang sama. 
+
+11. Peserta/sekolah yang terindikasi melakukan tindakan kecurangan, plagiarisme, 
+ketidakjujuran akan dikenakan sanksi tegas oleh BPTI sesuai dengan tingkat 
+pelanggaran. 
+ 
+
+D. PASCA PELAKSANAAN AJANG 
+1. Publikasi Peserta dan Pemenang 
+
+Puspresnas melalui BPTI mempublikasikan penyelenggaraan ajang FIKSI Tahun 
+2025 dan juga mengumumkan secara luas para pemenang ajang FIKSI 2025. 
+Diharapkan dengan mempublikasikan kegiatan dan pemenangnya dapat membuka 
+peluang kolaborasi dengan stakeholder, industri atau Kementerian/Lembaga lain 
+yang terkait. 
+ 
+
+2. Evaluasi Penyelenggaraan 
+Puspresnas melalui BPTI melakukan evaluasi pelaksanaan tahapan ajang, 
+penyelenggaraan Final dan Expo FIKSI Tahun 2025 untuk mengetahui 
+ketercapaian program serta kualitas pelaksanaan ajang,  dan hasil dari evaluasi 
+tersebut akan menjadi bahan perbaikan untuk penyelenggaraan FIKSI yang lebih 
+baik dan berkelanjutan  
+
+18 
+ 
+
+
+
+ 
+ 
+
+BAB IV  
+MEKANISME AJANG FIKSI 
+
+ 
+ 
+
+A. Proses Seleksi 
+Tahapan Proses seleksi adalah sebagai berikut: 
+1. Siswa mengisi dan mengunggah form secara langsung di portal FIKSI 2025 
+2. Penilaian Tahap 1 (Seleksi Administrasi dan Karya) 
+3. Pengumuman peserta lolos Tahap 1 
+4. Peserta Lolos Tahap 1, wajib unggah Video, Slide Presentasi dan Karya Ilmiah 
+
+sesuai format dalam Lampiran 
+5. Peserta mengirimkan purwarupa/produk ke BPTI  
+6. Penilaian Tahap 2 (Final) 
+7. Pengumuman Pemenang FIKSI 2025 
+
+ 
+B. Penilaian dan Penentuan Juara 
+
+Materi, Komponen dan Bobot Penilaian FIKSI Tahun 2025 
+Tahapan mekanisme penilaian dalam FIKSI Tahun 2025 dimulai dengan proses 
+pendaftaran dan verifikasi administrasi yang terintegrasi secara daring melalui laman 
+resmi BPTI. Proses ini bertujuan memastikan bahwa seluruh peserta telah memenuhi 
+persyaratan yang ditetapkan untuk mengikuti kompetisi ini. 
+Setelah lolos verifikasi administrasi, peserta dapat melanjutkan ke tahap berikutnya, yaitu 
+persiapan, pendaftaran, dan pengunggahan data ajang sesuai dengan jadwal yang telah 
+ditetapkan. Pada tahap ini, peserta diwajibkan untuk mengunggah proposal inovasi atau 
+rencana usaha mereka yang mencakup aspek-aspek tertentu sesuai Panduan. 
+Penilaian dilakukan secara bertahap berdasarkan materi, komponen, dan bobot yang telah 
+ditentukan. Komponen penilaian meliputi: 
+1. Orisinalitas Ide: Sejauh mana ide usaha yang diajukan merupakan hasil kreativitas 
+
+peserta yang unik dan belum banyak dikembangkan di pasaran. 
+2. Inovasi dan Keberlanjutan: Inovasi dalam memanfaatkan teknologi, sumber daya 
+
+lokal, dan dampak usaha terhadap keberlanjutan lingkungan, sosial, dan ekonomi. 
+3. Kelayakan Bisnis: Potensi ide untuk direalisasikan menjadi usaha yang 
+
+berkelanjutan, baik dari segi strategi, pasar, maupun aspek finansial. 
+4. Keterkaitan dengan Tema: Kesesuaian ide usaha dengan tema besar dan subtema 
+
+FIKSI  Tahun 2025. 
+5. Presentasi dan Penyampaian: Kemampuan peserta dalam menyampaikan ide 
+
+melalui video, karya ilmiah dan presentasi langsung di hadapan juri. 
+Bobot penilaian dari setiap komponen diatur untuk mencerminkan pentingnya setiap 
+aspek dalam menentukan kualitas ide dan usaha yang diusulkan peserta. Tabel komponen 
+dan bobot penilaian akan dilampirkan dalam Panduan untuk memberikan informasi yang 
+lebih rinci. 
+Penilaian dilakukan oleh tim juri profesional yang berasal dari berbagai latar belakang, 
+termasuk akademisi, praktisi, dan pelaku industri, untuk menjamin proses seleksi yang 
+objektif dan kredibel. Keputusan dewan juri bersifat mutlak tidak bisa diganggu 
+gugat. Dengan mekanisme ini, diharapkan FIKSI  Tahun 2025 dapat melahirkan 
+wirausahawan muda berbakat yang siap memberikan kontribusi positif bagi bangsa. 
+
+ 
+
+19 
+ 
+
+
+
+ 
+ 
+
+C. Tahap Penilaian 
+Adapun tahap penilaian FIKSI 2025 adalah sebagai berikut: 
+1. Kategori Perencanaan Usaha: 
+
+Penilaian pada Kategori Perencanaan Usaha terdiri dari 2 (dua) tahapan yaitu: 
+Tahap 1: Seleksi Administrasi dan Karya 
+
+No. Komponen Deskripsi Bobot 
+
+1 Ringkasan Ringkasan Eksekutif terdiri 500-700 kata.  20% 
+Eksekutif Berisi deskripsi singkat: 
+
+- Latar belakang masalah 
+- Solusi yang ditawarkan 
+- Target Pelanggan 
+- Deskripsi Produk/Jasa 
+- Keunggulan produk/jasa 
+- Peluang usaha 
+
+2 Purwarupa Purwarupa produk/jasa 25% 
+Produk/Jasa Lampiran: (pilih salah satu) 
+
+- Desain purwarupa produk/jasa untuk memberikan 
+gambaran konsep visual rencana usaha (.jpg, atau 
+.png) 
+
+- Visualisasi, ilustrasi, gambar, foto, sketsa, diagram, 
+skema alur, dsb (.jpg, atau .png) 
+
+- Video ringkas: durasi minimal 1 menit, maksimal 2 
+menit memperlihatkan dan menjelaskan purwarupa 
+produk/jasa 
+
+3 Bisnis Model - Value propositions (keunggulan & keunikan 20% 
+Canvas produk/jasa bisnis); 
+
+- Customer segments (target pelanggan); 
+- Customer relationship (hubungan dengan 
+
+pelanggan); 
+- Channels (rencana pemasaran dan penjualan); 
+- Key activities (aktivitas atau proses utama bisnis) 
+- Key partners (mitra utama); 
+- Key resources (kebutuhan sumber daya usaha); 
+- Cost structure (perhitungan biaya dan pendanaan); 
+- Revenue streams (rencana sumber pendapat an dan 
+
+alternatifnya). 
+
+4 Analisis SWOT  - Strength (maks. 50 kata) 15% 
+- Weakness (maks. 50 kata) 
+- Opportunity (maks. 50 kata) 
+- Threat (maks. 50 kata) 
+
+5 Analisis Kelayakan - Analisis Pasar 20% 
+Usaha - Strategi Operasional 
+
+- Analisis Keuangan 
+- Keberlanjutan Usaha 
+- Manajemen Risiko 
+
+ 
+ 
+ 
+
+20 
+ 
+
+
+
+ 
+ 
+
+Tahap 2: Final  
+No. Komponen Deskripsi Bobot 
+
+1 Produk/Jasa Produk:  20% 
+Menampilkan secara langsung produk/jasanya di depan 
+dewan juri; termasuk poster promosi, penampilan 
+produk/jasa, video teaser, pernak-pernik pendukung 
+(contoh: kemasan produk, flyer, atau alat peraga 
+lainnya). 
+ 
+Jasa:  
+Menampilkan video (2-3 menit) pelayanan jasa yang 
+telah dilakukan dan menampilkan alat bantu yang 
+digunakan ke dewan juri 
+
+2 Implementasi Implementasi usaha yang telah dilakukan, proses 20% 
+Usaha produksi, distribusi, pemasaran, penjualan awal dan 
+
+kerjasama beerbagai pihak   
+ 
+Data pendukung:  
+Jumlah produksi atau penjualan awal dan data 
+kolaborasi 
+
+3 Evaluasi dan Dampak usaha terhadap pelanggan, masyarakat, atau 20% 
+Dampak lingkungan.  
+
+Bukti:  
+Testimoni, umpan balik pelanggan, atau data kuantitatif 
+(misalnya: peningkatan penjualan atau kepuasan 
+pelanggan). 
+
+4 Keberlanjutan dan Strategi keberlanjutan usaha dalam jangka panjang.  . 20% 
+Rencana Rencana pengembangan usaha di masa depan, termasuk 
+Pengembangan inovasi produk/jasa, perluasan target pasar, atau 
+Usaha peningkatan teknologi yang digunakan. 
+
+5 Karya Ilmiah Artikel disusun secara sistematis berdasarkan kajian 10% 
+ilmiah untuk menyampaikan hasil karya merujuk pada 
+penelitian, observasi, atau analisis terhadap suatu 
+permasalahan. 
+
+6 Kemampuan Penilaian keterampilan presentasi dan sesi tanya jawab 10% 
+presentasi dan (Q&A) akan fokus pada kejelasan penyampaian, 
+tanya jawab struktur presentasi yang logis, kedalaman konten, serta 
+
+kemampuan peserta dalam merespons pertanyaan 
+dengan relevan dan mendalam. Selain itu, aspek 
+komunikasi seperti kepercayaan diri, kreativitas, dan 
+keterlibatan audiens juga menjadi faktor penting dalam 
+menentukan nilai akhir. 
+
+ 
+2. Penilaian Kategori Pengembangan Usaha 
+
+Penilaian pada kategori Pengembangan Usaha terdiri dari 2 (dua) tahapan, yaitu: 
+Tahap 1: Seleksi Administratif dan Karya;  
+Tahap 2: FINAL 
+
+21 
+ 
+
+
+
+ 
+ 
+
+ 
+Tahap 1: Seleksi Administrasi dan Karya 
+
+No. Komponen Deskripsi Bobot 
+
+1 Ringkasan Ringkasan Eksekutif terdiri 500-700 kata.  20% 
+Eksekutif Berisi deskripsi singkat: 
+
+- Latar belakang masalah 
+- Solusi yang ditawarkan 
+- Target Pelanggan 
+- Deskripsi Produk/Jasa 
+- Keunggulan produk/jasa 
+- Peluang usaha 
+
+2 Produk/Jasa Lampirkan foto, video: 25% 
+a.   Visualisasi produk/jasa untuk memberikan 
+
+gambaran visual produk usaha (.jpg, atau 
+.png) 
+
+b.   Visualisasi, ilustrasi, gambar, foto, sketsa, 
+diagram, skema alur, dsb (.jpg, atau .png) 
+
+c.   Video profil usaha dan produk: durasi 1-3 
+menit memperlihatkan dan menjelaskan 
+purwarupa produk/jasa (simpan pada portal 
+FIKSI 2025). 
+
+d. Tambahan bukti usaha, berupa: 
+● Bukti transaksi penjualan 
+● Laporan keuangan usaha 
+● Uji laboratorium atau sejenisnya  (bagi yang 
+
+diperlukan) 
+● Pendaftaran HaKI 
+● dsb (sesuai kebutuhan per Cabang Ajang 
+
+Talenta) 
+
+3 Business Model - Value propositions (keunggulan & keunikan 20% 
+  Canvas (BMC) produk/jasa bisnis); 
+    - Customer segments (target pelanggan); 
+    - Customer relationship (hubungan dengan 
+  
+    pelanggan); 
+
+  - Channels (rencana pemasaran dan penjualan); 
+  - Key activities (aktivitas atau proses utama 
+
+bisnis); 
+- Key partners (mitra utama); 
+- Key resources (kebutuhan sumber daya usaha); 
+- Cost structure (perhitungan biaya dan 
+
+pendanaan usaha); 
+- Revenue streams (rencana sumber pendapatan 
+
+dan alternatifnya). 
+
+22 
+ 
+
+
+
+ 
+ 
+
+No. Komponen Deskripsi Bobot 
+
+4 SWOT Analysis a.   Strength (maks. 50 kata) 15% 
+b.  Weakness (maks. 50 kata) 
+c.   Opportunity (maks. 50 kata) 
+d.  Thread (maks. 50 kata) 
+
+5 Analisis Aspek keuangan 20% 
+Kelayakan Usaha - Analisis Pasar 
+
+- Strategi Operasional 
+- Analisis Keuangan 
+- Keberlanjutan Usaha 
+- Manajemen Risiko 
+
+(maks. 300 kata, siapkan template asumsi,exe) 
+
+ 
+ 
+Tahap 2: Final  
+
+No. Komponen Deskripsi Bobot 
+
+1 Produk/Jasa Produk:  20% 
+Menampilkan secara langsung produk/jasanya di depan 
+dewan juri; termasuk poster promosi, penampilan 
+produk/jasa, video teaser, pernak-pernik pendukung 
+(contoh: kemasan produk, flyer, atau alat peraga 
+lainnya). 
+ 
+Jasa:  
+Menampilkan video (2-3 menit) pelayanan jasa yang 
+telah dilakukan dan menampilkan alat bantu yang 
+digunakan ke dewan juri 
+
+2 Implementasi Implementasi usaha yang telah dilakukan, proses 20% 
+Usaha produksi, distribusi, pemasaran, penjualan awal dan 
+
+kerjasama berbagai pihak   
+ 
+Data pendukung:  
+Jumlah produksi atau penjualan awal dan data 
+kolaborasi 
+ 
+
+3 Evaluasi dan Dampak usaha terhadap pelanggan, masyarakat atau 20% 
+Dampak lingkungan.  
+
+Bukti:  
+Testimoni, umpan balik pelanggan, atau data kuantitatif 
+(misalnya: peningkatan penjualan atau kepuasan 
+
+23 
+ 
+
+
+
+ 
+ 
+
+No. Komponen Deskripsi Bobot 
+
+pelanggan). 
+
+4 Keberlanjutan dan Strategi keberlanjutan usaha dalam jangka panjang.  . 20% 
+Rencana Rencana pengembangan usaha di masa depan, termasuk 
+Pengembangan inovasi produk/jasa, perluasan target pasar, atau 
+Usaha peningkatan teknologi yang digunakan. 
+
+5 Karya Ilmiah Artikel disusun secara sistematis berdasarkan kajian 10% 
+ilmiah untuk menyampaikan hasil karya merujuk pada 
+penelitian, observasi, atau analisis terhadap suatu 
+permasalahan  
+ 
+
+6 Kemampuan Penilaian keterampilan presentasi dan sesi tanya jawab 10% 
+Presentasi dan (Q&A) akan fokus pada kejelasan penyampaian, 
+tanya jawab struktur presentasi yang logis, kedalaman konten, serta 
+
+kemampuan peserta dalam merespons pertanyaan 
+dengan relevan dan mendalam. Selain itu, aspek 
+komunikasi seperti kepercayaan diri, kreativitas, dan 
+keterlibatan audiens juga menjadi faktor penting dalam 
+menentukan nilai akhir. 
+
+ 
+D. Pengiriman Purwarupa/Produk 
+
+Bagi para finalis yang telah lolos ke tahap akhir kompetisi, diwajibkan untuk 
+mengirimkan purwarupa dan/atau produk fisik ke alamat panitia. Purwarupa dan/atau 
+produk tersebut harus sudah diterima oleh panitia paling lambat pada tanggal yang telah 
+ditentukan sesuai jadwal pelaksanaan pada bagian sebelumnya. Pastikan untuk 
+mempertimbangkan waktu pengiriman agar tidak terlambat, mengingat batas waktu yang 
+telah ditetapkan. 
+Pastikan alamat ditulis dengan jelas dan lengkap untuk menghindari kesalahan 
+pengiriman. Purwarupa dan/atau produk harus dikemas dengan aman dan rapi 
+menggunakan bahan kemasan yang sesuai untuk mencegah kerusakan selama proses 
+pengiriman. Selain itu, sertakan dokumen pendamping yang berisi informasi penting 
+seperti nama tim, nama sekolah, judul proyek, serta kontak yang dapat dihubungi (nomor 
+telepon atau email). Dokumen ini akan membantu panitia dalam mengidentifikasi dan 
+mengelola pengiriman dengan lebih efisien. Jika diperlukan, tambahkan label "Fragile" 
+pada kemasan. Alamat pengiriman yang dituju:  
+ 
+“Panitia FIKSI (Festival Inovasi dan Kewirausahaan Siswa Indonesia) 2025 
+Balai Pengembangan Talenta Indonesia (BPTI) 
+Jalan Gardu RT.10 / RW.02, Srengseng Sawah, Jagakarsa 
+Jakarta Selatan12640.” 
+ 
+Seluruh biaya pengiriman menjadi tanggung jawab peserta. Pastikan untuk memilih jasa 
+pengiriman yang terpercaya dan dapat diandalkan. Setelah mengirimkan purwarupa 
+dan/atau produk, harap segera mengkonfirmasi pengiriman kepada panitia melalui email 
+atau telepon yang telah disediakan, dengan menyertakan nomor resi pengiriman sebagai 
+bukti. Panitia tidak bertanggung jawab atas kerusakan atau kehilangan yang mungkin 
+
+24 
+ 
+
+
+
+ 
+ 
+
+terjadi selama proses pengiriman. Oleh karena itu, pastikan purwarupa dan/atau produk 
+dikirim dengan hati-hati dan tiba dalam kondisi baik. 
+Panitia memahami bahwa terdapat kemungkinan finalis tidak dapat mengirimkan 
+purwarupa dan/atau produk fisik diantaranya karena kendala logistik (misal ukuran 
+purwarupa/produk yang terlalu besar), resiko kualitas (misal purwarupa/produk kuliner 
+yang mudah rusak atau kadaluarsa), biaya, atau alasan lain yang dapat diterima. Apabila 
+hal ini terjadi, finalis diharuskan mengunggah Surat Pernyataan yang menjelaskan alasan 
+ketidakmampuan pengiriman purwarupa dan/atau produk tersebut. Pernyataan tersebut 
+ditandatangani juga oleh guru pendamping yang dilengkapi stempel sekolah dan diterima 
+oleh panitia sebelum tenggat waktu penerimaan Purwarupa/Produk sesuai ketentuan 
+jadwal pelaksanaan kompetisi FIKSI 2025.  
+
+25 
+ 
+
+
+
+ 
+ 
+
+BAB V  
+PENGHARGAAN DAN PEMBIAYAAN 
+
+ 
+A. Penghargaan untuk Pemenang 
+
+Penghargaan akan diberikan kepada pemenang terdiri dari Kategori Rencana Usaha 
+dan Pengembangan usaha untuk Juara I, II, dan III dengan rincian sebagai berikut 
+
+1) Kategori Rencana Usaha 
+No Cabang Ajang Talenta Juara 
+1. Agribisnis, Agroteknologi dan Kemaritiman I, II, III 
+2. Kesehatan I, II, III 
+3. Wirausaha Sosial I, II, III 
+4. Pariwisata I, II, III 
+5. Teknologi Digital I, II, III 
+6. Kuliner I, II, III 
+7. Fashion (Fesyen) I, II, III 
+8. Games I, II, III 
+9. Kriya I, II, III 
+10. Industri Musik, Film, Animasi, & Video I, II, III 
+11. Seni Rupa & Desain I, II, III 
+
+ 
+2) Kategori Pengembangan Usaha 
+
+No Cabang Ajang Talenta Juara 
+1. Agribisnis, Agroteknologi dan Kemaritiman I, II, III 
+2. Kesehatan I, II, III 
+3. Wirausaha Sosial I, II, III 
+4. Pariwisata I, II, III 
+5. Teknologi Digital I, II, III 
+6. Kuliner I, II, III 
+7. Fashion (Fesyen) I, II, III 
+8. Games I, II, III 
+9. Kriya I, II, III 
+10. Industri Musik, Film, Animasi, & Video I, II, III 
+11. Seni Rupa & Desain I, II, III 
+
+ 
+B. Sumber Pembiayaan 
+
+Biaya pelaksanaan FIKSI Tahun 2025 dibebankan pada Anggaran Pendapatan Belanja 
+Nasional (APBN) Balai Pengembangan Talenta Indonesia Tahun 2025. 
+
+26 
+ 
+
+
+
+ 
+ 
+
+ 
+BAB VI  
+
+PENUTUP 
+ 
+Festival Inovasi dan Kewirausahaan Siswa Indonesia (FIKSI) jenjang SMA/MA dan SMK 
+Tahun 2025 yang diselenggarakan oleh BPTI, Pusat Prestasi Nasional (Puspresnas), dan 
+Kemendikdasmen bertujuan untuk mencetak generasi wirausaha muda yang kreatif, inovatif, 
+dan berdaya saing tinggi. Melalui kegiatan ini, peserta didik diajak untuk memanfaatkan 
+keterampilan yang diperoleh selama proses pembelajaran di sekolah untuk menciptakan solusi 
+inovatif berbasis teknologi digital, mengangkat potensi sumber daya lokal, dan memberikan 
+kontribusi nyata dalam membangun kehidupan yang lebih baik, inklusif, dan berkelanjutan. 
+Penekanan pada nilai-nilai kearifan lokal diharapkan dapat memberikan dampak ekonomi 
+sekaligus memperkuat rasa cinta terhadap budaya bangsa. 
+
+Keberhasilan penyelenggaraan FIKSI tidak terlepas dari kolaborasi dan dukungan berbagai 
+pihak yang melaksanakan tugasnya dengan disiplin, tertib, dan penuh tanggung jawab. 
+Dengan kerja sama yang solid, ajang ini diharapkan dapat menjadi platform yang optimal 
+untuk mengaktualisasikan minat dan bakat siswa di bidang vokasi, sekaligus membuka jalan 
+bagi mereka untuk berprestasi di tingkat nasional maupun internasional. FIKSI menjadi 
+bagian integral dari upaya mencetak generasi emas Indonesia 2045 yang kompeten, adaptif, 
+dan siap menghadapi tantangan global. Panduan ini diharapkan membantu seluruh pihak 
+terkait dalam menjalankan tugasnya, sehingga penyelenggaraan FIKSI  Tahun 2025 dapat 
+mencapai hasil yang maksimal. 
+
+Kami menyadari bahwa Panduan ini mungkin masih memiliki kekurangan. Oleh karena itu, 
+masukan berupa kritik dan saran yang konstruktif sangat kami harapkan untuk menjadi bahan 
+evaluasi dalam meningkatkan kualitas penyelenggaraan FIKSI di masa mendatang. Semoga 
+kegiatan ini dapat berjalan dengan sukses dan memberikan manfaat besar bagi seluruh peserta, 
+penyelenggara, dan masyarakat luas. 
+
+ 
+ 
+  
+
+27 
+ 
+
+
+
+ 
+ 
+
+LAMPIRAN 
+ 
+Lampiran A: Format Karya Ilmiah 
+ 
+
+ 
+Judul Artikel Nama usaha yang dikembangkan (singkat, jelas, mencerminkan isi karya 
+ilmiah). 
+
+Penulis Nama Peserta, Nama Sekolah, Alamat Sekolah, Tahun Kompetisi: 2025 
+
+ABSTRAK 
+
+Abstrak memuat ringkasan yang meliputi latar belakang usaha, tujuan pengembangan, metode 
+implementasi, hasil utama, dan kesimpulan. Bagian ini harus jelas, padat, dan dapat 
+memberikan gambaran keseluruhan karya ilmiah. Sertakan 3–5 kata kunci di akhir abstrak 
+untuk menggambarkan topik utama artikel. (Panjang: 150–200 kata.) 
+
+Kata kunci: Kewirausahaan, Inovasi, Digitalisasi, Pemasaran, Keberlanjutan. 
+
+1. PENDAHULUAN 
+
+Bagian pendahuluan memberikan gambaran tentang latar belakang usaha yang 
+dikembangkan, termasuk masalah atau kebutuhan yang menjadi dasar pengembangan usaha. 
+Penulis menjelaskan relevansi usaha dengan tema besar FIKSI Tahun 2025 dan bagaimana 
+usaha ini memberikan solusi inovatif. Pendahuluan juga mencakup rumusan masalah yang 
+menjadi inti pembahasan, tujuan utama implementasi usaha, dan manfaat yang diharapkan, 
+baik dari sisi sosial, ekonomi, maupun lingkungan [1]. 
+
+2. TINJAUAN LITERATUR 
+
+Tinjauan literatur membahas teori atau konsep yang mendukung pengembangan usaha, seperti 
+kewirausahaan, strategi pemasaran, atau inovasi keberlanjutan. Penulis juga mengulas 
+penelitian sebelumnya yang relevan untuk memberikan konteks ilmiah bagi ide usaha yang 
+dikembangkan [2]. Referensi yang digunakan harus disusun sesuai format kutipan ilmiah. 
+
+3. METODE PELAKSANAAN 
+
+Metode pelaksanaan menjelaskan pendekatan yang digunakan dalam implementasi usaha, 
+Penulis merinci tahapan implementasi usaha, mulai dari produksi, pemasaran, hingga 
+distribusi. Teknik pengumpulan data, seperti wawancara, survei, atau observasi, diuraikan 
+dengan jelas [3]. Bagian ini juga menyebutkan alat dan bahan yang digunakan dalam proses 
+pengembangan usaha. 
+
+4. HASIL DAN PEMBAHASAN 
+
+Bagian ini memaparkan hasil yang dicapai selama implementasi usaha. Data yang relevan, 
+seperti penjualan, umpan balik pelanggan, atau dampak sosial, disajikan dalam bentuk tabel, 
+grafik, atau diagram. Hasil tersebut kemudian dianalisis untuk mengevaluasi keberhasilan 
+usaha dan dibandingkan dengan target awal atau literatur sebelumnya [4]. Penulis juga 
+
+28 
+ 
+
+
+
+ 
+ 
+
+menguraikan tantangan yang dihadapi selama implementasi dan solusi yang diterapkan untuk 
+mengatasinya. Dampak usaha terhadap keberlanjutan, termasuk aspek sosial, ekonomi, dan 
+lingkungan, juga dibahas secara mendalam. 
+
+5. KESIMPULAN 
+
+Kesimpulan merangkum hasil utama dari implementasi usaha, termasuk kontribusi 
+produk/jasa terhadap solusi masalah yang diidentifikasi sebelumnya. Penulis juga 
+menguraikan potensi pengembangan usaha di masa depan, baik dalam hal inovasi produk 
+maupun perluasan pasar. Rekomendasi untuk pengembangan lebih lanjut atau kolaborasi 
+dengan pihak lain dapat disertakan di bagian ini. 
+
+DAFTAR PUSTAKA 
+[1] P. Kotler dan G. Armstrong, Principles of Marketing, 17th ed. Boston: Pearson, 2018.  
+[2] C. R. Kothari, Research Methodology: Methods and Techniques, 2nd ed. New Delhi: 
+
+New Age International, 2004.  
+[3] U. Sekaran dan R. Bougie, Research Methods for Business: A Skill-Building Approach, 
+
+7th ed. New York: Wiley, 2016.  
+[4] D. Cooper dan P. Schindler, Business Research Methods, 12th ed. New York: McGraw-
+
+Hill, 2014. 
+ 
+
+LAMPIRAN 
+
+Pada bagian ini dapat ditambahkan dokumen yang memberikan informasi pendukung atau 
+penjelasan lebih lanjut, seperti foto produk, perijinan usaha, data tambahan, gambar, tabel, 
+atau dokumen lain yang terkait dengan isi dokumen utama.  
+
+ 
+Catatan: 
+
+● Gunakan referensi akademik terbaru yang relevan dengan topik penelitian. 
+● Sesuaikan daftar pustaka dengan sumber yang digunakan dalam penelitian. 
+● Pastikan kutipan dalam teks sesuai dengan standar Institute of Electrical and 
+
+Electronics Engineers/IEEE (nomor dalam tanda kurung siku). 
+● Deteksi penggunaan bantuan AI (kecerdasan buatan) maksimal 30% untuk 
+
+keseluruhan karya ilmiah. 
+● Penulisan badan karya tulis 4-8 halaman dan lampiran maksimal 3 halaman   
+
+Lampiran B: Penjelasan Detail Cabang Ajang Talenta 
+ 
+
+1. Agribisnis, Agroteknologi dan Kemaritiman 
+Agribisnis, agroteknologi, serta kemaritiman mencakup beragam kategori berdasarkan 
+jenis produk atau jasa yang dihasilkan. Pengelompokannya meliputi berbagai sektor 
+utama, seperti pertanian, kehutanan, peternakan, perikanan, hingga kelautan. Pada 
+FIKSI Tahun 2024, bidang ini menitikberatkan pada peningkatan nilai tambah bahan 
+baku melalui pemanfaatan teknologi yang inovatif. Penekanannya tidak hanya pada 
+proses produksi, tetapi juga pada optimalisasi teknologi pasca panen yang dapat 
+menghasilkan produk turunan berkualitas tinggi dan berdaya saing di pasar lokal 
+maupun internasional. 
+
+29 
+ 
+
+
+
+ 
+ 
+
+Peserta ajang pada bidang ini diharapkan berasal dari siswa yang memiliki rencana 
+usaha atau usaha berjalan minimal tiga bulan sejak proses pendaftaran FIKSI dimulai. 
+Kompetisi ini dirancang untuk mendorong kreativitas dan inovasi peserta dalam 
+memanfaatkan sumber daya agraris dan maritim yang melimpah di Indonesia. Ruang 
+lingkup Cabang Ajang Talenta mencakup Manajemen Bisnis, Pengolahan Pascapanen, 
+Produksi Tanaman, Produksi Ternak, Kehutanan, Kesehatan Hewan, Teknik Pertanian, 
+Perkapalan, Perikanan, serta bidang-bidang lain yang relevan. Dengan cakupan yang 
+luas ini, FIKSI Tahun 2024 menjadi platform strategis bagi generasi muda untuk 
+berkontribusi dalam pengembangan sektor agribisnis dan kemaritiman, sekaligus 
+menciptakan peluang usaha berkelanjutan yang dapat mendukung perekonomian daerah 
+dan nasional. 
+Contoh Produk/Jasa bidang Agribisnis seperti dibawah ini namun tidak terbatas pada 
+contoh, dipersilahkan dengan produk atau jasa lain sepanjang tidak masuk pada bidang 
+usaha lain pada FIKSI  Tahun 2025  
+
+a. Produk Olahan Pangan Berbasis Tanaman Lokal 
+b. Penggunaan mekanisasi seperti drone dan lainnya 
+c. Sensor tanah 
+d. Produk Pupuk Organik Berbasis Limbah 
+e. Hidroponik dan Aeroponik 
+f. Sistem Penyiraman Pintar (Smart Irrigation Systems) 
+g. Perangkat wearable pada ternak 
+h. Formulasi Pakan 
+i. Proses penanganan pascapanen 
+j. Sistem manajemen pakan otomatis 
+k. Bioteknologi Tanaman 
+l. biopestisida 
+m. Sistem Pertanian Cerdas (Smart Agriculture) 
+n. Smart greenhouse 
+o. Precision farming platform 
+p. Sistem budidaya Ikan dan komoditas laut berbasis teknologi 
+q. Pengelolaan Sampah Laut  
+r. Kapal Tanpa Awak (Autonomous Ships) 
+s. Akuakultur Terintegrasi dengan Sistem Bioteknologi 
+t. Pemanfaatan Alga untuk Biofuel 
+u. Pembangkit Listrik Tenaga Ombak (Wave Energy) dan lainnya 
+
+ 
+ 
+
+2. Kesehatan 
+Kesehatan merupakan wadah untuk mendorong inovasi, kolaborasi, dan pengembangan 
+ide kreatif di sektor kesehatan. Peserta ajang akan berkompetisi untuk memberikan 
+solusi dalam berbagai aspek ekosistem kesehatan yang mencakup layanan medis, 
+farmasi, alat kesehatan, kecantikan, dan teknologi kesehatan berbasis digital. Ajang ini 
+bertujuan untuk mengidentifikasi dan mempromosikan ide-ide inovatif produk 
+kesehatan, peningkatan kualitas layanan kesehatan, memperkuat industri lokal, dan 
+mendukung transformasi digital di sektor ini. 
+Industri kesehatan di Indonesia memiliki potensi yang sangat besar untuk berkembang 
+menjadi sektor yang lebih maju, mandiri, dan berdaya saing global. Dengan populasi 
+yang besar dan kebutuhan akan layanan kesehatan yang terus meningkat, berbagai 
+peluang terbuka lebar bagi para pelaku industri. Berikut adalah beberapa potensi utama 
+dan upaya pengembangan yang dapat memperkuat sektor ini: 
+
+30 
+ 
+
+
+
+ 
+ 
+
+Indonesia memiliki potensi pasar yang besar di sektor kesehatan, dengan pembelanjaan 
+tahunan mencapai Rp. 560-580 triliun. Angka ini mencerminkan tingginya kebutuhan 
+masyarakat akan layanan kesehatan, obat-obatan, alat kesehatan, serta inovasi baru di 
+bidang teknologi kesehatan. Potensi ini membuka peluang besar bagi pelaku usaha 
+untuk menghadirkan solusi yang relevan dan berkualitas, sekaligus mendukung 
+pertumbuhan ekonomi nasional. 
+Transformasi digital telah menjadi pengubah permainan di sektor kesehatan. Digitalisasi 
+layanan, seperti telemedicine, aplikasi kesehatan, dan sistem rekam medis elektronik, 
+telah membuka peluang baru untuk meningkatkan aksesibilitas dan efisiensi layanan 
+kesehatan. Inovasi teknologi seperti Artificial Intelligence (AI) juga membantu 
+meningkatkan akurasi diagnosis dan pengobatan. Dengan transformasi ini, sektor 
+kesehatan dapat menjangkau masyarakat yang lebih luas, terutama di daerah terpencil. 
+Salah satu langkah strategis yang tengah didorong adalah pembangunan industri farmasi 
+dan alat kesehatan dalam negeri. Pemerintah menargetkan untuk mengurangi 
+ketergantungan pada impor dengan memperkuat produksi lokal. Inisiatif ini tidak hanya 
+mendukung kemandirian industri, tetapi juga menciptakan lapangan kerja baru dan 
+meningkatkan daya saing produk-produk kesehatan Indonesia di pasar global. 
+
+ 
+Contoh Produk/Jasa 
+
+a. Layanan medis langsung: Homecare services, Telemedicine dll 
+b. Farmasi: Farmasi herbal, Produksi obat generik  
+c. Alat kesehatan: Alat diagnostik, alat bantu mobilitas dll 
+d. Teknologi kesehatan: Aplikasi kesehatan, Penggunaan AI (Kecerdasan buatan 
+
+untuk analisis medis), Wearable devices dll. 
+e. Pendidikan dan Pelatihan: Pendidikan kesehatan masyarakat, Pelatihan tenaga 
+
+medis dll. 
+f. Kesehatan mental: Psikoterapi , Aplikasi pendukung kesehatan mental, Klinik 
+
+kesehatan mental dll.  
+g. Kesehatan preventif: Pusat kebugaran , Program imunisasi dll 
+h. Pengolahan limbah medis: Sistem pengelolaan limbah , Recycling bahan medis 
+
+dll 
+i. Industri Kesehatan Tradisional dan Alternatif: Produk kesehatan tradisional, 
+
+Pengobatan alternatif  
+j. Manajemen dan Infrastruktur Kesehatan: Sistem Manajemen Kesehatan, 
+
+Fasilitas kesehatan ramah lingkungan.  
+k. Industri Kecantikan 
+l. Industri Kebugaran dan lain-lain 
+
+ 
+ 
+
+3. Kewirausahaan Sosial 
+Wirausaha sosial adalah bentuk kewirausahaan yang tidak hanya berorientasi pada 
+keuntungan finansial, tetapi juga berkomitmen untuk memberikan dampak sosial atau 
+lingkungan yang positif. Wirausaha sosial berupaya menyelesaikan masalah sosial atau 
+lingkungan melalui solusi yang inovatif dan berkelanjutan. Usaha ini sering kali 
+mengintegrasikan model bisnis dengan misi sosial, sehingga nilai yang dihasilkan tidak 
+hanya berdampak pada pelaku usaha, tetapi juga pada masyarakat luas. Wirausaha sosial 
+menciptakan perubahan dengan cara yang holistik, misalnya melalui pemberdayaan 
+masyarakat, pendidikan, akses kesehatan, atau pelestarian lingkungan. Keberlanjutan 
+merupakan elemen penting dalam wirausaha sosial, di mana bisnis dirancang untuk terus 
+
+31 
+ 
+
+
+
+ 
+ 
+
+memberikan dampak positif tanpa tergantung sepenuhnya pada donasi atau bantuan 
+eksternal. 
+Ciri khas wirausaha sosial adalah fokusnya pada keseimbangan antara misi sosial dan 
+keberlanjutan finansial. Pelaku wirausaha sosial biasanya menggunakan pendekatan 
+kreatif, seperti memanfaatkan teknologi atau bekerja sama dengan komunitas lokal, 
+untuk memaksimalkan dampak dari usahanya. Contohnya adalah bisnis yang 
+memberikan pelatihan kerja untuk kelompok rentan, usaha yang mendaur ulang limbah 
+menjadi produk bernilai tinggi, atau platform digital yang memperluas akses 
+pendidikan. Dengan demikian, wirausaha sosial tidak hanya menciptakan produk atau 
+layanan, tetapi juga berkontribusi pada perubahan sosial yang lebih luas. 
+ 
+Contoh Wirausaha sosial sebagai inspirasi: 
+
+a. Mengelola bank sampah berbasis aplikasi digital untuk mengumpulkan dan 
+mendaur ulang sampah plastik 
+
+b. Membuat pupuk organik dari limbah organik rumah tangga atau pertanian. 
+c. Membuat lampu bertenaga surya sederhana untuk masyarakat yang belum 
+
+memiliki akses listrik 
+d. Mengelola perpustakaan keliling menggunakan sepeda motor atau sepeda 
+
+untuk membawa buku ke desa-desa yang minim akses pendidikan 
+e. Mengubah limbah, seperti kain perca, plastik bekas, atau botol kaca, menjadi 
+
+kerajinan bernilai tinggi, seperti tas, dompet, atau dekorasi rumah 
+f. Mengembangkan kebun hidroponik sederhana di sekolah atau rumah untuk 
+
+menyediakan sayuran segar bagi masyarakat. 
+g. Membangun platform online atau media sosial untuk mempromosikan dan 
+
+menjual produk lokal dari desa, seperti kerajinan tangan, makanan khas, atau 
+hasil tani. 
+
+h. Memberikan pelatihan dasar tentang pemasaran digital, penggunaan media 
+sosial, atau fotografi produk kepada UMKM lokal. 
+
+i. Mengorganisir kegiatan edukasi lingkungan di sekolah atau masyarakat, 
+seperti workshop daur ulang, penghijauan, atau pengelolaan limbah 
+
+ 
+ 
+
+4. Pariwisata 
+Bidang Pariwisata adalah sektor usaha yang berfokus pada penyediaan berbagai jasa dan 
+produk untuk memenuhi kebutuhan wisatawan selama perjalanan mereka. Ruang 
+lingkup bidang ini mencakup penginapan, pelayanan perjalanan wisata (travel agent), 
+pengembangan destinasi wisata lokal, penciptaan fasilitas rekreasi, dan kreasi atraksi 
+wisata. Peserta didik diharapkan untuk mengembangkan ide atau usaha yang tidak hanya 
+kreatif dan inovatif, tetapi juga mampu menjawab kebutuhan pasar pariwisata lokal 
+maupun global dengan pendekatan yang berkelanjutan. Penekanan pada bidang 
+Pariwisata adalah ide-ide yang mampu menciptakan daya tarik baru dalam pariwisata 
+dengan tetap menjaga kelestarian budaya dan lingkungan, mendukung ekonomi lokal, 
+serta memberikan dampak positif terhadap komunitas. 
+Ruang Lingkup dan Fokus Kompetisi Bidang Pariwisata: 
+
+a. Penginapan dan Akomodasi: Pengembangan konsep penginapan yang unik, 
+seperti eco-lodge, glamping, atau penginapan tematik berbasis budaya lokal 
+
+32 
+ 
+
+
+
+ 
+ 
+
+b. Layanan Perjalanan Wisata: Inovasi dalam penyediaan layanan perjalanan, 
+termasuk perencanaan perjalanan yang disesuaikan (customized tour 
+packages), layanan transportasi wisata, atau aplikasi digital untuk pemesanan 
+perjalanan. 
+
+c. Pengembangan Destinasi Wisata Lokal: Ide atau usaha yang fokus pada 
+pengembangan daerah tujuan wisata berbasis budaya, sejarah, atau alam. 
+
+d. Fasilitas Rekreasi: Penciptaan tempat hiburan, taman rekreasi, atau fasilitas 
+olahraga berbasis wisata. 
+
+e. Kreasi Atraksi Wisata: Pengembangan atraksi unik seperti festival budaya, seni 
+pertunjukan, atau kegiatan berbasis pengalaman (experience-based tourism). 
+ 
+
+Contoh Produk/Jasa Bidang Pariwisata: 
+a. Paket perjalanan wisata tematik (misalnya, wisata edukasi atau petualangan). 
+b. Aplikasi digital untuk pemesanan hotel, tiket, atau panduan wisata. 
+c. Penginapan tematik berbasis kearifan lokal (misalnya, homestay adat atau 
+
+glamping berbasis ekowisata). 
+d. Penyediaan jasa pemandu wisata profesional berbasis cerita budaya lokal. 
+e. Pengembangan destinasi wisata berbasis komunitas (community-based 
+
+tourism). 
+f. Kreasi festival budaya tahunan untuk menarik wisatawan. 
+g. Pengadaan jasa fotografi dan videografi wisata dengan konsep storytelling. 
+h. Restoran atau kafe tematik yang menawarkan pengalaman lokal autentik. 
+i. Taman bermain edukatif dengan tema budaya atau alam. 
+j. Event organizer untuk kegiatan wisata seperti trekking, snorkeling, atau diving. 
+
+ 
+ 
+
+5. Teknologi Digital 
+Teknologi Digital adalah kategori kompetisi yang bertujuan untuk mendorong 
+kreativitas, inovasi, dan pemanfaatan teknologi digital untuk berwirausaha dan/atau 
+mendukung jalannya wirausaha. Kategori ini dirancang untuk menantang peserta dalam 
+menciptakan, mengembangkan, atau menerapkan solusi digital yang relevan dan 
+berdampak, baik dalam bentuk perangkat lunak, perangkat keras, aplikasi 
+mobile/web, maupun ide teknologi yang inovatif. 
+Definisi dari teknologi digital sendiri adalah: berbagai alat, sistem, perangkat, dan 
+sumber daya yang menggunakan data dalam bentuk digital untuk memproses, 
+menyimpan, dan mentransmisikan informasi. Teknologi ini mengubah data analog 
+menjadi format digital (biasanya dalam bentuk biner) sehingga dapat digunakan oleh 
+komputer atau perangkat elektronik lainnya.  
+Peserta ajang perlu memperhatikan dan menyajikan salah satu dari unsur yang ada 
+dalam membangun sebuah Solusi Teknologi Digital antara lain: Inovasi dan Ide, 
+Perangkat Keras, Perangkat Lunak, Data, Jaringan dan Infrastruktur, Desain 
+Penggunaan (UI/UX), Keamanan dan Privasi, Team Work, Pengujian dan Validasi, 
+Regulasi dan Etika, dan Sustainability (Keberlangsungan). 
+Teknologi Digital memiliki ciri ciri: 
+
+a. Berbasis Data Digital: Informasi direpresentasikan dalam bentuk angka biner 
+(0 dan 1). 
+
+b. Cepat dan Efisien: Proses data lebih cepat dibandingkan dengan teknologi 
+analog. 
+
+33 
+ 
+
+
+
+ 
+ 
+
+c. Dapat Dikombinasikan: Berbagai fungsi seperti komunikasi, komputasi, dan 
+pengolahan data dapat digabungkan. 
+
+d. Kemampuan untuk Dikembangkan: Teknologi ini terus berkembang dengan 
+inovasi seperti kecerdasan buatan, blockchain, dan Internet of Things (IoT). 
+
+ 
+Contoh pengembangan yang bisa dilakukan di dalam teknologi digital adalah: 
+
+a. Pengembangan Perangkat Lunak/Aplikasi 
+b. Inovasi pada IoT (Internet of Things) 
+c. Teknologi yang mendukung Ramah Lingkungan /Green Technology 
+d. Pemanfaatan Artificial Intelligence (AI) atau Machine Learning (ML) 
+
+ 
+ 
+
+6. Kuliner 
+Kegiatan Kuliner adalah proses kreasi/olahan bahan makanan atau minuman, dengan 
+memahami teknik pengolahan, penggunaan peralatan masak, estetika, kualitas, cita rasa, 
+tekstur dan tampilan menarik, aroma, dan juga mempertimbangkan nilai gizi, sehingga 
+tersaji masakan yang dinikmati dengan baik. Di kegiatan usaha atau industri makanan 
+atau resto,  ruang lingkupnya lebih luas lagi dengan persyaratan kitchen management, 
+dapur memasak yang bersih, kehalalan bahan dan proses, higienis, layout ruangan sesuai 
+proses produksi, manajemen persediaan bahan makanan, manajemen restoran, tim dapur 
+yang solid dan handal, dan juga strategi penjualan dan pelayanan pelanggan. Nah, di 
+perkembangan era sekarang kata Kuliner bisa diartikan jenis masakan khas daerah 
+tertentu baik itu tradisional maupun modern (terkini). 
+
+Indonesia sangat kaya dengan ragam kuliner dari Sabang sampai Papua. Konon, dalam 
+suatu publikasi, tertulis lebih dari 3000an ragam kuliner di Indonesia. Masing-masing 
+wilayah memiliki kekayaan ragam kuliner, sehingga makanan dan minuman daerah 
+setempat menjadi daya tarik ketika berkunjung ke suatu kota/daerah. Sebagai contoh 
+Rendang Padang, Pempek Palembang, Soto Betawi Jakarta, Rawon Surabaya, Gudeg 
+Jogja, Soto Madura, Ayam Betutu Bali, Coto Makasar, Bubur Manado, Ayam Woku, 
+Papeda Papua dan masih ribuan lagi ragamnya. 
+
+Pada era terkini revolusi industri 4.0, usaha kuliner makin marak dan berkembang 
+dengan cara menjual makanan dan minuman lebih mudah dengan memanfaatkan 
+teknologi dan aplikasi digital, sosial media dan saluran penjualan marketplace, baik 
+kuliner tradisional maupun kekinian, sehingga penjualan makanan dan minuman 
+menjadi sangat atraktif dan interaktif tidak hanya terjadi di lingkup lokal, namun juga 
+antar pulau atau nasional, bahkan global lintas negara. Kompetensi produk makin 
+diperkuat dengan penyempurnaan branding (penjenamaan) yang kuat dan packaging 
+(pengemasan) yang praktis, aman dan menarik. 
+
+Di ajang FIKSI para siswa tidak saja membuktikan dan mempresentasikan ide bisnis 
+kulinernya yang unik, layak makan, enak, aman dikonsumsi, ketahanan produk yang 
+baik, tampilan kemasan menarik, mudah dijual, halal, namun juga menguntungkan, 
+memiliki potensi bisnis yang berkelanjutan dan layak jual. Khusus bagi kategori 
+Pengembangan Usaha mengembangkan inovasi produknya sendiri sesuai tema dan telah 
+terbukti berjalan dipasarkan 3 bulan (ada bukti transaksi dan laporan keuangan). 
+
+ 
+
+34 
+ 
+
+
+
+ 
+ 
+
+Contoh – Contoh Produk di Bidang Kuliner : 
+
+a. Kuliner Tradisional 
+Usaha kuliner yang berbasis  karya/budaya tradisional sesuai aslinya, baik, bahan, 
+olahan, rasa, tampilan, dan sebagainya.  Sebagai contoh produk diantaranya:  Keripik 
+Balado Padang, Bakpia Pathuk Yogyakarta, Pia Medan, Serundeng dan Enting-enting 
+Gepuk Solo, Dodol Picnic Garut, Jenang Kudus, Pie susu dan kacang Bali, dll. 
+
+b. Kuliner Modern (kekinian) 
+Usaha kuliner yang merupakan perpaduan citarasa tradisional dan tampilan kekinian, 
+inovasi rasa serta kemasan yang modern. Peluang ini di era terkini banyak diambil 
+oleh banyak pengusaha contohnya: Bolu Meranti Medan, Kek Pisang Villa Batam, 
+Keripik Maicih Bandung, Malang Strudel, Medan Napoleon, Surabaya Snowcake, 
+Bakpia Tugu Jogja dan sebagainya. 
+
+ 
+ 
+
+7. Fashion (Fesyen) 
+Fashion merupakan istilah fesyen yang berasal dari bahasa Inggris memiliki pengertian 
+tampilan, gaya (style), mode yang dapat dilihat secara fisik dengan memperlihatkan 
+aspek estetika dan etik. Cara berpenampilan tersebut tertuang dalam visual gaya 
+berbusana yang digunakan sebagai: 1) Media komunikasi sebagai respon dari berbagai 
+peristiwa sosial, politik, ekonomi dan budaya serta teknologi sesuai tempat dan 
+waktunya ; 2) Ekspresi diri  menampilkan kepribadian, budaya, gaya hidup, selera, dan 
+status sosialnya; 3) Tren atau mode yaitu pilihan berpenampilan seseorang terhadap hal-
+hal yang sedang populer pada suatu kurun waktu tertentu, baik secara lokal atau global. 
+Indonesia memiliki keragaman suku budaya, gaya hidup kota dan daerah membuat 
+keragaman selera yang menjadi peluang pasar wirausaha fesyen. Produk fesyen yang 
+diciptakan harus memiliki tujuan untuk menjawab kebutuhan pasar, membuka peluang 
+lapangan kerja bagi masyarakat, dan memberikan kontribusi yang baik bagi lingkungan. 
+Kriteria produk yang dihasilkan harus dapat memiliki nilai jual dan profit serta strategi 
+bisnis yang berkelanjutan sehingga usaha bisa terus berkembang sesuai target. 
+Isu slow fashion, sustainable fashion, recycle, ramah lingkungan, sirkular ekonomi 
+dengan potensi lokal (local wisdom) adalah tema-tema sebagai respon berbagai peristiwa 
+yang terjadi di dunia terutama dalam bidang industri fashion. Wirausaha fashion dapat 
+berupa produk barang dan jasa, seperti: 
+1. Usaha produk barang fesyen memproduksi dari material hingga menjadi produk 
+
+fesyen yang siap jual, terdiri atas: 
+a.   Produk busana terdiri busana pria, wanita dan anak, meliputi busana atasan (jaket, 
+kemeja, kaos, rompi) dan busana bawahan (celana, rok, sarung). 
+b.  Produk aksesoris meliputi produk untuk melengkapi tampilan busana agar 
+seseorang dapat tampil lebih maksimal. Meliputi produk alas kaki, tas, aksesoris 
+kepala (kacamata, topi, kerudung, hairpiece), syal, dasi, perhiasan (seperti anting, 
+kalung, gelang), sarung tangan, sapu tangan, hosiery (produk bagian dalam seperti 
+kaos kaki dan pakaian dalam). 
+Pada usaha produk barang fesyen terdapat tahapan yang menjadi aspek penilaian, 
+dengan detail sebagai berikut: 
+1) Perancangan, meliputi: 
+
+● Moodboard: kumpulan gambar inspirasi/ide dilengkapi palet warna. 
+● Deskripsi produk: penjelasan inspirasi/ide, material, teknik 
+
+pengerjaan/produksi, warna. 
+
+35 
+ 
+
+
+
+ 
+ 
+
+● Ilustrasi fesyen atau gambar teknik/produk fesyen (busana/aksesoris tampak 
+depan belakang). 
+
+2) Produksi yang berisikan dokumentasi proses pengerjaan dari awal (raw 
+material), pola, pemilihan material, sample dan produk akhir 
+
+3) Hasil akhir produk yang rapi dan berkualitas dengan diberi visual fashion 
+photography, kemasan, pemasaran, dan edukasi kepada konsumennya. 
+
+ 
+2. Usaha jasa desain fesyen: merupakan usaha yang harus terlihat hasilnya dalam 
+
+bentuk: 
+a.   Gambar teknis/produk fesyen dalam memproduksi suatu busana dari sisi depan 
+
+belakang atau disebut juga dengan fashion technical drawing dan tech pack. Hal 
+ini terkait dengan perancangan produk yang harus mengetahui spesifikasi 
+ukuran, jenis material, fabric consumption, opening, trimming, jenis jahitan, pola 
+(pattern drafting). 
+
+b.   Ilustrasi fesyen yang merupakan gambar estetik, berseni dari suatu tampilan 
+seseorang dari atas kepala hingga bawah (head to toes) dari sisi depan dan 
+belakang. Hal ini terkait kemampuan figure drawing, pose yang dapat 
+menggambarkan jatuhnya material pada badan konsumen, pewarnaan, 
+penggambaran bermacam-macam aksesoris, dengan berbekal pengetahuan gaya, 
+selera pasar, jenis material, varian motif, hingga latar belakang/filosofi motif 
+tradisional. Orisinalitas kemampuan ilustrasi adalah nilai jasa yang dapat 
+diperlihatkan secara digital/hand drawing. 
+
+Inovasi, orisinalitas, kreatifitas, dan kolaboratif baik dalam membuat produk dan usaha 
+menjadi poin penting dalam kategori fesyen, sehingga menjadikan proses produk fesyen 
+terintegrasi dari proses perancangan, produksi, hingga hasil akhir.  
+
+8. Games 
+Tahukah kalian, bahwa game digital telah menjadi media paling populer di masyarakat 
+saat ini? Bidang game adalah media pendobrak zaman masa kini yang menjadi media 
+untuk menyelesaikan masalah, hiburan (menyenangkan), memberikan pengalaman 
+keindahan (estetik), pemberi makna, memberikan kemudahan kerja, melengkapi 
+informasi, menyuguhkan keragaman interaktivitas, memberikan “penghargaan” pada 
+manusia. Syarat sebuah game digital adalah: Memerlukan medium/wahana (platform) 
+untuk menampung kegiatan interaktivitas yang di dalamnya terdapat rancangan/desain 
+berbasis elemen estetik dan elemen pemrograman yang dapat dimainkan pada perangkat 
+digital tertentu dibantu jaringan (online) maupun luar jaringan (offline) internet; 
+Terdapat tujuan (objective) penyelesaian plot permainan gameplay (mulai, selesai, 
+gagal, atau mengulang) sesuai genre game tertentu; Terdapat mekanisme (rules: aturan 
+main) meningkatkan kemampuan (skill), melakukan simulasi, dan sarana 
+informasi/konten tertentu (kesehatan, pendidikan, keuangan, sosial, ekonomi, budaya, 
+hiburan, dsb.).  
+
+ 
+Game digital bertujuan di antaranya sebagai: Educational, membantu memahami suatu 
+konsep keilmuan; Exercise, memfasilitasi latihan fisik dengan memanfaatkan 
+gamifikasi untuk; Advertising, media promosi sebuah produk/jasa yang dijual; Serious 
+Game, memberikan pengajaran atau melakukan pelatihan; Casual Game, mengisi 
+waktu dengan permainan sederhana sewaktu-waktu tanpa membutuhkan keahlian dan 
+komitmen khusus; Art Medium, menyajikan keindahan seni tertentu. Game digital 
+adalah wujud semangat kolaborasi interdisiplin antara gagasan inovasi-kreatif, ilmu, 
+pengetahuan, dan praktik keterampilan yang ditopang oleh kemampuan rekayasa 
+(teknologi komputer, informasi, telekomunikasi); kemampuan estetik (keindahan audio, 
+
+36 
+ 
+
+
+
+ 
+ 
+
+visual: seni rupa, desain, komunikasi visual, grafis, produk, ergonomi, interior/spasial, 
+kriya (craftsmanship), budaya, dll.), psikologi; hingga kewirausahaan dan 
+manajemen. Wirausaha game digital yang baik dan berhasil adalah yang memiliki 
+kemampuan untuk mendapat apresiasi maksimal, memiliki efek mengejutkan, unik, 
+menginspirasi, menghasilkan keuntungan (profit) bagi pengembangnya, dan 
+memberikan manfaat (benefit) bagi konsumen/masyarakat penggunanya. Lingkup 
+inovasi kewirausahaan kreatif di bidang game digital dapat meliputi salah satu atau 
+perpaduan di antara: perangkat konsol/gawai (ponsel, tablet, desktop laptop) pintar, 
+kontrol/kendali permainan, gaya desain dan narasi visual, pengelolaan emosi/ekspresi 
+pemain, tipe interaksi (perorangan, sosial, dan publik), dan pemanfaatan teknologi 
+mutakhir untuk dijual secara retail maupun pesanan untuk kebutuhan interaksi di ruang 
+publik (museum, bandara, galeri, hingga pusat perbelanjaan). Beberapa karya wirausaha 
+di bidang game digital populer yang lahir di Indonesia seperti: DreadOut, Football 
+Saga, Game Nitiki, Tahu Bulat, Diponegoro-Towers Defense, Angkot the Game, 
+Warung Chain, Animal Pirates, Buramato, dsb. 
+
+catatan: karya inovasi wirausaha yang bukan termasuk bidang game adalah: board game konvensional 
+(dapat didaftarkan ke bidang desain grafis (seni rupa dan desain)) dan aplikasi digital (dapat 
+didaftarkan ke bidang teknologi digital). 
+ 
+ 
+
+9. Kriya 
+Kriya adalah cabang irisan antara seni dan desain yang mengutamakan aspek keindahan, 
+keunikan, keterampilan tangan, dan olah material baik untuk ekspresi diri maupun 
+problem solving. Wirausaha kriya menjadi ujung tombak geliat perekonomian Indonesia 
+yang mampu bertahan di saat masa krisis ekonomi tahun 1998 hingga saat ini. Di dalam 
+kriya terdapat kegiatan kreasi, produksi, distribusi, dan pemasaran produk berbasis 
+bahan alam (kayu, kulit, tekstil, logam, batu, cangkang, tanduk, tanah/keramik, dsb) atau 
+sintetis (plastik, karet, fiber, akrilik, hingga new material) yang dihasilkan oleh individu 
+ataupun komunitas perajin secara manual atau dengan alat bantu produksi. Produk kriya 
+dapat dibagi menjadi: produk yang berbasis olah material bahan baku, produk berbasis 
+keterampilan tangan manusia, atau gabungan dari keduanya.  
+Kegiatan usaha di bidang kriya mulai dibantu dengan perkembangan teknologi mutakhir 
+dalam konteks mengakomodasi pemilik ide kreatif dengan stakeholder lainnya seperti 
+pemilik bahan baku, tenaga kerja/produsen, distributor, pelaku promosi, hingga 
+konsumen, melalui platform digital, sehingga fase bisnisnya bisa tetap berjalan dan 
+berkembang sesuai dengan karakter kekhasannya masing-masing. Keunggulan kriya 
+dipengaruhi oleh faktor ketersediaan potensi bahan baku, keahlian sumber daya manusia 
+yang turun temurun, komunitas yang berkembang di lingkungan sekitar sentra/UMKM, 
+keterbatasan jumlah produksi sehingga memenuhi konsep limited edition (eksklusif) 
+untuk pasar high end maupun low end dengan jumlah massal (industri/pabrik) dalam 
+skala pasar domestik maupun ekspor. Contoh bidang usaha kriya ini antara lain: produk 
+kerajinan, produk cenderamata, produk pelengkap interior dan eksterior, produk mainan 
+anak, utensil/perkakas keseharian, dan lain-lain. 
+Penting dipertimbangkan bahwa bidang kriya pun merupakan bidang yang dibangun 
+atas kolaborasi atau kemitraan dengan perajin, UMKM, penyedia bahan, komunitas, 
+kolektor, hingga stakeholder di lingkungan sekitar yang dapat berkontribusi dalam 
+kegiatan wirausaha yang dijalankan, pun mengangkat tema-tema yang relevan dengan 
+isu atau fenomena di sekitar kita. 
+ 
+
+37 
+ 
+
+
+
+ 
+ 
+
+10. Industri Musik, Film, Video, dan Animasi 
+Siapa yang bercita-cita menjadi wirausahawan sebagai filmmaker, content creator 
+berbasis video, animasi, dan musik ternama masa depan di Indonesia? Film, animasi, 
+dan video termasuk dalam sequential art, yaitu karya seni atau desain yang dibangun 
+dari susunan gambar-gambar atau foto-foto berseri ketika diputar/dimainkan pada 
+perangkat tertentu dengan kecepatan khusus sehingga oleh mata manusia ditangkap 
+seolah melihat gambar yang terus bergerak dan hidup untuk menceritakan informasi 
+atau kisah. Film (movie/cinema) diproduksi menggunakan kamera (khusus, handycam, 
+DSLR/mirrorless, atau ponsel) seluloid atau digital, memiliki skema kerja sistematis dan 
+serius, berdurasi 30-180 menit, dikurasi, aktor terlatih, tata cahaya-kostum-latar, 
+sinematografi yang dirancang/direkayasa, skenario/alur, menjadi film akhir yang 
+matang. Video seperti halnya film tetapi lebih sederhana karena cenderung bersifat 
+merekam peristiwa sehari-hari. Karya video dapat bisa bersifat spontan tanpa 
+rancang/rekayasa, meskipun banyak juga yang berkualitas seperti film. Karya video 
+diantaranya: video profil, video klip, dokumentasi, iklan, vlog, podcast, reels/story di 
+media sosial (instagram atau tiktok). Produksi video lebih terjangkau menggunakan 
+ponsel berkamera untuk merekam peristiwa sehari-hari, diunggah sekedarnya di media 
+sosial, mendapat apresiasi (like, share, comment), dan peluang dimonetisasi 
+menghasilkan profit dari adsense atau “sawer”. Animasi adalah hasil kreasi melalui 
+proses menyusun deret gambar yang “dihidupkan“ memberikan kesan bergerak. Karya 
+animasi dapat dibangun menggunakan teknik konvensional frame by frame atau stop 
+motion maupun digital menggunakan piranti lunak dalam wujud dua dan tiga 
+dimensional. Seperti film dan video, karya animasi tidak dibatasi oleh ragam jenisnya 
+(animasi bercerita, animasi sebagai profil, animasi klip musik, animasi iklan, motion 
+graphic, projection mapping, konten AR/VR, dsb). Musik adalah cabang seni yang 
+mengolah suara dari sumber suara atau bunyi seperti instrumen atau vokal manusia 
+menjadi komposisi nada sebagai ekspresi keindahan yang dapat dinikmati telinga dan 
+rasa manusia. Industri musik salah satu sumber mata pencaharian popular yang banyak 
+diminati oleh berbagai kalangan. 
+Kolaborasi di dalam bidang film, video, dan animasi dengan industri musik menjadi 
+salah satu pilihan peluang wirausaha baru yang menarik dan menantang pada FIKSI  
+Tahun 2025 dengan memperhatikan perkembangan contoh karya seperti video klip 
+Serigala Militia (Seringai Band & Tromarama), Sri Rejeki (Anggun Priambodo), film 
+iklan seri ramadhan Marjan atau BCA, film pendek Tilik (Ravacan Film), Bocah Ngapak 
+Ya, Lathi (Weird Genius), kanal Youtube Nihongo Matappu (Jerome Polin) dan Sisi 
+Terang. Karya animasi seperti: Dalang Pelo, Animasinopal, Om Perlente (Shark 
+Animation), Aniwayang (Daud Nugraha), Animasi eksperimental (Banung Grahita), 
+Animateutik (Chandra Tresnadi), Nusa Rara (Little Giant), Petualangan Sherina 2 
+(Miles Pictures), Kita Usahakan Rumah Itu (Sal Priyadi), video mapping 
+sembilaNMatahari atau motion graphic panggung musik Isha Hening. Model 
+kewirausahaan dalam bidang ini, dapat berupa: 1) Berbasis konten, menjual karya film, 
+video, atau animasi (gagasan orisinal sendiri) atau berkolaborasi dalam produksinya (co-
+production) selama konsep/gagasan karyanya hak cipta peserta; dan 2) Berbasis jasa 
+pre-produksi, produksi, atau pasca-produksi melayani pihak-pihak lain dengan 
+konten/tema/kisah khusus sesuai kebutuhan pribadi, lingkungan sekitar, hingga isu 
+umum yang digaungkan oleh pemerintah seperti Asta Cita, humanity, circular economy, 
+creative industry, sustainability, heritage, dsb. 
+
+ 
+ 
+
+38 
+ 
+
+
+
+ 
+ 
+
+11. Seni Rupa dan Desain 
+Seni rupa dan desain adalah bidang yang memiliki keserumpunan keilmuan dengan 
+menekankan pada kreativitas dan estetika dalam bentuk olah visual. Seni rupa memiliki 
+kecenderungan berkarya berdasar ekspresi personal (personal expression based) 
+sedangkan desain merupakan rancangan karya berdasar pemecahan masalah (problem 
+solving based). Seni rupa memiliki beberapa cabang keilmuan meliputi: seni lukis 
+(painting), seni gambar (drawing), seni cetak (printmaking), seni patung (sculpting). 
+Ranah desain memiliki beberapa cabang keilmuan meliputi: Desain Komunikasi Visual, 
+Desain Interior, dan Desain Produk Industri. 
+Pada FIKSI  Tahun 2025 yang dilombakan adalah kategori bidang wirausaha Desain 
+Grafis merupakan salah satu disiplin keilmuan Desain Komunikasi Visual. Bidang 
+wirausaha Desain Grafis adalah kegiatan usaha kreatif dalam ranah “rekayasa visual” 
+yang menggunakan bahasa komunikasi visual (huruf dan gambar) untuk menyampaikan 
+pesan  melalui media (desain) dengan tujuan menyampaikan informasi, 
+identifikasi/memberi identitas, dan mempersuasi, hingga mengubah perilaku khalayak 
+sasaran. Bahasa Komunikasi Visual berwujud gambar grafis, tanda/simbol, dan unsur 
+grafis lainnya (warna, bidang, tipografi, tekstur dll.) yang disusun berdasar prinsip 
+desain. Isi pesan diungkapkan secara kreatif dan komunikatif serta mengandung solusi 
+(alternatif) untuk permasalahan yang akan disampaikan (dapat bersifat sosial maupun 
+komersial). Bidang wirausaha Desain Grafis menuntut kolaborasi dua kemampuan 
+kreatif dan inovatif, antara kewirausahaan (entrepreneurship) dan kerja desain grafis. 
+Kewirausahaan adalah kemampuan kreatif dan inovatif yang menjadi dasar untuk 
+membaca kebutuhan/peluang pasar/pengguna. Sedangkan kemampuan Desain Grafis 
+adalah kemampuan kreatif dan inovatif dalam mengolah komunikasi visual melalui 
+gambar/grafis (tipografi, ilustrasi, elemen grafis, warna, tata letak/layout visual) untuk 
+mencapai tujuan komunikasi yang diharapkan. Kemampuan kreatif dan inovatif tersebut 
+biasanya diawali dengan melihat potensi dan permasalahan di masyarakat, menggali ide 
+dan pemikiran sebagai solusi kreatif serta menciptakan sesuatu yang baru untuk 
+diterapkan sebagai bentuk inovasi.  
+Desainer Grafis dituntut mampu merancang solusi dan konsep komunikasi visual 
+melalui identitas, informasi, dan persuasi yang tepat, sesuai dengan prinsip-prinsip 
+desain dan dikemas menjadi media visual untuk mencapai tujuan komunikasi yang 
+diharapkan dan dimengerti khalayak sasarannya. Adapun luaran dari wirausaha Desain 
+Grafis adalah jasa dan produk komunikasi visual mencakup aktivitas perancangan 
+(desain), pengembangan purwarupa/prototyping), dan wirausaha berbasis teknologi 
+cetak dan digital dengan kriteria pada media sebagai berikut: 
+ 
+
+Graphic Design on Surface  ● Editorial design (buku/majalah 
+(berbasis cetak/printed matter) cetak) 
+● Ilustrasi  
+● Komik Graphic Design on Screen  
+● Graphic novel (novel grafis) (berbasis media digital) 
+● Buku cerita bergambar ● Ilustrasi digital 
+● Desain karakter (berbasis cerita, ● Komik digital 
+
+maskot, mainan/toys) ● Sticker apps 
+● Buku pop-up, board game, card game ● Digital imaging 
+● Mural/instalasi grafis (contoh pada cafe ● Grafis digital 
+
+atau kantor)  ● E-book/e-magazine  
+● Desain kemasan (packaging) ● Stock image/image bank 
+● Poster grafis ● Desain huruf/font 
+● Brand identity (logo dan aplikasinya) ● Infografis digital
+● Merchandise (topi, stiker, kaos, 
+
+totebag) 
+39 
+
+ 
+
+
+
+ 
+
+Lampiran C: Format Surat Pernyataan Tidak Mengirimkan Purwarupa/Produk 
+**Kop Sekolah**   
+
+(Nama Sekolah)   
+(Alamat Sekolah)   
+(Telepon/Email Sekolah)   
+ 
+--- 
+
+SURAT PERNYATAAN   
+ 
+Yang bertanda tangan di bawah ini:   
+ 
+Nama Lengkap  : [Nama Lengkap Penanggung Jawab]   
+Jabatan         : [Jabatan, misalnya]   
+sebagai Guru Pendamping 
+ 
+Nama Tim      : [Nama Tim Peserta]   
+Asal Sekolah  : [Nama Sekolah]   
+Kontak         : [Nomor Telepon/Email yang Dapat Dihubungi]   
+ 
+dengan ini menyatakan bahwa tim kami tidak mengirimkan purwarupa dan produk fisik untuk 
+keperluan penilaian pada Kompetisi Bisnis Nasional [Nama Kompetisi] karena alasan sebagai 
+berikut:   
+ 
+**[Jelaskan alasan secara rinci, misalnya kendala logistik, biaya, atau alasan lain yang relevan].**   
+ 
+Kami memohon pengertian dan pertimbangan dari panitia terkait hal ini. Apabila diperlukan, kami 
+bersedia memberikan informasi atau dokumen tambahan lain sebagai pendukung.   
+ 
+Demikian surat pernyataan ini kami buat dengan sebenar-benarnya. Atas perhatian dan 
+kebijaksanaan panitia, kami mengucapkan terima kasih.   
+ 
+Hormat kami,   
+[Nama Kota, Tanggal Pembuatan Surat]   
+ 
+**TTD**        **TTD**   
+ 
+[Nama Lengkap Guru Pendamping]     [Nama Lengkap Ketua Tim]   
+[Stempel Sekolah] 
+
+**TTD**   
+ 
+[Nama Lengkap Anggota Tim] 
+
+  
+
+40 
+ 
+
+
+
+ 
+
+Lampiran D: Format Surat Keaslian Karya  
+ 
+
+**Kop Sekolah**   
+(Nama Sekolah)   
+(Alamat Sekolah)   
+(Telepon/Email Sekolah)   
+
+Yang bertanda tangan di bawah ini: 
+
+Nama Tim  : 
+Asal Sekolah  :  
+Alamat Sekolah :  
+Dengan ini menyatakan bahwa: 
+
+1. Karya yang saya buat dalam lomba FIKSI 2025 adalah karya asli hasil tulisan saya 
+sendiri dan bukan hasil plagiat. 
+
+2. Saya tidak sedang mengajukan karya ini dalam lomba atau kompetisi lain yang sedang 
+atau telah berlangsung. 
+
+3. Apabila di kemudian hari ditemukan pelanggaran terkait keaslian karya, saya bersedia 
+menerima sanksi sesuai dengan ketentuan lomba. 
+
+Demikian surat pernyataan ini saya buat dengan sebenar-benarnya dan penuh tanggung jawab. 
+
+[Tempat], [Tanggal] 
+Hormat saya, 
+
+ 
+
+[Tanda Tangan] 
+[Nama Lengkap Peserta] 
+
+  
+
+41 
+ 
+
+
+
+ 
+
+Lampiran E: Format Surat Rekomendasi 
+ 
+
+**Kop Sekolah**   
+
+Nomor: …………….. 
+Tanggal: …………… 
+
+Kepada Yth. 
+Panitia Lomba FIKSI 2025 
+[Alamat Panitia] 
+
+Dengan hormat, 
+
+Kami yang bertanda tangan di bawah ini: 
+
+Nama : …………………………………. 
+Jabatan : ……………………………….. 
+Instansi : ………………………………. 
+Alamat : ……………………………….. 
+No. Telp : ……………………………… 
+Email : …………………………………. 
+
+Dengan ini memberikan rekomendasi kepada: 
+
+Nama Ketua Tim : 
+Nama Anggota Tim : 
+Nama Tim  : 
+Asal Sekolah  :  
+Alamat Sekolah :  
+ 
+Sebagai peserta yang layak dan memenuhi syarat untuk mengikuti Lomba FIKSI 2025. Kami 
+meyakini bahwa peserta ini memiliki kemampuan, dedikasi, dan potensi yang besar dalam 
+mengikuti lomba fiksi, serta mampu bersaing dengan peserta lainnya. 
+
+Dengan demikian, kami memberikan dukungan penuh kepada peserta untuk mengikuti lomba ini, 
+dan berharap dapat memberikan kontribusi positif dalam ajang lomba FIKSI 2025. 
+
+Demikian surat rekomendasi ini kami buat dengan sebenar-benarnya, atas perhatian dan 
+kerjasamanya kami ucapkan terima kasih. 
+
+Hormat kami, 
+
+[Tanda Tangan] 
+
+ 
+
+ 
+[Nama Lengkap Pemberi Rekomendasi] 
+[Jabatan Pemberi Rekomendasi] 
+[Instansi/Asal Sekolah] 
+
+42 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+43

@@ -1,0 +1,345 @@
+﻿​  
+
+GUIDEBOOK DATA SLAYER 4.0 
+Machine Learning Competition 
+
+ 
+Deskripsi Kompetisi  
+
+Machine Learning Competition (MLC) merupakan salah satu cabang kompetisi dalam 
+rangkaian kegiatan Data Slayer 4.0. Tahun ini, MLC mengusung subtema “Honest Score, Equal 
+Chance: Exam Cheating Detection” yang bermakna pentingnya menjaga kejujuran akademik 
+untuk mewujudkan kesempatan yang adil dan setara bagi setiap peserta ujian. Kompetisi ini 
+bertujuan mengajak mahasiswa menganalisis data terkait cheating detection guna mendukung 
+integritas pelaksanaan ujian, selaras dengan SDGs 4: Quality Education. Selain menjadi ajang 
+kompetisi, kegiatan ini juga menjadi wadah pembelajaran dan inovasi dalam pengembangan 
+solusi berbasis machine learning yang aplikatif dan bermanfaat. 
+
+Fokus utama kompetisi ini adalah membangun model machine learning untuk klasifikasi 
+suatu masalah. Dengan pendekatan ini, peserta tidak hanya ditantang untuk membangun model 
+dengan tingkat akurasi tinggi, tetapi juga dituntut untuk mampu memilih metode yang efektif, 
+efisien, serta dapat diaplikasikan secara nyata. 
+
+Melalui MLC Data Slayer 4.0, peserta akan belajar bagaimana mengelola data secara 
+sistematis, memahami permasalahan, dan merancang solusi yang terukur. Kompetisi ini juga 
+diharapkan dapat menumbuhkan kemampuan berpikir kritis, kreativitas, problem solving, serta 
+kolaborasi tim yang menjadi keterampilan penting di era Revolusi Industri 4.0 dan Society 5.0. 
+
+Lebih dari sekadar adu ketepatan model, MLC menjadi ruang bagi mahasiswa untuk 
+menguji ide-ide inovatif, membuktikan kemampuan teknis, dan mengembangkan solusi yang 
+memiliki dampak nyata dalam kehidupan sehari-hari. Hasil dari kompetisi ini diharapkan dapat 
+menjadi kontribusi positif dalam pengembangan teknologi berbasis data, khususnya dalam 
+bidang kecerdasan buatan. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+​  
+
+Timeline Kompetisi 
+
+• Open Registration​  : Batch 1 :  19 Oktober – 8 November 2026 
+Batch 2 : 9 November – 15 November 2026 
+
+• Pembagian Dataset & Model : 16 November 2026 
+
+• Preliminary Round           ​  : 16 November 2026 – 29 November 2026 
+• Finalist Announcement : 7 Desember 2026 
+• Technical Meeting for Finalist : 12 Desember 2026 
+
+• Final Round  : 19 Desember 2026  
+
+ 
+Syarat dan Ketentuan Peserta 
+ 
+
+1.​ Peserta adalah mahasiswa aktif program diploma atau sarjana di PTN/PTS/PTK di 
+seluruh Indonesia. 
+
+2.​ Perlombaan dapat diikuti secara individu atau tim, dengan maksimal 3 anggota dalam 
+satu tim (termasuk ketua tim). 
+
+3.​ Anggota tim tidak diwajibkan berasal dari perguruan tinggi atau instansi pendidikan yang 
+sama. 
+
+4.​ Setiap peserta Machine Learning Competiton (MLC) hanya diperbolehkan terdaftar di 
+satu tim. 
+
+5.​ Peserta boleh mengikuti lebih dari satu kompetisi, tetapi hanya boleh menjadi ketua tim 
+pada satu kompetisi saja. Jika mengikuti kompetisi lain dengan tim berbeda, peserta 
+tersebut hanya dapat menjadi anggota tim. 
+
+6.​ Setiap tim harus melengkapi berkas pendaftaran dengan data yang valid. 
+7.​ Komposisi anggota tim tidak boleh diubah setelah berkas pendaftaran diserahkan. 
+8.​ Peserta memahami dan menyetujui bahwa dataset kompetisi ini bersifat rahasia dan 
+
+mengandung data pribadi sensitif. Peserta berkomitmen untuk menggunakan dataset ini 
+hanya untuk tujuan kompetisi Data Slayer 4.0 dan dilarang keras untuk mendistribusikan 
+atau menggunakannya untuk keperluan lain. 
+
+ 
+
+ 
+
+
+
+​  
+
+ 
+9.​ Tim akan didiskualifikasi jika terbukti: 
+
+a.​ Melakukan kecurangan dalam bentuk apapun. 
+b.​ Melakukan tindakan yang mengganggu jalannya lomba atau tim lain. 
+c.​ Melakukan prediksi secara manual. 
+d.​ Tidak mengkonfirmasi kehadiran tim pada babak final sebelum acara dimulai. 
+e.​ Digantikan atau dibantu oleh orang di luar tim. 
+f.​ Tidak mengisi surat pernyataan  
+
+10.​Seluruh ketua tim wajib hadir saat babak final dan tidak boleh diwakilkan oleh anggota 
+tim. 
+
+11.​Kerja sama antar tim dilarang dalam bentuk apapun.  
+12.​Semua tim harus mematuhi aturan yang telah ditetapkan tanpa pengecualian. 
+13.​Panitia berhak mendiskualifikasi tim yang melakukan kecurangan atau melanggar aturan 
+
+kompetisi sebelum atau selama acara berlangsung. 
+14.​Panitia berhak mencabut gelar juara dari pemenang jika terbukti melakukan kecurangan 
+
+atau pelanggaran. 
+15.​Keputusan dewan juri dan panitia bersifat final dan tidak dapat diganggu gugat. 
+16.​Peraturan dan ketentuan tambahan kompetisi dapat berubah di kemudian hari dengan 
+
+pemberitahuan resmi dari panitia kepada seluruh peserta. 
+17.​Peserta wajib follow akun Instagram @dataslayer.tup dan @hmsd.telkompurwokerto 
+
+(dibuktikan melalui form registrasi). 
+18.​Pengumuman perubahan atau tambahan aturan serta informasi kompetisi akan 
+
+dipublikasikan melalui Instagram @dataslayer.tup dan WhatsApp group competition. 
+ 
+
+ 
+
+ 
+
+
+
+​  
+
+Mekanisme Pendaftaran 
+ 
+Adapun mekanisme pendaftaran peserta lomba Machine Learning Competition sebagai berikut: 
+
+1.​ Peserta diwajibkan untuk melakukan pendaftaran dengan mengisi formulir yang tersedia 
+pada tautan https://data-slayer.com/REGISTRASIMLC 
+
+2.​ Pada formulir pendaftaran, peserta harus melampirkan data berikut: 
+a.​ Biodata lengkap peserta atau ketua tim beserta kontak yang dapat dihubungi. 
+b.​ Nama tim dengan panjang maksimal 20 karakter, tanpa unsur sensitif atau SARA. 
+c.​ Nama tim di Kaggle harus sesuai dengan nama tim yang dimasukkan pada 
+
+formulir. 
+d.​ Scan Kartu Tanda Mahasiswa (KTM) dari setiap anggota dalam satu file PDF 
+
+dengan format penamaan file: KTM_NamaTim.pdf. Jika belum memiliki KTM, 
+kartu identitas lain dapat digunakan. 
+
+e.​ Setiap peserta wajib mengunggah poster registrasi melalui fitur Add Yours pada 
+Instagram Story yang tertera pada highlight ig @dataslayer.tup menggunakan 
+template yang telah disediakan oleh panitia. Peserta wajib melampirkan bukti 
+tangkapan layar (screenshot) unggahan tersebut pada formulir pendaftaran.  
+
+f.​ Bukti pembayaran dengan penamaan file: NamaTim.jpg atau NamaTim.png. 
+3.​ Sistem Pembayaran: 
+
+a.​ Biaya pendaftaran berdasarkan batch: 
+Batch 1 : Rp. 75.000 
+Batch 2 : Rp. 90.000 
+
+b.​ Pembayaran dapat dilakukan melalui salah satu dari metode berikut: 
+Transfer Bank       
+BNI : 1975746724 a.n INTAN ADELIA 
+MANDIRI : 1850010239009 a.n ZALZA RISQI AGUSTIN 
+SEABANK : 901878454999 a.n ILHAM RAMADANNI 
+     
+Via Qris       
+
+ 
+ 
+
+ 
+
+
+
+​  
+
+Teknis Machine Learning Competition 
+ 
+
+Ketentuan Umum 
+ 
+
+1.​ Peserta diminta untuk membangun model prediksi menggunakan pendekatan machine 
+learning atau deep learning  berdasarkan dataset yang disediakan panitia. 
+
+2.​ Platform yang digunakan adalah Kaggle. 
+3.​ Bahasa pemrograman yang diperbolehkan bersifat fleksibel, sesuai preferensi peserta. 
+4.​ Peserta bebas menggunakan dan mengkombinasikan metode statistik, analisis data, 
+
+algoritma machine learning, serta library atau tools yang relevan dengan permasalahan, 
+selama tidak melanggar etika kompetisi. 
+
+5.​ Penggunaan model berbasis API yang bergantung pada layanan pihak ketiga melalui 
+internet tidak diperkenankan. Seluruh proses pemodelan harus dijalankan secara lokal. 
+
+6.​ Informasi tambahan, pembaruan aturan, serta pengumuman resmi akan disampaikan 
+melalui grup komunikasi (WhatsApp), forum kompetisi, dan akun Instagram resmi 
+@dataslayer.tup 
+
+7.​ Pertanyaan teknis maupun non-teknis dapat diajukan kepada panitia melalui contact 
+person yang tersedia atau melalui forum diskusi resmi. 
+
+8.​ Laporan akhir wajib disusun dalam bentuk notebook, ditulis dalam bahasa Indonesia, 
+dilengkapi dengan penjelasan metode yang digunakan, serta menyertakan model prediksi 
+yang telah dilatih dalam format .pkl, .h5, .pt, .tf, atau format lain yang relevan. 
+
+9.​ Notebook yang digunakan wajib menggunakan seed untuk randomness, bila terdapat 
+perbedaan signifikan antara skor prediksi dengan notebook dan skor kaggle maka akan 
+didiskualifikasi. 
+
+10.​Seluruh tim diwajibkan menggunakan nama tim sesuai dengan yang telah didaftarkan 
+sebelumnya. 
+
+11.​Setiap peserta wajib mengisi formulir pendaftaran yang berisi surat pernyataan dan 
+informasi akun Kaggle masing-masing sebagai identitas peserta dalam kompetisi.
+
+ 
+
+
+
+​  
+
+Babak Penyisihan 
+ 
+
+1.​ Babak penyisihan dilaksanakan pada 16 November 2026 dan batas akhir pengumpulan 
+hasil sampai 29 November 2026. Tidak ada perpanjangan waktu pengumpulan. 
+
+2.​ Pada tahap penyisihan, seluruh peserta wajib mengirimkan file prediksi melalui platform 
+Kaggle sebelum batas waktu yang ditentukan. 
+
+3.​ Di dalam dataset, terdapat ketentuan khusus yang harus dipatuhi peserta. 
+4.​ Setiap tim diperbolehkan melakukan maksimal tiga kali pengumpulan per hari. 
+5.​ Seluruh anggota tim harus mendaftar secara resmi sebelum melakukan submisi pertama.  
+6.​ Penilaian dilakukan berdasarkan metrik utama yang telah ditetapkan oleh panitia. 
+
+ 
+Final 
+ 
+
+1.​ Tim yang lolos ke babak final akan diumumkan setelah tahap penyisihan berakhir pada 7 
+Desember 2026. 
+
+2.​ Babak final akan dilaksanakan pada 19 Desember 2026, setelah kegiatan Technical 
+Meeting pada 12 Desember 2026. 
+
+3.​ Pada tahap final, tidak ada dataset baru yang diberikan. Finalis diminta untuk 
+menafsirkan dan mempertahankan model yang telah dikembangkan selama tahap 
+penyisihan. 
+
+4.​ Setiap tim wajib menyiapkan dua dokumen yang harus diunggah melalui Google Form 
+sebelum batas waktu: 
+
+-​ Laporan Teknis (Technical Report) dalam format pdf yang memperdalam 
+notebook. 
+
+-​ Slide Presentasi dalam format .pdf atau .pptx yang ringkas, informatif dan siap 
+digunakan dalam sesi presentasi. 
+
+5.​ Batas waktu pengumpulan kedua dokumen tersebut adalah pada tanggal 17 Desember 
+2026, pukul 23.59 WIB. 
+
+ 
+ 
+
+ 
+
+
+
+​  
+
+6.​ Presentasi final akan dilaksanakan secara daring melalui platform Zoom pada tanggal 
+yang akan diumumkan setelah pengumpulan dokumen. 
+
+-​ Setiap tim diberikan waktu maksimal 10 menit untuk memaparkan solusi mereka. 
+-​ Sesi dilanjutkan dengan tanya jawab selama 15 menit bersama dengan dewan juri. 
+-​ Seluruh anggota tim diharapkan hadir selama sesi presentasi, dan minimal dua 
+
+orang aktif berpartisipasi (misal sebagai presenter dan penjawab pertanyaan). 
+ 
+Kriteria Penilaian Babak Penyisihan 
+ 
+
+No. Komponen Penilaian Bobot (%) 
+
+1 Leaderboard Kaggle 65 
+
+2 Notebook 35 
+
+ 
+Kriteria Penilaian Babak Final 
+ 
+
+No. Komponen Penilaian Bobot (%) 
+
+1 Kemampuan menjawab pertanyaan, sikap, dan respon 30 
+
+2 Analisis masalah dan cara penyajian solusi 25 
+
+3 Presentasi yang terstruktur dan isi yang komprehensif 20 
+
+4 Kedalaman pemahaman 20 
+
+5 Kreativitas dan estetika PowerPoint 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+​  
+
+Hadiah dan Penghargaan 
+ 
+
+Juara 1 : Uang pembinaan + Sertifikat + plakat 
+Juara 2 : Uang pembinaan + Sertifikat + plakat 
+Juara 3 : Uang pembinaan + Sertifikat +  plakat 
+
+ 
+Informasi Lebih Lanjut 
+ 
+
+1.​ Pusat Informasi DATA SLAYER 4.0  
+●​ data-slayer.com 
+
+2.​ WhatsApp 
+●​ Contact Person: wa.me/6285168175342 - Haura 
+●​ Contact Person: wa.me/6281232116375 - Vey 
+
+3.​ Instagram  
+@dataslayer.tup

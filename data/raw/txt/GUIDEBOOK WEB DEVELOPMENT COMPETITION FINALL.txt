@@ -1,0 +1,300 @@
+﻿GUIDE BOOK PESERTA
+Web Development Competition
+
+JKB FESTIVAL 2026
+
+A. Latar Belakang
+
+Dunia saat ini tengah menghadapi tantangan global yang kompleks, mulai dari 
+kesenjangan akses informasi hingga isu lingkungan yang mendesak. Di tengah pesatnya 
+perkembangan teknologi, solusi berbasis web memiliki potensi besar untuk menjadi 
+jembatan perubahan.
+
+Untuk itu dalam rangka memperingati ulang tahun Jurusan Komputer dan Bisnis 
+Politeknik Negeri Cilacap, dan sebagai salah satu wadah untuk menampung dan 
+menunjukan talenta di bidang digital dalam bidang Web Development. Kami 
+mengadakan kompetisi berskala nasional JKB Fest Web Development Competition 2026 
+dengan tema “D-Core : Digital Competency and Innovation Arena”
+
+
+B. Tujuan Lomba
+
+Penyelenggaraan kompetisi ini bertujuan untuk menjadi sarana pengembangan 
+kompetensi mahasiswa dalam penguasaan teknologi web yang relevan dan berdampak 
+langsung di kehidupan saat ini. Peserta diharapkan mampu memanfaatkan  keahlian 
+teknis dengan pemahaman mendalam terhadap berbagai isu yang ada agar dapat 
+menghasilkan solusi digital yang tepat guna bagi masyarakat luas. Selain itu, ajang ini 
+juga menjadi wadah strategis untuk memupuk semangat profesionalisme serta 
+mendorong implementasi nyata dari disiplin ilmu yang ditekuni, sekaligus menjadi 
+sarana kolaborasi kreatif untuk menyemarakkan momentum perayaan JKB Festival 
+2026.
+C. Syarat & Ketentuan Peserta 
+
+
+Setiap peserta dilarang melakukan tindakan kecurangan dalam bentuk apapun, baik 
+secara individu dan tim. 
+
+Peserta hanya dapat mengikuti 1 tim. 
+
+Peserta wajib memposting twibbon lomba di feed Instagram masing-masing anggota 
+tim sebagai bagian dari proses verifikasi pendaftaran. 
+
+Akomodasi dan transportasi ke venue ditanggung oleh masing-masing tim jika lolos 
+ke babak final. 
+
+
+
+Keputusan juri bersifat mutlak dan tidak dapat diganggu gugat. 
+
+Panitia berhak mencabut status juara atau mendiskualifikasi peserta apabila 
+ditemukan adanya pelanggaran, kecurangan, atau tindakan tidak sportif.
+
+Peserta yang sudah mendaftar tetapi tidak mengumpulkan karya setelah batas waktu 
+yang ditentukan dianggap mengundurkan diri dari perlombaan.
+
+Peserta tidak diperkenankan untuk mengganti anggota tim setelah mendaftar.
+
+Peserta dilarang melakukan tindakan yang mengganggu, merugikan, atau 
+menyabotase tim lain selama proses perlombaan berlangsung.
+
+D. Ketentuan lomba
+
+Ketentuan Umum
+
+Peserta merupakan mahasiswa/i aktif D3, D4, S1 sederajat perguruan tinggi di 
+seluruh indonesia, dan bukan merupakan panitia JKB Fest 2026. 
+
+Peserta terdiri dari 1-3 orang per tim dan tidak diperkenankan mengganti anggota 
+tim setelah pendaftaran. 
+
+Setiap tim hanya diperbolehkan mengirim maksimal 1 karya.
+
+Karya merupakan hasil orisinal dan bukan meniru/menjiplak dari karya yang sudah 
+ada.
+
+Karya tidak mengandung unsur pornografi, SARA, atau hal-hal yang tidak pantas.
+
+Website yang dibuat harus orisinal dan kreatif.
+
+Web belum pernah dipublikasikan dan belum pernah diikutkan pada kompetisi 
+lainnya.
+
+Web harus sesuai dengan tema yang ditentukan.
+
+Setiap peserta wajib menyelesaikan administrasi pendaftaran. Pendaftaran dapat 
+dilakukan di https://jkbfest.com
+
+
+Peserta wajib bersedia mengikuti seluruh rangkaian acara, prosedur, dan ketentuan 
+perlombaan.
+
+
+
+Ketentuan Teknologi
+
+Karya yang dikembangkan berupa tampilan situs web yang responsif atau dapat 
+diakses dengan menyesuaikan ukuran pada perangkat yang berbeda.
+
+Website tidak boleh mengandung unsur SARA, pornografi, kekerasan, maupun 
+konten yang menyinggung pihak tertentu.
+
+Website harus mengangkat tema yang berkaitan dengan minimal satu dari poin 
+Sustainable Development Goals (SDGs) berikut :
+
+
+Digital Learning and Skill Improvment (Education)
+
+Growing the Economy Through Modernization (Economy)
+
+
+Website yang dibuat merupakan hasil orisinal tim peserta, belum pernah 
+dipublikasikan atau memenangkan dalam kompetisi serupa, serta tidak melanggar 
+hak cipta pihak lain
+
+Peserta diperbolehkan menggunakan foto atau video milik pribadi maupun yang 
+berasal dari internet untuk mendukung aspek visual dan estetika website yang 
+dikembangkan.
+
+Peserta dibebaskan menggunakan bahasa pemrograman apapun.
+
+Peserta dibebaskan menggunakan framework seperti React, Laravel, Vue, dan 
+lainnya.
+
+Peserta dilarang menggunakan CMS seperti WordPress, Joomla, Drupal, dan 
+lainnya.
+
+Peserta bebas menggunakan database apapun.
+
+Website yang dibuat wajib sudah di hosting dan dapat diakses secara online.
+
+Babak Penyisihan
+
+Peserta membuat dan mengumpulkan hasil karya berupa proposal, website yang sudah 
+di hosting, serta video demo website pada website yang disediakan (online).
+
+a) Ketentuan Video
+
+
+Video harus menggambarkan proses perancangan karya serta menampilkan 
+demonstrasi hasil pengembangan yang telah mencapai setidaknya 50% dari progres 
+keseluruhan.
+
+
+
+Video harus menunjukkan bagaimana cara pengguna berinteraksi dan menggunakan 
+website yang dikembangkan.
+
+Video dalam format MP4, dengan durasi maksimal 7 menit.
+
+Video diunggah ke platform Google Drive, dengan tautan disertakan saat peserta 
+mengumpulkan proposal melalui link yang telah disediakan. Judul video di Google 
+Drive harus menggunakan format: Nama Tim - Asal Institusi - JKBFEST2026
+
+b) Ketentuan Proposal
+
+Proposal dibuat pada kertas ukuran A4 dengan format huruf  Times New Roman, ukuran 
+untuk judul 16 pt, untuk isi 12 pt, dan jarak baris 1,5. Menggunakan margin 4433. Untuk 
+template proposal bisa mendownload pada link : Template Proposal
+E. Babak Final
+
+
+Juri akan menyeleksi hasil karya masing-masing tim sesuai waktu yang telah 
+ditentukan.
+
+Tim yang lolos (5 besar) akan diumumkan sesuai jadwal secara online melalui 
+website dan sosial media resmi.
+
+Peserta yang lolos ke babak final wajib mengkonfirmasi kehadiran.
+
+Peserta wajib membuat file presentasi / pitch deck untuk sesi final, dan 
+mengumpulkan file tersebut dalam format PPT atau PDF maksimal pada tanggal 21 
+Mei 2026 pukul 23.59.
+
+Peserta akan diberikan waktu untuk presentasi selama 10 menit dan dilanjutkan 
+dengan sesi tanya jawab 10 Menit dengan dewan juri.
+
+Penilaian babak final didasarkan pada kualitas presentasi, tanya jawab dengan 
+dewan juri, dan fungsionalitas website.
+
+Informasi teknis terkait final akan dijelaskan pada technical meeting yang wajib 
+diikuti oleh seluruh finalis.
+
+
+
+F. Kriteria Penilaian
+
+Kriteria Bobot Nilai
+
+UI/UX 25%
+
+Kreativitas dan Inovasi 20%
+
+Kesesuaian Tema 15%
+
+Kriteria Funsionalitas dan Fitur 30%
+
+Kelengkapan Teknis 10%
+
+G. Mekanisme pendaftaran dan pengumpulan
+
+Pendaftaran 
+
+
+a) Peserta mendaftarkan diri mulai dari tanggal 03 April 2026 – 26 April 2026 pada 
+website yang dapat diakses melalui link berikut : https://jkbfest.com 
+
+b) Peserta wajib mengirimkan berkas pendukung untuk melakukan pendaftaran seperti: 
+
+
+Kartu Tanda Mahasiswa (KTM).
+
+Bukti screenshot twibbon yang telah diunggah pada instagram masing-masing. 
+Unduh Twibbon disini Twibbon
+
+
+Bukti screenshot akun Instagram masing-masing anggota tim yang telah mengikuti 
+(follow) akun resmi JKB Fest yaitu @jkbfest.
+
+Seluruh dokumen digabungkan menjadi 1 file (.pdf) dengan format nama file : 
+JKBFEST-Nama Tim-Asal Instutisi.pdf
+
+
+c) Biaya pendaftaran untuk peserta lomba Web Dev JKB Fest 2026 sebesar Rp. 
+70.000,00 per tim. Pembayaran dilakukan melalui website https://jkbfest.com.
+
+d) Berkas akan diverifikasi oleh panitia paling lambat 2x24 jam setelah pengiriman 
+berkas.
+
+e) Peserta yang telah diverifikasi, akan mendapat status ”Terverifikasi” dan dapat 
+melanjutkan ke tahap pengumpulan karya pada halaman yang tersedia.
+
+
+
+Pengumpulan
+
+a) Pengumpulan karya berupa link gdrive dengan format “JKBFEST-Nama Tim-Asal 
+Institusi” yang berisi proposal, surat pernyataan orisinalitas karya, dan video demo. 
+Video demo maksimal 7 menit yang mencakup penjelasan singkat dan demo website.
+
+b) Link gdrive tersebut diinput pada website JKBFest https://jkbfest.com.
+
+c) Batas pengumpulan karya pada tanggal 02 Mei 2026 pukul 23.59 WIB.
+
+H. Hadiah dan Penghargaan
+
+Juara 1 : uang pembinaan + E - sertifikat + merchandise
+
+Juara 2 : uang pembinaan + E - sertifikat + merchandise
+
+Juara 3 : uang pembinaan + E - sertifikat + merchandise
+
+Finalis : E - setifikat + merchandise
+
+Peserta Lomba : E - sertifikat
+
+I. Biaya Pendaftaran
+
+Biaya pendaftaran untuk peserta lomba Web Dev JKB Fest 2026 sebesar Rp. 70.000,00 
+per tim. Pembayaran dilakukan melalui website https://jkbfest.com. Pembayaran dapat 
+dilakukan melalui rekening BNI 1952571644 (Ahmad Amirul Azmi) atau melalui 
+DANA 081327280676 (Ahmad Amirul Azmi)
+
+
+J. Timeline Perlombaan
+
+Kegiatan Timeline
+Pendaftaran 03 April 2026 - 26 April 2026
+
+Pengumpulan 03 April 2026 - 02 Mei 2026
+Seleksi 03 Mei 2026 - 14 Mei 2026
+
+Pengumuman 15 Mei 2026
+Technical Meeting 16 Mei 2026
+
+Final Project 22 Mei 2026
+Awarding 23 Mei 2026
+
+
+
+K. Lampiran
+
+Link Pendaftaran : https://jkbfest.com
+
+
+Peserta bisa mendownload Twibbon pada link berikut : Twibbon
+
+Template Proposal : Template Proposal
+
+
+Peserta bisa mendownload Surat Pernyataan Orisinalitas Karya pada link berikut : Surat 
+Pernyataan Orisinal
+
+L. Narahubung 
+
+Untuk informasi lebih lanjut, dapat ditanyakan ke penanggung jawab Lomba Web 
+Development JKB Festival 2026 melalui whatsapp : 
+
+
+Adhitya Putra : 085183700720
+
+Genice Alexa : 089514908998

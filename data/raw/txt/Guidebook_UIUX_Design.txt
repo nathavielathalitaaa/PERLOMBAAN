@@ -1,0 +1,1109 @@
+﻿DAFTAR ISI 
+ 
+
+Milad IT Fest 19 .................................................................................................................... 3 
+A. Tentang Milad IT Fest 19 .......................................................................................... 3 
+B. Tentang UI/UX Design Competition ......................................................................... 3 
+
+Konsep Perlombaan .............................................................................................................. 4 
+A. Nama dan Tagline ...................................................................................................... 4 
+B. Tema & Subtema Lomba ........................................................................................... 4 
+C. Bentuk dan Output Kompetisi ................................................................................... 5 
+D. Kebebasan Eksplorasi Ide .......................................................................................... 6 
+E. Alur Kompetisi .......................................................................................................... 6 
+F. Timeline UI/UX Design Competition ....................................................................... 7 
+
+Pendaftaran ........................................................................................................................... 7 
+A. Periode & Biaya Pendaftaran ..................................................................................... 7 
+B. Syarat Peserta & Tim ................................................................................................. 8 
+C. Mekanisme Pendaftaran ............................................................................................. 8 
+D. Konfirmasi Pendaftaran ............................................................................................. 8 
+
+Tahap Pengumpulan Karya & Seleksi ............................................................................... 9 
+A. Ketentuan Proposal / Design Brief ............................................................................ 9 
+B. Isi Proposal / Design Brief ......................................................................................... 1 
+C. Ketentuan Desain Mobile Application ...................................................................... 2 
+D. Format & Pengumpulan Karya .................................................................................. 3 
+E. Screening Karya ......................................................................................................... 3 
+F. Pengumuman Finalis ................................................................................................. 4 
+
+Persiapan Finalis ................................................................................................................... 5 
+A. Ketentuan Persiapan Finalis ...................................................................................... 5 
+B. Penyempurnaan Prototype ......................................................................................... 5 
+C. Technical Meeting ..................................................................................................... 6 
+
+Final Presentation ................................................................................................................. 6 
+A. Ketentuan Final Presentation ..................................................................................... 6 
+B. Struktur Presentasi ..................................................................................................... 6 
+C. Prototype Demonstration ........................................................................................... 7 
+D. Tanya Jawab .............................................................................................................. 7 
+E. Penilaian Final ........................................................................................................... 8 
+
+Ketentuan Umum .................................................................................................................. 9 
+A. Originalitas dan Hak Kekayaan Intelektual ............................................................... 9 
+B. Penggunaan Tools Desain .......................................................................................... 9 
+C. Penggunaan AI ........................................................................................................... 9 
+D. Penggunaan Aset Pihak Ketiga ................................................................................ 10 
+E. Plagiarisme dan Kecurangan ................................................................................... 11 
+F. Etika dan Konten ..................................................................................................... 11 
+G. Pelanggaran dan Sanksi ........................................................................................... 11 
+
+Kontak ................................................................................................................................. 12 
+
+ 
+
+
+
+ 
+
+Milad IT Fest 19 
+
+A. Tentang Milad IT Fest 19 
+
+Milad IT Fest 19 merupakan rangkaian kegiatan dalam rangka memperingati 19 tahun 
+
+Program Studi Teknik Informatika Universitas Islam Riau. Kegiatan ini diselenggarakan 
+
+sebagai wadah bagi mahasiswa, pelajar, dan masyarakat untuk berpartisipasi dalam berbagai 
+
+kegiatan yang menggabungkan teknologi, kreativitas, inovasi, dan kolaborasi. 
+
+Melalui rangkaian kegiatan yang diselenggarakan, Milad IT Fest 19 tidak hanya menjadi 
+
+momentum peringatan hari jadi Program Studi Teknik Informatika, tetapi juga menjadi ruang 
+
+bagi peserta untuk mengembangkan kemampuan, menunjukkan kreativitas, serta menghasilkan 
+
+karya dan solusi di bidang teknologi. 
+
+Salah satu kompetisi dalam rangkaian Milad IT Fest 19 adalah UI/UX Design 
+
+Competition, yang menjadi wadah bagi peserta untuk merancang solusi digital berbasis Mobile 
+
+Application dengan pendekatan UI/UX yang berorientasi pada pengguna dan memiliki potensi 
+
+dampak berkelanjutan. 
+
+B. Tentang UI/UX Design Competition 
+
+UI/UX Design Competition merupakan kompetisi desain solusi digital yang menantang 
+
+peserta untuk mengidentifikasi permasalahan nyata, memahami kebutuhan pengguna, dan 
+
+merancang solusi digital melalui pendekatan User Interface (UI) dan User Experience (UX). 
+
+Kompetisi ini berfokus pada perancangan Mobile Application, sehingga peserta tidak 
+
+dituntut untuk melakukan pengembangan atau coding aplikasi. Peserta ditantang untuk 
+
+menunjukkan kemampuan dalam memahami masalah, melakukan analisis, menyusun user 
+
+flow, merancang antarmuka, membangun interactive prototype, serta menjelaskan alasan di 
+
+balik keputusan desain yang dibuat. 
+
+Kompetisi mengacu pada salah satu dari empat fokus Sustainable Development Goals 
+
+(SDGs) yang telah ditentukan. Peserta diberikan kebebasan untuk menentukan permasalahan 
+
+dan bentuk solusi selama memiliki hubungan yang jelas dengan SDG yang dipilih. 
+
+Melalui kompetisi ini, peserta diharapkan mampu menghasilkan rancangan produk 
+
+digital yang tidak hanya menarik secara visual, tetapi juga relevan, mudah digunakan, 
+
+ 
+
+
+
+ 
+berorientasi pada pengguna, dan memiliki potensi dampak terhadap permasalahan yang 
+
+diangkat. 
+
+Konsep Perlombaan 
+
+A. Nama dan Tagline 
+
+1. Nama Resmi 
+
+UI/UX Design Competition — Milad IT Fest 2026 
+
+2. Tagline 
+
+“Designing Digital Solutions for Real-World Challenges” 
+
+3. Tema Milad IT Fest 2026 
+
+“Innovation & Technology: Creating Solutions, Shaping the Future” 
+
+4. Tema Kompetisi 
+
+“Technology for Sustainable Impact” 
+
+UI/UX Design Competition membawa semangat untuk menghubungkan teknologi, 
+
+desain, dan kebutuhan nyata pengguna melalui rancangan solusi digital yang relevan dan 
+
+memiliki potensi dampak berkelanjutan. 
+
+B. Tema & Subtema Lomba 
+
+Peserta wajib memilih satu dari empat fokus SDG berikut sebagai dasar pengembangan 
+
+karya. 
+
+1. SDG 3 — Good Health and Well-Being 
+
+Kesehatan dan Kesejahteraan 
+
+Peserta dapat mengeksplorasi permasalahan dan kebutuhan pengguna yang berkaitan 
+
+dengan akses informasi kesehatan, layanan kesehatan, kesehatan masyarakat, 
+
+kesejahteraan, maupun aspek lain yang relevan dengan kesehatan dan kualitas hidup. 
+
+ 
+
+
+
+ 
+2. SDG 4 — Quality Education 
+
+Pendidikan Berkualitas 
+
+Peserta dapat mengembangkan solusi yang berkaitan dengan akses pendidikan, proses 
+
+pembelajaran, literasi, pemerataan informasi pendidikan, pengembangan keterampilan, 
+
+maupun kebutuhan lain dalam ekosistem pendidikan. 
+
+3. SDG 8 — Decent Work and Economic Growth 
+
+Pekerjaan Layak dan Pertumbuhan Ekonomi 
+
+Peserta dapat mengeksplorasi permasalahan yang berkaitan dengan kesempatan kerja, 
+
+pengembangan keterampilan, produktivitas, kewirausahaan, UMKM, ekonomi digital, 
+
+maupun akses terhadap peluang ekonomi. 
+
+4. SDG 11 — Sustainable Cities and Communities 
+
+Kota dan Komunitas Berkelanjutan 
+
+Peserta dapat mengembangkan solusi yang berkaitan dengan mobilitas, pelayanan publik, 
+
+lingkungan perkotaan, pengelolaan komunitas, akses terhadap fasilitas publik, keamanan, 
+
+maupun aspek lain yang mendukung terciptanya kota dan komunitas yang inklusif, aman, 
+
+tangguh, dan berkelanjutan. 
+
+Pemilihan SDG tidak hanya ditunjukkan melalui pencantuman nama SDG, tetapi harus 
+
+memiliki hubungan yang jelas antara: 
+
+Permasalahan → Target Pengguna → Solusi → SDG → Potensi Dampak 
+
+C. Bentuk dan Output Kompetisi 
+
+UI/UX Design Competition merupakan kompetisi perancangan produk digital berbasis 
+
+Mobile Application. 
+
+Peserta tidak diwajibkan melakukan coding atau membangun aplikasi yang dapat di-
+
+install pada perangkat. Fokus penilaian adalah kualitas proses berpikir desain, pengalaman 
+
+pengguna, visual interface, prototype, serta kemampuan peserta mempertanggungjawabkan 
+
+keputusan desain. 
+
+1. Output wajib peserta 
+
+a. Proposal / Design Brief. 
+
+b. High-Fidelity Mobile Application Design. 
+
+c. Interactive Prototype. 
+
+ 
+
+
+
+ 
+2. Output tambahan 
+
+Peserta dapat mengumpulkan video presentasi/demo sebagai materi pendukung apabila 
+
+disyaratkan atau diizinkan oleh panitia. 
+
+Tidak terdapat jumlah minimum screen yang ditetapkan. Namun, peserta wajib 
+
+merancang screen dan alur yang memadai untuk menunjukkan solusi serta pengalaman 
+
+pengguna utama. 
+
+Setiap karya wajib memiliki setidaknya satu primary user flow yang dapat ditunjukkan 
+
+melalui interactive prototype. 
+
+D. Kebebasan Eksplorasi Ide 
+
+Peserta diberikan kebebasan dalam menentukan: 
+
+• permasalahan yang ingin diselesaikan; 
+
+• target pengguna; 
+
+• konsep dan fitur aplikasi; 
+
+• pendekatan desain; 
+
+• struktur dan user flow; dan 
+
+• gaya visual dan design system. 
+
+Peserta tidak dibatasi pada permasalahan atau bentuk solusi tertentu selama karya: 
+
+1. Berbentuk rancangan Mobile Application. 
+
+2. Memiliki permasalahan yang jelas. 
+
+3. Memiliki target pengguna yang jelas. 
+
+4. Relevan dengan salah satu SDG yang dipilih. 
+
+5. Memiliki solusi yang masuk akal dan berorientasi pada pengguna. 
+
+6. Menunjukkan potensi manfaat dan dampak. 
+
+E. Alur Kompetisi 
+
+Kompetisi menggunakan pendekatan: 
+
+IDENTIFY → RESEARCH → DEFINE → DESIGN → PROTOTYPE → PRESENT 
+
+→ IMPACT 
+
+ 
+
+
+
+ 
+Tahapan kompetisi: 
+
+Pendaftaran → Pengumpulan Karya → Screening → Pengumuman Finalis → 
+
+Technical Meeting → Final Presentation → Awarding 
+
+F. Timeline UI/UX Design Competition 
+
+Tahap Tanggal 
+
+Pendaftaran Batch 1 16–31 Oktober 2026 
+
+Pendaftaran Batch 2 1–19 November 2026 
+
+Batas Pengumpulan Karya 19 November 2026 
+
+Penilaian & Penyisihan 20–27 November 2026 
+
+Pengumuman Finalis 28 November 2026 
+
+Technical Meeting 29 November 2026 
+
+Final Presentation 5 Desember 2026 
+
+Seminar Nasional & Awarding 10 Desember 2026 
+
+ 
+
+Catatan: Jadwal dapat mengalami penyesuaian berdasarkan kebutuhan teknis 
+
+penyelenggaraan. Setiap perubahan akan disampaikan melalui kanal resmi panitia. 
+
+Pendaftaran 
+
+A. Periode & Biaya Pendaftaran 
+
+Batch Periode Biaya 
+
+Batch 1 16–31 Oktober 2026 Rp80.000 
+
+Batch 2 1 – 19 November 2026 Rp100.000 
+
+ 
+
+Biaya pendaftaran berlaku untuk satu tim. 
+
+Biaya yang telah dibayarkan tidak dapat dikembalikan dengan alasan apa pun, kecuali 
+
+terdapat ketentuan lain dari panitia. 
+
+ 
+
+
+
+ 
+
+B. Syarat Peserta & Tim 
+
+1. Peserta dapat berasal dari: 
+
+a. Pelajar SMA/SMK sederajat. 
+
+b. Mahasiswa. 
+
+2. Peserta mengikuti kompetisi dalam bentuk tim. 
+
+3. Setiap tim terdiri atas 2–3 orang. 
+
+4. Seluruh anggota tim wajib berasal dari institusi yang sama. 
+
+5. Setiap peserta hanya dapat terdaftar dalam satu tim. 
+
+6. Setiap tim hanya diperbolehkan mengirimkan satu karya. 
+
+7. Anggota tim bertanggung jawab atas keaslian dan substansi karya yang dikumpulkan. 
+
+8. Peserta wajib memberikan data identitas yang benar dan dapat dipertanggungjawabkan. 
+
+9. Peserta wajib mengikuti seluruh ketentuan dan jadwal yang telah ditetapkan panitia. 
+
+C. Mekanisme Pendaftaran 
+
+1. Ketua tim mengisi formulir pendaftaran resmi yang disediakan panitia. 
+
+2. Peserta mengisi data seluruh anggota tim sesuai identitas yang sebenarnya. 
+
+3. Peserta memilih salah satu fokus SDG yang akan digunakan dalam karya. 
+
+4. Peserta melakukan pembayaran sesuai batch pendaftaran. 
+
+5. Peserta mengunggah bukti pembayaran dan dokumen yang diminta melalui formulir 
+
+pendaftaran. 
+
+6. Peserta memastikan seluruh data yang dikirim telah benar sebelum melakukan submit. 
+
+7. Pengumpulan Karya: Setelah melakukan pendaftaran, peserta dapat langsung 
+
+mengunggah dokumen proposal dan tautan karya melalui formulir resmi pengumpulan 
+
+karya pada tautan berikut: form pengumpulan karya 
+
+8. Peserta mengikuti instruksi lanjutan dari panitia melalui media komunikasi resmi. 
+
+D. Konfirmasi Pendaftaran 
+
+Setelah mengirimkan formulir: 
+
+1. Ketua tim melakukan konfirmasi kepada Contact Person. 
+
+ 
+
+
+
+ 
+2. Konfirmasi dilakukan dengan menyertakan bukti pembayaran dan informasi tim apabila 
+
+diminta. 
+
+3. Panitia melakukan verifikasi data pendaftaran. 
+
+4. Tim yang telah diverifikasi akan memperoleh informasi lanjutan mengenai mekanisme 
+
+pengumpulan karya. 
+
+Tahap Pengumpulan Karya & Seleksi 
+
+A. Ketentuan Proposal / Design Brief 
+
+Proposal / Design Brief merupakan dokumen yang menjelaskan proses berpikir dan 
+
+konsep desain peserta. 
+
+Proposal wajib: 
+
+1. Menggunakan Bahasa Indonesia atau Bahasa Inggris yang jelas dan mudah dipahami. 
+
+2. Berformat PDF. 
+
+3. Memuat informasi tim dan karya secara lengkap. 
+
+4. Menjelaskan permasalahan dan target pengguna. 
+
+5. Menjelaskan hubungan karya dengan SDG yang dipilih. 
+
+6. Menjelaskan konsep solusi dan user flow. 
+
+7. Menampilkan proses desain dan hasil high-fidelity. 
+
+8. Menyertakan link interactive prototype. 
+
+9. Mencantumkan sumber data, referensi, dan aset pihak ketiga yang digunakan. 
+
+Proposal tidak hanya dinilai berdasarkan tampilan dokumen, tetapi terutama 
+
+berdasarkan kualitas analisis, proses desain, dan keterkaitan antara masalah, pengguna, solusi, 
+
+SDG, serta dampak. 
+
+ 
+
+
+
+ 
+
+B. Isi Proposal / Design Brief 
+
+Proposal sekurang-kurangnya memuat: 
+
+Bagian Deskripsi 
+
+Cover • Judul karya, nama tim, nama anggota, institusi, dan SDG 
+yang dipilih. 
+
+Problem Background • Menjelaskan latar belakang dan kondisi permasalahan yang 
+ingin diselesaikan. 
+
+Target User • Menjelaskan siapa pengguna utama, karakteristik pengguna, 
+kebutuhan, dan pain points. 
+
+User Research / Insight • Menjelaskan metode dan hasil pengumpulan insight, seperti 
+observasi, wawancara, survei, studi literatur, atau metode 
+relevan lainnya. 
+
+Problem Statement • Merumuskan masalah utama berdasarkan hasil analisis 
+pengguna dan kondisi yang ditemukan. 
+
+SDG Alignment Menjelaskan: 
+
+• SDG yang dipilih. 
+
+• Alasan pemilihan. 
+
+• Hubungan masalah dengan SDG. 
+
+• Potensi kontribusi solusi terhadap SDG. 
+
+Solution Concept • Menjelaskan ide solusi, konsep aplikasi, value proposition, 
+dan fitur utama. 
+
+User Flow • Menampilkan alur pengguna utama dari awal hingga tujuan 
+utama tercapai. 
+
+Wireframe • Menampilkan rancangan awal atau low-fidelity untuk 
+menunjukkan struktur dan hierarki informasi. 
+
+High-Fidelity Design • Menampilkan rancangan antarmuka final Mobile 
+Application, termasuk screen utama dan komponen desain 
+yang relevan. 
+
+Interactive Prototype • Mencantumkan tautan prototype yang dapat diakses oleh 
+panitia dan juri. 
+
+ 
+
+
+
+ 
+
+Bagian Deskripsi 
+
+Design Rationale • Menjelaskan alasan di balik keputusan desain, termasuk 
+pertimbangan UX, UI, layout, typography, warna, 
+komponen, dan interaksi. 
+
+Impact & Sustainability • Menjelaskan manfaat solusi, potensi implementasi, potensi 
+dampak terhadap pengguna, serta kontribusinya terhadap 
+SDG yang dipilih. 
+
+Referensi dan Sumber • Mencantumkan sumber data, penelitian, referensi, aset, font, 
+ikon, ilustrasi, atau materi pihak ketiga yang digunakan. 
+
+ 
+
+C. Ketentuan Desain Mobile Application 
+
+1. Karya wajib berupa rancangan Mobile Application. 
+
+2. Karya tidak diperkenankan berupa Website atau Desktop Application sebagai output 
+
+utama. 
+
+3. Peserta tidak diwajibkan membuat aplikasi yang dapat di-install. 
+
+4. Peserta wajib menghasilkan high-fidelity design. 
+
+5. Peserta wajib menghasilkan interactive prototype. 
+
+6. Peserta wajib menunjukkan minimal satu primary user flow. 
+
+7. Tidak ada jumlah minimum atau maksimum screen. 
+
+8. Jumlah screen harus disesuaikan dengan kebutuhan solusi dan user flow. 
+
+9. Desain harus menunjukkan konsistensi komponen dan pengalaman pengguna. 
+
+10. Peserta bebas menggunakan tools desain yang mendukung proses perancangan UI/UX. 
+
+ 
+
+
+
+ 
+
+D. Format & Pengumpulan Karya 
+
+Karya yang dikumpulkan terdiri atas: 
+
+No. Dokumen / Output Status 
+
+1 Proposal / Design Brief PDF Wajib 
+
+2 High-Fidelity Mobile Application Design Wajib 
+
+3 Interactive Prototype Wajib 
+
+4 Video Presentasi / Demo Opsional 
+
+Link Pengumpulan Karya: Berkas proposal dan tautan karya dikumpulkan melalui 
+
+formulir resmi: form pengumpulan karya 
+
+Batas akhir pengumpulan: 19 November 2026, pukul 23.59 WIB. 
+
+Untuk berkas desain dan prototype: 
+
+1. Peserta dapat menggunakan tools seperti Figma atau tools desain lain yang relevan. 
+
+2. Link desain/prototype wajib dapat diakses oleh panitia dan juri selama masa penilaian. 
+
+3. Peserta bertanggung jawab memastikan link tidak mengalami kendala akses. 
+
+4. Apabila menggunakan Figma, peserta disarankan memberikan akses view kepada 
+
+panitia/juri dan tidak mengubah akses selama masa penilaian. 
+
+5. Peserta wajib menyimpan berkas final sesuai batas waktu pengumpulan. 
+
+E. Screening Karya 
+
+Seluruh karya akan melalui tahap penyisihan berdasarkan dokumen dan desain yang 
+
+dikumpulkan. 
+
+ 
+
+
+
+ 
+Penilaian screening: 
+
+Aspek Penilaian Bobot Fokus Penilaian 
+
+Estetika visual, hierarki informasi, layout, typography, 
+UI (Visual Design) 20% penggunaan warna, konsistensi komponen, dan design 
+
+system. 
+
+Kemudahan penggunaan, kejelasan navigasi, logika 
+UX (User Experience) 20% user flow, struktur informasi, dan penerapan 
+
+pendekatan berorientasi pengguna. 
+
+Keunikan ide, kreativitas dalam merancang solusi, 
+Kreativitas & Inovasi 20% serta pendekatan yang digunakan dalam menyelesaikan 
+
+permasalahan. 
+
+Relevansi permasalahan dan solusi dengan SDG 3, 
+Kesesuaian SDG 15% 
+
+SDG 4, SDG 8, atau SDG 11. 
+
+Kedalaman identifikasi masalah, pemahaman target 
+Analisis 
+
+15% pengguna, research, pain points, serta kejelasan 
+Permasalahan 
+
+problem statement. 
+
+Kerapian dan kelengkapan proposal/dokumen, 
+Dokumentasi 10% kejelasan proses desain, serta informasi pendukung 
+
+karya. 
+
+Total 100%  
+
+ 
+
+F. Pengumuman Finalis 
+
+1. Berdasarkan hasil screening, panitia menetapkan peserta yang berhak melanjutkan ke 
+
+tahap Final Presentation. 
+
+2. Jumlah finalis ditentukan oleh panitia berdasarkan hasil seleksi dan kondisi pelaksanaan 
+
+kompetisi. 
+
+3. Pengumuman finalis disampaikan melalui media komunikasi resmi Milad IT Fest. 
+
+4. Finalis wajib mengikuti Technical Meeting. 
+
+5. Finalis wajib mengikuti Final Presentation sesuai jadwal yang telah ditentukan. 
+
+ 
+
+
+
+ 
+
+Persiapan Finalis 
+
+A. Ketentuan Persiapan Finalis 
+
+Setelah dinyatakan lolos sebagai finalis, peserta diberikan waktu untuk: 
+
+1. Meninjau kembali hasil screening dan karya. 
+
+2. Menyempurnakan high-fidelity design. 
+
+3. Menyempurnakan interactive prototype. 
+
+4. Memastikan seluruh primary user flow dapat ditunjukkan. 
+
+5. Mempersiapkan materi presentasi. 
+
+6. Mempersiapkan demo prototype. 
+
+7. Memastikan seluruh anggota tim memahami permasalahan, proses desain, solusi, dan 
+
+keputusan desain. 
+
+Tahap persiapan finalis bukan merupakan tahap untuk mengubah konsep secara 
+
+keseluruhan tanpa alasan. Penyempurnaan harus tetap mempertahankan substansi solusi yang 
+
+telah dikumpulkan pada tahap screening. 
+
+B. Penyempurnaan Prototype 
+
+Finalis wajib memastikan: 
+
+1. Prototype dapat diakses oleh juri. 
+
+2. Interaksi utama dapat dijalankan. 
+
+3. User flow utama dapat ditunjukkan. 
+
+4. Komponen UI konsisten. 
+
+5. Prototype merepresentasikan solusi yang dijelaskan dalam proposal. 
+
+6. Tidak terdapat perubahan yang bertentangan dengan ketentuan kompetisi. 
+
+Panitia dapat meminta finalis mengirimkan kembali link prototype atau materi 
+
+presentasi sebelum Final Presentation. 
+
+ 
+
+
+
+ 
+
+C. Technical Meeting 
+
+Technical Meeting dilaksanakan sebelum Final Presentation untuk menjelaskan: 
+
+1. Teknis pelaksanaan Final Presentation. 
+
+2. Urutan presentasi. 
+
+3. Ketentuan penggunaan platform konferensi. 
+
+4. Durasi presentasi dan Q&A. 
+
+5. Mekanisme demo prototype. 
+
+6. Ketentuan teknis lainnya. 
+
+Ketentuan teknis yang disampaikan pada Technical Meeting menjadi bagian dari 
+
+mekanisme pelaksanaan Final Presentation. 
+
+Final Presentation 
+
+A. Ketentuan Final Presentation 
+
+1. Final Presentation dilaksanakan secara daring. 
+
+2. Setiap tim wajib mengikuti presentasi sesuai jadwal yang diberikan panitia. 
+
+3. Seluruh anggota tim diharapkan memahami dan dapat menjelaskan karya. 
+
+4. Peserta wajib menyiapkan perangkat dan koneksi internet yang memadai. 
+
+5. Peserta wajib menyiapkan berkas presentasi dan prototype sebelum sesi dimulai. 
+
+6. Peserta wajib melakukan presentasi sesuai batas waktu. 
+
+7. Setelah presentasi, peserta mengikuti sesi tanya jawab bersama juri. 
+
+8. Keputusan dan penilaian juri dilakukan berdasarkan rubrik yang telah ditetapkan. 
+
+B. Struktur Presentasi 
+
+Durasi presentasi adalah 10 menit. 
+
+Materi presentasi sekurang-kurangnya mencakup: 
+
+1. Problem: Permasalahan yang diangkat dan kondisi yang melatarbelakangi masalah. 
+
+2. SDG: SDG yang dipilih dan hubungan masalah dengan SDG. 
+
+3. Target User: Pengguna utama, kebutuhan, dan pain points. 
+
+ 
+
+
+
+ 
+4. Research / Insight: Temuan utama dari proses research. 
+
+5. Problem Statement: Rumusan masalah yang menjadi dasar solusi. 
+
+6. Solution: Konsep aplikasi, fitur utama, dan value proposition. 
+
+7. User Flow: Alur penggunaan utama. 
+
+8. UI/UX Design: High-fidelity design dan design system atau komponen penting. 
+
+9. Prototype Demo: Demonstrasi primary user flow. 
+
+10. Design Rationale: Alasan keputusan desain. 
+
+11. Impact: Manfaat, potensi dampak, dan hubungan dengan SDG. 
+
+Peserta disarankan mengatur materi secara ringkas agar seluruh aspek dapat 
+
+disampaikan dalam batas waktu. 
+
+C. Prototype Demonstration 
+
+Demonstrasi prototype dilakukan sebagai bagian dari presentasi. 
+
+Peserta wajib menunjukkan: 
+
+1. Primary user flow. 
+
+2. Interaksi utama. 
+
+3. Navigasi. 
+
+4. Respons atau perubahan interface yang relevan. 
+
+5. Hubungan antara desain dan solusi yang ditawarkan. 
+
+Demo tidak harus menunjukkan seluruh screen. Peserta dapat memprioritaskan alur 
+
+yang paling merepresentasikan solusi. 
+
+D. Tanya Jawab 
+
+Setelah presentasi, juri diberikan waktu 5 menit untuk melakukan tanya jawab. 
+
+Pertanyaan dapat mencakup: 
+
+• permasalahan dan hasil research; 
+
+• target pengguna; 
+
+• alasan pemilihan solusi; 
+
+• keputusan UX/UI; 
+
+ 
+
+
+
+ 
+• user flow; 
+
+• prototype; 
+
+• kesesuaian SDG; 
+
+• potensi implementasi; 
+
+• potensi dampak; dan 
+
+• penggunaan AI atau tools tertentu apabila relevan. 
+
+Peserta wajib memberikan jawaban berdasarkan pemahaman terhadap karya dan alasan 
+
+desain yang dapat dipertanggungjawabkan. 
+
+Total waktu setiap tim: 10 menit presentasi + 5 menit Q&A = 15 menit 
+
+E. Penilaian Final 
+
+Penilaian Final Presentation: 
+
+Aspek Penilaian Bobot Fokus Penilaian 
+
+Kelancaran prototype, kualitas interaksi, konsistensi 
+Prototype Interaktif 30% komponen, alur penggunaan, dan simulasi fungsi 
+
+utama solusi. 
+
+Pemahaman terhadap permasalahan, target pengguna, 
+Penguasaan Materi 20% proses desain, user flow, serta kemampuan 
+
+menjelaskan alasan keputusan desain. 
+
+Teknik penyampaian, struktur materi, kejelasan 
+Presentasi 20% artikulasi, kemampuan menyampaikan solusi, dan 
+
+manajemen waktu. 
+
+Relevansi solusi terhadap permasalahan, potensi 
+Solusi & Dampak 15% implementasi, manfaat bagi target pengguna, serta 
+
+potensi dampak terhadap SDG yang dipilih. 
+
+Ketepatan, relevansi, dan ketegasan dalam menjawab 
+Tanya Jawab 15% pertanyaan serta kemampuan mempertahankan 
+
+keputusan desain berdasarkan alasan yang logis. 
+
+Total 100%  
+
+ 
+
+ 
+
+
+
+ 
+
+Ketentuan Umum 
+
+A. Originalitas dan Hak Kekayaan Intelektual 
+
+1. Seluruh karya wajib merupakan hasil karya asli peserta. 
+
+2. Karya tidak boleh merupakan hasil plagiarisme. 
+
+3. Karya tidak boleh menggunakan karya peserta lain tanpa izin. 
+
+4. Karya yang pernah menjadi juara dalam kompetisi lain tidak diperkenankan untuk 
+
+diikutsertakan. 
+
+5. Peserta bertanggung jawab atas seluruh materi yang digunakan dalam karya. 
+
+6. Apabila terdapat klaim hak cipta atau pelanggaran kekayaan intelektual, tanggung jawab 
+
+berada pada peserta/tim. 
+
+7. Panitia berhak menggunakan karya peserta untuk kebutuhan dokumentasi, publikasi, dan 
+
+promosi kegiatan dengan tetap mencantumkan identitas kreator. 
+
+B. Penggunaan Tools Desain 
+
+Peserta bebas menggunakan tools desain yang relevan, seperti: 
+
+• Figma; 
+
+• Adobe XD; 
+
+• Sketch; 
+
+• Penpot; 
+
+• Framer; 
+
+• Lunacy; dan 
+
+• tools desain lain yang mendukung perancangan UI/UX. 
+
+Penggunaan tools tidak menjadi aspek utama penilaian. Penilaian berfokus pada kualitas 
+
+karya dan proses desain. 
+
+C. Penggunaan AI 
+
+AI diperbolehkan sebagai alat bantu, tetapi tidak boleh menggantikan proses berpikir, 
+
+keputusan desain, dan kontribusi utama peserta. 
+
+ 
+
+
+
+ 
+AI dapat digunakan untuk: 
+
+1. Brainstorming dan ideasi. 
+
+2. Eksplorasi konsep. 
+
+3. Membantu menyusun atau memperbaiki teks. 
+
+4. Membantu melakukan eksplorasi visual. 
+
+5. Membantu memperoleh alternatif solusi. 
+
+6. Membantu proses evaluasi atau analisis selama hasilnya diverifikasi oleh peserta. 
+
+7. Fitur AI yang tersedia pada software desain. 
+
+Peserta wajib: 
+
+1. Memahami seluruh bagian karya yang dikumpulkan. 
+
+2. Dapat menjelaskan alasan di balik keputusan desain. 
+
+3. Memastikan informasi yang diperoleh dari AI telah diverifikasi. 
+
+4. Bertanggung jawab penuh atas hasil akhir. 
+
+AI tidak diperbolehkan digunakan untuk: 
+
+1. Menghasilkan keseluruhan karya secara otomatis tanpa kontribusi desain yang berarti dari 
+
+peserta. 
+
+2. Memalsukan hasil user research, survei, wawancara, atau data pendukung. 
+
+3. Mengambil atau mereplikasi karya orang lain untuk diklaim sebagai karya sendiri. 
+
+4. Menghasilkan informasi palsu yang digunakan sebagai dasar utama keputusan desain. 
+
+Apabila penggunaan AI memberikan kontribusi yang signifikan terhadap karya, juri 
+
+dapat meminta peserta menjelaskan bagaimana AI digunakan dan bagaimana peserta 
+
+melakukan verifikasi atau pengembangan terhadap hasil tersebut. 
+
+D. Penggunaan Aset Pihak Ketiga 
+
+1. Penggunaan ikon, ilustrasi, foto, font, template, maupun aset pihak ketiga diperbolehkan 
+
+selama sesuai dengan lisensi yang berlaku. 
+
+2. Peserta wajib memastikan aset yang digunakan memiliki izin penggunaan yang sesuai. 
+
+3. Sumber aset wajib dicantumkan dalam proposal apabila diperlukan. 
+
+4. Peserta tidak diperkenankan menggunakan aset berhak cipta secara ilegal. 
+
+ 
+
+
+
+ 
+5. Penggunaan aset tidak boleh menimbulkan klaim bahwa aset tersebut dibuat sendiri oleh 
+
+peserta. 
+
+E. Plagiarisme dan Kecurangan 
+
+Peserta dilarang: 
+
+1. Menyalin karya peserta lain. 
+
+2. Menggunakan karya orang lain tanpa atribusi atau izin. 
+
+3. Memalsukan identitas anggota tim. 
+
+4. Memalsukan data penelitian atau hasil observasi. 
+
+5. Melakukan manipulasi terhadap dokumen atau link karya. 
+
+6. Menggunakan cara lain yang memberikan keuntungan tidak adil dalam kompetisi. 
+
+Panitia dan juri berhak melakukan pemeriksaan apabila terdapat dugaan pelanggaran. 
+
+F. Etika dan Konten 
+
+Karya tidak diperbolehkan mengandung: 
+
+• pornografi; 
+
+• SARA; 
+
+• diskriminasi; 
+
+• ujaran kebencian; 
+
+• kekerasan yang tidak relevan dengan konteks solusi; 
+
+• konten yang melanggar hukum; atau 
+
+• konten yang melanggar hak cipta atau hak pihak lain. 
+
+Karya harus memperhatikan etika desain, keamanan pengguna, dan penggunaan 
+
+informasi yang bertanggung jawab. 
+
+G. Pelanggaran dan Sanksi 
+
+Pelanggaran terhadap ketentuan kompetisi dapat dikenakan sanksi berupa: 
+
+1. Peringatan. 
+
+2. Pengurangan nilai. 
+
+3. Pembatalan karya. 
+
+ 
+
+
+
+ 
+4. Diskualifikasi. 
+
+5. Pembatalan status finalis atau pemenang apabila pelanggaran ditemukan setelah 
+
+pengumuman. 
+
+Jenis sanksi disesuaikan dengan tingkat pelanggaran dan keputusan panitia. 
+
+Keputusan dewan juri terkait hasil penilaian bersifat final dan tidak dapat diganggu 
+
+gugat. 
+
+Kontak 
+
+Untuk informasi, pertanyaan, dan koordinasi terkait UI/UX Design Competition, peserta 
+
+dapat menghubungi panitia melalui kontak resmi berikut: 
+
+Contact Person 
+
+082172093390 (Adit) 
+
+081226906582 (Frisca) 
+
+Official Instagram 
+
+@miladtiuir 
+
+@technofestuir 
+
+Website 
+
+miladitfest.my.id 
+
+Peserta diharapkan menggunakan kanal komunikasi resmi yang telah disediakan dan 
+
+mencantumkan identitas tim ketika menyampaikan pertanyaan atau kendala terkait kompetisi.

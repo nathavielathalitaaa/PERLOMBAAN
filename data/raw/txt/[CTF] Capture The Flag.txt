@@ -1,0 +1,705 @@
+﻿RULEBOOK 
+
+{ 
+
+COMPETITION 
+
+CAPTURE 
+THE FLAG 
+
+In Collaboration © 
+
+@ COMPFEST
+
+
+
+DESKRIPSI 
+Pada CTF COMPFEST 18, tipe kompetisi akan dilaksanakan 
+
+dengan format Jeopardy pada tahap penyisihan dan Jeopardy 
+
+dan 1 vs 1 pada tahap final. Pada tahap penyisihan, peserta akan 
+
+dihadapkan pada serangkaian tantangan yang mencakup 
+
+berbagai bidang, seperti Binary Exploitation, Cryptography, 
+
+Forensics, Reverse Engineering, Web Exploitation, Blockchain 
+
+dan Misc. Pada tahap final, para peserta akan dihadapkan pada 
+
+serangkaian challenge dalam format jeopardy dengan bidang 
+
+Binary Exploitation, Cryptography, Forensics, Reverse 
+
+Engineering, dan Web Exploitation, serta format | vs 1 yang akan 
+
+dijelaskan lebih lanjut nantinya. 
+
+Selain kompetisi yang ditujukan khusus untuk masyarakat 
+
+Indonesia, CTF COMPFEST 18 juga menyelenggarakan mirror 
+
+contest yang terdaftar di situs CTFtime yang memungkinkan 
+
+peserta dari seluruh dunia untuk berpartisipasi. Soal-soal dalam 
+
+mirror contest ini berasal dari tahap penyisihan agar peserta 
+
+berkesempatan untuk menguji kKemampuan mereka dalam 
+
+lingkungan yang kompetitif secara global.
+
+
+
+DESKRIPSI 
+CTF COMPFEST 18 adalah kompetisi berskala nasional yang 
+
+diadakan oleh Fakultas Ilmu Komputer, Universitas Indonesia, 
+
+dengan tujuan mendorong pengembangan keterampilan dalam 
+
+menangani tantangan keamanan_ siber. Kompetisi _ ini 
+
+menawarkan platform yang menarik dan realistis bagi para 
+
+peserta untuk mengasah kemampuan mereka dalam 
+
+memecahkan masalah yang sering terjadi dalam dunia 
+
+keamanan siber. Para peserta juga memiliki kesempatan untuk 
+
+mengikuti sesi Hacker Class yang dirancang khusus untuk 
+
+memberikan pemahaman dasar tentang CTF serta teknik-teknik 
+
+yang diperlukan untuk sukses dalam kompetisi.
+
+
+
+PENGHARGAAN 
+
+Rp7.000.000 am 
+Rp4.500.000 Bias 
+
+_ Rp2.500.000 aaa 
+-Rp!.000.000 ]Raream 
+Rpl.000.000 ]Ratiam 
+
+BIAYA PENDAFTARAN 
+( Batch] Rp60,000/tim 
+
+“Batch? Rpl00,000/tim 
+
+
+
+KETENTUAN UMUM 
+. Peserta adalah pihak yang telah mengikuti mekanisme pendaftaran pada 
+
+website resmi COMPFEST 18 (https://compfest.id/). 
+
+. Peserta harus melengkapi berkas pendaftaran dengan data yang benar dan 
+
+legal secara hukum. 
+
+. Peserta yang tidak memenuhi persyaratan pendaftaran sampai waktu yang 
+
+ditentukan akan dinyatakan gugur. 
+
+. Peserta menyetujui untuk sewaktu-waktu dihubungi oleh  panitia 
+
+COMPFEST 18 ataupun partner dari COMPFEST 18. 
+
+. Peserta bukan merupakan panitia COMPFEST 18. 
+
+. Peserta merupakan Warga Negara Indonesia. 
+
+. Setiap peserta hanya boleh terdaftar pada tepat 1 (satu) tim pada cabang 
+
+kompetisi yang sama. 
+
+. Setiap peserta diperbolehkan untuk mengikuti lebih dari 1 (satu) kompetisi. 
+
+. Peserta yang lolos dari babak penyisihan pada lebih dari 1 (satu) cabang 
+
+kompetisi hanya dapat mengikuti rangkaian acara final pada 1 (satu) cabang 
+
+kompetisi. 
+
+10. Karya yang dilombakan pada kompetisi COMPFEST 18 harus merupakan 
+
+karya orisinal peserta. 
+
+1. Hak kekayaan intelektual dari karya peserta pada kompetisi COMPFEST 18 
+
+akan tetap menjadi hak milik peserta. 
+
+12. COMPFEST 18 berhak untuk mempublikasikan karya peserta yang 
+
+diikutsertakan pada kompetisi COMPFEST 18 dengan tetap mencantumkan 
+
+nama peserta dan bukan untuk tujuan komersial.
+
+
+
+KETENTUAN UMUM 
+15. Setiap peserta yang lolos dari babak penyisihan wajib mengkonfirmasi 
+
+kehadiran pada rangkaian acara Final secara luring. 
+
+14. Peserta yang tidak mengkonfirmasi kehadiran acara Final hingga batas 
+
+waktu yang ditentukan panitia akan dianggap mengundurkan diri. 
+
+15. Peserta yang merupakan finalis kompetisi COMPFEST 18 wajib menghadiri 
+
+acara Awarding Night yang diselenggarakan secara luring. 
+
+16. Pemenang yang tidak menghadiri Awarding Night akan kehilangan hak atas 
+
+hadiah yang dimenangkan kecuali telah memberikan alasan yang telah 
+
+diterima oleh panitia. 
+
+17. Panitia berhak mencabut gelar juara dari pemenang apabila ditemukan 
+
+kecurangan atau pelanggaran hukum dalam karya yang dilombakan 
+
+ataupun dalam proses pelaksanaan perlombaan. 
+
+18. Panitia berhak mendiskualifikasi tim yang melakukan tindak kecurangan 
+
+ataupun pelanggaran terhadap aturan kompetisi COMPFEST 18. 
+
+19. Keputusjaunri dan panitia COMPFEST 18 tidak dapat diganggu gugat. 
+
+20. Panitia dapat mengubah seluruh atau sebagian konten rulebook sewaktu- 
+
+waktu. Segala perubahan yang terjadi akan diberitahukan melalui email 
+
+dan/atau website compfest.id. 
+
+
+
+KETENTUAN KHUSUS 
+1. Setiap peserta mematuhi ketentuan umum kompetis! 
+
+COMPFEST. 
+
+2. Peserta tidak termasuk dalam ban list TCPIP. Ban list dapat 
+
+diakses melalui https://ban.1pc.tf/. 
+
+3. Bagi Juara 1 (Champion) dari Capture The Flag COMPFEST 
+
+tahun-tahun sebelumnya, dapat mendaftar sebagai peserta 
+
+dengan syarat seluruh anggota tim-nya bellum pernah 
+
+mendapatkan posisi Top 3 dalam perlombaan tahun-tahun 
+
+sebelumnya. 
+
+4. Peserta membentuk tim terdiri dari minimal 1 (satu) dan 
+
+paling banyak 3 (tiga) orang peserta. 
+
+5. Peserta merupakan siswa SMA/sederajat atau mahasiswa 
+
+aktif S1/D3/sederajat. 
+
+6. Satu (1) tim boleh terdiri dari SMA/Perguruan Tinggi yang 
+
+berbeda. 
+
+7. Peserta bukan panitia pada kompetisi Capture the Flag 
+
+COMPFEST 18 ini. 
+
+8. Peserta yang dapat mengikuti kompetisi adalah peserta 
+
+yang sudah diverifikasi oleh panitia COMPFEST dan tidak 
+
+dapat digantikan oleh orang lain selama kompetisi 
+
+berlangsung.
+
+
+
+PROSEDUR 
+PENDAFTARAN 
+
+. Periode registrasi adalah 
+
+a. Batch 1: 17 Juni 2026 - 9 Juli 2026 
+
+b. Batch 2: 10 Juli 2026 - 18 Juli 2026 
+
+. Setiap calon peserta membuat akun pada situs COMPFEST (https:// 
+
+compfest.id) dan mengisi data diri dengan lengkap. 
+
+2. Ketua tim membuat tim dan mengisi nama tim (maksimal 30 karakter). 
+
+. Setelah proses pembuatan tim selesai, ketua tim dapat mengundang anggota 
+
+tim melalui email atau invitation link. 
+
+. Peserta (baik anggota maupun ketua) mengisi semua data diri yang diperlukan 
+
+dengan benar. 
+
+. Peserta mengunggah semua berkas yang diperlukan. Detail ketentuan 
+
+mengenai berkas dapat dilihat di bagian berkas pendaftaran di dokumen ini. 
+
+. Berkas akan diverifikasi oleh panitia paling lama 24 jam hari kerja setelah 
+
+berkas dikirim. Peserta yang belum menerima umpan balik dari panitia setelah 
+
+kurun waktu tersebut dapat menghubungi narahubung yang tertera di akhir 
+
+dokumen ini. 
+
+. Peserta kompetisi adalah tim yang telah diverifikasi dengan status “TIM 
+
+TERVERIFIKASI” (dapat dilihat di dashboard ketua tim).
+
+
+
+BERKAS 
+PENDAFTARAN 
+
+Berikut berupa berkas yang harus diunggah: 
+
+1. Kartu Identitas, dapat berupa salah satu dari: 
+
+a. Kartu Tanda Penduduk (KTP) 
+
+. Surat lzin Mengemudi (SIM) 
+
+. Paspor 
+
+. Kartu Keluarga (KK) 
+
+e. Berkas lain yang dapat menjadi bukti sebagai Warga Negara Indonesia yang sah 
+
+2. Pas foto terbaru yang diambil dalam kurun waktu 6 bulan terakhir 
+
+3. (Untuk pelajar) Bukti sebagai pelajar yang aktif, dapat berupa salah satu dari: 
+
+a. Surat pernyataan dari sekolah atau universitas yang menyatakan bahwa peserta 
+
+terkait merupakan pelajar di sekolah atau universitas tersebut hingga acara 
+
+selesai, yaitu hingga 27 September 2026. 
+
+b. Screenshot riwayat akademis maupun Isian Rencana Studi pada sistem informasi 
+
+universitas yang menunjukkan status akademis peserta aktif. 
+
+c. Foto Kartu Pelajar atau Kartu Tanda Mahasiswa (KTM) dari institusi pendidikan 
+
+yang berlaku sampai acara selesai (jika peserta didapatkan sudah bukan 
+
+merupakan pelajar atau mahasiswa, panitia berhak untuk mendiskualifikasi 
+
+peserta). 
+
+d. Laman pengumuman resmi yang menyatakan Anda diterima di perguruan tinggi, 
+
+untuk mahasiswa baru. 
+
+4. Bukti unggah Twibbon dan Poster, dengan ketentuan sebagai berikut: 
+
+a. Twibbon dapat diunduh di website COMPFEST atau melalui link compfest.link/ 
+
+TwibboncompetitionCF18. 
+
+b. Twibbon diunggah di feeds akun instagram peserta dengan caption yang disertai 
+
+dengan hashtag #EncloseTheGap dan #COMPFEST18. Peserta wajib mention 3 
+
+orang teman dan tag akun instagram COMPFEST (@compfest). 
+
+c. Poster diunggah di story akun instagram peserta dengan melakukan tag akun 
+
+instagram COMPFEST (@compfest)
+
+oa a 8 
+
+
+
+JADWAL DAN 
+ALUR KOMPETISI 
+
+| KETERANGA 
+
+Website 
+Pendaftaran Peserta Batch 1 17 Ju- n9 Julii 
+
+Compfest 18 
+
+Website 
+Pendaftaran Peserta Batch 2 10 Juli - 18 Juli 
+
+Compfest 18 
+
+2/ Juni & 11 Juli 
+Pengenalan CTF 2026 Zoom 
+
+Hackercl 1 Agustus - 16 
+ackerclass Agustus 2026 Daring 
+
+Live Hackerclass 
+
+
+
+SUSUNAN 
+ACAR. 
+
+PENYISIHAN 
+
+e Selama kompetisi berlangsung, setiap tim dilarang: 
+
+Bekerja sama dengan pihak di luar tim dalam bentuk apapun. 
+
+Setiap tim dilarang menggunakan LLM atau metode otomatis lainnya untuk 
+
+membuat banyak akun dengan tujuan melakukan submit flag melalui akun-akun 
+
+tersebut. 
+
+Menggunakan automated scanner/tools seperti sqilmap, Burp scanner, dirb, dan 
+
+lain-lain (kecuali diperbolehkan secara eksplisit pada deskripsi soal). 
+
+Menyebabkan suatu kerugian atau gangguan dalam bentuk apapun terhadap 
+
+peserta lain maupun panitia. Contohnya, seperti: 
+
+Menghapus/mengganti file flag, 
+
+Melakukan DDOS pada service atau platform, 
+
+Melakukan bruteforce flag pada platform, dan lain-lain. 
+
+Melakukan flag hoarding (dengan sengaja menimbun flag untuk di-submit secara 
+
+masif mendekati akhir kompetisi). 
+
+Tim yang terindikasi melakukan pelanggaran atau kecurangan akan diberikan sanksi 
+
+(diskualifikasi atau pengurangan poin). 
+
+e Lima belas tim terbaik yang menyelesaikan sekurang-kurangnya 1 (satu) soal dan 
+
+mengumpulkan write-up yang valid berhak melanjutkan ke babak final.
+
+
+
+SUSUNAN 
+
+PENYISIHAN 
+
+e Penyisihan akan dilaksanakan secara online pada link yang akan diumumkan kemudian. 
+
+e Format penyisihan adalah Jeopardy dengan soal sebanyak 19-24 soal. 
+
+e Penyisihan akan diadakan selama 12 jam. 
+
+e Scoreboard akan dibekukan satu jam sebelum kontes penyisihan berakhir. 
+
+e Setiap tim wajib mengumpulkan write-up pada tautan yang akan diumumkan nanti. 
+
+Write-up berisi judul soal, flag, serta langkah penyelesaian singkat dan dikumpulkan 
+
+selambat-lambatnya sesuai jadwal yang ditentukan (platform dan soal penyisihan 
+
+tetap dibuka hingga pengumpulan write-up ditutup). Tim juga wajib untuk 
+
+menyertakan screenshot semua eksekusi command, script, dan tools yang digunakan 
+
+beserta outputnya dan penjelasan singkat tentang apa yang didapatkan dari output 
+
+tersebut. Writeup yang mengandung screenshot chat atau writeup dari LLM akan 
+
+dianggap tidak valid.
+
+
+
+SUSUNAN 
+ACARA 
+
+FINAL 
+
+e Final akan dilaksanakan secara onsite berlokasi pada Fakultas Ilmu Komputer, 
+
+Universitas Indonesia, Depok, Jawa Barat. 
+
+e Tahap final terdiri atas 2 babak, babak jeopardy dan babak1 vs 1. 
+
+e Babak jeopardy akan dilaksanakan selama 3 jam dengan soal sebanyak 5 soal. 
+
+e 6timteratas akan melanjutkan ke babak1 vs 1. 
+
+e Babak 1vs1 akan diadakan selama 4 - 5jam. 
+
+e 1 Match1 vs1 akan berlangsung selama 20 menit 
+
+e Selama kompetisi berlangsung, setiap tim dilarang: 
+
+Bekerja sama dengan pihak di luar tim dalam bentuk apapun. 
+
+Menggunakan automated scanner/tools seperti sqilmap, Burp scanner, dirb, dan 
+
+lain-lain (kecuali diperbolehkan secara eksplisit pada deskripsi soal). 
+
+Menyebabkan suatu kerugian atau gangguan dalam bentuk apapun terhadap 
+
+peserta lain maupun panitia. Contohnya, seperti: 
+
+Menghapus/mengganti file flag, 
+
+Melakukan DDOS pada service atau platform, 
+
+Melakukan bruteforce flag pada platform, dan lain-lain. 
+
+Melakukan flag hoarding (dengan sengaja menimbun flag untuk di-submit secara 
+
+masif mendekati akhir kompetisi). 
+
+e Tim yang terindikasi melakukan pelanggaran atau kecurangan akan diberikan sanksi 
+
+(diskualifikasi atau pengurangan poin).
+
+
+
+SUSUNAN 
+CARA 
+
+AWARDING NIGHT 
+
+Awarding Night merupakan acara yang diadakan sebagai apresiasi kepada 
+
+seluruh peserta Competition COMPFEST 18. Rangkaian acara Awarding Night 
+
+akan berisi sambutan dari para tamu undangan dan pengumuman pemenang 
+
+setiap kompetisi.
+
+
+
+TEKNIS & 
+KRITERIA 
+
+TEKNIS PENYISIHAN 
+Penyisihan CTF COMPFEST 18 dilakukan secara online dengan format Jeopardy. Penyisihan 
+
+akan berlangsung selama 12 jam. 
+
+e Tim 
+
+e Anggota tim sesuai dengan identitas anggota tim yang terdaftar melalui website 
+
+COMPFEST. 
+
+e Soal 
+
+e Soal berjumlah 19-24 soal dengan materi yang diperlombakan berupa Binary 
+
+Exploitation, Cryptography, Forensics, Reverse Engineering, Web Exploitation, 
+
+Blockchain, dan Misc. Sebanyak 9-12 soal akan di-publish setiap 5 jam. Klarifikasi 
+
+soal dapat ditanyakan langsung kepada pembuat soal melalui server Discord yang 
+
+akan diumumkan kemudian hari. 
+
+e Flag 
+
+e Secara default setiap flag akan mengikuti regex COMPFEST18{[A-zO-9_-]+}, kecualli 
+
+tertera pada deskripsi soal. 
+
+e Hint 
+
+e Hint masing-masing soal akan dikeluarkan 4 jam setelah soal tersebut di-publish jika 
+
+dan hanya jika belum ada tim yang menyelesaikan soal tersebut saat itu. 
+
+e Scoring 
+
+e Scoring akan dilakukan secara dinamis dengan menggunakan fungsi scoring default 
+
+pada platform CTFd.
+
+
+
+TEKNIS & 
+KRITERIA 
+
+TEKNIS PENYISIHAN 
+e Writeup 
+
+e Setiap tim wajib mengumpulkan write-up pada tautan yang akan diumumkan nanti. 
+
+e Write-up berisi judul soal, flag, serta langkah penyelesaian singkat dan dikumpulkan 
+
+selambat-lambatnya sesuai jadwal yang ditentukan (platform dan soal penyisihan 
+
+tetap dibuka hingga pengumpulan write-up ditutup). 
+
+e Writeup juga wajib mengandung screenshot semua eksekusi command, script, dan 
+
+tools yang digunakan beserta outputnya dan penjelasan singkat tentang apa yang 
+
+didapatkan dari output tersebut. 
+
+e Writeup yang mengandung screenshot chat atau writeup dari LLM akan dianggap 
+
+tidak valid. 
+
+e Penggunaan Al 
+
+e Peserta tidak diperbolehkan menggunakan agentic AI/LLM (seperti Gemini/ 
+
+Antigravity CLI, Codex, Claude Code, dst.) termasuk fitur Agent Mode pada LLM chat 
+
+berbasis web. Peserta yang terindikasi melanggar aturan ini akan didiskualifikasi 
+
+e Peserta diperbolehkan menggunakan LLM berbasis web (seperti ChatGPT, Claude, 
+
+Grok, Gemini, dll.)
+
+
+
+TEKNIS & 
+KRITERIA 
+
+TEKNIS FINAL 
+Final CTF COMPFEST 18 dilakukan secara onsite dalam 2 babak, babak jeopardy dan babak 1 
+
+vs I. 
+
+e Babak Jeopardy 
+
+e Tim 
+
+e Anggota tim sesuai dengan identitas anggota tim yang terdaftar melalui website 
+
+COMPFEST dan lolos tahap penyisihan. 
+
+e Durasi 
+
+e Babak jeopardy akan berjalan selama 3 jam. 
+
+e Soal 
+
+e Soal berjumlah 5 soal dengan materi yang diperlombakan berupa Binary 
+
+Exploitation, Cryptography, Forensics, Reverse Engineering dan Web Exploitation. 
+
+Klarifikasi soal dapat ditanyakan langsung kepada pembuat soal melalui server 
+
+Discord yang akan diumumkan kemudian hari. 
+
+e Flag 
+
+e Secara default setiap flag akan mengikuti regex COMPFEST18{[A-zO-9_-]+}, 
+
+kecuali tertera pada deskripsi soal. 
+
+e Scoring 
+
+e Scoring akan dilakukan secara dinamis dengan menggunakan fungsi scoring 
+
+default pada platform CTFd. 
+
+e Penggunaan Al 
+
+e Peserta tidak diperbolehkan menggunakan segala jenis Agentic Al. Jenis Al yang 
+
+diperbolehkan hanya web-based LLM.
+
+
+
+TEKNIS & 
+KRITERIA 
+
+TEKNIS FINAL 
+e Babak lvs1 
+
+e Tim 
+
+e Anggota tim sesuai dengan identitas anggota tim yang terdaftar melalui website 
+
+COMPFEST dan merupakan 6 tim teratas dari babak jeopardy. 
+
+e Durasi 
+
+e Babak| vs1 akan berjalan selama 4-5 jam total. 
+
+e |match1 vs1 akan berjalan selama 20 menit. 
+
+e Apabila kedua tim belum berhasil mendapatkan flag pada akhir match tersebut, 
+
+akan diadakan tiebreaker match dengan durasi 5 menit. 
+
+e Flag 
+
+e Secara default setiap flag akan mengikuti regex COMPFEST18{[A-zO-9_-]+}, 
+
+kecuali tertera pada deskripsi soal. 
+
+e Penggunaan Al 
+
+e Selama 10 menit pertama setiap match, peserta tidak diperbolehkan 
+
+menggunakan Al dalam bentuk apapun. 
+
+e Pada 10 menit terakhir setiap match, peserta diperbolehkan menggunakan Al 
+
+namun Al yang diperbolehkan hanya web-based LLM
+
+
+
+KETENTUAN 
+TAMBAHAN 
+
+e Keputusan verifikasi write-up bersifat mutlak dan tidak 
+
+dapat diganggu gugat. 
+
+e Apabila terdapat informasi yang kurang jelas, peserta dapat 
+
+menghubungi narahubung yang tersedia.
+
+
+
+NARAHUBUNG 
+
+Zaki 
+Whatsapp: +62 87761667910 
+
+Haikal 
+Whatsapp: +62 85156552923 
+
+Dimas 
+Whatsapp: +62 816943256
+
+
+
+NARAHUBUNG 
+O 
+
+ctf@compfest.id 
+
+Discord Umum Competition 
+compfest.link/competitioncompfestl8
+
+
+
+@) COMPFEST 
+
+#EncloseTneGap

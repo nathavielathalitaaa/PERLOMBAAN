@@ -1,0 +1,431 @@
+﻿Panduan Teknis Pra-Seleksi
+Ekshibisi Kompetisi
+Kecerdasan Artifisial
+(EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+Kata Pengantar
+
+      Selamat datang kepada calon talenta AI Indonesia yang telah terpilih
+untuk mengikuti tahapan Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial
+(EKKA) OSN Bidang Sains 2026. Tahapan ini merupakan langkah awal yang
+krusial untuk menjaring individu berbakat melalui Tahap Test Pra-Seleksi
+yang akan dilaksanakan secara serentak pada Kamis, 30 Juli 2026. Kami
+sangat mengapresiasi antusiasme teman-teman dalam mengikuti kompetisi
+ini sebagai ajang untuk menunjukkan kemampuan terbaik di bidang
+kecerdasan artifisial.
+
+   Pelaksanaan tes ini dilakukan secara sinkron atau live menggunakan
+platform codeworks dibimbing.id dengan total durasi pengerjaan selama 150
+menit. Peserta akan menghadapi dua jenis tantangan, yaitu 10-15 soal Short
+Answer dan 3-4 soal Coding Python. Mengingat sifat tes yang bersifat live,
+setiap peserta diwajibkan menyiapkan dua perangkat sekaligus, yaitu laptop
+atau PC sebagai sarana pengerjaan utama, serta smartphone atau tablet
+yang terhubung ke Zoom Meeting sebagai media pengawasan
+
+  Integritas dan transparansi adalah prioritas utama kami, sehingga
+mekanisme pengawasan (proctoring) akan dilakukan secara ketat melalui
+sistem deteksi platform maupun pengawasan visual via Zoom. Peserta
+diharapkan mematuhi seluruh aturan teknis, mulai dari penempatan kamera
+yang harus memperlihatkan wajah dan layar monitor secara jelas, hingga
+larangan penggunaan bantuan AI atau pencarian informasi di internet selama
+ujian berlangsung
+
+    Mari simak panduan ini dengan seksama demi kelancaran dan keadilan
+bagi seluruh peserta. Selamat berjuang!
+
+Penyusun
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+A. Panduan Umum 
+Peserta EKKA OSN 2026 adalah siswa SMA/MA/sederajat yang telah
+dinyatakan lolos ke tahap Pra-Seleksi EKKA OSN 2026.
+Setiap peserta wajib mengikuti rangkaian tes sesuai dengan panduan,
+peraturan, dan persyaratan yang telah ditetapkan oleh panitia.
+Tes dilaksanakan secara online menggunakan platform Codework dari
+dibimbing.id. dengan pengawasan melalui zoom meeting.
+Akses platform tes akan dikirimkan ke alamat email masing-masing peserta
+pada hari pelaksanaan.
+Saat mengakses platform tes, peserta wajib mengisi Nama Lengkap dan Asal
+Sekolah sesuai dengan data pendaftaran. Asal sekolah ditulis menggunakan
+Huruf Kapital.
+Peserta wajib memastikan perangkat yang digunakan serta koneksi internet
+berada dalam kondisi baik dan stabil sebelum maupun selama pelaksanaan tes.
+
+B. Aturan Pelaksanaan 
+1. Sebelum Tes:
+
+Peserta wajib bergabung ke Zoom Meeting melalui tautan yang dikirimkan ke
+email masing-masing peserta
+Peserta tidak diperkenankan bergabung menggunakan tautan zoom email
+peserta lain ataupun bergabung ke Breakout Room peserta lain.
+Peserta wajib bergabung ke Zoom Meeting paling lambat 30 menit sebelum tes
+dimulai, pada pukul 08.30 WIB.
+Peserta wajib menyiapkan:
+
+Perangkat 1: Laptop/PC yang digunakan untuk mengerjakan soal tes.
+Perangkat 2: Handphone atau tablet yang digunakan untuk bergabung ke
+Zoom Meeting
+Jam (Analog/Dinding) yang menunjukkan waktu real-time yang di letakan di
+atas meja. Diwajibkan menyiapkan 1 jam analog per peserta.
+
+Peserta wajib menampilkan jam (analog atau digital) yang menunjukkan waktu
+berjalan secara real-time di dalam zoom
+Kamera pada perangkat kedua (Handphone/Tablet) wajib di aktifkan 30 menit
+sebelum lomba dimulai. 
+Posisi kamera pada perangkat 2 harus  diletakan di posisi samping-belakang
+peserta dan memperlihatkan:
+
+Wajah, badan, dan tangan peserta
+Layar Laptop/PC untuk mengerjakan tes.
+Jam (Analog/Dinding) yang menunjukkan waktu real-time
+
+Peserta akan mengikuti briefing singkat di main room sebelum bergabung ke
+breakout room.
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+2. Selama Tes:
+Peserta wajib memastikan koneksi internet tetap stabil selama tes
+berlangsung.
+Seluruh peserta akan diarahkan masuk ke Breakout Room sesuai dengan
+pembagian yang telah ditentukan melalui email oleh panitia.
+Setiap Breakout Room akan diawasi oleh seorang pengawas yang bertugas
+memantau dan merekam jalannya pelaksanaan tes.
+Peserta wajib mengikuti seluruh arahan yang diberikan oleh pengawas
+selama berada di Breakout Room.
+Peserta tidak diperkenankan meninggalkan Zoom Meeting maupun
+Breakout Room, bahkan ketika sudah selesai mengerjakan test.
+Kamera pada perangkat kedua (Handphone/Tablet) wajib dinyalakan dan
+terhubung secara online ke Zoom 30 menit sebelum lomba dimulai dan
+harus terus menyala selama selama tes berlangsung (sampai dengan pukul
+11.30 WIB).
+Apabila mengalami kendala teknis, peserta wajib segera menghubungi
+pengawas melalui Zoom Meeting agar dapat memperoleh bantuan.
+(sebelum tes dimulai pada jam 09.00) 
+
+3. Setelah Tes:
+Pastikan seluruh jawaban telah di-submit sebelum waktu habis.
+Peserta yang sudah selesai lebih awal tidak diperbolehkan keluar dari
+Zoom. Harap tunggu hingga waktu ujian telah selesai, yaitu pada pukul
+11.30 WIB.
+
+C. Mekanisme Pelaksanaan Tes
+Peserta menerima email berisi undangan Zoom 
+Peserta bergabung ke Zoom Meeting.
+Operator melakukan registrasi dan briefing.
+Peserta memasuki breakout room
+Soal tes atau akses codework dikirimkan melalui email sesuai jadwal.
+Peserta bisa klik start test pada email codework yang dikirimkan.
+Peserta wajib mengisi data diri (Nama Lengkap & Asal Sekolah)
+Peserta mengerjakan seluruh soal sesuai durasi yang ditentukan (150
+menit)
+Peserta melakukan submit jawaban.
+Peserta diperbolehkan meninggalkan Zoom Meeting jika sudah selesai
+submit.
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+D. Aturan Teknis Pelaksanaan:
+Mengenakan pakaian sopan dan rapi serta wajah harus terlihat secara utuh
+dan jelas
+Perangkat elektronik (termasuk kalkulator, jam tangan digital/analog,
+handphone, tablet, layar tambahan), perangkat komunikasi (termasuk
+headset/headphone), dan buku/catatan TIDAK diperkenankan.
+Selama tes berlangsung, peserta dilarang:
+
+Mencari jawaban melalui internet atau sumber lain;
+Menggunakan, AI Assistant, atau aplikasi sejenis;
+Berkomunikasi atau bekerja sama dengan peserta lain;
+Meminta bantuan kepada pihak lain dalam bentuk apa pun.
+
+Peserta yang terbukti melakukan kecurangan atau melanggar ketentuan
+pelaksanaan akan didiskualifikasi dan dinyatakan GUGUR dari proses
+seleksi.
+Untuk diperhatikan, EKKA OSN adalah ajang untuk berkompetisi mencari
+yang terbaik!
+
+E. Mekanisme Proctoring:
+Setiap peserta wajib menyiapkan satu perangkat tambahan (handphone
+atau tablet) yang digunakan khusus untuk proses proctoring melalui Zoom
+Meeting.
+Perangkat proctoring harus memiliki kamera yang berfungsi dengan baik
+serta terhubung ke jaringan internet yang stabil selama tes berlangsung.
+Peserta akan diarahkan untuk bergabung ke Zoom Meeting menggunakan
+perangkat proctoring sebelum tes dimulai.
+Kamera pada perangkat proctoring wajib dinyalakan sejak proses registrasi
+hingga tes dinyatakan selesai.
+Selama tes berlangsung, peserta akan ditempatkan pada Breakout Room
+yang diawasi oleh pengawas (proctor).
+Setelah test dimulai pada pukul 09.00 WIB, peserta sudah tidak boleh
+meminta bantuan pengawas (proctor) via zoom meeting terkait hal teknis
+maupun non teknis.
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+F. Mekanisme Proctoring [Panduan Penempatan Kamera Proctoring]
+Letakkan perangkat proctoring di sisi samping atau samping-belakang
+peserta dengan jarak sekitar 1–1,2 meter dari posisi duduk.
+Posisi kamera harus memperlihatkan secara jelas:
+
+Wajah dan tubuh bagian atas peserta;
+Kedua tangan peserta selama mengerjakan tes;
+Layar laptop atau komputer yang digunakan untuk mengerjakan soal.
+Jam (analog/digital) yang menunjukkan waktu real-time, sesuai
+ketentuan pada bagian Aturan Teknis Pelaksanaan di atas.
+
+Pastikan pencahayaan ruangan cukup sehingga wajah peserta dan area
+kerja terlihat dengan jelas.
+Peserta tidak diperkenankan mengubah posisi kamera tanpa seizin
+pengawas selama tes berlangsung.
+Contoh penempatan kamera proctoring dapat dilihat pada ilustrasi berikut:
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+Berikut contoh situasi dan kondisi pengawasan ketika test berlangsung :
+
+Berikut contoh penempatan kamera proctoring yang BENAR :
+
+Wajah terlihat
+Jam terlihat
+Layar monitor dan area
+kerja terlihat
+Satu kamera untuk satu
+peserta
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+Berikut contoh penempatan kamera proctoring yang SALAH :
+
+Jam TIDAK terlihat
+Layar monitor TIDAK
+terlihat
+Satu kamera untuk LEBIH
+DARI satu peserta
+
+Layar silau
+Layar terlalu jauh
+Layar monitor TIDAK terlihat
+Muka TIDAK terlihat
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+G. Larangan
+Membuka browser, website, atau aplikasi lain selain yang diizinkan.
+Menggunakan ChatGPT, AI Assistant, Copilot, atau platform AI lainnya.
+Mencari jawaban melalui internet, buku, maupun catatan.
+Berkomunikasi atau bekerja sama dengan peserta lain.
+Menggunakan headset/headphone atau perangkat elektronik yang tidak
+berkaitan dengan pelaksanaan tes.
+Memindahkan atau mematikan kamera tanpa izin pengawas.
+Meninggalkan Zoom Meeting atau Breakout Room tanpa izin pengawas.
+Meminta bantuan kepada pihak lain dalam bentuk apa pun.
+
+H. Ketentuan Lain
+Seluruh aktivitas peserta selama tes akan dipantau oleh pengawas.
+Setiap indikasi pelanggaran atau kecurangan akan dicatat oleh panitia.
+Peserta yang terbukti melanggar tata tertib dapat didiskualifikasi dan
+dinyatakan gugur dari proses seleksi.
+Pastikan seluruh jawaban telah berhasil di-submit sebelum waktu tes
+berakhir.
+
+I. Timeline Kegiatan Pra-Seleksi 
+
+No. Kegiatan Tanggal
+
+1 Trial Test 28 sampai 30 Juli 2026, 07.30 WIB
+
+2 Stand by Zoom 30 Juli 2026, 08.30 WIB
+
+3 Mulai Test 30 Juli 2026, 09.00 WIB via platform
+codeworks by dibimbing.id
+
+4 Selesai Test 30 Juli 2026, 11.30 WIB
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+J. Mekanisme dan Panduan Coding Test Pra Seleksi 
+1.Coding Test Pra Seleksi dilaksanakan secara sinkron melalui Platform
+
+Codework by dibimbing.id. 
+2.Seluruh jawaban dikerjakan dan dikumpulkan (submit) melalui Platform
+
+Test Codework. Panduan penggunaan platform dapat dilihat pada Bagian B
+dokumen ini.
+
+3.Peserta wajib memastikan koneksi internet dalam kondisi stabil sebelum
+dan selama tes berlangsung.
+
+4.Peserta tidak diperkenankan untuk meninggalkan Zoom Meeting dengan
+alasan apapun selama tes berlangsung.
+
+5.Saat registrasi ke platform test, peserta wajib menggunakan e-mail, nama,
+dan asal sekolah yang digunakan ketika mendaftar atau sama dengan
+email Anda yang mendapatkan undangan untuk mengikuti tes ini.
+
+6.Soal test akan dibagikan mulai pukul 08.40 WIB di hari-H sebelum waktu
+pelaksanaan tes dimulai pukul 09.00 WIB melalui email masing-masing
+peserta.
+
+7.Peserta WAJIB login secara bersamaan pada pukul 09.00 WIB. Bagi
+peserta yang login sebelum pukul 09.00 WIB akan dicatat sebagai
+pelanggaran dan digugurkan dari EKKA 2026.
+
+8.Peserta dapat mengerjakan soal tanpa urutan tertentu tetapi soal harus
+diselesaikan sesuai waktu pelaksanaan masing-masing tes.
+
+9.Test Pra Seleksi EKKA 2026 terdiri dari dua jenis tes, yaitu Short Answer
+Question dan Coding Test (Python). Berikut rundown pengerjaan test:
+
+Activity Total Question Duration
+
+Short Answer Question 10-15 Soal
+150 minutes
+
+Coding Test (Python) 2-4 Soal
+
+10.Selama mengerjakan soal test, peserta tidak diperbolehkan untuk
+melakukan kecurangan dengan menyontek seperti mencari
+jawaban/rumus/format melalui internet ataupun aplikasi lainnya, bertanya
+kepada peserta lain, dan atau menggunakan ChatGPT dan/atau platform
+serupa. Jika peserta terbukti melakukan kecurangan, hal ini akan
+berdampak pada hasil akhir penilaian peserta.
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+11.Setelah soal selesai dikerjakan, pastikan jawaban sudah terunggah/ter-
+submit pada Platform Test dalam batas waktu yang ditentukan (150 Menit).
+
+12.Peserta yang telah menyelesaikan test sebelum waktu berakhir TIDAK
+diperbolehkan untuk meninggalkan zoom meeting sampai waktu berakhir.
+
+K. Mekanisme dan Panduan Penggunaan Platform Test Coding Test Pra
+Seleksi
+
+1.Buka halaman inbox email, dan buka pesan email yang dikirimkan oleh
+Dibimbing Code Workspace. Tekan tombol “Start Test” yang akan
+menavigasikan ke menu halaman depan Coding Test Pra Seleksi.
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+2.Setelah menekan tombol “Start Test”, Anda akan diarahkan ke halaman
+berikutnya. Bacalah instruksi dengan seksama untuk memahami aturan dan
+langkah-langkah pengerjaan. Apabila sudah memahami terkait instruksi
+test, selanjutnya anda dapat mengisi Full Name & Asal Sekolah. Pastikan
+Anda memasukkan informasi yang benar sesuai dengan yang Anda
+masukkan ketika pendaftaran. Klik Agree & Start untuk melanjutkan.
+
+3.Untuk melihat soal secara keseluruhan, pilih tab ALL di taskbar kiri. Di sini
+Anda akan melihat semua soal yang ada dalam tes. Anda bisa memilih soal
+mana yang ingin dikerjakan terlebih dahulu dengan menekan tombol
+“Solve” di bagian kanan soal yang ingin dipilih
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+4.Setelah memilih soal, Anda akan diarahkan ke halaman pengerjaan soal
+berisi soal dan coding space jawaban (jangan hapus syntax apapun,
+langsung tulis syntax di bagian tulisan comment “Write your Codeˮ).
+
+Tampilan workspace meliputi instruksi soal, notes, dan contoh pengerjaan,
+selain itu page workspace untuk meletakkan code sesuai dengan instruksi
+soal yang diminta. Buatlah syntax codingan sesuai dengan instruksi
+pengerjaan soal yang diberikan. Jika Anda ingin menjalankan program yang
+telah dibuat, maka Anda dapat tekan tombol Run Code & Run Test. 
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+a. Test Case berisi inputan dan ekspektasi jawaban. Maka dari itu Anda
+perlu membuat syntax yang cocok untuk semua test case. Semua bagian
+expected output harus sama termasuk spasi, symbol, dan atau huruf
+besar/kecil.
+b. Tidak perlu assign nilai manual atau memanggil functionnya secara
+manual untuk menampilkan output, karena untuk input akan dipanggil
+secara otomatis pada saat run code dan run test nya.
+c. Sebelum Anda submit jawaban, Anda wajib melakukan Run Code dan
+Run Test terlebih dahulu.
+d. Run Code bertujuan untuk mengecek jawaban benar atau salah pada
+salah 1 (satu) test case.
+e. Run Test bertujuan untuk mengecek jawaban benar atau salah pada
+semua test case yang ada.
+
+5.Apabila jawaban Anda telah terunggah, maka tampilan akan seperti
+sebagai berikut. Jika Anda ingin memperbaiki jawaban, maka Anda
+dapat menekan tombol “Modify” dan melakukan kembali tahapan
+sebelumnya. 
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+6.Peringatan akan muncul jika sistem mendeteksi bahwa Anda
+meninggalkan halaman test, misalnya berpindah tab browser. Pastikan
+Anda tetap berada di halaman test selama pengerjaan berlangsung.
+Perpindahan ini akan tercatat di system dan akan mempengaruhi hasil
+penilaian.
+
+7.Anda bisa berpindah soal dengan menekan angka soal yang terletak di
+bagian taskbar kiri halaman. Setiap perpindahan soal mungkin akan
+memunculkan peringatan. Pastikan untuk tidak menekan tombol pindah
+soal jika belum menyelesaikan soal yang sedang dikerjakan (Platform
+test tidak melakukan autosave jawaban yang belum di submit).
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026
+
+
+
+8.Setelah menyelesaikan seluruh soal test, tekan tombol “Submit Test”
+untuk mengunggah jawaban akhir Anda.
+
+9.Jawaban Anda dianggap berhasil diunggah jika muncul tampilan website
+yang menyatakan bahwa tes telah selesai (abaikan keterangan
+pengisian feedback form). Selamat! Anda telah menyelesaikan soal
+Coding Test Pra Seleksi!
+
+L. Tanya Jawab
+Apabila terdapat pertanyaan selama proses pra-seleksi berlangsung,
+silahkan dapat mengajukan pertanyaan dan menyimak FAQ pada link
+berikut : s.id/TanyaJawabEKKAOSN2026 
+
+Panduan Teknis Pra-Seleksi Ekshibisi Kompetisi Kecerdasan Artifisial (EKKA) 
+Bidang Sains Tahun 2026

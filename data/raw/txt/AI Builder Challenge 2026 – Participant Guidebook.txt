@@ -1,0 +1,329 @@
+﻿AI Builder Challenge 2026 – Participant 
+Guidebook 
+28 Sept 2026 · AI Builder Challenge 2026 is Xdemia's free national student competition: 
+build a working AI prototype, demo it live, and compete for a prize pool of up to IDR 
+25,000,000. 
+
+1. About the Challenge 
+The Challenge mobilises students from universities across Indonesia to build and demo live, 
+working AI prototypes against real industry problems. Registration is free, with no fee for any 
+team. 
+
+One rule applies at the final stage: no working prototype, no prize. A team that cannot 
+show a live, working prototype at the Grand Final is not eligible for prizes. This is what 
+separates the Challenge from an ordinary hackathon. 
+
+Every team gets structured coaching from Xdemia's partner network, from proposal to live 
+demo. Teams that choose the Industry Case Track work on a real operational brief from 
+ARSA Indonesia. 
+
+2. Eligibility and Teams 
+The Challenge is open to Indonesian university students. Participation is team-based only, 
+and individual entries are not accepted. 
+
+●​ Team size: 3 to 4 members. 
+●​ One person, one team: each individual may register only once and belong to only 
+
+one team. 
+●​ Team leader: one member fills in the registration form on behalf of the team. 
+●​ Event page: every member must individually join the Xdemia event page (see 
+
+section 4). 
+●​ Student status: all members must be active students and provide a valid student ID 
+
+(KTM). 
+
+The participant target is counted by verified individuals, not by number of teams (see section 
+10). 
+
+ 
+
+ 
+
+
+
+3. Tracks 
+Each team chooses one track. Both tracks share the same judging criteria and the same 
+requirement of a live, working prototype at the Grand Final. 
+
+General Track. An open brief: choose any real-world problem and solve it with AI. Open to 
+all industries and domains. 
+
+Industry Case Track, powered by ARSA Indonesia (Facility Management & IoT). Teams 
+receive ARSA's real operational challenges and build AI solutions that connect existing IoT 
+infrastructure with an intelligent decision layer. Choose one of five themes: 
+
+Code Theme What you build 
+
+AC-1 AI for Facility Use IoT sensor data to optimise scheduling, resource 
+Operations allocation, and operational efficiency in real time. 
+Optimisation 
+
+AC-2 AI-Powered Predictive Predict equipment failures before they occur, using 
+Maintenance sensor data and service history, to reduce downtime. 
+
+AC-3 Smart Workforce & Allocate cleaning, security, and front-of-house teams 
+Cleaning Deployment using real-time demand signals and occupancy data. 
+
+AC-4 AI Monitoring & Build a live dashboard that surfaces energy spikes, SLA 
+Anomaly Detection breaches, and safety deviations from Crowd Eye sensor 
+
+data. 
+
+AC-5 Intelligent Facility Build a conversational assistant that lets facility 
+Assistant managers query, monitor, and act on building data in 
+
+natural language via ARSAtech feeds. 
+
+Challenge statements are a starting framework. Final briefs and data access are defined 
+together with ARSA during onboarding. 
+
+ 
+
+
+
+4. How to Register 
+Registration is free and takes two steps. Your team is registered only when both are 
+done. 
+
+1.​ Team leader: fill in the team registration Google Form with your team details, track, 
+and the details and student ID of every member. Form link: [TBC: paste Google Form 
+link]. 
+
+2.​ Every member: join the official event page on Xdemia at 
+https://xdemia.com/event/ai-builder-challenge-2026. Log in or sign up with your 
+Xdemia account, then click join. Each member must do this individually. 
+
+All announcements, case briefs, coaching schedules, and updates are shared on the event 
+page, so joining it is required. 
+
+5. Timeline 
+The Challenge runs from registration in September to the Grand Final in December 2026. 
+Exact dates are announced on the event page. 
+
+Phase Period Key activities 
+
+Early Bird September Public launch, campus outreach, case briefs 
+Registration 2026 released. 
+
+Normal Registration October - Registration closes, participant count is locked, 
+and Onboarding Desember orientation webinar, coach assignment, 
+
+2026 case-track briefing sessions. 
+
+Proposal and Build January 2027 Written proposals, 2 to 3 coaching sessions per 
+Sprint team, prototype build, domain expert check-ins. 
+
+Semifinal Pitching January 2027 Top 20 teams pitch live (15 minutes plus Q&A) to 
+industry and academic judges. 
+
+Grand Final and February 2027 20-minute live prototype demos plus Q&A, 
+Awards awards, closing ceremony. 
+
+
+
+The Grand Final is planned as a hybrid event in Jabodetabek. If a venue is not confirmed in 
+time, it moves fully online with the schedule unchanged. 
+
+6. Competition Stages and Submissions 
+1.​ Registration. Complete the form and join the event page. Choose General Track or 
+
+ARSA Case Track. 
+2.​ Written proposal (November). Submit a short proposal describing the problem, your 
+
+AI approach, and your build plan. Case-track teams base it on the ARSA brief. 
+3.​ Build sprint (November). Build your prototype with 2 to 3 coaching sessions. 
+
+Case-track teams also get domain expert check-ins. 
+4.​ Semifinal pitching (late November). The top 20 teams give a live pitch of 15 
+
+minutes plus Q&A. Pitch rehearsal and final prototype review are held beforehand. 
+5.​ Grand Final (December). Finalists give a 20-minute live demo of a working 
+
+prototype plus Q&A. 
+
+Live demo requirement. Your prototype must actually run at the Grand Final. Slides, 
+mockups, or recorded videos alone do not qualify. Without a working demo, a team is not 
+eligible for prizes. 
+
+7. Coaching Program 
+Every registered team receives structured coaching throughout the competition, not only at 
+the final stage. 
+
+Coaching Who Focus 
+type 
+
+Technical AI/ML, data engineering, and software Model choices, data, 
+development coaches from Xdemia's IT architecture, building the 
+coaching partner network prototype 
+
+Domain Industry experts from the case-track partner Real operational context 
+and use-case relevance 
+
+Product and Presentation, product thinking, and demo Preparing for the Semifinal 
+pitch storytelling coaches and Grand Final 
+
+ 
+ 
+
+
+
+When What happens 
+
+January 2027 Orientation webinar and coach assignment. Each team is matched to a 
+coach aligned with its track. 
+
+January 2027 2 to 3 live coaching sessions per team during the build sprint, plus 
+domain expert check-ins for case-track teams. 
+
+January 2027 Pitch rehearsal and final prototype review before Semifinal judging. 
+
+February 2027 Grand Final demo preparation for finalists. Coaches and domain 
+experts attend the ceremony. 
+
+8. Judging Criteria 
+All teams in every track are scored on the same four criteria, weighted equally. Judges 
+include industry and academic representatives, and the case partner's representative sits on 
+the panel for case-track judging. 
+
+Criterion Weight 
+
+Innovation and Originality 25% 
+
+Technical Feasibility 25% 
+
+Impact and Operational Value 25% 
+
+Presentation and 25% 
+Communication 
+
+
+
+9. Prizes 
+The prize pool is up to IDR 25,000,000. The maximum applies when at least 5,000 verified 
+individuals join. With fewer participants, the pool and the number of finalist appreciation 
+awards follow the tiers below. 
+
+Verified individual participants Total prize pool Finalist appreciation 
+
+5,000 or more IDR 25,000,000 Top 100 teams 
+
+3,000 to 4,999 IDR 20,000,000 Top 80 teams 
+
+1,500 to 2,999 IDR 15,000,000 Top 60 teams 
+
+Below 1,500 IDR 12,500,000 Top 50 teams 
+
+Prize allocation by tier 
+
+Award 5,000 or 3,000 to 1,500 to Below 1,500 
+more 4,999 2,999 
+
+First Place IDR IDR IDR IDR 
+5,000,000 4,000,000 3,000,000 2,500,000 
+
+Second Place IDR IDR IDR IDR 
+3,000,000 2,500,000 2,000,000 1,500,000 
+
+Third Place IDR IDR IDR IDR 
+2,000,000 1,500,000 1,000,000 1,000,000 
+
+10 Special Awards (each) IDR 500,000 IDR 400,000 IDR 300,000 IDR 250,000 
+
+
+
+Finalist appreciation IDR 100,000 IDR 100,000 IDR 100,000 IDR 100,000 
+(each team) 
+
+Total IDR IDR IDR IDR 
+25,000,000 20,000,000 15,000,000 12,500,000 
+
+Finalist appreciation is paid per team, not per member. Winners of a podium place or Special 
+Award receive that prize in addition to the finalist appreciation if they are within the finalist 
+group. 
+
+Special Awards 
+
+Ten Special Awards recognise excellence beyond the podium. A team can receive at most 
+one Special Award, and Special Awards are prioritised for teams outside the top three, 
+except the People's Choice Award. 
+
+Award Recognises 
+
+Best Pitch The clearest, most engaging, and most convincing presentation 
+
+Most Innovative The most original approach to the chosen problem 
+Solution 
+
+Most Feasible Solution The strongest practical implementation potential 
+
+Best AI The most relevant and effective use of AI 
+Implementation 
+
+Highest Business The greatest potential operational or commercial value 
+Impact 
+
+Best User Experience The most intuitive and useful experience for its users 
+
+
+
+Best Technical The strongest architecture, prototype, or implementation quality 
+Execution 
+
+Best Data Driven The most effective use of data, measurement, and evidence 
+Solution 
+
+Most Scalable Solution The clearest potential to expand across sites, teams, or business 
+units 
+
+People's Choice Award The finalist with the highest eligible audience vote under the 
+published voting rules 
+
+ARSA Indonesia may also give a separate Best ARSA Track Solution award. Its value is set 
+by ARSA and sits outside the prize pool above. 
+
+10. Verification and Competition Rules 
+Verified participant. For prize pool calculation, a verified participant is a unique individual 
+who completes all mandatory registration information, is listed as a member of a valid team, 
+and passes duplicate and eligibility checks. Incomplete forms, duplicate registrations, invalid 
+identities, and individuals not attached to a valid team are not counted. 
+
+Participant count. The final count is confirmed after registration closes. The counting basis 
+is [TBC: verified registrations or completed submissions]. The date the count is locked will be 
+announced on the event page. 
+
+Prize pool adjustment. If verified participation is below expectations, Xdemia and ARSA 
+may review the format, timeline, or prize allocation before the final amount is confirmed, 
+following the tiers in section 9. 
+
+Disqualification. A team may be disqualified for duplicate registration, false identity or 
+student status, or membership in more than one team. A team without a live, working 
+prototype at the Grand Final is not eligible for prizes. 
+
+People's Choice Award. Voting rules and anti-manipulation measures will be published 
+before voting opens. 
+
+ 
+
+ 
+
+
+
+11. FAQ and Contact 
+Is registration free? Yes. There is no registration fee. 
+
+Can I join alone? No. Teams have 3 to 4 members, and individual entries are not accepted. 
+
+Can I be in more than one team? No. Each person registers once and belongs to one 
+team. 
+
+Do I need to join the event page? Yes. Every member must join 
+https://xdemia.com/event/ai-builder-challenge-2026. Registration is complete only then. 
+
+Do I need to be an AI expert? No. Every team gets technical, domain, and pitch coaching. 
+You do need a working prototype at the end. 
+
+What if the Grand Final cannot be held onsite? It moves fully online, with the same 
+schedule. 
+
+Contact. Email felicia@xdemia.com, Monday to Friday, 09.00 to 17.00 WIB

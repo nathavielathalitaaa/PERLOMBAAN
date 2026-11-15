@@ -1,0 +1,646 @@
+﻿echtonic 3.0
+#TechForTomorrow
+
+Guidebook Competition
+
+3.0
+Energizing Tomorrow through Secure Intelligence, Building a smarter, greener, 
+
+
+and trusted digital world.
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+
+
+
+
+echtonic 3.0
+#TechForTomorrow Tables of Contents
+
+Introduction STEM
+Techtonic 3.0 01 Theme 16
+Our Vission dan Mission 02 Timeline 19
+Types of Competition 03 General Rules 21
+
+Preliminary : Concept Proposal 22
+
+General Guidelines
+
+Flow Registration 04 Hackaton
+Materials Requirements 05 Theme 29
+
+Timeline 31
+General Rules 33
+
+BPC Preliminary: Concept Proposal 35
+Theme 07
+Timeline 09
+General Rules 11 Contact Person & Others Information
+Preliminary : BMC 13 BPC : 081316530259 (Mutiara)   Hackaton : 082143865471 (Sultan)  STEM : 081284526850 (Rasyid)
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+
+
+
+
+echtonic 3.0
+#TechForTomorrow Techtonic 3.0
+
+DID YOU KNOW
+
+TECHTONI C
+TECHTONIC is a technology event organized by the IEEE Student Branch Universitas 
+Indonesia, serving as a platform for university students, high school students, and young 
+innovators to expand their knowledge, develop their skills, and foster creativity in the field of 
+technology. The event brings together participants, academics, industry professionals, 
+communities, and corporate partners in a collaborative environment focused on learning, idea 
+exploration, and the development of innovative solutions to real-world challenges.
+
+
+
+Through a series of competitions, seminars, workshops, and expert sharing sessions, 
+TECHTONIC aims to empower the younger generation to become more proactive, critical, and 
+adaptable in responding to the rapid advancement of technology. The event also provides 
+opportunities to strengthen technical expertise, develop essential soft skills, foster collaboration, 
+and encourage innovation, preparing future talents to thrive in the evolving technology 
+landscape.
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 01
+
+
+
+echtonic 3.0
+#TechForTomorrow OUR
+
+Vision Mision
+To establish Techtonic as a 1. Encourage the emergence of creative 
+
+and impactful technological innovations.
+
+
+leading platform for 
+technological innovation that 2. Develop collaboration in the fields of 
+
+Sustainable Energy, Cybersecurity, Digital 
+empowers the younger Trust, IoT, and Edge Computing.
+
+
+
+generation to develop intelligent, 3. Provide opportunities for learning, 
+sustainable, and trustworthy competition, and collaboration for the 
+
+younger generation.
+
+
+solutions, while driving 
+
+4. Foster a culture of innovation that 
+meaningful progress and positive upholds ethics, security, and 
+transformation in the digital era. sustainability.
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 02
+
+
+
+echtonic 3.0
+#TechForTomorrow Types of COMPETITION
+
+STEM Innovation (Project Exhibition) encourages 
+
+STEM Innovation participants to develop innovative products or prototypes in 
+
+Project Exhibit engineering, electronics, intelligent systems, robotics, energy, 
+and other applied technologies that deliver meaningful 
+benefits to society.
+
+The Business Plan Competition challenges participants to develop 
+innovative technology based business ideas with a focus on sustainability, BPC
+industry relevance, and real world implementation potential.
+
+The Hackathon challenges participants to develop innovative 
+
+Hackaton digital solutions by creating applications, systems, or prototypes that 
+address challenges in cybersecurity, smart systems, IoT, and 
+sustainable technology.
+
+03
+@techtonic.ui techtonicieeesbui2025@gmail.com
+
+
+
+
+echtonic 3.0
+#TechForTomorrow FLOW REGISTRATION
+
+Team leaders from each teams must fill out the following 
+registration form:
+ bit.ly/RegistrationTechtonic2026
+Participants must prepare and upload the following documents :
+
+
+bit.ly/MaterialsRequirementsTechtonic2026
+Hackathon participants are required to pay IDR 100,000 and 
+
+must be submitted the proof payment at the registration 
+form, Business Plan Competition (BPC) participants pay  only 
+upon qualifying for the Semifinal Round, and the STEM 
+Competition is free of charge.
+
+
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 04
+
+
+
+echtonic 3.0
+#TechForTomorrow MATERIALS REQUIREMENTS
+
+Follow official instagram accounts Sharing Poster to at least 3 Groups/
+@ieee_sbui & @techtonic.ui person
+
+Document Format:
+ Document Format:
+
+FollowProof_[Team Name].pdf 
+ SharingPosterProof_[Team Name].pdf 
+
+
+
+Student ID Cards (KTM) of all team Repost Poster to Story & tag 
+members @techtonic.ui
+
+Document Format:  Document Format:
+
+StudentID_[Team Name].pdf
+
+ StoryProof_[Team Name].pdf 
+
+
+Twibbon posting collab with team Commented and tag 3 
+
+members and tag @techtonic.ui friends  in @techtonic.ui
+
+twb.nz/techtonic3point0 Document Format:
+
+Document Format:
+ CommentProof_[Team Name].pdf 
+
+TwibbonProof_[Team Name].pdf 
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 05
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+STEM
+
+3.0
+Energizing Tomorrow through Secure Intelligence, Building a smarter, greener, 
+
+
+and trusted digital world.
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+Welcome to the PE STEM Competition of Techtonic UI 3.0!
+
+
+
+I'm thrilled to welcome you to a space where engineering design and analytical problem-solving come 
+together. Through this competition, we aim to challenge how you apply core STEM principles to solve real-
+world problems.
+
+
+
+Whether you are modeling systems, building circuits, or optimizing automated logic, we invite you to 
+explore new possibilities and push your technical limits. Use this experience to learn, test your ideas, and 
+collaborate with your peers.
+
+Give your best, embrace the technical challenges, and enjoy the journey!
+
+
+
+
+Regards,
+
+Abdur Rasyiid Ridha Muflihin
+
+Manager of PE STEM Competition
+
+Techtonic UI 3.0
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 15
+
+
+
+echtonic 3.0
+#TechForTomorrow THEMES
+
+Connecting Lives through IoT : Engineering a 
+
+Better-Integrated World
+
+As global engineering and technology sectors undergo rapid digital transformation, the 
+Internet of Things (IoT), a network of physical devices, vehicles, appliances, and objects 
+embedded with sensors, software, and connectivity to collect and share data, has 
+become essential to building efficient and intelligent infrastructure. This competition 
+challenges participants to develop innovative solutions that connect everyday items with 
+smart digital networks to automate tasks and optimize performance. Whether by 
+elevating daily quality of life, advancing sustainable energy management, enabling 
+remote patient monitoring, or enhancing accessibility and independent living for 
+individuals with disabilities, proposals should demonstrate how smart, connected 
+technologies can build a better-integrated world. 
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 16
+
+
+
+echtonic 3.0
+#TechForTomorrow BENEFITS
+
+Hands-on Experience taking a concept from initial 
+Cash Prizes for top-performing teams to celebrate brainstorming and theoretical design all the way to 
+excellence and support further project development. constructing and demonstrating a physical Proof of 
+
+Concept prototype.
+
+Certificates awarded to participants that are eligible Networking opportunities with proffesionals and 
+to acquire it to recognize their achievements. like-minded people in STEM
+
+Practical Skill Development through applying STEM 
+principles to real-world challenges, building 
+
+expertise in engineering design, budgeting, and 
+troubleshooting.
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 17
+
+
+
+echtonic 3.0
+#TechForTomorrow BENEFITS
+
+ 1st Place  2nd  Place
+IDR 4,000,000 + Certificate IDR 2,500,000 + Certificate
+
+3rd Place Best Creative
+IDR 1,500,000 + Certificate IDR 300,000 + Certificate
+
+Best  Booth
+IDR 300,000 + Certificate
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 18
+
+
+
+echtonic 3.0
+#TechForTomorrow TIMELINE
+
+28 Aug - 17 Sept - 
+17 - 27 Aug 16 Sept 10 - 16  Sept 2 Oct 3 Oct
+
+Grand Opening 4 - 19 Oct
+Early Registration Registration Extended Batch 2
+
+Registration
+21 Nov 24 Oct - 
+
+20 Nov 19 Nov 24 Oct 23 Oct 20 Oct Proposal
+
+Making
+
+C H
+E
+
+3.0
+
+T O I C Booth Setup Constructing a 
+N Technical Finalist Submission Day
+
+Prototype for 
+Exhibition Meeting Announcement
+
+Exhibition
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 19
+
+T
+
+
+
+echtonic 3.0
+#TechForTomorrow TIMELINE
+
+Grand Opening Project Concept Proposal Technical Meeting
+
+ficial opening ceremony Teams prepare and submit their Mandatory briefing for finalists 
+Of
+
+Project Concept Proposal 
+ regarding the final exhibition, 
+introducing the competition, 
+
+based on the competition
+ judging criteria, and event 
+timeline, rules
+
+ theme  procedures.
+
+The Making of Proof of Concept of the
+
+ Project to be Exhibited: Exhibition & Awarding Day (Final)
+
+Teams will construct a functional 
+physical prototype of their proposed Final presentation session, winner 
+solution within the budget limit. This announcement, and award presentation 
+
+model/prototype will be displayed and ceremony. 
+demonstrated live at the final exhibition 
+
+to showcase its practical features and 
+engineering logic to judges and visitors. 
+
+20
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 20
+
+
+
+echtonic 3.0
+#TechForTomorrow GENERAL  RULES
+
+Only active senior high school students are eligible to participate. 
+
+One team consists of 2–3 participants, which may come from different 
+institutions. 
+
+Each participant is allowed to join only one team. 
+
+Team members cannot be changed once the registration form has been 
+submitted. 
+
+Project ideas must be the original work of the participating team, must not have 
+previously won any similar competition, and must not be a fully developed 
+organizational project. Each team is required to submit a signed Originality 
+Statement bearing the Team Leader's signature affixed over an Indonesian 
+Rp10,000 stamp duty, which can be accessed via: Techtonic Work of Originality 
+
+Each team must submit the work within the specified deadline. Late submissions 
+will not be accepted, no deadline extensions will be granted, and failure to 
+submit all required documents on time will result in disqualification. 
+
+The judges' decision is final and cannot be contested.
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 21
+
+
+
+echtonic 3.0
+#TechForTomorrow PRELIMINARY ROUND
+
+OBJECTIVE
+The Preliminary Stage focuses on testing your idea's technical potential, 
+originality, and practical plan before any physical building begins. Through your 
+project proposal, you need to clearly explain the problem you are tackling, the 
+engineering or scientific principles behind your design, and what makes your 
+solution unique. Ultimately, this stage acts as a filter to make sure only solid, well-
+thought-out concepts move forward to the prototyping phase.
+
+
+
+Just as importantly, this stage evaluates how well you can work within real-world 
+constraints. Your proposal must prove that you can actually build a working Proof 
+of Concept (PoC) without exceeding the Rp.150.000-300.000 budget cap. Reviewers 
+will look closely at your proposed Bill of Materials (BOM), build plan, and timeline to 
+ensure your design isn't just great on paper, but also realistic, affordable, and 
+ready for the final exhibition.
+
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 22
+
+
+
+echtonic 3.0
+#TechForTomorrow PRELIMINARY ROUND
+
+CONCEPT PROPOSAL WRITING & STRUCTURES 
+Cover Page & Executive Summary
+
+Header and Metadata: Project title, team name, team lead, members, school 
+name, sub theme, and track.
+
+Executive Summary: A self contained summary which can cover the problem, 
+abstract, proposed solution, basic working principle, and expected outcome. 
+(1-2 pages)
+
+
+
+
+
+Introduction and Background
+Problem Definition: Clear statement of the real world problem or everyday 
+
+challenge being addressed.
+
+Proposed Solution and Novelty: Simple explanation of what your device or tool 
+does and why it is better or unique compared to existing options.
+
+
+
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 23
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+System Design and Technical Logic
+
+Visual Diagram: A simple diagram showing how inputs, microcontrollers, and outputs connect, 
+as to quickly understand the project's logic and hardware layout. 
+
+How It Works: Step by step explanation of what happens when the device operates, written in 
+clear logical steps.
+
+Main Components List: Summary of primary hardware parts, modules, materials, and software 
+platforms used.
+
+
+
+
+
+Implementation Plan and Budget
+Proof of Concept Scope: Clear explanation of what exact features will be 
+
+physically built and shown at the exhibition booth versus conceptual 
+features.
+
+Bill of Materials and Budget: Simple table listing parts, quantity, source, unit 
+price, and with a budget range of Rp.150,000 - Rp.300,000.
+
+Design Iterations and SWOT Analysis: A breakdown of initial design concepts 
+evaluating their strengths, weaknesses, opportunities, and threats, including 
+a clear justification for why the final iteration was selected for construction. 
+
+
+
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 24
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+Impact and Practical Use
+
+Benefits: Practical advantages of the solution for users, community, or the environment.
+
+Future Ideas: Simple ideas for how the project could be improved or expanded if given more 
+time or budget in the future.
+
+
+
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 25
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+PRELIMINARY ROUND
+Writing Rules and Formatting Standards
+
+Document Layout and Page Setup
+
+Font: Times New Roman across the entire document.
+
+Hierarchy: Document Title in 24 point bold centered, Section Headings in 10 point 
+small caps centered, Subheadings in 10 point italic left aligned, Body text in 10 
+point regular fully justified.
+
+Page Setup: Standard A4 or Letter with 0.75 inch margins, single or 1.15 line 
+spacing. 
+
+
+
+Stylistic and Tone Rules
+
+Tone: Objective third person voice, avoiding personal pronouns like I or we where 
+possible.
+
+Terminology: Standard SI units and fully written acronyms on first use, such as 
+Proof of Concept.
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 26
+
+
+
+echtonic 3.0
+3
+
+PRELIMINARY ROUND
+Writing Rules and Formatting Standards
+
+Visuals, Equations, and Tables
+
+Figures: High resolution block diagrams and flowcharts with captions placed 
+below the figure.
+
+Tables: Captions placed above the table in small caps.
+
+Formulas and Equations: Centered on their own line with right aligned equation 
+numbers in parentheses, using proper scientific notation and standard SI units 
+for all mathematical and scientific values. 
+
+
+
+Citation and Reference Style
+
+In Text Citations: Bracketed numbers sequential to the reference list.
+
+Reference Format: Listed at the end following standard IEEE reference formatting 
+for web articles, datasheets, or publications.
+
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+ 27
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+Partner 
+
+Collaboration
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+
+
+
+
+echtonic 3.0
+#TechForTomorrow
+
+Register NOW
+
+LINK :
+bit.ly/RegistrationTechtonic2026
+
+@techtonic.ui techtonicieeesbui2025@gmail.com
+
+
+
+
+echtonic 3.0
+#TechForTomorrow Contact Person & Others Information
+
+Contact Us
+
+@techtonic.ui
+
+techtonicieeesbui2025@gmail.com
+
+
+Raddo +62 821-6055-5955
+
+James +62 811-9554-788
+
+Awan   +62 821‑8387‑1774
+
+@techtonic.ui techtonicieeesbui2025@gmail.com

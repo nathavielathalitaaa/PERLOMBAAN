@@ -1,0 +1,614 @@
+{
+  "taxonomy_version": "0.2.0",
+  "project": "AI Competition Mentor",
+  "description": "Taksonomi dokumen dan cabang perlombaan berdasarkan hasil audit isi 80 dokumen korpus TXT (V0.1 Stage 2).",
+  "macro_document_categories": [
+    {
+      "category_code": "dokumen_panduan_kompetisi",
+      "label_id": "Dokumen Panduan Kompetisi",
+      "description": "Dokumen panduan komprehensif penyelenggaraan perlombaan (Guidebook, Booklet Lomba, Panduan Pelaksanaan, Pedoman Lomba, Handbook) yang memuat latar belakang, tema, timeline, syarat peserta, mekanisme tahapan, kriteria penilaian, dan hadiah.",
+      "included_document_types": [
+        "guidebook",
+        "panduan",
+        "panduan_pelaksanaan",
+        "pedoman",
+        "booklet",
+        "handbook"
+      ]
+    },
+    {
+      "category_code": "dokumen_ketentuan_dan_petunjuk_teknis",
+      "label_id": "Dokumen Ketentuan dan Petunjuk Teknis",
+      "description": "Dokumen yang berfokus langsung pada aturan teknis pelaksanaan, spesifikasi pengumpulan karya, syarat & ketentuan peserta, atau rulebook kompetisi (Juknis, Rulebook, Syarat & Ketentuan, Ketentuan Lomba, Panduan Teknis).",
+      "included_document_types": [
+        "petunjuk_teknis",
+        "guidebook_petunjuk_teknis",
+        "panduan_teknis",
+        "rulebook",
+        "ketentuan_lomba",
+        "syarat_ketentuan"
+      ]
+    },
+    {
+      "category_code": "modul_pembelajaran",
+      "label_id": "Modul Pembelajaran",
+      "description": "Materi ajar, modul pelatihan teknis, atau buku teks kurikulum pembelajaran (bukan dokumen aturan perlombaan).",
+      "included_document_types": [
+        "modul_pembelajaran"
+      ]
+    },
+    {
+      "category_code": "katalog_karya_atau_finalis",
+      "label_id": "Katalog Karya atau Finalis",
+      "description": "Booklet atau katalog pasca-seleksi yang menampilkan statistik pendaftar, profil tim finalis, dan ringkasan karya/inovasi peserta (bukan panduan pendaftaran lomba).",
+      "included_document_types": [
+        "booklet_profil_finalis"
+      ]
+    },
+    {
+      "category_code": "dokumen_sosialisasi",
+      "label_id": "Dokumen Sosialisasi",
+      "description": "Materi paparan atau slide sosialisasi kebijakan, rekapitulasi cabang ajang talenta, dan jadwal umum penyelenggaraan.",
+      "included_document_types": [
+        "paparan_sosialisasi"
+      ]
+    },
+    {
+      "category_code": "dokumen_lainnya",
+      "label_id": "Dokumen Lainnya",
+      "description": "Dokumen non-kompetisi standar seperti panduan kurikulum bootcamp/pelatihan atau booklet rekrutmen duta/organisasi.",
+      "included_document_types": [
+        "guidebook_bootcamp",
+        "booklet_rekrutmen"
+      ]
+    },
+    {
+      "category_code": "unknown",
+      "label_id": "Tidak Diketahui (Dokumen Kosong / Gagal Ekstraksi)",
+      "description": "Dokumen tidak memiliki teks yang dapat dibaca (0 kata) sehingga jenis dokumen belum dapat diidentifikasi tanpa konversi ulang PDF.",
+      "included_document_types": [
+        "unknown"
+      ]
+    }
+  ],
+  "multi_branch_classification_types": [
+    {
+      "type_code": "single_branch",
+      "description": "Dokumen mengatur tepat satu cabang perlombaan spesifik."
+    },
+    {
+      "type_code": "multi_branch_event",
+      "description": "Dokumen panduan terpadu yang memuat aturan untuk 2 atau lebih cabang perlombaan terpisah dalam satu ajang/event."
+    },
+    {
+      "type_code": "composite_branch_competition",
+      "description": "Satu mata lomba yang mengintegrasikan dua bentuk luaran/kompetensi sekaligus (misal: Essay & Infographic Competition, atau Hackathon + Application Development)."
+    },
+    {
+      "type_code": "primary_branch_with_multi_event_intro",
+      "description": "Dokumen menyebutkan beberapa cabang lomba pada bagian pengenalan event umum, tetapi isi teknis dokumen mengatur satu cabang utama secara spesifik."
+    },
+    {
+      "type_code": "non_competition_or_unclassified",
+      "description": "Dokumen bukan panduan perlombaan (modul belajar, bootcamp, rekrutmen duta) atau kosong (0 kata)."
+    }
+  ],
+  "competition_domains": [
+    {
+      "domain_code": "DOM_IT_DIGITAL",
+      "domain_name_id": "Teknologi Informasi, Komputasi & Digital",
+      "domain_name_en": "Information Technology, Computing & Digital Innovation",
+      "branches": [
+        {
+          "branch_code": "BR_AI",
+          "branch_name": "Artificial Intelligence & AI Innovation",
+          "aliases": [
+            "AI Prototype Development",
+            "AI Innovation Challenge",
+            "Olimpiade Kecerdasan Artifisial (EKKA OSN)",
+            "Build App With AI"
+          ],
+          "typical_deliverables": [
+            "AI Prototype",
+            "Pitch Deck",
+            "Source Code / Demo Video",
+            "Technical Paper"
+          ]
+        },
+        {
+          "branch_code": "BR_ML",
+          "branch_name": "Machine Learning",
+          "aliases": [
+            "Machine Learning Competition (MLC)",
+            "Predictive Modeling"
+          ],
+          "typical_deliverables": [
+            "Jupyter Notebook / Model Code",
+            "Prediction Submission (Leaderboard)",
+            "Methodology Report"
+          ]
+        },
+        {
+          "branch_code": "BR_DATA_SCIENCE",
+          "branch_name": "Data Science & Data Mining",
+          "aliases": [
+            "Data Science Competition",
+            "Data Mining (JOINTS)"
+          ],
+          "typical_deliverables": [
+            "Data Analysis Report",
+            "Predictive Model",
+            "Presentation Deck"
+          ]
+        },
+        {
+          "branch_code": "BR_DATA_ANALYTICS",
+          "branch_name": "Data Analytics & Visualization",
+          "aliases": [
+            "Data Analytics Competition (DAC)",
+            "Dashboard Analytics",
+            "Business Intelligence"
+          ],
+          "typical_deliverables": [
+            "Interactive Dashboard",
+            "Analytical Essay / Insight Report",
+            "Pitch Presentation"
+          ]
+        },
+        {
+          "branch_code": "BR_CYBERSECURITY_CTF",
+          "branch_name": "Cybersecurity & Capture The Flag (CTF)",
+          "aliases": [
+            "Capture The Flag",
+            "CTF Jeopardy / Attack-Defense",
+            "Cyber Security (Wreck IT)"
+          ],
+          "typical_deliverables": [
+            "Flag Submissions",
+            "Write-up Vulnerability & Exploit Report"
+          ]
+        },
+        {
+          "branch_code": "BR_NETWORK_ADMIN",
+          "branch_name": "IT Network System Administration",
+          "aliases": [
+            "ITNSA",
+            "Network & System Administration",
+            "Cisco Packet Tracer / Linux Server"
+          ],
+          "typical_deliverables": [
+            "Network Topology Configuration",
+            "System Administration Troubleshooting"
+          ]
+        },
+        {
+          "branch_code": "BR_SOFTWARE_DEV",
+          "branch_name": "Software Development",
+          "aliases": [
+            "Pengembangan Perangkat Lunak",
+            "Software Engineering"
+          ],
+          "typical_deliverables": [
+            "Software Proposal",
+            "Working Software / Prototype",
+            "Video Demo & Documentation"
+          ]
+        },
+        {
+          "branch_code": "BR_APP_DEV",
+          "branch_name": "Application Development",
+          "aliases": [
+            "App Dev",
+            "Mobile & Web Application Development"
+          ],
+          "typical_deliverables": [
+            "Application Prototype / APK / Web App",
+            "Technical Documentation",
+            "Pitch Deck"
+          ]
+        },
+        {
+          "branch_code": "BR_WEB_DEV",
+          "branch_name": "Web Development & Clean Code",
+          "aliases": [
+            "Web Design & Development",
+            "Front-End / Full-Stack Web Development",
+            "Clean Code Web"
+          ],
+          "typical_deliverables": [
+            "Source Code Repository",
+            "Deployed Website",
+            "UI/UX & Architecture Documentation"
+          ]
+        },
+        {
+          "branch_code": "BR_HACKATHON",
+          "branch_name": "Hackathon",
+          "aliases": [
+            "Software Sprint / Coding Marathon",
+            "Smart Technology and Security Hackathon (STASH)",
+            "Financial Innovation Hackathon"
+          ],
+          "typical_deliverables": [
+            "MVP / Functional Prototype",
+            "Pitch Deck",
+            "Live Demo"
+          ]
+        },
+        {
+          "branch_code": "BR_UIUX_DESIGN",
+          "branch_name": "UI/UX Design",
+          "aliases": [
+            "User Interface & User Experience Design",
+            "Product Design"
+          ],
+          "typical_deliverables": [
+            "UX Research & Proposal",
+            "Interactive Figma Prototype",
+            "Design System & Pitch Deck"
+          ]
+        },
+        {
+          "branch_code": "BR_IOT_ROBOTICS",
+          "branch_name": "Internet of Things (IoT) & Robotics",
+          "aliases": [
+            "Internet of Things",
+            "Indonesian Student Prototype and Robotics Exhibition (INSPIRE)",
+            "Smart Device Prototype"
+          ],
+          "typical_deliverables": [
+            "Hardware/IoT Prototype",
+            "Technical Paper / Proposal",
+            "Demonstration Video"
+          ]
+        },
+        {
+          "branch_code": "BR_COMP_PROGRAMMING_LOGIC",
+          "branch_name": "Competitive Programming, Logic & Computational Thinking",
+          "aliases": [
+            "Competitive Programming",
+            "Logicodix",
+            "Algoquest (Computational Thinking, Logic & Mathematics)"
+          ],
+          "typical_deliverables": [
+            "Algorithmic Code Solutions",
+            "Logical & Mathematical Problem Solving"
+          ]
+        },
+        {
+          "branch_code": "BR_3D_ANIMATION",
+          "branch_name": "3D Animation & Digital Multimedia",
+          "aliases": [
+            "3D Walking Loop Animation",
+            "Immersive Fiesta"
+          ],
+          "typical_deliverables": [
+            "Rendered 3D Animation Video",
+            "Project Source File (.blend)",
+            "Concept Description"
+          ]
+        }
+      ]
+    },
+    {
+      "domain_code": "DOM_BUSINESS_ECON",
+      "domain_name_id": "Bisnis, Kewirausahaan, Manajemen & Kebijakan",
+      "domain_name_en": "Business, Entrepreneurship, Management & Public Policy",
+      "branches": [
+        {
+          "branch_code": "BR_BUSINESS_PLAN",
+          "branch_name": "Business Plan Competition (BPC)",
+          "aliases": [
+            "BPC",
+            "English Business Plan Competition (EBPC)",
+            "Perencanaan Bisnis"
+          ],
+          "typical_deliverables": [
+            "BusinessModel Canvas / Executive Summary",
+            "Full Business Plan Proposal",
+            "Pitch Deck & Financial Projection"
+          ]
+        },
+        {
+          "branch_code": "BR_BUSINESS_CASE",
+          "branch_name": "Business Case Competition (BCC)",
+          "aliases": [
+            "BCC",
+            "International Business Case Competition (IBCC)",
+            "SIBCC"
+          ],
+          "typical_deliverables": [
+            "Case Analysis Paper / Proposal",
+            "Solution Slide Deck",
+            "Executive Pitching & QnA"
+          ]
+        },
+        {
+          "branch_code": "BR_BMC",
+          "branch_name": "Business Model Canvas (BMC) Competition",
+          "aliases": [
+            "National BMC Competition",
+            "NextGen BMC"
+          ],
+          "typical_deliverables": [
+            "9-Block Business Model Canvas",
+            "Supporting Narrative / Narrative BMC",
+            "Pitching Deck"
+          ]
+        },
+        {
+          "branch_code": "BR_ENTREPRENEURSHIP_INNOVATION",
+          "branch_name": "Student Entrepreneurship & Innovation (FIKSI)",
+          "aliases": [
+            "Festival Inovasi dan Kewirausahaan Siswa Indonesia (FIKSI)",
+            "Rencana Usaha & Pengembangan Usaha (11 Bidang Industri Kreatif)"
+          ],
+          "typical_deliverables": [
+            "Proposal Rencana/Pengembangan Usaha",
+            "Video Pitching & Produk/Prototipe Wirausaha",
+            "Presentasi & Pameran"
+          ]
+        },
+        {
+          "branch_code": "BR_POLICY_CASE",
+          "branch_name": "Public Policy Case Competition",
+          "aliases": [
+            "Policy Case Competition",
+            "Analisis Kebijakan Publik"
+          ],
+          "typical_deliverables": [
+            "Policy Brief / Policy Case Paper",
+            "Policy Recommendation Presentation"
+          ]
+        },
+        {
+          "branch_code": "BR_ACTUARIAL_CASE",
+          "branch_name": "Actuarial Science & Case Competition",
+          "aliases": [
+            "Actuarial Smart Competition and Quiz (ASiQ)"
+          ],
+          "typical_deliverables": [
+            "Actuarial Problem Solving",
+            "Case Analysis & Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "domain_code": "DOM_SCIENCE_ENG_STEM",
+      "domain_name_id": "Sains, Rekayasa, Energi, Lingkungan & STEM",
+      "domain_name_en": "Science, Engineering, Energy, Environment & STEM",
+      "branches": [
+        {
+          "branch_code": "BR_SCIENCE_OLYMPIAD",
+          "branch_name": "Science, Mathematics & Pharmacy Olympiad",
+          "aliases": [
+            "Science Olympiad (Pharmacopeia)",
+            "Lomba Matematika Nasional (LMNas)",
+            "Olimpiade Kimia Nasional (OKN)",
+            "Tournament of Physics (TOP COP)"
+          ],
+          "typical_deliverables": [
+            "CBT / Written Olympiad Exam",
+            "Practicum / Fast-Response Quiz"
+          ]
+        },
+        {
+          "branch_code": "BR_STEM_PROJECT",
+          "branch_name": "STEM Innovation & Applied Science Project",
+          "aliases": [
+            "Science Experiment Competition (ENERGY4ME)",
+            "PE STEM Innovation Competition",
+            "Science Project (OGG FITB ITB)",
+            "SOBAT Competition (Inovasi Sains, Teknologi & Sosial)"
+          ],
+          "typical_deliverables": [
+            "Scientific/Technical Proposal or Paper",
+            "Functional STEM / Experimental Prototype",
+            "Exhibition & Demonstration"
+          ]
+        },
+        {
+          "branch_code": "BR_ENG_CASE",
+          "branch_name": "Engineering & Science Study Case Competition",
+          "aliases": [
+            "Engineering Case Competition (ECC Metallurgy)",
+            "Study Case Competition (UI Science Olympiad)",
+            "Studi Kasus Infografis (ENFORNATION)"
+          ],
+          "typical_deliverables": [
+            "Abstract & Case Solution Full Paper",
+            "Technical Presentation / Poster"
+          ]
+        },
+        {
+          "branch_code": "BR_ENG_MANAGEMENT_INNOVATION",
+          "branch_name": "Engineering Management Innovation",
+          "aliases": [
+            "Engineering Management Innovation Competition (EMIC)"
+          ],
+          "typical_deliverables": [
+            "Extended Abstract",
+            "Prototype & Final Pitching"
+          ]
+        },
+        {
+          "branch_code": "BR_ENV_ECO_PROJECT",
+          "branch_name": "Environmental & Eco-Project Innovation",
+          "aliases": [
+            "Eco-Project Competition (Greenova)",
+            "Environmental Action & Sustainability Project"
+          ],
+          "typical_deliverables": [
+            "Eco-Project Proposal",
+            "Action Implementation Report / Prototype",
+            "Final Presentation"
+          ]
+        },
+        {
+          "branch_code": "BR_SMART_QUIZ",
+          "branch_name": "Smart Competition & Brain Challenge (Cerdas Cermat)",
+          "aliases": [
+            "Brain Challenge (PJJ Challenge)",
+            "Smart Competition (OGG FITB ITB)",
+            "CBT Kehutanan"
+          ],
+          "typical_deliverables": [
+            "Preliminary Online Quiz / CBT",
+            "Fast-Response Team Quiz (Cerdas Cermat)"
+          ]
+        }
+      ]
+    },
+    {
+      "domain_code": "DOM_WRITING_RESEARCH",
+      "domain_name_id": "Karya Tulis Ilmiah, Esai & Literasi Sastra",
+      "domain_name_en": "Scientific Writing, Essay & Literary Arts",
+      "branches": [
+        {
+          "branch_code": "BR_SCIENTIFIC_PAPER",
+          "branch_name": "Karya Tulis Ilmiah (LKTI) & Research Paper",
+          "aliases": [
+            "Lomba Karya Tulis Ilmiah (LKTI)",
+            "Innovative Research Competition (ISOTHERM)",
+            "Short Paper Competition",
+            "Energynovation Ideas Competition (EIC PGTC)",
+            "SCIENTA"
+          ],
+          "typical_deliverables": [
+            "Abstract",
+            "Full Scientific Paper (KTI)",
+            "Scientific Poster / Video Presentation"
+          ]
+        },
+        {
+          "branch_code": "BR_ESSAY",
+          "branch_name": "Essay Competition (Esai Ilmiah, Kritis & Kreatif)",
+          "aliases": [
+            "Esai Gagasan Kreatif",
+            "Esai Gagasan Kritis",
+            "Social Essay (ESCO)",
+            "Business & Technology Essay",
+            "Physics / Geoscience / Pharmacy / Health Essay"
+          ],
+          "typical_deliverables": [
+            "Essay Manuscript",
+            "Presentation Slide Deck (Finalist)"
+          ]
+        },
+        {
+          "branch_code": "BR_LITERARY_WRITING",
+          "branch_name": "Penulisan Sastra (Cipta Puisi & Cerita Pendek)",
+          "aliases": [
+            "Cipta Cerpen (KOSA KATA / Literat Fest)",
+            "Cipta Puisi & Puisi Islami"
+          ],
+          "typical_deliverables": [
+            "Naskah Cerpen",
+            "Naskah Puisi / Video Pembacaan Puisi"
+          ]
+        },
+        {
+          "branch_code": "BR_JOURNALISM",
+          "branch_name": "Jurnalistik & Pers Mahasiswa",
+          "aliases": [
+            "PIMA (Penghargaan Jurnalistik Mahasiswa: Hardnews, Feature, Foto Cerita, TV, Radio)"
+          ],
+          "typical_deliverables": [
+            "Karya Jurnalistik Terpublikasi (Berita, Feature, Foto Jurnalistik, Siaran TV/Radio)"
+          ]
+        }
+      ]
+    },
+    {
+      "domain_code": "DOM_CREATIVE_MEDIA_COMMUNICATION",
+      "domain_name_id": "Desain Visual, Media Kreatif & Komunikasi Lisan",
+      "domain_name_en": "Visual Design, Creative Media & Oral Communication",
+      "branches": [
+        {
+          "branch_code": "BR_INFOGRAPHIC",
+          "branch_name": "Infographic Design Competition",
+          "aliases": [
+            "Lomba Infografis Statis",
+            "Scientific & Statistical Infographic"
+          ],
+          "typical_deliverables": [
+            "Infographic Poster (PNG/PDF)",
+            "Caption / Narrative Description",
+            "Presentation"
+          ]
+        },
+        {
+          "branch_code": "BR_POSTER_DESIGN",
+          "branch_name": "Poster Design Competition",
+          "aliases": [
+            "Digital Poster Competition",
+            "Public Poster / Scientific Poster"
+          ],
+          "typical_deliverables": [
+            "Poster Artwork",
+            "Design Philosophy / Abstract",
+            "Presentation"
+          ]
+        },
+        {
+          "branch_code": "BR_VIDEO_FILM_PHOTO",
+          "branch_name": "Videography, Short Movie & Photography",
+          "aliases": [
+            "Short Movie (IT Fest)",
+            "Video Campaign (Pharmacopeia)",
+            "Geo Video (OGG)",
+            "Videografi (ENFORNATION)",
+            "Catch the Moment (Photography & Videography)"
+          ],
+          "typical_deliverables": [
+            "Short Film / Campaign Video / Photo Series",
+            "Synopsis / Storyboard / Script"
+          ]
+        },
+        {
+          "branch_code": "BR_DEBATE_SPEECH",
+          "branch_name": "Debate & Speech Competition",
+          "aliases": [
+            "Geo Debate",
+            "English Speech (OGG FITB ITB)",
+            "British Parliamentary Debate"
+          ],
+          "typical_deliverables": [
+            "Prepared & Impromptu Speeches",
+            "Parliamentary Debate Rounds"
+          ]
+        },
+        {
+          "branch_code": "BR_RELIGIOUS_ARTS",
+          "branch_name": "Seni Islami & Tilawah Al-Qur'an",
+          "aliases": [
+            "Lomba Tilawah Al-Qur'an (Firma Ceria)"
+          ],
+          "typical_deliverables": [
+            "Video Rekaman Tilawah / Penampilan Langsung"
+          ]
+        }
+      ]
+    },
+    {
+      "domain_code": "DOM_VOCATIONAL_NATIONAL",
+      "domain_name_id": "Kompetensi Keahlian Vokasi Multi-Bidang",
+      "domain_name_en": "Multi-Field National Vocational Skills Competition",
+      "branches": [
+        {
+          "branch_code": "BR_VOCATIONAL_LKS",
+          "branch_name": "Lomba Kompetensi Siswa (LKS SMK/Dikmen - 37 Bidang Keahlian)",
+          "aliases": [
+            "LKS SMK Nasional",
+            "LKS Dikmen (6 Kelompok Bidang: Konstruksi, Seni Kreatif, TIK, Manufaktur & Rekayasa, Agribisnis/kesehatan, Pariwisata & Layanan Sosial)"
+          ],
+          "typical_deliverables": [
+            "Proyek Uji Kompetensi Keahlian Praktik (Test Project)",
+            "Presentasi & Demonstrasi Keterampilan Vokasi"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+﻿GUIDEBOOK
+
+💡
+PJJ
+
+CHALLENGE
+CHAPTER II
+
+@pjj.informatics.uii informatics.uii.ac.id/pjj
+
+
+
+DAFTAR ISI
+
+Tentang PJJ Challenge 1
+
+Timeline Kegiatan 1
+
+Lomba & Hadiah 2
+
+Petunjuk Teknis 3
+
+Brain Challenge Week 3
+
+Short Paper 4
+
+Essay 6
+
+Catch the Moment 8
+
+Pendaftaran 9
+
+
+
+1
+Tentang PJJ Challenge
+
+    PJJ Challenge adalah program kompetisi nasional yang diselenggarakan oleh Program 
+Studi Informatika Pendidikan Jarak Jauh (PJJ), Universitas Islam Indonesia. Kompetisi ini 
+hadir sebagai ruang ekspresi intelektual sekaligus ajang mempertemukan mahasiswa, 
+pelajar, dan masyarakat umum dalam berkreasi.
+
+  Chapter II hadir dengan empat cabang lomba yang dirancang untuk menjangkau 
+berbagai kalangan, mulai dari kuis berbasis media sosial hingga karya ilmiah berskala 
+nasional.
+
+Tujuan Kegiatan
+
+Mendorong budaya berpikir kritis dan kreatif di era teknologi digital
+
+Memberikan wadah kompetisi terbuka bagi pelajar, mahasiswa, dan masyarakat umum
+
+Meningkatkan literasi digital dan kesadaran tentang kecerdasan buatan
+
+Memperkenalkan Program Studi Informatika PJJ UII kepada masyarakat luas
+
+Membangun ekosistem intelektual yang aktif di lingkungan pembelajaran jarak jauh
+
+Timeline Kegiatan
+
+17 - 28 Juni 2026 Pendaftaran & Pengumpulan Karya
+
+Mata lomba Short Paper, Essay, dan Catch the Moment
+
+Brain Challenge Week Berlangsung
+
+22 - 28 Juni 2026 Kuis harian via Instagram Feeds (7 hari berturut-turut)
+
+29 - 2 Juli 2026 Proses Penilaian Juri Essay & Short Paper 
+
+Pengumuman & Live Awarding
+
+3 Juli 2026 Siaran langsung pengumuman pemenang seluruh cabang 
+
+lomba melalui Instagram @pjj.informatics.uii
+
+
+
+2
+Lomba & Hadiah
+
+1 Brain Challenge Week
+Terdapat 1 soal/hari dalam sepekan pada postingan akun @pjj.informatics.uii dan 
+peserta bisa menjawab via kolom komentar dari pukul 08.00-20.00 WIB.
+
+2 Short Paper
+Tuangkan gagasanmu dalam karya ilmiah berskala nasional dan bisa membawa 
+pemikiran kritis, sehingga layak menjadi pemenang.
+
+3 Essay
+Tuangkan pemikiran kritismu tentang AI dalam tulisan yang menggugah dan reflektif, 
+tunjukkan bahwa esaimu layak menjadi pemenang.
+
+4 Catch the Moment
+Potret lockscreen pada layar HP-mu dan ceritakan kisah IT di baliknya secara naratif, 
+sederhana, personal, dan penuh makna.
+
+Mata Lomba Peserta JUARA 1 JUARA 2 JUARA 3 Total 
+
+Rp2.500.000 
+SHORT PAPER Mahasiswa S1 + beasiswa PJJ
+ Rp2.000.000 Rp1.500.000 Rp6.000.000
+
+50% UKK  
+
+(tahun pertama)
+
+ESSAY Umum Rp2.000.000 Rp1.500.000 Rp1.000.000 Rp4.500.000
+
+CATCH THE 
+MOMENT Umum Rp750.000 Rp500.000 Rp250.000 Rp1.500.000
+
+TOTAL HADIAH KESELURUHAN Rp12.000.000
+
+*TOTAL HADIAH BELUM TERMASUK BRAIN CHALLENGE WEEK
+
+Peserta diperbolehkan mengikuti lebih dari satu cabang lomba.
+
+Seluruh peserta yang mengirimkan karya akan mendapatkan  e-
+sertifikat resmi. 
+
+
+
+3
+Petunjuk Teknis
+
+1 Brain Challenge Week
+
+PLATFORM Instagram Feeds  @pjj.informatics.uii
+
+DURASI Senin, 22 Juni 2026 - Minggu, 28 Juni 2026
+
+SIFAT Individu
+
+TOPIK Sejarah Teknologi, Jaringan Komputer, Algoritma & Pemrograman
+
+SYARAT
+
+Peserta umum untuk semua kalangan.
+
+Akun Instagram aktif dan wajib mengikuti (follow) akun @pjj.informatika.uii.
+
+Satu akun hanya boleh menjawab 1x per hari.
+
+MEKANISME
+
+Setiap hari pada pukul 08.00 WIB, soal akan diunggah via Instagram Feeds 
+@pjj.informatics.uii.
+
+Format soal: pilihan ganda atau isian singkat melalui kolom komentar.
+
+Peserta menjawab melalui kolom komentar dan mention 3 akun teman.
+
+Pemenang dipilih berdasarkan jawaban yang masuk paling tepat dan 
+diumumkan pada hari berikutnya.
+
+Catatan: 
+
+Soal dibuat dan diverifikasi oleh Dosen dan Tutor resmi Program Studi Informatika. 
+
+Pengumuman pemenang dilakukan H+1 melalui Instagram Stories dan Feeds akun resmi 
+PJJ Informatika UII.
+
+Keputusan panitia dan dewan juri bersifat final.
+
+
+
+4
+Petunjuk Teknis
+
+2 Short Paper
+
+PLATFORM Word Document/WPS Office/Google Docs
+
+DURASI Rabu, 17 Juni 2026 - Minggu, 28 Juni 2026
+
+SIFAT Individu
+
+TOPIK Kampus Impian Tetap Jalan - Gelar Kedua Tetap Dikejar
+
+SYARAT
+
+Peserta adalah mahasiswa S1 aktif dari perguruan tinggi mana pun di Indonesia.
+
+Setiap peserta hanya boleh mengirimkan satu karya.
+
+Karya belum pernah dipublikasikan atau dilombakan di tempat lain.
+
+Karya tidak mengandung unsur SARA dan menyinggung pihak lain.
+
+Similarity maksimal 20%, AI generatif tidak boleh digunakan untuk teks utama.
+
+FORMAT PENULISAN
+
+Ketentuan Detail
+
+Jenis Karya Karya Ilmiah (2.000-4.000 kata)
+
+Font Times New Roman, 12pt
+
+Spasi 1,5 spasi (abstrak & daftar pustaka: 1 spasi)
+
+Margin Atas-bawah 3 cm dan kiri-kanan 4 cm
+
+Ukuran Kertas A4 (210 × 297 mm)
+
+Bahasa Bahasa Indonesia sesuai kaidah EYD V
+
+Template Link template (uii.id/TemplateShortPaperPJJ)
+
+
+
+5
+Petunjuk Teknis
+
+STRUKTUR PENULISAN
+
+Judul                          
+ : spesifik, akademis, maks. 20 kata
+
+Identitas Penulis  
+ : nama, NIM, program studi, universitas, email
+
+Abstrak                     
+ : 200–250 kata, kecuali Daftar Pustaka
+
+Kata Kunci               
+ : 3–5 kata kunci relevan
+
+Pendahuluan          
+ : konteks, rumusan masalah, tujuan, dan manfaat penelitian
+
+Tinjauan Pustaka 
+ : teori dan penelitian relevan yang mendukung argumen
+
+Metode                      
+ : studi literatur, survei kecil, atau wawancara singkat
+
+Pembahasan          
+ : analisis data/temuan, didukung argumen logis
+
+Kesimpulan             
+ : jawaban atas rumusan masalah dan rekomendasi
+
+Daftar Pustaka      : minimal 8 referensi format APA Style
+
+KRITERIA PENILAIAN
+
+Aspek Penilaian Indikator Bobot
+
+Orisinilitas Kebaruan gagasan dan kontribusi keilmuan 35%
+
+Kesesuaian Tema Keterkaitan topik dengan tema 20%
+
+Kualitas pembahasan dan kesesuaian 
+Analisis & Metodologi 30%
+
+pendekatan penelitian
+
+Sistematika & Bahasa Struktur penulisan, EYD, dan gaya akademis 15%
+
+FORMAT FILE PDF/DOCX/DOCS, maks. 5 MB
+
+Catatan: 
+
+Pengumpulan karya dilakukan melalui formulir online yang tersedia di website resmi.
+
+Karya yang terbukti melanggar ketentuan orisinalitas akan didiskualifikasi tanpa 
+pemberitahuan lebih lanjut.
+
+Keputusan panitia dan dewan juri bersifat final.
+
+
+
+6
+Petunjuk Teknis
+
+3 Essay
+
+PLATFORM Word Document/WPS Office/Google Docs
+
+DURASI Rabu, 17 Juni 2026 - Minggu, 28 Juni 2026
+
+SIFAT Individu
+
+TOPIK Hidup di Zaman AI: Lebih Mudah, Tapi Apa Lebih Paham?
+
+SYARAT
+
+Peserta umum untuk semua kalangan.
+
+Setiap peserta boleh mengirimkan lebih dari satu karya.
+
+Karya merupakan tulisan asli, belum pernah dipublikasikan atau dilombakan di 
+tempat lain.
+
+Karya tidak mengandung unsur SARA dan menyinggung pihak lain.
+
+Similarity maksimal 20%, AI generatif tidak boleh digunakan untuk teks utama.
+
+FORMAT PENULISAN
+
+Ketentuan Detail
+
+Jenis Karya Esai Populer (1.000-2.500 kata)
+
+Font Times New Roman, 12pt
+
+Spasi 1,5 spasi (daftar pustaka: 1 spasi)
+
+Margin Atas-bawah 3 cm dan kiri-kanan 4 cm
+
+Ukuran Kertas A4 (210 × 297 mm)
+
+Bahasa Bahasa Indonesia sesuai kaidah EYD V
+
+Template Link template (uii.id/TemplateEssayPJJ)
+
+
+
+7
+Petunjuk Teknis
+
+STRUKTUR PENULISAN
+
+Judul                          
+ : singkat, padat, menarik (maks. 15 kata)
+
+Identitas Penulis    :   n a m 
+a, alamat, nomor HP, dan email
+
+Pendahuluan           :  l a t a r  b e l a 
+ kang, rumusan masalah, tujuan penulisan
+
+Pembahasan          
+ : analisis mendalam, didukung data/fakta/teori valid
+
+Penutup      : kesimpulan dan rekomendasi
+
+KRITERIA PENILAIAN
+
+Aspek Penilaian Indikator Bobot
+
+Keunikan gagasan, sudut pandang, dan 
+Orisinilitas pendekatan 40%
+
+Kesesuaian Tema Relevansi tulisan dengan tema 25%
+
+Sistematika Penulisan Keteraturan struktur dan alur penulisan 20%
+
+Tata Bahasa & Gaya Kejelasan bahasa, EYD, dan gaya penyampaian 15%
+
+FORMAT FILE PDF/DOCX/DOCS, maks. 5 MB
+
+Catatan: 
+
+Pengumpulan karya dilakukan melalui formulir online yang tersedia di website resmi.
+
+Karya yang terbukti melanggar ketentuan orisinalitas akan didiskualifikasi tanpa 
+pemberitahuan lebih lanjut.
+
+Keputusan panitia dan dewan juri bersifat final.
+
+
+
+8
+Petunjuk Teknis
+
+4 Catch the Moment
+
+PLATFORM Instagram Feeds Pribadi
+
+DURASI Rabu, 17 Juni 2026 - Minggu, 28 Juni 2026
+
+SIFAT Individu
+
+TOPIK Kisah dalam Layar HP dibalik Dunia Teknologi
+
+SYARAT & KETENTUAN
+
+Peserta umum untuk semua kalangan.
+
+Setiap peserta hanya boleh mengirimkan satu karya.
+
+Karya berupa lockscreen HP pribadi peserta.
+
+Konten lockscreen harus berkaitan dengan dunia IT, kuliah, dan teknologi.
+
+Lockscreen dapat berupa:
+
+
+Wallpaper dengan elemen-elemen sesuai tema.
+
+Hasil potret langsung layar HP (difoto menggunakan kamera hp).
+
+
+Karya boleh diedit sesuai kreativitas.
+
+Karya tidak mengandung unsur SARA dan menyinggung pihak lain.
+
+Wajib menyertakan watermark berupa paraf dan nama lengkap peserta 
+pada lockscreen.
+
+Peserta WAJIB menggunggah karya pada google form dan 
+mempublikasikan karya pada Instagram Feed dan Story dengan menandai 
+akun @pjj.informatics.uii.
+
+Peserta WAJIB membuat narasi yang menceritakan makna dari locksreen 
+Anda.
+
+FORMAT FILE JPG/PNG, maks. 5 MB
+
+
+
+9
+Petunjuk Teknis
+
+KRITERIA PENILAIAN
+
+Aspek Penilaian Indikator Bobot
+
+Keunikan Lockscreen Personalisasi tampilan layar yang dipilih 40%
+
+Kemampuan caption menyampaikan kisah yang 
+Kekuatan Cerita 25%
+
+menarik dan relatable
+
+Kesesuaian Tema Keterkaitan konten lockscreen dengan tema 20%
+
+Engagement Likes, komentar, dan interaksi pada postingan 15%
+
+Catatan: 
+
+Peserta dilarang menggunakan foto lockscreen milik orang lain, melakukan manipulasi 
+berlebihan, atau menyertakan konten yang tidak pantas. Pelanggaran menyebabkan 
+diskualifikasi tanpa pemberitahuan lebih lanjut.
+
+Keputusan panitia dan dewan juri bersifat final.
+
+Pendaftaran
+
+Daftarkan dirimu, tunjukkan ceritamu, dan jadilah Scan QR Pendaftaran
+
+bagian dari pembelajar yang terus bergerak maju 
+bersama PJJ Informatika UII.
+
+Daftar di sini:
+
+uii.id/PJJChallenge2
+
+
+Kunjungi website:
+
+https://informatics.uii.ac.id/pjjchallenge/
+
+Jarak  bukan  Penghallang  Karya,,  Semangat  untuk  Berdaya,,  Berkarya  Tetap  Berjjaya
+
+
+
+💡
+PJJ
+
+CHALLENGE
+CHAPTER II
+
+Contact us: 0815-1121-0101
+
+Follow us: @pjj.informatics.uii

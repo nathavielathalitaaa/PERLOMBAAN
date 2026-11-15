@@ -1,0 +1,346 @@
+﻿1. KATA  PENGANTAR  
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa atas 
+
+limpahan karunia-Nya, sehingga kita dapat menyelenggarakan Immersive 
+Fiesta 2025, sebuah ajang perlombaan dan workshop dari program studi 
+Teknologi Rekayasa Multimedia.  
+  
+
+Immersive Fiesta 2025 menghadirkan tiga rangkaian kegiatan utama, 
+yaitu:  
+Lomba 3D Walking Loop Animation, Pameran Immersive Fiesta dan 
+Workshop Immersive Fiesta. Perlombaan 3D Walking Loop Animation 
+dilaksanakan secara online, sehingga peserta dapat berkompetisi dari 
+tempat tinggal masing-masing. Sementara itu, workshop, dan awarding, 
+serta pameran akan dilaksanakan secara offline.  
+  
+
+Guidebook ini disusun untuk menjadi panduan resmi bagi para 
+peserta dalam mengikuti seluruh rangkaian Lomba Immersive Fiesta 2025, 
+sekaligus untuk memastikan penyelenggaraan kegiatan dapat terlaksana 
+dengan baik. Kami mengucapkan terima kasih kepada semua pihak yang 
+telah membantu tersusunnya guidebook ini. Semoga Tuhan Yang Maha Esa 
+selalu memberikan kesehatan dan keberkahan kepada kita semua.  
+
+  
+  
+  
+
+  
+
+
+
+  
+  
+
+2. LATAR BELAKANG  
+Selaras dengan visi menjadi bagian dari emerging technology, 
+
+Program Studi Sarjana Terapan Teknologi Rekayasa Multimedia 
+berkomitmen aktif dalam pengembangan dan penerapan teknologi 
+multimedia. Hal ini didorong oleh potensi teknologi multimedia yang terus 
+berkembang, salah satunya melalui inovasi di bidang visualisasi desain 
+animasi tiga dimensi (3D). Visualisasi pemodelan 3D merujuk pada proses 
+representasi digital objek atau lingkungan yang dapat diwujudkan dalam 
+Perlombaan 3D Walking Loop Animation. Pengembangan ini memiliki 
+penerapan luas di berbagai sektor, termasuk industri, pendidikan, dan 
+hiburan.  
+
+Generasi muda saat ini dikenal memiliki pola pikir kritis, kreatif, dan 
+inovatif. Mereka memiliki potensi besar untuk berkontribusi dalam 
+pengembangan animasi 3D dan desain environment. Namun, mereka juga 
+membutuhkan wadah dan kesempatan untuk mengembangkan potensi 
+mereka. Oleh karena itu, Immersive Fiesta hadir sebagai wadah baru untuk 
+menunjang perkembangan 3D di kalangan generasi muda. Dalam kegiatan 
+ini terdapat serangkaian kompetisi dan workshop yang dapat diikuti oleh 
+siswa SMA/SMK sederajat berskala nasional dan gap year maksimal 2 
+tahun. Diharapkan kegiatan ini dapat meningkatkan kemampuan generasi 
+muda dalam bidang 3D dan turut berperan aktif dalam kemajuan teknologi 
+visualisasi pemodelan 3D di Indonesia.  
+
+  
+  
+
+
+
+  
+
+3. TUJUAN KEGIATAN  
+Adapun tujuan kegiatan yang diharapkan dari keseluruhan rangkaian 
+
+acara Immersive Fiesta 2025 adalah sebagai berikut:  
+1. Meningkatkan penguasaan peserta mengenai keahlian praktis di 
+
+bidang animasi 3D, terutama dalam pemodelan desain kostum, 
+desain karakter serta desain environment yang konsisten dan 
+menarik.  
+
+2. Memberikan wadah sekaligus meningkatkan motivasi peserta untuk 
+selalu belajar dan berkarya dalam bidang visualisasi dan animasi 3D.  
+
+3. Memberikan wawasan tentang teknologi imersif AR & VR pada 
+workshop sebagai diferensiasi keahlian peserta.  
+
+4. Memperkuat citra dan reputasi Program Studi Sarjana Terapan 
+Teknologi Rekayasa Multimedia yang ada di Politeknik Elektronika 
+Negeri Surabaya.  
+
+4. SASARAN KEGIATAN  
+Sasaran dari kegiatan ini adalah siswa SMA/SMK sederajat Indonesia atau 
+Gap Year maksimal 2 tahun yang berminat dan memiliki potensi dalam hal 
+pembuatan 3D Walking Loop Animation.  
+  
+  
+  
+  
+  
+
+
+
+  
+
+5. WAKTU PELAKSANAAN  
+• Pendaftaran Lomba: 26 Agustus 2025 - 14 September 2025  
+• Technical Meeting (Online via Zoom): 21 September 2025  
+• Pelaksanaan Lomba: 21 September - 12 Oktober 2025  
+• Pengumpulan Karya Peserta: 5 - 12 Oktober 2025  
+• Penjurian Lomba: 6 Oktober - 19 Oktober 2025  
+• Pameran Immersive Fiesta: 25 Oktober 2025  
+
+Seminar dan Penghargaan Immersive Fiesta: 25 Oktober 2025  
+
+6. BENTUK KEGIATAN  
+Bentuk kegiatan ini merupakan implementasi mata kuliah yang ada di 
+Program Studi Sarjana Terapan Teknologi Rekayasa Multimedia PENS dan 
+dikemas menjadi:  
+
+1. Lomba 3D Walking Loop Animation: Merupakan kompetisi utama 
+yang menantang kreativitas dan kemampuan teknis peserta dalam 
+menciptakan dunia imajinatif melalui animasi 3D. Untuk mendukung 
+fokus peserta pada desain environment, panitia akan menyediakan 
+aset karakter 3D yang telah siap dianimasikan (rigged) beserta 
+animasi dasar berjalan (walk cycle).  
+
+2. Pameran Immersive Fiesta 2025: Sebuah pameran yang 
+menampilkan berbagai karya terbaik dari mahasiswa Program Studi 
+Teknologi Rekayasa Multimedia kepada publik. Kegiatan ini bertujuan 
+ 
+
+
+
+  
+ 
+ untuk memberikan inspirasi dan wawasan kepada para peserta 
+mengenai standar dan lingkup karya di dunia imersif.  
+
+3. Seminar dan Penghargaan Immersive Fiesta 2025: Merupakan 
+puncak dari rangkaian acara Immersive Fiesta 2025. Kegiatan ini 
+terdiri dari sesi pelatihan intensif mengenai teknologi Augmented 
+Reality (AR) & Virtual Reality (VR), yang dilanjutkan dengan 
+pengumuman pemenang lomba dan sesi penghargaan bagi para 
+peserta.  
+
+ 
+
+7. KETENTUAN TEKNIS LOMBA 
+
+A. PERSYARATAN PESERTA • Lomba diikuti perseorangan.  
+• Peserta merupakan murid SMA/SMK sederajat atau gap year 
+
+maksimal 2 tahun.  
+• Peserta wajib menyertakan scan Kartu Tanda Pelajar sebagai bukti 
+
+registrasi.  
+B. KETENTUAN UMUM PESERTA  
+
+• Peserta wajib mengikuti Technical Meeting Immersive Fiesta 2025 via 
+online di Zoom. Apabila tidak hadir, maka dianggap telah menyetujui 
+semua hasil keputusan final pada saat Technical Meeting.  
+
+• Peserta diwajibkan untuk mengikuti (follow) Instagram 
+@immersivefiesta dan @trm.pens, serta menuliskan harapan melalui 
+komentar di poster lomba dengan me-mention 3 teman peserta.   
+
+• Peserta diwajibkan menaati serta menghormati semua keputusan juri 
+dan panitia, yang bersifat mutlak.  
+ 
+
+
+
+  
+  
+
+• Peserta wajib mengikuti Workshop dan Awarding Immersive Fiesta 
+2025 menggunakan atribut yang rapi, sopan, dan bersepatu.  
+
+• Peserta wajib memposting poster Immersive Fiesta 2025 ke Instagram  
+Story.   
+
+C. DURASI PERLOMBAAN  
+• Perlombaan berlangsung selama kurang lebih 22 hari, terhitung sejak 
+
+technical meeting pada 21 September 2025 hingga batas akhir 
+pengumpulan karya pada 12 Oktober 2025.  
+
+D. TEMPAT PELAKSANAAN  
+• Technical Meeting: Dilaksanakan secara online melalui Google Zoom.  
+• Perlombaan: Dilaksanakan secara online di tempat tinggal 
+
+masingmasing peserta.  
+• Pameran, Workshop, dan Awarding: Diselenggarakan secara luring 
+
+di Gedung Pascasarjana Lt. 6 dan Mini Theater Pascasarjana Lt. 6, 
+PENS.  
+
+E. KETENTUAN UMUM PERLOMBAAN  
+• Kompetisi hanya memiliki satu fase di mana peserta membuat karya 
+
+mereka kemudian melakukan proses render untuk hasil akhir.  
+• Proses pengerjaan didokumentasikan dalam bentuk videolog 
+
+sebagai laporan pembuatan.  
+• Pemenang perlombaan akan diumumkan saat kegiatan awarding.  
+• Poin penilaian dapat diperoleh peserta jika memenuhi beberapa 
+
+aspek berikut:  
+o Aspek Kreativitas: Keunikan konsep dan ide dalam karya.  
+o Aspek Orisinalitas: Peserta diharapkan menghasilkan karya 
+
+yang tidak hanya kreatif, tetapi juga memiliki elemen kebaruan.  
+ 
+
+
+
+  
+ 
+
+o Aspek Teknis: Kemahiran dalam penggunaan perangkat lunak, 
+kompleksitas pemodelan, texturing, lighting, dan rendering.  
+
+o Aspek Komposisi: Kemampuan dalam menyusun unsur-unsur 
+visual untuk menciptakan gambar yang menarik secara 
+estetika.  
+
+• Dilarang mengambil atau mengunduh aset 3D yang sudah jadi dari 
+internet.  
+
+• Peserta wajib melampirkan scan surat orisinalitas bermaterai yang 
+ditandatangani oleh peserta dengan template yang akan disediakan. 
+
+F. PELANGGARAN DAN SANKSI  
+• Jika peserta tidak memenuhi syarat pendaftaran, maka akan diberi 
+
+peringatan dan waktu sekurang-kurangnya 1x24 jam untuk 
+melengkapi persyaratan.  
+
+• Jika peserta teridentifikasi melakukan tindak plagiarisme atau karya 
+bukanlah hasil orisinalitas peserta, maka peserta akan didiskualifikasi 
+dari keikutsertaan lomba.  
+
+• Jika Peserta tidak mengumpulkan karya sesuai batas waktu yang 
+telah ditetapkan dalam peraturan lomba, maka akan diberikan 
+pengurangan poin pada penilaian.  
+
+• Jika Peserta tidak memenuhi ketentuan terkait karya yang dibuat 
+maka diberikan pengurangan dari akumulasi nilai, dan dapat 
+mempengaruhi syarat lolos karya.  
+ 
+
+• Jika peserta melakukan tindak kecurangan lain maka akan diberikan 
+sanksi berupa pengurangan nilai berdasarkan hasil pertimbangan 
+dari juri yang berwenang.   
+
+ 
+
+
+
+  
+ 
+G. FORCE MAJEURE  
+Segala sesuatu yang terjadi di luar kehendak manusia, yaitu sakit, 
+kecelakaan, meninggal, dan bencana alam. Panitia berhak menentukan 
+sepenuhnya apakah itu force majeure atau bukan, seperti file videolog 
+rusak pada saat pengumpulan maka hal tersebut bukan merupakan force 
+majeure karena masih ada alternatif jalan lain. Peserta yang ingin 
+menggunakan alasan force majeure harus menyerahkan bukti tertulis 
+maksimal 24 jam setelah waktu yang ditentukan. Jika tidak bisa 
+membuktikan, maka peserta akan dikenai sanksi dan didiskualifikasi dari 
+perlombaan.  
+
+8. INFORMASI TAMBAHAN  
+PROSEDUR PENDAFTARAN LOMBA  
+Catatan :  Pendaftaran lomba Immersive FIesta tidak dipungut biaya 
+sepeserpun  
+
+1. Kunjungi Laman Pendaftaran: Buka situs resmi Immersive Fiesta 2025 
+(https://linktr.ee/ImmersiveFiesta2025).   
+
+2. Pilih Menu Pendaftaran : Tuju pada bagian ‘PENDAFTARAN LOMBA’.  
+3. Isi Formulir: Lengkapi data diri dan unggah berkas yang diperlukan.  
+4. Gabung Grup WhatsApp: Pastikan status pendaftaran terkonfirmasi 
+
+dan bergabunglah ke grup WhatsApp peserta melalui tautan yang 
+telah disediakan setelah mengisi form pendaftaran.  
+
+5. Ikuti Technical Meeting: Hadiri TM pada tanggal yang telah 
+ditentukan untuk mendapatkan guidebook pasca-TM dan detail 
+lengkap lomba.  
+
+
+
+  
+ 
+
+FREQUENTLY ASKED QUESTIONS (FAQ)  
+• T: Apakah lomba ini untuk tim atau individu?  
+
+o J: Lomba ini bersifat individu (perorangan).  
+• T: Apakah saya harus bisa membuat karakter 3D dari nol?  
+
+o J: Tidak. Panitia akan menyediakan aset karakter dasar. Fokus 
+utama lomba adalah pada pembuatan environment dan 
+modifikasi karakter.  
+
+• T: Software 3D apa yang boleh digunakan?  
+o J: Peserta bebas menggunakan perangkat lunak 3D apapun, 
+
+seperti Blender, Maya, 3ds Max, Cinema 4D, dan lain-lain.  
+• T: Saya masih pemula, apakah ada materi pembelajaran yang 
+
+disediakan?  
+o J: Tentu! Kami akan menyediakan playlist video tutorial dasar 
+
+yang bisa diakses setelah Technical Meeting untuk 
+membantumu dalam proses berkarya.  
+
+TESTIMONI  
+"Ikut lomba di Immersive Fiesta tahun lalu seru banget! Aku yang awalnya 
+cuma iseng-iseng belajar Blender jadi makin termotivasi. Karakternya udah 
+disediain, jadi aku bisa fokus bikin dunia fantasiku sendiri. Workshop-nya 
+juga daging banget!" - Bayu, Juara 3 Immersive Fiesta 2023  
+"Awalnya ragu, tapi panitianya responsif dan sangat membantu. Dapat 
+banyak ilmu baru dan teman-teman dari sekolah lain. Pengalaman yang 
+tak terlupakan!" - Nafis, Juara 1 Immersive Fiesta 2023  
+ 
+ 
+ 
+ 
+
+
+
+  
+ 
+
+9. PENUTUP  
+Dengan demikian, Immersive Fiesta 2025 menjadi momentum yang penting 
+dalam memperluas pemahaman dan pengembangan potensi generasi 
+muda dalam bidang teknologi Immersive. Semoga kegiatan ini dapat 
+memberikan inspirasi dan motivasi bagi peserta untuk terus 
+mengembangkan diri dan berkontribusi dalam industri kreatif yang 
+semakin berkembang pesat.  
+
+10. NARAHUBUNG  
+• Farica Ammaar  : 0877-8668-3291  
+• M. Rafif Nuha  : 0821-3409-0397  
+
+Instagram    : @immersivefiesta

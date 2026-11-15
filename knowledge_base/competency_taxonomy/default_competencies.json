@@ -1,0 +1,45 @@
+[
+  {
+    "code": "COMP_DATA_ANALYSIS",
+    "name": "Data Analysis & Modeling",
+    "definition": "Kemampuan mengolah, menganalisis, dan memodelkan data secara statistik dan komputasional.",
+    "category": "Technical"
+  },
+  {
+    "code": "COMP_SOFTWARE_ENG",
+    "name": "Software Engineering",
+    "definition": "Kemampuan merancang arsitektur perangkat lunak, coding, dan implementasi sistem komputasi.",
+    "category": "Technical"
+  },
+  {
+    "code": "COMP_BUSINESS_MODELING",
+    "name": "Business Modeling & Strategy",
+    "definition": "Kemampuan menyusun model bisnis, analisis kelayakan pasar, dan proyeksi finansial.",
+    "category": "Domain"
+  },
+  {
+    "code": "COMP_PROBLEM_SOLVING",
+    "name": "Analytical Problem Solving",
+    "definition": "Kemampuan membedah permasalahan kompleks menjadi komponen terstruktur dan merumuskan solusi alternatif.",
+    "category": "Cognitive"
+  },
+  {
+    "code": "COMP_ACADEMIC_WRITING",
+    "name": "Academic & Proposal Writing",
+    "definition": "Kemampuan menyusun laporan, karya tulis ilmiah, dan proposal secara logis, sistematis, dan sesuai kaidah akademik.",
+    "category": "Communication"
+  },
+  {
+    "code": "COMP_TEAM_COLLABORATION",
+    "name": "Cross-Functional Collaboration",
+    "definition": "Kemampuan berkoordinasi, membagi tugas, dan menyelaraskan kinerja antardisiplin ilmu dalam tim.",
+    "category": "Interpersonal"
+  },
+  {
+    "code": "COMP_PITCHING",
+    "name": "Pitching & Presentation",
+    "definition": "Kemampuan menyampaikan gagasan atau hasil produk secara persuasif dan efektif di hadapan dewan juri.",
+    "category": "Communication"
+  }
+]
+

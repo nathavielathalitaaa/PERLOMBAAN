@@ -1,0 +1,1992 @@
+﻿ENERGYNOVATION
+IDEAS COMPETITION
+
+PEDOMAN 
+ENERGYNOVATION
+IDEAS COMPETITION
+PGTC 2026
+
+
+
+ 
+
+Diterbitkan oleh:  
+Pertamina Goes to Campus 2026 
+ 
+ 
+Pengarah dan Penanggung Jawab:  
+Pertamina Goes to Campus 2026 
+ 
+ 
+Tim Penyusun:  
+Dr. Rachmat Nurcahyo, S.S., M.A.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©2026 Pertamina Goes to Campus 2026  
+Hak cipta dilindungi Undang-Undang.  
+All rights reserved.  
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      1 
+
+
+
+ 
+
+KATA PENGANTAR 
+ 
+
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa atas terselenggaranya 
+Pertamina Goes to Campus (PGTC) 2026 dengan tema “Energizing Acceleration for Future 
+Impact”. Program ini merupakan wujud komitmen Pertamina dalam mendukung agenda Asta 
+Cita Presiden Republik Indonesia dan visi Indonesia Emas 2045 melalui penguatan sumber daya 
+manusia unggul serta pengembangan ekosistem inovasi di sektor energi. 
+
+PGTC 2026 hadir tidak hanya sebagai program engagement mahasiswa, tetapi sebagai 
+platform akselerasi yang menghubungkan dunia industri, pendidikan tinggi, dan generasi muda 
+dalam membangun masa depan energi Indonesia yang lebih berkelanjutan. Melalui semangat 
+“Energizing Indonesia”, PGTC 2026 mendorong lahirnya generasi muda yang tidak hanya siap 
+menjadi talenta industri, tetapi juga mampu menciptakan kontribusi nyata melalui inovasi, 
+kolaborasi, serta penggunaan energi yang lebih bijak dan bertanggung jawab. 
+
+Sebagai bagian dari platform tersebut, PGTC 2026 menghadirkan tiga kompetisi nasional 
+yang mendorong pengembangan kapasitas mahasiswa secara komprehensif, yaitu: 
+
+1.​ Energy Debate Championship​
+Kompetisi debat berbahasa Inggris dengan format British Parliamentary, yang mengasah 
+kemampuan berpikir kritis, argumentatif, dan analitis terhadap isu-isu strategis sektor 
+energi. 
+
+2.​ Energynovation Ideas Competition​
+Kompetisi karya tulis ilmiah tingkat nasional yang membuka ruang kontribusi mahasiswa 
+melalui riset dan gagasan inovatif untuk menjawab tantangan ketahanan energi dan 
+keberlanjutan. 
+
+3.​ Pertamuda Seed & Scale 2026 ​
+kompetisi ide bisnis dan startup mahasiswa yang berfokus pada pengembangan bisnis 
+berdampak melalui dua kategori: Early Stage Startups dan Energy Founder  
+ 
+Secara khusus, Energynovation Ideas Competition hadir sebagai ruang bagi mahasiswa 
+
+untuk mengembangkan solusi berbasis riset yang tidak hanya kuat secara akademik, tetapi juga 
+aplikatif, relevan, dan memiliki potensi implementasi nyata bagi sektor energi nasional. 
+Kompetisi ini diharapkan dapat menjadi bagian dari upaya membangun ekosistem talenta energi 
+yang kolaboratif antara mahasiswa, akademisi, dan industri. 
+
+Kami mengucapkan terima kasih kepada seluruh pihak yang telah berkontribusi dalam 
+penyelenggaraan kegiatan PGTC 2026. Semoga kompetisi ini dapat menjadi wadah inspiratif 
+dalam melahirkan inovasi energi berkelanjutan serta mencetak generasi future energy leaders 
+yang berdaya saing dan mampu memberikan dampak nyata bagi Indonesia. 
+  
+
+Arya Dwi Paramita 
+
+Corporate Secretary PT Pertamina (Persero) 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      2 
+
+
+
+ 
+
+DAFTAR ISI 
+KATA PENGANTAR...................................................................................................................................2 
+DAFTAR ISI................................................................................................................................................. 3 
+BAB I PENDAHULUAN.............................................................................................................................4 
+
+A. Latar Belakang....................................................................................................................................4 
+B. Tujuan................................................................................................................................................. 5 
+C. Sasaran................................................................................................................................................ 5 
+
+BAB II PENYELENGGARAAN................................................................................................................ 6 
+A. Syarat Peserta......................................................................................................................................6 
+B. Mekanisme Kompetisi........................................................................................................................ 7 
+
+1. Penyisihan..................................................................................................................................... 7 
+2. Babak Final................................................................................................................................... 8 
+
+C. Tema Karya Tulis..............................................................................................................................10 
+1. Tema Umum................................................................................................................................10 
+2. Sub Tema.....................................................................................................................................11 
+
+D. Ketentuan Penulisan......................................................................................................................... 14 
+1. Teknis Penulisan (writing mechanics)........................................................................................ 14 
+2. Struktur dan Isi Tulisan............................................................................................................... 15 
+
+E. Ketentuan Video................................................................................................................................17 
+F. Penilaian Babak Penyisihan...............................................................................................................19 
+G. Penilaian Babak Final....................................................................................................................... 23 
+H. Ketentuan Hak Cipta dan Kepemilikan Karya................................................................................. 27 
+I. Lini Masa............................................................................................................................................28 
+J. Penghargaan....................................................................................................................................... 28 
+K. Narahubung.......................................................................................................................................29 
+
+BAB III PENUTUP.................................................................................................................................... 30 
+Lampiran 1 (Template Tulisan):...................................................................................................................31 
+Lampiran 2 (Lembar keaslian karya dan anti plagiarism)............................................................................34 
+Lampiran 3 (Persetujuan Penggunaan Karya)..............................................................................................35 
+Lampiran 4 (Rubrik Penilaian).....................................................................................................................37 
+Lampiran 5 (Perjanjian Kerahasiaan oleh juri)............................................................................................ 45 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      3 
+
+
+
+ 
+
+BAB I PENDAHULUAN 
+
+A.​ Latar Belakang 
+
+Sebagai BUMN energi nasional, PT Pertamina (Persero) memiliki komitmen 
+untuk mendukung pengembangan generasi muda sebagai bagian dari upaya membangun 
+masa depan energi Indonesia yang tangguh dan berkelanjutan. Dalam mendukung agenda 
+Asta Cita Presiden Republik Indonesia dan visi Indonesia Emas 2045, Pertamina terus 
+mendorong penguatan inovasi, literasi energi, serta pengembangan talenta muda yang 
+adaptif terhadap tantangan global dan transisi energi masa depan. 
+
+Melalui Pertamina Goes to Campus (PGTC) 2026 yang mengusung tema 
+“Energizing Acceleration for Future Impact” dengan semangat “Move Faster. Impact 
+Further.”, Pertamina menghadirkan ruang kolaborasi antara mahasiswa, akademisi, dan 
+industri untuk mendorong lahirnya inovasi dan kontribusi nyata bagi sektor energi 
+nasional. 
+
+Sejalan dengan semangat “Energizing Indonesia” dan kampanye “Bijak 
+Berenergi”, PGTC 2026 juga mendorong peningkatan kesadaran generasi muda terhadap 
+pentingnya energi, keberlanjutan, serta peran inovasi dalam menghadapi dinamika dan 
+tantangan energi masa depan. 
+
+Sebagai bagian dari rangkaian PGTC 2026, Energynovation Ideas Competition 
+(EIC) hadir sebagai kompetisi karya tulis ilmiah tingkat nasional yang menjadi wadah 
+bagi mahasiswa untuk menghadirkan riset, gagasan, dan solusi inovatif terkait ketahanan 
+energi, transisi energi rendah karbon, pengembangan teknologi energi, serta keberlanjutan 
+energi nasional. 
+
+Energynovation Ideas Competition diharapkan dapat menjadi bagian dari upaya 
+membangun ekosistem pengembangan talenta energi nasional yang kolaboratif, adaptif, 
+dan berkelanjutan, sekaligus melahirkan generasi muda yang inovatif, visioner, dan 
+mampu memberikan kontribusi nyata bagi masa depan energi Indonesia. 
+
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      4 
+
+
+
+ 
+
+B.​ Tujuan 
+
+Tujuan Energynovation Ideas Competition ini adalah sebagai berikut.  
+1.​ Meningkatkan kesadaran dan partisipasi aktif mahasiswa terhadap isu tantangan dan 
+
+solusi ketahanan energi nasional serta strategi transisi energi yang berkelanjutan.   
+2.​ Menggali ide-ide inovatif dengan menyediakan platform berbasis riset dan solusi ilmiah 
+
+untuk optimalisasi rantai suplai energi nasional dan global.   
+3.​ Memperkuat hubungan antara dunia pendidikan tinggi dan industri energi  nasional.   
+4.​ Mempersiapkan mahasiswa untuk tampil di forum internasional melalui  kompetisi 
+
+karya ilmiah berbahasa Inggris.   
+
+C.​ Sasaran 
+
+Sasaran Energynovation Ideas Competition, Pertamina Goes to Campus 2026 adalah 
+mahasiswa Indonesia yang memiliki minat terhadap isu-isu energi, lingkungan, inovasi 
+teknologi, dan pembangunan berkelanjutan.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      5 
+
+
+
+ 
+
+BAB II PENYELENGGARAAN 
+
+A.​ Syarat Peserta 
+
+1.​ Peserta bersifat individu 
+2.​ Alumni Juara 1–3 pada EIC 2025 tidak diperkenankan mengikuti EIC 2026. 
+3.​ Peserta adalah mahasiswa aktif  Program Sarjana dan Diploma 4 (maksimal semester 
+
+delapan) atau Diploma 3 (maksimal semester enam), yang terdaftar di Pangkalan 
+Data Pendidikan Tinggi (PD-Dikti) pada laman https://pddikti.kemdiktisaintek.go.id/ 
+Dibuktikan dengan surat keterangan mahasiswa aktif (tidak sedang cuti kuliah) 
+
+4.​ Peserta adalah mahasiswa yang belum pernah memiliki gelar Sarjana (S1)/sarjana 
+Terapan (D4)/Ahli Madya (D3). 
+
+5.​ Peserta wajib melampirkan surat tugas atau surat rekomendasi resmi yang 
+dikeluarkan oleh Departemen/Program Studi, Fakultas/Dekanat, atau Universitas. 
+(contoh surat)   
+
+6.​ Peserta yang tidak tercantum dalam surat tugas atau surat rekomendasi resmi yang 
+dikeluarkan institusi asal tidak dapat mengikuti kompetisi. 
+
+7.​ Peserta hanya diperbolehkan mengirimkan satu karya tulis.   
+8.​ Setiap kampus/universitas diperkenankan mengirimkan peserta tanpa batas jumlah. 
+9.​ Peserta yang lolos ke tahap 10 besar  
+
+a.​ Menggunakan Twibbonize PGTC 2026. (Link) 
+b.​ Peserta diperkenankan membawa  pendamping kampus & suporter saat kompetisi 
+
+diselenggarakan (akomodasi tidak ditanggung panitia)   
+
+10.​Peserta memiliki minat dan visi terhadap isu ketahanan energi, energi terbarukan, 
+dan rantai suplai sektor energi.   
+
+11.​Peserta wajib mengikuti (follow)  
+●​ Instagram @pertamina dan @pgtc.id 
+●​ TikTok @pertamina dan @pgtc.official 
+
+12.​Berkas pendaftaran terdiri atas: 
+Pada saat pendaftaran, peserta mengisi data diri berikut: 
+
+a.​ Nama Lengkap 
+b.​ Nomor Induk Mahasiswa (NIM) 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      6 
+
+
+
+ 
+
+c.​ Nomor Whatsapp dan Email aktif 
+d.​ Instansi 
+Dokumen berikut dapat diunggah kemudian, selambat-lambatnya sebelum 
+batas akhir pendaftaran:​  
+
+a.​ Surat tugas 
+b.​ Surat keterangan mahasiswa aktif 
+c.​ Karya (full paper) dalam format PDF lengkap dengan lampiran 
+d.​ Pranala (URL Instagram) video presentasi 
+e.​ Surat pernyataan anti plagiasi 
+f.​ Surat persetujuan penggunaan karya 
+g.​ Lembar hasil pemeriksaan similarity index Turnitin 
+
+B.​  Mekanisme Kompetisi 
+
+Kompetisi ini dilaksanakan melalui dua tahap seleksi utama: Babak Penyisihan 
+(Preliminary Round) dan Babak Final (Final Round). Masing-masing tahap dirancang 
+untuk menguji kemampuan peserta tidak hanya dalam menulis secara ilmiah, tetapi juga 
+dalam menyampaikan ide secara komunikatif dan aplikatif. 
+
+1.​  Penyisihan 
+
+Babak ini dilaksanakan secara daring (online). Pada tahap ini, seluruh peserta yang 
+melakukan pendaftaran wajib melengkapi berkas sebelum batas waktu penutupan 
+pendaftaran, berupa: 
+
+a.​ Surat tugas atau surat rekomendasi dari Universitas. 
+b.​ Surat keterangan masih berstatus mahasiswa aktif (tidak sedang cuti kuliah) 
+c.​ Naskah karya tulis ilmiah full paper menggunakan bahasa Inggris, yang sesuai 
+
+dengan format (template 1) penulisan dalam kompetisi ini. 
+d.​ Pranala (URL Instagram) video presentasi yang sesuai dengan aturan dalam 
+
+kompetisi ini. 
+e.​ Surat pernyataan anti plagiasi (lampiran 2)  
+f.​ Surat persetujuan penggunaan karya (lampiran 3) 
+g.​ Lembar hasil pemeriksaan similarity index Turnitin  
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      7 
+
+
+
+ 
+
+h.​ Semua karya harus dikumpulkan paling lambat pada tanggal yang telah 
+ditentukan panitia.  
+
+i.​ Dari seluruh peserta, hanya 10 peserta terbaik yang akan lolos ke Babak Final 
+dan diundang secara langsung untuk berkompetisi di hadapan dewan juri. 
+
+j.​ Mekanisme babak penyisihan adalah sebagai berikut: 
+
+ 
+
+2.​ Babak Final 
+
+a.​ Dilaksanakan secara luring (offline) di lokasi yang ditentukan panitia. Peserta 
+terpilih akan mengikuti rangkaian kegiatan intensif selama final, termasuk 
+presentasi langsung dan sesi pameran karya. Tahapan ini bertujuan untuk 
+menilai ketajaman berpikir, keterampilan komunikasi, serta kemampuan 
+menjawab pertanyaan kritis dari juri. 
+
+b.​ Rangkaian kegiatan Babak Final berupa: 
+a)​ Presentasi langsung di hadapan Dewan Juri selama 10 menit dan sesi 
+
+tanya-jawab selama 15 menit. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      8 
+
+
+
+ 
+
+b)​ Pameran Poster Ilmiah. Peserta menyiapkan poster atau media visual 
+pendukung karya tulis. Karya akan dipamerkan kepada publik dan tamu 
+undangan selama kegiatan berlangsung. 
+
+c)​ Mekanisme babak final adalah sebagai berikut. 
+c.  Ketentuan peserta: 
+
+a)​ Peserta wajib menjunjung etika, sopan santun, dan profesionalisme 
+b)​ Peserta wajib berpakaian rapi dan mengenakan jaket/jas almamater 
+
+institusinya selama kegiatan 
+c)​ Peserta dapat membawa pendamping dan suporter saat kompetisi 
+
+(akomodasi ditanggung instansi masing-masing) 
+ 
+
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      9 
+
+
+
+ 
+
+C.​ Tema Karya Tulis 
+1.​ Tema Umum 
+
+“Accelerating Dual Growth Strategy: Integrating Energy Security and Low-Carbon 
+Innovation” 
+“Mempercepat Strategi Dual Growth: Mengintegrasikan Ketahanan Energi dan Inovasi 
+Rendah Karbon” 
+
+ 
+Tema ini mendorong kepada pembahasan optimalisasi pengelolaan portofolio bisnis 
+intensif karbon yang telah ada (maximizing legacy business), melakukan dekarbonisasi 
+secara bertahap, serta memanfaatkannya sebagai fondasi dalam membangun sistem 
+energi rendah karbon di masa depan. Pendekatan ini menekankan pentingnya menjaga 
+keseimbangan antara keberlanjutan bisnis, ketahanan energi nasional (energy 
+resilience), dan percepatan transisi menuju sistem energi yang lebih bersih dan 
+berkelanjutan. 
+Tema ini juga menyoroti pentingnya mempercepat investasi, inovasi, pengembangan 
+teknologi, serta dukungan kelembagaan terhadap pengelolaan portofolio bisnis existing 
+dan bisnis energi terbarukan serta teknologi hijau, sebagai pendorong keberlangsungan 
+masa depan. 
+Energi konvensional dan energi rendah karbon bukan dipandang sebagai dua jalur 
+yang saling terpisah atau bertentangan, tema ini menghadirkan kerangka strategi yang 
+saling terintegrasi, saling mendukung, dan saling memperkuat. Optimalisasi legacy 
+operations dipandang tetap memiliki peran penting dalam menjaga stabilitas energi 
+dan mendukung kebutuhan energi nasional, sembari secara bertahap membangun 
+fondasi transformasi menuju sistem energi masa depan yang lebih rendah karbon, 
+tangguh, inklusif, dan adaptif terhadap perubahan global. 
+Dalam konteks global yang semakin dinamis, transformasi energi tidak hanya 
+berkaitan dengan isu teknologi, tetapi juga erat kaitannya dengan isu lingkungan, 
+ketahanan energi, stabilitas ekonomi, keamanan pasokan energi, serta dinamika 
+geopolitik global yang mempengaruhi rantai pasok, harga energi, dan kemandirian 
+energi nasional. 
+Percepatan tersebut pada akhirnya merupakan upaya penyelarasan antara stabilitas, 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      10 
+
+
+
+ 
+
+melalui penciptaan nilai dari aset dan infrastruktur energi yang telah ada,  dengan 
+transformasi jangka panjang menuju masa depan energi yang berkelanjutan, adaptif, 
+kompetitif, dan mampu menjawab tantangan transisi energi maupun dinamika 
+geopolitik dunia. 
+
+2.​ Sub Tema 
+
+a.​ Delivering Energy Security by Optimizing and Transforming Legacy Business. 
+Subtema ini berfokus pada berbagai inovasi, strategi, dan transformasi dalam sektor 
+energi untuk memperkuat ketahanan energi nasional melalui optimalisasi bisnis 
+energi konvensional dan pengembangan model bisnis yang lebih adaptif, efisien, 
+serta berkelanjutan. Subtema ini mendorong gagasan mengenai peningkatan 
+produksi hulu migas melalui optimalisasi baseline produksi dan percepatan 
+pertumbuhan produksi, penerapan teknologi inovatif untuk meningkatkan efisiensi 
+eksplorasi dan produksi minyak dan gas, serta transformasi sumber daya gas lepas 
+pantai menjadi nilai ekonomi nasional yang lebih besar melalui skema 
+pengembangan terintegrasi, pemanfaatan energi domestik, dan solusi ekonomi 
+berkelanjutan. Selain itu, subtema ini juga mencakup pengembangan fleksibilitas 
+dan resiliensi kilang, transformasi bisnis retail bahan bakar, inovasi pemanfaatan 
+gas bumi sebagai substitusi LPG yang scalable dan berdaya guna, serta perluasan 
+infrastruktur dan layanan energi termasuk sektor shipping dan distribusi energi. 
+Penulis diharapkan menghadirkan ide, model, teknologi, atau kebijakan yang 
+mampu menjawab tantangan ketahanan energi, efisiensi operasional, keberlanjutan 
+lingkungan, serta kebutuhan transformasi industri energi di masa depan. 
+ 
+
+b.​ Developing Low Carbon Business for Energy Transition 
+Subtema ini berfokus pada pengembangan inovasi, teknologi, dan model bisnis 
+rendah karbon untuk mendukung percepatan transisi energi menuju sistem energi 
+yang lebih bersih, berkelanjutan, dan resilien. Subtema ini mendorong gagasan 
+mengenai penguatan ekosistem biofuel dari hulu hingga hilir guna meningkatkan 
+ketahanan energi sekaligus menurunkan emisi karbon, pengembangan industri hilir 
+untuk memperluas produk dan nilai tambah sektor kimia, serta perluasan kapasitas 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      11 
+
+
+
+ 
+
+energi panas bumi melalui eksplorasi model bisnis baru yang lebih adaptif dan 
+kompetitif. Selain itu, subtema ini juga mencakup pengembangan dan optimalisasi 
+sumber energi baru dan terbarukan, serta penerapan teknologi rendah karbon masa 
+depan seperti Carbon Capture, Utilization, and Storage (CCUS/CCS), Gas to 
+Power, hidrogen rendah karbon, biomass co-firing, kendaraan listrik (electric 
+vehicle/EV), baterai energi, dan teknologi transisi lainnya. Penulis diharapkan 
+menghadirkan ide, solusi, strategi, maupun inovasi yang mampu mendukung 
+dekarbonisasi sektor energi, meningkatkan keberlanjutan ekonomi dan lingkungan, 
+memperkuat ketahanan energi nasional, serta mempercepat transformasi menuju 
+masa depan energi rendah karbon. 
+ 
+
+c.​ Investment Strategy for Renewable Energy and Green Technology 
+Sub tema ini membahas strategi permodalan untuk mempercepat dan menentukan 
+arah transisi menuju ekonomi energi rendah karbon, dengan membentuk pasar 
+untuk sumber energi terbarukan (misalnya, tenaga surya, tenaga angin), serta 
+teknologi pendukung (misalnya, penyimpanan energi, hidrogen, dan jaringan 
+pintar). Investasi strategis dalam energi terbarukan, serta teknologi pendukung 
+lainnya, sangat penting untuk mengembangkan infrastruktur energi yang 
+berkelanjutan. Mengembangkan strategi investasi yang menyediakan pendanaan 
+untuk proyek energi terbarukan tidak hanya melibatkan penyeimbangan risiko 
+versus pengembalian yang diharapkan, tetapi juga menarik modal swasta dan 
+publik. Transisi ke strategi investasi hijau merupakan komitmen perusahaan untuk 
+penyediaan energi ramah lingkungan dan membentuk peluang ekonomi baru yang 
+muncul dari transisi ekonomi energi rendah karbon global. 
+ 
+
+d.​ Creating New Markets/Ecosystems/Value Chains 
+Sub tema ini membahas pembentukan pasar, ekosistem, dan rantai nilai baru yang 
+mendukung pengembangan ekonomi rendah karbon secara terintegrasi dan 
+berkelanjutan. 
+Transisi menuju ekonomi rendah karbon selain mencakup penerapan teknologi 
+baru, juga membutuhkan pembentukan struktur ekonomi yang sepenuhnya baru, 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      12 
+
+
+
+ 
+
+termasuk pembentukan pasar baru untuk energi terbarukan, perdagangan karbon, 
+dan produk ramah lingkungan. Selain itu, transisi rendah karbon akan 
+membutuhkan pembentukan ekosistem yang saling terkait antara produsen, 
+pemasok, regulator, dan konsumen. Lebih lanjut, pembentukan rantai nilai baru 
+(misalnya, kendaraan listrik, hidrogen hijau) menciptakan cara baru untuk 
+memproduksi, mengirimkan, dan mengkonsumsi energi. Membangun sistem ini 
+akan memastikan bahwa teknologi rendah karbon merupakan komponen yang 
+terintegrasi, terukur, dan layak secara ekonomi, bukan sebagai inovasi yang 
+terpisah. 
+ 
+
+e.​ Digitalization, Innovation, and Disruptive Business Models 
+Sub tema ini membahas peran digitalisasi, inovasi teknologi, dan model bisnis 
+disruptif dalam mempercepat transformasi sektor energi menuju sistem rendah 
+karbon yang lebih efisien, adaptif, dan terintegrasi. 
+Transformasi rendah karbon bergantung pada inovasi teknologi dan organisasi. 
+Teknologi digital, termasuk Internet of Things (IoT), kecerdasan buatan (AI), dan 
+analitik data, harus dapat meningkatkan pengelolaan energi dan proses 
+pengambilan keputusan. Model bisnis yang disruptif, seperti sistem energi 
+terdesentralisasi, perdagangan energi antar individu, dan energi sebagai layanan, 
+mengganggu (mentransformasi) struktur industri energi yang ada. Dengan 
+meningkatkan akses, efisiensi, dan kemampuan beradaptasi terhadap perubahan 
+permintaan, inovasi-inovasi ini akan mempercepat transisi menuju ekonomi rendah 
+karbon. 
+ 
+
+f.​ Policy Incentives and Regulatory Frameworks to Support Low-Carbon Growth 
+Sub tema ini membahas pentingnya dukungan kebijakan, insentif, dan kerangka 
+regulasi dalam menciptakan ekosistem yang kondusif bagi pertumbuhan bisnis dan 
+teknologi rendah karbon. 
+Inisiatif energi rendah karbon yang sukses harus didukung oleh kebijakan. 
+Pemerintah merupakan sumber dukungan utama melalui program insentif (seperti 
+tarif pembelian listrik, subsidi, dan insentif pajak) yang dirancang untuk menarik 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      13 
+
+
+
+ 
+
+investasi dalam teknologi rendah karbon. Selain itu, kerangka peraturan yang 
+dirancang dengan baik (seperti standar emisi, target energi terbarukan, dan 
+penetapan harga karbon) akan memberi sinyal kepada pasar tentang standar dari 
+para pelaku pasar. Jika diimplementasikan secara efektif, kombinasi kebijakan dan 
+kerangka peraturan yang ada memberikan kepastian bagi semua pemangku 
+kepentingan, menyelaraskan kepentingan semua pihak yang terlibat, dan 
+memastikan bahwa transisi akan terjadi secara transparan dan adil. 
+ 
+
+g.​ Social-Economic-Workforce Transition Impacts 
+Sub tema ini membahas dampak sosial, ekonomi, dan ketenagakerjaan yang 
+muncul dalam proses transisi menuju ekonomi rendah karbon, termasuk 
+pentingnya menciptakan transisi yang inklusif dan berkeadilan. 
+Pergeseran menuju ekonomi rendah karbon akan memiliki dampak sosial dan 
+ekonomi yang signifikan di samping dampak teknologi dan keuangan, termasuk 
+perubahan pada lapangan kerja, struktur ekonomi, dan kesetaraan sosial. Meskipun 
+industri baru akan menciptakan lapangan kerja dan peluang bagi pekerja dari 
+berbagai sektor, sektor tradisional mungkin berisiko mengalami penurunan, 
+sehingga memerlukan adaptasi tenaga kerja untuk memastikan "transisi yang adil", 
+termasuk mengatasi ketidaksetaraan yang ada dan mendukung komunitas yang 
+terdampak serta mendistribusikan manfaat yang dihasilkan dari transisi ini secara 
+adil. Transisi berkelanjutan juga harus memberikan hasil yang inklusif dengan 
+menyeimbangkan tujuan lingkungan dengan stabilitas sosial dan ekonomi. 
+ 
+
+D.​ Ketentuan Penulisan 
+1.​ Teknis Penulisan (writing mechanics) 
+
+a.​ Bahasa.  
+Karya tulis wajib ditulis dalam Bahasa Inggris.  
+
+b.​ Panjang Naskah.  
+Panjang naskah minimal 10 halaman dan maksimal 20 halaman, tidak termasuk 
+halaman sampul, daftar pustaka, dan lampiran. 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      14 
+
+
+
+ 
+
+c.​ Tema 
+​ Karya tulis wajib menuliskan satu sub tema yang ditentukan 
+
+d.​ Format Dokumen 
+a)​ Ukuran kertas: A4 (21 cm x 29,7 cm) 
+b)​ Margin: 4 cm (kiri), 3 cm (atas), 3 cm (kanan dan bawah) 
+c)​ Spasi: 1,5 
+d)​ Font: Times New Roman, ukuran 12 pt 
+e)​ Alignment: Justify 
+f)​ Format file: PDF (maksimal ukuran file 5 MB) 
+
+e.​ Penamaan File  
+Format: Namapenulis_Universitas_JudulSingkat_PGTC2026.pdf ​
+(Contoh: AndyNugroho_UGM_BahanBakarRamahLingkungan_PGTC2026.pdf  
+
+f.​ Orisinalitas 
+a)​ Karya harus orisinal, belum pernah dipublikasikan atau diikutsertakan 
+
+dalam kompetisi lain. 
+b)​ Peserta wajib mengirimkan pernyataan orisinalitas dan anti plagiasi yang 
+
+ditandatangani oleh peserta, dan lembar similarity check Turnitin. 
+
+2.​ Struktur dan Isi Tulisan 
+
+a.​ Halaman Judul 
+a)​ Judul karya tulis 
+b)​ Nama lengkap penulis, universitas asal, subtema yang dipilih dan tahun 
+
+penulisan. 
+b.​ Abstrak (maks. 250 kata) 
+
+a)​ Menjelaskan inti permasalahan, pendekatan, dan kesimpulan utama. 
+b)​ Tuliskan 3-5 kata kunci 
+
+c.​ Pendahuluan 
+a)​ Latar belakang tulisan 
+b)​ Rumusan masalah 
+c)​ Tujuan dan manfaat penulisan 
+d)​ Maksimal 20% (termasuk judul dan abstrak) dari isi tulisan 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      15 
+
+
+
+ 
+
+d.​ Metode 
+Uraian singkat mengenai pendekatan atau metode yang digunakan untuk 
+menyusun argumen atau solusi (Maksimal 10% dari isi tulisan). Dapat berupa: 
+a)​ Kajian literatur sistematis 
+b)​ Studi kasus 
+c)​ Observasi lapangan 
+d)​ Pemodelan atau simulasi 
+e)​ Survei atau wawancara (jika dilakukan) 
+f)​ Penjelasan mengenai alasan pemilihan metode 
+g)​ Sumber data dan cara analisis (jika ada) 
+
+e.​ Tinjauan Pustaka 
+a)​ Teori atau model utama yang mendasari pemahaman saat ini tentang topik. 
+b)​ Definisikan istilah dan konsep kunci serta jelaskan relevansinya.  
+c)​ Ringkas temuan relevan dari penelitian sebelumnya. 
+d)​ Maksimal 15% dari isi tulisan 
+
+h.​ Hasil dan Pembahasan 
+a)​ Hasil dapat disajikan dalam bentuk tabel angka, grafik, deskripsi verbal, atau 
+
+kombinasi dari ketiganya. 
+b)​ Pembahasan bertujuan untuk menafsirkan hasil sesuai dengan teori yang 
+
+diterapkan dan tidak sekadar mendeskripsikan hasil 
+c)​ Pembahasan dapat disajikan dalam sub-bagian.  
+d)​ Maksimal 45% dari isi tulisan. 
+
+f.​   Kesimpulan dan Saran 
+a)​ Ringkasan temuan dan solusi utama 
+b)​ Harapan penerapan dalam konteks nasional atau Pertamina 
+c)​ Maksimal 5% dari isi tulisan 
+
+g.​ Daftar Pustaka 
+Menggunakan gaya kutipan APA Style  
+
+h.​ Lampiran  
+a)​ Diagram, data pendukung, atau visualisasi ide 
+b)​ Surat pernyataan orisinalitas karya ditandatangani  di atas materai Rp 10.000 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      16 
+
+
+
+ 
+
+c)​ Surat persetujuan penggunaan karya. 
+d)​ Lembar hasil pemeriksaan similarity index Turnitin  
+
+E.​ Ketentuan Video 
+
+1. Ketentuan Isi Video 
+Video harus memuat: 
+
+a.​ Judul dan nama penulis 
+b.​ Sub Tema yang diambil 
+c.​ Latar belakang masalah 
+d.​ Gagasan umum 
+e.​ Manfaat karya atau potensi dampak 
+f.​ Narasi penutup 
+
+2. Spesifikasi Teknis Video 
+a.​ Durasi: 3 menit (wajib dipatuhi) 
+b.​ Format video: Landscape 16:9, resolusi minimal 1080p (HD) 
+c.​ Video menggunakan frame yang sudah disediakan. (Link Frame) 
+d.​ Bahasa: Bahasa Inggris  
+e.​ Gaya presentasi: Diperbolehkan menggunakan gaya video berbicara langsung, 
+
+voice-over pada slide, atau kombinasi keduanya. 
+f.​ Bagian-bagian video: 
+
+a) Pembukaan Video (0:00 – 0:30) 
+i.​ Tampilkan identitas: Nama, asal institusi, judul karya. 
+ii.​ Tambahkan bingkai institusi/lomba. 
+iii.​ Bisa disampaikan secara verbal atau ditulis di slide awal. 
+
+b) Latar Belakang (0.30 – 1.30) 
+i.​ Gunakan grafik atau ilustrasi sederhana untuk menjelaskan konteks 
+
+masalah. 
+ii.​ Tambahkan cuplikan gambar (foto, peta, statistik) bila relevan. 
+iii.​ Data dan analisis data TIDAK perlu disampaikan 
+
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      17 
+
+
+
+ 
+
+c) Potensi atau dampak ke masyarakat (1.30 – 2.30) 
+i.​ Tampilkan hasil utama dalam bentuk grafik, tabel ringkas, atau 
+
+foto prototipe. 
+ii.​ Sampaikan kesimpulan utama dan kontribusi solusi. 
+iii.​ Hindari teks panjang – gunakan poin-poin atau animasi ringan. 
+
+d) Penutup dan Ajakan (2:30 – 3:00) 
+i.​ Ucapkan terima kasih kepada penonton/juri 
+ii.​ Bisa menambahkan kalimat inspiratif dan kalimat akhir 
+
+“Pertamina Goes to Campus, “Energizing Acceleration for future 
+impact” 
+
+3. Pengumpulan 
+a.​ Unggah video ke akun Instagram peserta. 
+b.​ Setelan tautan video secara publik dan tidak terkunci.  
+c.​ Kumpulkan tautan (Instagram URL) bersama dengan pengumpulan karya tulis. 
+d.​ Kirim karya dan tautan video melalui formulir pendaftaran resmi. 
+
+4. Format Penamaan File dan Hashtag 
+a.​ Beri nama file karya tulis dan video Anda dengan format berikut: 
+
+Nama Peserta | Institusi | JudulSingkatKarya | PGTC 2026  
+Contoh: Andy Nugroho | UNY | Bahan Bakar Ramah Lingkungan | PGTC 
+2026 
+
+b.​ Sertakan hashtag: 
+#EnergizingAccelerationForFutureImpact 
+#EnergynovationIdeasCompetition 
+#PGTC2026 #EnergizingIndonesia #BijakBerenergi 
+
+c.​ Pada bagian deskripsi video dituliskan : 
+“Karya ini dilindungi oleh hak cipta peserta. Panitia Pertamina Goes to 
+Campus 2026 memiliki izin non-eksklusif untuk menggunakan karya ini 
+untuk kepentingan promosi, dokumentasi, dan publikasi kegiatan. 
+Pihak-pihak selain panitia PGTC 2026 dilarang menyalin atau 
+menggunakan sebagian atau seluruh isi karya ini tanpa izin dari pemilik 
+hak cipta” 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      18 
+
+
+
+ 
+
+F.​ Penilaian Babak Penyisihan 
+
+1. Komponen Penilaian 
+Penilaian peserta dilakukan berdasarkan dua komponen utama: 
+
+No Komponen Penilaian Bobot 
+1 Penilaian Karya Tulis 100% 
+2 Video Presentasi Syarat Wajib  
+
+ 
+2. Alur Penilaian 
+Alur penilaian pada babak penyisihan adalah sebagai berikut. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      19 
+
+
+
+ 
+
+a.​ Tahap Pengiriman dan Entri Data 
+a) Peserta mengirimkan dua komponen, yakni (1) makalah ilmiah dan (2) video 
+presentasi, melalui formulir pendaftaran online pada laman resmi pgtc.id  hingga 
+sebelum batas waktu pengiriman. 
+b) Standarisasi Format Berkas: 
+
+Peserta diwajibkan untuk mengirimkan  
+1.​ Makalah ilmiah dalam format PDF dan pranala (URL) Instagram video 
+
+presentasi 
+2.​ Data pribadi dan akademik (nama, universitas, nomor identitas 
+
+mahasiswa, informasi kontak).  
+3.​ Dokumen yang diperlukan 
+4.​ Lampiran-lampiran 
+
+b.​ Distribusi ke kurator/juri 
+a)​ Karya didistribusikan ke 5 juri independen. 
+b)​ Distribusi karya didasarkan pada beban kerja yang seimbang dan 
+
+pertimbangan konflik kepentingan. 
+c)​ Semua juri/kurator menandatangani perjanjian kerahasiaan untuk 
+
+memastikan kerahasiaan semua karya yang diajukan. 
+c.​ Proses penilaian dan tabulasi 
+
+a)​ Karya yang tidak lengkap dan menyalahi format penulisan tidak akan 
+dinilai. 
+
+b)​ Karya yang lengkap (termasuk lampiran-lampiran) dan sesuai dengan 
+format penulisan akan dinilai oleh juri. 
+
+c)​ Setiap karya dievaluasi berdasarkan pedoman penilaian yang telah 
+ditetapkan. 
+
+d)​ Setiap juri memasukkan skor ke sistem tabulasi terpusat berbasis 
+spreadsheet online. Sistem ini memungkinkan setiap juri melakukan 
+penilaian secara independen, sementara hasil penilaian dikirim dan 
+direkap secara otomatis oleh sistem. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      20 
+
+
+
+ 
+
+e)​ Setiap juri akan menerima lembar penilaian dalam bentuk spreadsheet       
+(Google Sheets atau Microsoft Excel Online) yang telah disesuaikan 
+dengan format penilaian resmi. 
+
+f)​ Spreadsheet berisi daftar peserta, kriteria penilaian, dan kolom skor sesuai 
+dengan bobot masing-masing aspek. 
+
+g)​ Setiap juri hanya dapat mengakses dan mengisi lembar miliknya sendiri. 
+h)​ Setiap lembar penilaian juri terhubung langsung dengan spreadsheet utama 
+
+(master tabulasi) melalui sistem impor otomatis. 
+i)​ Begitu juri mengisi skor dan menyimpannya, nilai-nilai tersebut secara 
+
+real-time akan tersinkronisasi ke dalam tabulasi pusat. 
+j)​ Sistem tabulasi akan mengakumulasikan skor dari seluruh juri, 
+
+menghitung rata-rata, dan menghasilkan total skor komposit untuk setiap 
+peserta secara otomatis. 
+
+k)​ Panitia melakukan pemeringkatan berdasarkan skor komposit di dalam 
+tabulasi 
+
+d.​ Seleksi 10 Finalis 
+a)​ Berdasarkan skor komposit, 10 peserta teratas dengan peringkat tertinggi 
+
+dipilih untuk maju ke Babak Final. 
+b)​ Jika terjadi seri di dekat batas cut off, penilaian tambahan mungkin 
+
+dilakukan oleh panel juri untuk menentukan finalis yang paling layak, 
+dengan mempertimbangkan tingkat inovasi atau kebaruan karya, potensi 
+dampak ke masyarakat, dan struktur karya. 
+
+c)​ Finalis diberitahu secara resmi melalui email dan diundang untuk 
+mempresentasikan karya mereka secara langsung di babak final. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      21 
+
+
+
+ 
+
+3. Penilaian Karya Tulis Ilmiah  
+Penilaian dilakukan oleh dewan juri berdasarkan kriteria berikut: 
+
+No Aspek Bobot 
+1 Originalitas ide dan kebaruan solusi 25% 
+2 Ketajaman analisis dan argumentasi ilmiah 25% 
+3 Kesesuaian dengan tema dan sub tema 10% 
+4 Relevansi data dan keakuratan metodologi 15% 
+5 Struktur penulisan dan sistematika karya 25% 
+ Total 100% 
+
+ 
+4. Penilaian Video Presentasi  
+
+Video presentasi bersifat wajib dan dikumpulkan bersama karya tulis.  
+ 
+
+5. Proses Rekapitulasi Nilai 
+a.​ Masing-masing juri memberikan skor untuk karya tulis berdasarkan rubrik. 
+b.​ Juri tidak akan menilai peserta yang tidak mengumpulkan video. 
+c.​ Skor akhir digunakan untuk menentukan peringkat peserta dan pemenang lomba. 
+
+ 
+6. Ketentuan Larangan dan Diskualifikasi 
+Panitia berhak memberikan sanksi berupa diskualifikasi kepada peserta yang terbukti 
+melakukan pelanggaran terhadap ketentuan yang telah ditetapkan. Adapun 
+bentuk-bentuk pelanggaran yang dapat menyebabkan diskualifikasi adalah sebagai 
+berikut: 
+
+a.​ Plagiarisme​
+Peserta terbukti menjiplak sebagian atau seluruh karya dari pihak lain tanpa 
+menyebutkan sumber secara layak, termasuk penggunaan karya orang lain yang 
+disamarkan sebagai karya sendiri (self-plagiarism dan auto-plagiarism juga 
+termasuk pelanggaran). 
+
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      22 
+
+
+
+ 
+
+b.​ Keterlambatan Pengumpulan 
+Peserta tidak mengunggah atau menyerahkan karya tulis dan/atau video 
+presentasi dalam batas waktu yang telah ditentukan oleh panitia tanpa 
+pemberitahuan resmi. 
+
+c.​ Penyalahgunaan Konten 
+Karya tulis dan/atau materi presentasi mengandung unsur yang tidak pantas, 
+termasuk namun tidak terbatas pada: 
+
+a)​ Ujaran kebencian 
+b)​ Konten yang menyinggung SARA (Suku, Agama, Ras, dan 
+
+Antargolongan) 
+c)​ Simbol atau muatan politik partisan 
+d)​ Bahasa yang bersifat diskriminatif, provokatif, atau melecehkan pihak 
+
+tertentu 
+d.​ Ketidaksesuaian dengan Ketentuan Penulisan 
+
+Karya tidak memenuhi ketentuan teknis yang telah ditetapkan dalam pedoman 
+kompetisi, seperti format penulisan, struktur konten, panjang tulisan, dan tata 
+cara penyampaian gagasan. 
+
+ 
+7. Ketentuan Tambahan 
+
+a.​ Peserta yang tidak mengumpulkan video presentasi sesuai jadwal tidak akan 
+dinilai.  
+
+b.​ Keputusan juri bersifat final dan tidak dapat diganggu gugat. 
+c.​ Penilaian akan dilakukan secara adil, objektif, dan profesional berdasarkan 
+
+rubrik yang telah disosialisasikan. 
+d.​ Jika terdapat perubahan ketentuan, panitia akan menginformasikan melalui 
+
+saluran media sosial Pertamina Goes to Campus. 
+
+G.​ Penilaian Babak Final 
+
+1.​ Ketentuan Umum 
+Setiap peserta wajib mengikuti dua bentuk penilaian: 
+
+a.​ Sesi Presentasi dan Tanya Jawab di hadapan dewan juri 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      23 
+
+
+
+ 
+
+b.​ Pameran/Eksibisi karya, prototipe, atau media visual pendukung 
+ 
+2. Alur Penilaian 
+
+ 
+
+a.​ Komposisi Panel Juri 
+Tahap akhir dinilai oleh panel juri yang terdiri dari 5 ahli, termasuk: 
+
+a)​ Akademisi di bidang energi, teknik, atau ilmu lingkungan 
+b)​ Praktisi industri energi dan perwakilan Pertamina 
+c)​ Ahli inovasi dan keberlanjutan 
+d)​ Juri dipilih berdasarkan imparsialitas, keahlian bidang, dan pengalaman 
+
+dalam mengevaluasi presentasi ilmiah dan penelitian yang berorientasi pada 
+kebijakan. 
+
+b. Komponen Penilaian Akhir 
+a)​ Setiap finalis diharuskan untuk menyampaikan presentasi lisan secara 
+
+langsung selama maksimal 10 menit, 
+b)​ Berpartisipasi dalam sesi tanya jawab dengan panel juri selama 30 menit. 
+c)​ Presentasi dan tanya jawab dinilai 60% dari keseluruhan nilai di babak final. 
+d)​ Setiap peserta menampilkan poster di booth/papan display masing-masing. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      24 
+
+
+
+ 
+
+e)​ Eksibisi peserta dinilai 40% dari keseluruhan nilai di babak final. 
+f)​ Pemasangan alat lain tambahan diperkenankan sepanjang menyesuaikan 
+
+dengan ruang display 
+g)​ Semua alat/barang tambahan menjadi tanggung jawab peserta 
+h)​ Juri mengunjungi setiap exhibitor selama sesi terbuka 
+i)​ Juri mengevaluasi finalis menggunakan rubrik penilaian komprehensif 
+
+c. Penentuan Pemenang 
+a)​ Para juri berkumpul untuk sesi pembahasan tertutup setelah semua presentasi 
+
+selesai. 
+b)​ Peserta dengan skor tertinggi ditentukan berdasarkan pedoman penilaian. 
+c)​ Jika terjadi kesamaan skor atau peringkat yang sangat dekat, para juri dapat 
+
+melakukan penilaian ulang atau berdiskusi untuk mencapai kesepakatan. 
+ 
+3. Mekanisme display karya 
+
+Untuk memastikan partisipasi yang lancar dan kepatuhan terhadap standar 
+pameran, semua finalis wajib memamerkan karya mereka.  
+a.​ Komponen dalam pameran karya antara lain: 
+
+a)​ Poster 
+i)​ Poster menunjukkan rangkuman isi karya tulis berupa 
+
+permasalahan, solusi, dan potensi keuntungan bagi masyarakat. 
+ii)​ Ukuran poster  A1 (59,4 cm x 84,1 cm) orientasi potret. 
+
+iii)​ Poster memuat elemen visual berupa  grafik, diagram, dan ilustrasi. 
+iv)​ Poster tidak memuat konten yang bertentangan dengan hukum, 
+
+norma-norma dan etika di masyarakat. 
+v)​ Poster tidak memuat ilustrasi pihak lain (sponsor) kecuali 
+
+penyelenggara kompetisi. 
+ 
+
+b)​ Prototype/model 
+i)​ Prototype/ model merupakan bagian dari karya 
+
+ii)​ Prototype/model yang dipamerkan disesuaikan dengan ruang dan 
+kapasitas tempat pameran. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      25 
+
+
+
+ 
+
+iii)​ Elemen pemanas, api, atau perangkat bertekanan tinggi dilarang 
+keras.   
+
+iv)​ Bahan-bahan yang mudah terbakar, korosif, beracun, atau 
+berbahaya bagi kesehatan tidak boleh dipamerkan.   
+
+v)​ Lampu berkedip berintensitas tinggi atau lampu strobo tidak 
+diperbolehkan.   
+
+vi)​ Barang-barang yang dilarang antara lain senjata (termasuk model), 
+hewan atau serangga hidup, gas atau cairan mudah terbakar, wadah 
+bertekanan (misalnya kaleng aerosol, tangki gas), pisau tajam atau 
+alat runcing yang tidak terbungkus, dan barang apa pun yang 
+mengeluarkan asap, bau, atau uap.   
+
+vii)​ Jika suatu barang dianggap tidak aman atau tidak pantas, peserta 
+harus segera menghilangkannya atau memodifikasinya.   
+
+viii)​ Peserta bertanggung jawab untuk mengawasi pameran mereka 
+selama periode pameran. 
+
+ix)​ Peserta menanggung semua biaya pengadaan barang-barang yang 
+dipamerkan. 
+
+ 
+c)​ Booth pameran 
+
+Peserta mendapatkan satu booth pameran dengan satu papan display 
+poster. Peserta menyesuaikan desain pameran dengan ruang pameran 
+ 
+
+b. Langkah-langkah pameran 
+a)​ Peserta memasang/menempatkan barang pameran sesuai dengan booth 
+
+yang disiapkan 
+b)​ Setelah pameran selesai (sesuai jadwal), peserta membongkar dan 
+
+mengemas barang pameran dengan aman. 
+c)​ Peserta memastikan area booth bersih dan bebas dari sampah atau 
+
+barang-barang yang belum dibersihkan. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      26 
+
+
+
+ 
+
+H.​ Ketentuan Hak Cipta dan Kepemilikan Karya 
+
+1.​ Kepemilikan Hak Cipta 
+a.​ Hak cipta atas karya tulis ilmiah dan materi presentasi video sepenuhnya 
+
+tetap berada pada peserta sebagai pemilik ide dan pencipta karya. 
+b.​ Namun, dengan mengikuti kompetisi ini, peserta memberikan izin 
+
+non-eksklusif kepada PT Pertamina (Persero) untuk menggunakan, 
+menyimpan, mereproduksi, mempublikasikan, dan/atau mendistribusikan 
+karya tersebut untuk keperluan non-komersial, edukasi, promosi, atau 
+dokumentasi kegiatan. 
+
+2.​ Tanggung Jawab Orisinalitas 
+a.​ Peserta wajib menjamin bahwa seluruh karya yang dikirimkan merupakan 
+
+hasil pemikiran orisinal, tidak sedang atau pernah diikutsertakan dalam 
+kompetisi lain, dan bebas dari tuntutan pihak ketiga. 
+
+b.​ Setiap pelanggaran hak cipta, termasuk plagiarisme atau penggunaan 
+konten tanpa izin, menjadi tanggung jawab penuh peserta dan dapat 
+berujung pada diskualifikasi. 
+
+3.​ Publikasi dan Eksposur 
+PT Pertamina (Persero) berhak mempublikasikan karya terbaik (dengan tetap 
+mencantumkan nama penulis/peserta) dalam bentuk: 
+
+a.​ Buku elektronik atau cetak 
+b.​ Media sosial dan kanal digital resmi Pertamina 
+c.​ Materi presentasi untuk kegiatan edukasi dan pengembangan 
+
+berkelanjutan. 
+4.​ Pembatasan Penggunaan Komersial 
+
+Karya peserta tidak akan digunakan oleh pihak penyelenggara untuk tujuan 
+komersial tanpa persetujuan tertulis dari peserta yang bersangkutan. 
+
+5.​ Penarikan Karya 
+Setelah karya dikirimkan dan masuk dalam proses seleksi, peserta tidak dapat 
+menarik kembali karya tanpa alasan yang dapat diterima secara tertulis dan disetujui 
+oleh panitia. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      27 
+
+
+
+ 
+
+I.​ Lini Masa 
+
+Waktu Kegiatan 
+21 Mei 2026 Open Call dan sosialisasi 
+21 Mei - 21 Juli 2026 Pendaftaran 
+21 Juli 2026 Batas akhir pengumpulan karya 
+2 - 15 Agustus 2026 Babak penyisihan (Seleksi karya 1) 
+22 - 31 Agustus 2026 Babak penyisihan (Seleksi karya 2) 
+1 September 2026 Pengumuman 10 Finalis 
+5 September 2026 Technical Meeting Finalis (luring) 
+8-9 September 2026 Coaching Clinic 
+17 September 2026 Babak Final & Awarding 
+
+ 
+J.​ Penghargaan 
+
+Penghargaan dalam kompetisi ini adalah: 
+a.​ Hadiah setiap kategori 
+
+Peringkat/Kategori Hadiah 
+
+Juara 1 Rp 25.000.000 + Trophy + Sertifikat  
+
+Juara 2 Rp 15.000.000 + Trophy + Sertifikat  
+
+Juara 3 Rp 10.000.000 + Trophy + Sertifikat  
+
+Best Presentation (peserta yang Rp 5.000.000 + Sertifikat 
+
+menunjukkan kemampuan presentasi terbaik  
+
+saat final, termasuk kemampuan 
+menyampaikan gagasan dengan jelas, 
+menarik, dan komunikatif di hadapan dewan 
+juri). 
+Most Promising Idea (Karya yang Rp 5.000.000 + Sertifikat 
+
+mengangkat perspektif baru, keberpihakan 
+pada isu sosial atau lingkungan yang 
+relevan, serta menawarkan semangat 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      28 
+
+
+
+ 
+
+perubahan yang kuat bagi masa depan energi 
+Indonesia) 
+
+ 
+b.​ Seluruh pendaftar mendapatkan e-sertifikat 
+c.​ Seluruh finalis 10 besar akan memperoleh sertifikat finalis nasional.   
+d.​ Pemenang juara 1, 2 dan 3 berkesempatan mengikuti program internasional. 
+
+K.​ Narahubung 
+Dalam kegiatan Energynovation Ideas Competition Pertamina Goes to Campus (PGTC) 
+2026, segala bentuk pertanyaan, kendala dan keluhan dapat disampaikan dan ditanyakan 
+kepada narahubung berikut melalui WhatsApp: 
+1. Rachmat Nurcahyo (+62 856-2874-702) 
+2. I Kadek Agus Septiadi (+62 819-9906-2208) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      29 
+
+
+
+ 
+
+BAB III PENUTUP 
+
+Melalui Energynovation Ideas Competition, Pertamina membuka ruang bagi 
+mahasiswa untuk berkontribusi secara nyata melalui ide-ide inovatif yang terukur, aplikatif, 
+dan relevan dengan kebutuhan industri energi nasional, baik dalam sektor energi fosil 
+maupun energi baru terbarukan. Karya tulis terbaik tidak hanya akan diapresiasi, tetapi juga 
+berpotensi menjadi bagian dari solusi bagi masa depan energi Indonesia. Kompetisi ini 
+memberikan ruang pengalaman belajar yang berharga, untuk menggali potensi diri, 
+memperluas wawasan, dan mempererat kolaborasi antar mahasiswa lintas kampus. Jadikan 
+setiap proses penulisan, penelitian, dan presentasi sebagai langkah konkret menuju Indonesia 
+yang mandiri dan berdaulat dalam bidang energi. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      30 
+
+
+
+ 
+
+Lampiran 1 (Template Tulisan): 
+
+Energynovation Ideas Competition Templates  
+(Centered, Bold, 12pt Times New Roman Font, Maximum of 13 Words) 
+
+Author 
+Institution/Affiliation 
+
+Sub-theme: 
+List one sub-theme that the guidebook specifies. 
+Abstract 
+The abstract should reflect the whole content of the article and help readers determine its 
+relevance to their interests and decide whether they need to read the entire article. The abstract 
+consists of the research background, focus, objectives, steps, results, and conclusions. It is 
+written in English in one paragraph, with one-line spacing, and is between 150 and 250 words.  
+Keywords  
+Keywords are important terms in the article, help the readers to find the article, and are written in 
+bold and italics. List 3-5 keywords after the abstract.  
+
+A.​ INTRODUCTION  
+(Recommended portion: 15 - 20% of the article body) 
+
+The introduction presents the article's background, the gaps between the ideal and actual 
+conditions, support from current theories and studies relevant to the problem, and novelty in the 
+form of innovation. Authors are encouraged to use recent and credible references to strengthen 
+the argumentation. The introduction should gradually move from broader issues to specific 
+problems addressed in the article.  
+
+B.​ LITERATURE REVIEW 
+(Recommended portion: 10 - 15% of the article body) 
+
+This section includes theoretical and conceptual foundations related to the research area. The 
+author should show that he/she understands what has been discussed in previous academic 
+studies, and that the present paper adds something significant to the body of work. An 
+appropriate literature review includes a definition of the most important terms or concepts, an 
+explanation of the main theories, models or frameworks that are relevant to the topic, a summary 
+of previous research and its findings, a comparison of studies regarding what is similar and what 
+is different, an identification of methodological or conceptual limitations, a discussion of the 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      31 
+
+
+
+ 
+
+areas of research that have not yet been studied, or remain unresolved, and an explanation of how 
+this research, or new idea or development, contributes to these gaps. The review may be 
+organized thematically, chronologically, or methodologically depending on the nature of the 
+article.  
+ 
+
+C.​ METHOD 
+(Recommended portion: 10 - 15% of the article body) 
+
+The title of this section can be replaced with Research Methods, Implementation Methods, or 
+Materials and Methods, but can be given other titles depending on the activities and 
+methodologies that have been carried out, so that the author is given the freedom to give other 
+titles such as Theoretical Approaches or Experimental Considerations. In general, the method 
+contains how observations are made, including the time, length, and place of observation, 
+materials and tools used, methods for obtaining data/information, and how data processing and 
+analysis are carried out. The method must be explained in full so that other researchers can 
+conduct repeat trials.  
+
+D.​ RESULTS AND DISCUSSION 
+(Recommended portion: 40 - 50% of the article body) 
+ 
+
+This section should become the core of the article by presenting findings, innovation outcomes, 
+implementation plans, and critical analysis. Results and Discussion may be separated into several 
+sub-sections for clarity. 
+
+1.​ Results 
+Results can be presented in tables of numbers, graphs, verbal descriptions, or a combination of 
+the three. The tables, graphs, or pictures should not be too long, big, or numerous. The author 
+should use a variety of presentations through tables, graphs, and verbal descriptions. The tables 
+and graphs presented in the text must be referred to.  
+
+2.​ Discussion  
+The discussion is intended to interpret the results in accordance with the theories applied 
+
+and does not merely describe the results. It should be enriched by referring to the results of 
+previous studies. The discussion can be presented in sub-sections.  
+
+a.​ Sub-section 1 (bold and italics) 
+xxxxxxxxxx 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      32 
+
+
+
+ 
+
+b.​ Sub-section 2 (bold and italics) 
+Yyyyyyyyyy 
+
+E.​ CONCLUSIONS AND SUGGESTIONS 
+(Recommended portion: 5- 10% of the article body) 
+ 
+
+Conclusions are not just data repetition but present the essence of interpretation. They can be 
+statements regarding expectations as stated in the introduction, finally leading to results and 
+discussion, so that there is compatibility. In addition, the prospect of the development of the 
+findings and their application in the future (based on the results and discussion) can be included. 
+This also provides practical or theoretical advice based on the findings that is often divided into 
+two parts: a) Practical Suggestions (Recommendations for policymakers, educators, 
+practitioners, or institutions based on the research results), b) Suggestions for future research 
+(Identifies limitations and suggests topics or methods for further exploration).  
+References 
+The references in this article use APA style. Use recent and credible scholarly sources whenever 
+possible. Ensure all in-text citations appear in the reference list and vice versa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      33 
+
+
+
+ 
+
+Lampiran 2 (Lembar keaslian karya dan anti plagiarism) 
+
+NO-PLAGIARISM DECLARATION STATEMENT​
+ 
+
+I, the undersigned, hereby declare that the scientific manuscript I have submitted for the 
+Energynovation Ideas Competition is my original work and does not contain any form of 
+plagiarism. 
+I affirm that: 
+
+1.​ All sources of information, data, and ideas taken from other works have been properly 
+cited and referenced. 
+
+2.​ This submission has not been published elsewhere or submitted simultaneously to other 
+competitions or publications. 
+
+3.​ I take full responsibility for the content of the work, including any ethical considerations 
+and academic integrity. 
+
+I understand that any proven act of plagiarism will result in immediate disqualification from the 
+contest and may lead to further academic or legal consequences as deemed necessary by the 
+organizing committee. 
+By signing below, I confirm that I have read and understood the contest's policies on plagiarism 
+and originality. 
+ 
+Sincerely,​
+ 
+ 
+Full Name 
+Institution/Organization​
+ 
+Signature: ____________________________​
+Date:  
+ 
+
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      34 
+
+
+
+ 
+
+Lampiran 3 (Persetujuan Penggunaan Karya) 
+
+Formulir Persetujuan Penggunaan Karya 
+Saya yang bertanda tangan di bawah ini: 
+Nama Lengkap​ : .................................................................​
+NIM​ ​ ​ : .......................................................................​
+Program Studi​ : ...............................................................​
+Perguruan Tinggi​ : ...........................................................​
+Judul Karya​ ​ : ................................................................. 
+Dengan ini menyatakan bahwa: 
+
+1.​ Karya tulis ilmiah dan/atau video presentasi yang saya kirimkan dalam kompetisi 
+Energynovation Ideas Competition. Pertamina Goes to Campus 2026 merupakan karya 
+orisinal dan bebas dari unsur plagiarisme, serta tidak sedang/telah diikutsertakan 
+dalam perlombaan sejenis lainnya. 
+
+2.​ Saya memberikan izin non-eksklusif kepada PT Pertamina (Persero) dan/atau pihak 
+penyelenggara untuk: 
+
+a.​ Menyimpan, mempublikasikan, dan/atau mendistribusikan karya saya untuk 
+keperluan dokumentasi, edukasi, promosi, dan pengembangan kegiatan serupa; 
+
+b.​ Menggunakan sebagian atau seluruh isi karya saya (dengan tetap mencantumkan 
+nama penulis) dalam media publikasi resmi Pertamina, baik dalam bentuk cetak 
+maupun digital; 
+
+c.​ Menerbitkan karya dalam bentuk buku, e-book, atau konten multimedia sebagai 
+bagian dari kegiatan komunikasi perusahaan, tanpa tujuan komersial. 
+
+3.​ Saya memahami bahwa hak cipta atas karya tersebut tetap menjadi milik saya, dan setiap 
+penggunaan di luar kepentingan yang disebutkan di atas harus mendapatkan persetujuan 
+tertulis terlebih dahulu dari saya. 
+
+4.​ Saya bersedia bertanggung jawab penuh atas isi karya yang saya kirimkan, termasuk 
+apabila di kemudian hari ditemukan pelanggaran hak cipta atau klaim dari pihak ketiga. 
+
+Demikian surat persetujuan ini saya buat dengan sebenar-benarnya untuk digunakan 
+sebagaimana mestinya. 
+……..(tempat), ......... (tanggal lengkap) 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      35 
+
+
+
+ 
+
+Tanda Tangan Peserta​
+(tulis tangan)​
+.............................................​
+Nama Terang 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      36 
+
+
+
+ 
+
+Lampiran 4 (Rubrik Penilaian) 
+
+Rubrik Penilaian Babak Penyisihan: 
+Rentang Skor  
+5 ≤ Skor < 6 (Sangat Kurang)  
+6 ≤ Skor < 7 (Kurang)  
+7 ≤ Skor < 8 (Cukup)  
+8 ≤ Skor < 9 (Baik)  
+9 ≤ Skor ≤ 10 (Sangat Baik)  
+ 
+No Aspek penilaian Bobot Rentang Skor Rubrik 
+
+(%) 
+1 Originalitas ide dan 25 9 ≤ Skor ≤ 10  Gagasan inovatif dan merupakan 
+
+kebaruan solusi terobosan mutakhir yang belum 
+ditemukan dalam situasi atau 
+lingkungan serupa.  
+
+8 ≤ Skor < 9  Gagasan merupakan improvisasi, 
+terinspirasi oleh gagasan lain, 
+tetapi disesuaikan dengan kondisi 
+lingkungan penerima manfaat.  
+
+7 ≤ Skor < 8  Gagasan menerapkan gagasan 
+serupa terdahulu (adaptasi) yang 
+belum banyak dikerjakan pihak 
+lain dan sesuai dengan lingkungan 
+penerima manfaat.  
+
+6 ≤ Skor < 7  Gagasan menerapkan gagasan 
+serupa terdahulu (adaptasi) yang 
+telah banyak dikerjakan pihak lain 
+dan sesuai dengan lingkungan 
+penerima manfaat.  
+
+5 ≤ Skor < 6  Gagasan sekadar mencontoh 
+gagasan lain (imitasi) tanpa 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      37 
+
+
+
+ 
+
+adaptasi dan improvisasi.  
+2 Ketajaman analisis 25 9 ≤ Skor ≤ 10  Analisis sangat tajam dan 
+
+dan argumentasi mendalam; mampu 
+ilmiah menghubungkan berbagai konsep 
+
+dan teori secara kritis; argumentasi 
+logis, koheren, dan didukung oleh 
+bukti ilmiah yang kuat dan relevan. 
+Menunjukkan orisinalitas 
+pemikiran. 
+
+8 ≤ Skor < 9  Analisis cukup tajam; terdapat 
+hubungan antar konsep dan teori 
+yang jelas; argumentasi logis dan 
+umumnya didukung oleh bukti 
+yang memadai. Masih ada ruang 
+untuk pendalaman. 
+
+7 ≤ Skor < 8  Analisis cukup baik namun belum 
+mendalam; argumentasi masih 
+bersifat umum dan sebagian telah 
+didukung oleh teori atau data; 
+menunjukkan kemampuan berpikir 
+kritis yang sedang. 
+
+6 ≤ Skor < 7  Analisis masih bersifat deskriptif 
+dan kurang mendalam; 
+argumentasi lemah atau kurang 
+terstruktur; penggunaan teori dan 
+bukti masih terbatas atau tidak 
+sepenuhnya relevan. 
+
+5 ≤ Skor < 6  Analisis dangkal atau tidak terlihat; 
+argumentasi tidak logis atau tidak 
+berdasar; tidak ada bukti ilmiah 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      38 
+
+
+
+ 
+
+yang mendukung; tampak tidak 
+memahami isu yang dibahas. 
+ 
+
+3 Kesesuaian dengan 10 9 ≤ Skor ≤ 10   
+tema dan sub tema Karya sepenuhnya selaras dengan 
+
+tema dan subtema; pembahasan 
+fokus, mendalam, dan relevan di 
+seluruh bagian; menunjukkan 
+pemahaman konseptual yang 
+sangat kuat dan kritis terhadap isu 
+yang diangkat. 
+ 
+
+8 ≤ Skor < 9  Karya sesuai dengan tema dan 
+subtema; pembahasan cukup fokus 
+dan relevan; ada sedikit bagian 
+yang dapat lebih dipertajam, 
+namun tidak mengganggu 
+keseluruhan kesesuaian isi. 
+
+7 ≤ Skor < 8  Karya umumnya sesuai dengan 
+tema, namun relevansi dengan 
+subtema kurang konsisten; terdapat 
+bagian-bagian yang menyimpang 
+atau terlalu umum; pemahaman 
+tema masih terbatas. 
+
+6 ≤ Skor < 7   
+Kesesuaian dengan tema dan 
+subtema lemah; pembahasan 
+cenderung menyimpang atau tidak 
+fokus; pemahaman terhadap tema 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      39 
+
+
+
+ 
+
+bersifat dangkal atau hanya 
+deskriptif. 
+ 
+
+5 ≤ Skor < 6  Karya tidak relevan dengan tema 
+dan subtema; isi menyimpang 
+secara keseluruhan; tidak 
+menunjukkan pemahaman terhadap 
+fokus yang ditetapkan. 
+
+4 Relevansi data dan 15 9 ≤ Skor ≤ 10  Data yang digunakan sangat 
+keakuratan relevan, mutakhir, dan mendukung 
+metodologi argumen secara kuat; metodologi 
+
+dipilih dan diterapkan secara tepat, 
+sistematis, dan sesuai dengan 
+tujuan penelitian; menunjukkan 
+pemahaman mendalam terhadap 
+pendekatan ilmiah. 
+
+8 ≤ Skor < 9  Data relevan dan cukup mutakhir; 
+metodologi sesuai dan diterapkan 
+dengan cukup konsisten; terdapat 
+sedikit kekurangan teknis tetapi 
+tidak mempengaruhi validitas hasil 
+secara signifikan. 
+
+7 ≤ Skor < 8  ata digunakan cukup relevan 
+namun belum optimal; metodologi 
+dipilih dengan dasar yang wajar 
+namun pelaksanaannya kurang 
+sistematis; beberapa aspek teknis 
+tidak dijelaskan secara tuntas. 
+
+6 ≤ Skor < 7  Data kurang relevan atau tidak 
+mendukung tujuan analisis secara 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      40 
+
+
+
+ 
+
+langsung; metodologi kurang tepat 
+atau diterapkan secara tidak 
+konsisten; terdapat kelemahan 
+serius dalam desain atau 
+pelaksanaan. 
+
+5 ≤ Skor < 6  Data kurang relevan atau tidak 
+mendukung tujuan analisis secara 
+langsung; metodologi kurang tepat 
+atau diterapkan secara tidak 
+konsisten; terdapat kelemahan 
+serius dalam desain atau 
+pelaksanaan. 
+
+5 Struktur penulisan 25 9 ≤ Skor ≤ 10  Struktur penulisan sangat 
+dan sistematika sistematis, lengkap, dan sesuai 
+karya dengan kaidah akademik; setiap 
+
+bagian (pendahuluan, metode, 
+kajian pustaka, hasil, pembahasan, 
+simpulan dan saran) tersusun logis 
+dan saling terhubung secara 
+koheren. 
+
+8 ≤ Skor < 9  Struktur penulisan jelas dan 
+umumnya sesuai sistematika yang 
+ditetapkan; ada sedikit kekurangan 
+dalam kelengkapan atau transisi 
+antarbagian, namun tidak 
+mengganggu alur pemahaman 
+secara keseluruhan. 
+
+7 ≤ Skor < 8  Struktur penulisan cukup baik 
+namun belum konsisten; beberapa 
+bagian kurang lengkap atau kurang 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      41 
+
+
+
+ 
+
+tertata rapi; transisi antarbagian 
+belum efektif. 
+
+6 ≤ Skor < 7  Struktur penulisan tidak sistematis; 
+beberapa bagian penting tidak ada 
+atau tertukar urutannya; sulit 
+diikuti oleh pembaca. 
+
+5 ≤ Skor < 6  Tidak ada sistematika yang jelas; 
+penulisan acak atau tidak 
+mengikuti format karya ilmiah; 
+sangat sulit dipahami dan 
+membingungkan. 
+
+ 
+Rubrik Penilaian Babak Final 
+
+A. Presentasi dan Tanya Jawab (60%) 
+No Aspek Skor Rubrik 
+1 Kejelasan & Struktur 9 ≤ Skor ≤ 10  Paparan sangat runtut, logis, dan 
+
+Presentasi mudah dipahami; slide mendukung 
+penuh penyampaian 
+
+8 ≤ Skor < 9  Paparan cukup runtut dan jelas; 
+penggunaan slide cukup efektif 
+
+7 ≤ Skor < 8  Alur presentasi tidak konsisten; slide 
+kurang mendukung 
+
+6 ≤ Skor < 7  Kurang terstruktur; penyampaian 
+membingungkan; media tidak efektif 
+
+2 Penguasaan materi 9 ≤ Skor ≤ 10  Menguasai materi secara menyeluruh, 
+dan argumentasi argumentasi tajam dan meyakinkan 
+
+8 ≤ Skor < 9  Menguasai sebagian besar materi, 
+argumentasi cukup logis 
+
+7 ≤ Skor < 8  Penguasaan umum; beberapa informasi 
+tidak tepat 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      42 
+
+
+
+ 
+
+6 ≤ Skor < 7  Lemah dalam penguasaan dan 
+argumentasi; tidak bisa menjawab kritis 
+
+3 Relevansi jawaban 9 ≤ Skor ≤ 10  Jawaban tepat sasaran, logis, reflektif 
+dalam sesi tanya terhadap pertanyaan 
+jawab 8 ≤ Skor < 9  Jawaban cukup tepat dan menjawab 
+
+esensi pertanyaan 
+7 ≤ Skor < 8  Jawaban kurang langsung atau kurang 
+
+mendalam 
+6 ≤ Skor < 7  Jawaban melenceng atau tidak dapat 
+
+dijelaskan 
+4 Keterampilan 9 ≤ Skor ≤ 10  Percaya diri, artikulatif, penggunaan 
+
+komunikasi dan bahasa dan gerak tubuh sangat efektif 
+penyampaian 8 ≤ Skor < 9  Komunikasi lancar; sedikit kurang 
+
+ekspresif 
+7 ≤ Skor < 8  Kurang percaya diri; gaya penyampaian 
+
+monoton 
+6 ≤ Skor < 7  Kurang komunikatif; kesulitan 
+
+menyampaikan gagasan 
+ 
+B. Pameran/Exhibisi Karya (40%) 
+No Aspek Skor Rubrik 
+1 Daya tarik visual dan 9 ≤ Skor ≤ 10  Sangat menarik dan profesional, desain 
+
+kerapian media rapi dan estetis 
+8 ≤ Skor < 9  Cukup menarik dan rapi; visual 
+
+mendukung isi karya 
+7 ≤ Skor < 8  Visual biasa saja; tidak terlalu menarik 
+6 ≤ Skor < 7  Tidak menarik, berantakan, dan 
+
+membingungkan 
+2 Kejelasan informasi 9 ≤ Skor ≤ 10  Informasi penting sangat jelas, ringkas, 
+
+dalam media pameran mudah dipahami 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      43 
+
+
+
+ 
+
+8 ≤ Skor < 9  Sebagian besar informasi jelas dan 
+relevan 
+
+7 ≤ Skor < 8  Informasi kurang lengkap dan sulit 
+dimengerti 
+
+6 ≤ Skor < 7  Informasi membingungkan atau tidak 
+terbaca dengan baik 
+
+3 Interaksi dan 9 ≤ Skor ≤ 10  Aktif menjelaskan kepada pengunjung 
+kemampuan dengan sangat baik 
+menjelaskan 8 ≤ Skor < 9  Menjelaskan cukup baik meski sedikit 
+
+pasif 
+7 ≤ Skor < 8  Penjelasan terbatas atau kurang 
+
+responsif 
+6 ≤ Skor < 7  Tidak mampu menjelaskan atau tidak 
+
+hadir 
+4 Nilai inovasi atau 9 ≤ Skor ≤ 10  Inovatif, orisinal, dan menunjukkan 
+
+kebermanfaatan dampak atau solusi nyata 
+8 ≤ Skor < 9  Cukup orisinal dan bermanfaat 
+7 ≤ Skor < 8  Ide umum dengan sedikit inovasi 
+6 ≤ Skor < 7  Tidak inovatif dan tidak memiliki nilai 
+
+kebermanfaatan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      44 
+
+
+
+ 
+
+Lampiran 5 (Perjanjian Kerahasiaan oleh juri) 
+
+PERJANJIAN KERAHASIAAN JURI 
+ 
+
+Saya yang bertanda tangan di bawah ini: 
+Nama​ ​ ​ : __________________________________________​
+Instansi​ ​ : ________________________________________​
+Alamat Email​​ : ____________________________________​
+Nomor Telepon​ : __________________________________ 
+Dalam kapasitas saya sebagai Energynovation Ideas Competition: Pertamina Goes to 
+Campus 2026, dengan ini menyatakan dan menyetujui hal-hal berikut: 
+1. Kerahasiaan Materi 
+Saya berjanji untuk menjaga kerahasiaan seluruh karya ilmiah peserta, termasuk namun tidak 
+terbatas pada isi tulisan, data, gambar, metodologi, ide, dan hasil penelitian, baik selama proses 
+penjurian maupun setelah kompetisi berakhir. 
+2. Larangan Penggandaan dan Distribusi 
+Saya tidak akan menggandakan, menyimpan, mendistribusikan, membagikan, maupun 
+menggunakan sebagian atau seluruh isi karya peserta untuk kepentingan pribadi, akademik, 
+institusional, atau komersial dalam bentuk apapun tanpa izin tertulis dari panitia dan/atau penulis 
+yang bersangkutan. 
+3. Penilaian Independen dan Bebas Konflik Kepentingan 
+Saya akan memberikan penilaian secara objektif, independen, dan profesional, serta menyatakan 
+tidak memiliki konflik kepentingan (conflict of interest) dengan peserta atau institusi peserta. 
+Jika saya mengetahui adanya potensi konflik kepentingan, saya akan segera melapor kepada 
+panitia. 
+4. Penggunaan Sistem Penilaian 
+Saya akan menggunakan lembar penilaian resmi yang disediakan oleh panitia, dan tidak 
+menyebarluaskan sistem tabulasi, format penilaian, atau skor kepada pihak luar tanpa izin 
+tertulis. 
+5. Konsekuensi Pelanggaran 
+Saya memahami bahwa pelanggaran terhadap pernyataan ini dapat mengakibatkan pencabutan 
+hak saya sebagai juri, serta tindakan administratif atau hukum sesuai ketentuan yang berlaku. 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      45 
+
+
+
+ 
+
+Dengan ini, saya menyatakan telah membaca, memahami, dan bersedia mematuhi seluruh isi 
+perjanjian kerahasiaan ini. 
+
+Tanggal: ___________________________​
+ Tempat: ___________________________ 
+
+Tertanda,​
+ Tanda tangan: ___________________________​
+ Nama lengkap: __________________________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pedoman Energynovation Ideas Competition PGTC 2026​ ​ ​ ​                      46

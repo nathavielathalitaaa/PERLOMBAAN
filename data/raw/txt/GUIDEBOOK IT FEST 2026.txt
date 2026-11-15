@@ -1,0 +1,1385 @@
+﻿DAFTAR ISI
+
+SOFTWARE DEVELOPMENT
+A. Deskripsi Lomba ................................................................................................................1
+B. Tema ................................................................................................................................... 1 
+C. Penghargaan ...................................................................................................................... 2 
+D. Syarat dan Ketentuan Peserta ....................................................................................... 2
+E. Prosedur Pendaftaran ................................................................................................... 3
+F. Biaya Pendaftaran ......................................................................................................... 3
+G. Petunjuk Teknis Pengumpulan ...................................................................................... 4
+H. Format Proposal ............................................................................................................ 4
+I. Mekanisme Tahapan Lomba ........................................................................................... 4
+J. Kriteria Penilaian ........................................................................................................... 5
+K. Timeline Lomba ............................................................................................................ 6
+L. Sanksi ................................................................................................................................. 6 
+M. Narahubung ...................................................................................................................... 6
+
+IT NETWORK SYSTEM ADMINISTRATION (ITNSA)
+A. Deskripsi Lomba ............................................................................................................... 7  
+B. Tema ................................................................................................................................... 8  
+C. Penghargaan ...................................................................................................................... 8  
+D. Persyaratan dan Ketentuan Peserta ............................................................................... 8  
+E. Pendaftaran Lomba .......................................................................................................... 9  
+F. Pembayaran Lomba .......................................................................................................... 9  
+G. Teknik dan Komposisi Bobot Penilaian ....................................................................... 10  
+H. Daftar Alat & Perangkat Lunak (Baru/Sebelumnya Hilang) .................................... 12  
+I. Standar Pengawasan Online (Babak Penyisihan) ......................................................... 13  
+J. Aturan & Tata Tertib Lomba (Baru/Sebelumnya Hilang) ......................................... 14  
+K. Sanksi ............................................................................................................................... 15  
+L. Hal-Hal Yang Harus Diperhatikan ............................................................................... 16  
+M. Tata Cara Pengumpulan ............................................................................................... 16  
+N. Timeline Lomba .............................................................................................................. 17
+O. Penghargaan.................................................................................................................... 18
+F. Narahubung...................................................................................................................... 18
+
+
+
+DAFTAR ISI
+
+CAPTURE THE FLAG
+A. Deskripsi Lomba ............................................................................................................. 19
+B. Ketentuan Lomba ........................................................................................................... 19
+C. Pendaftaran Lomba ....................................................................................................... 20
+D. Pembayaran Lomba ....................................................................................................... 20
+E. Teknis Pelaksanaan .........................................................................................................20
+F. Jadwal Pelaksanaan ........................................................................................................ 24
+G. Kriteria Penilaian ............................................................................................................24
+H. Penghargaan ................................................................................................................... 25
+I. Biaya Pendaftaran ........................................................................................................... 26
+J. Narahubung ..................................................................................................................... 26
+
+SHORT MOVIE
+A. Deskripsi Lomba ............................................................................................................. 27
+B. Tema ................................................................................................................................. 27
+C. Penghargaan .................................................................................................................... 27
+D. Syarat dan Ketentuan Peserta ....................................................................................... 27
+E. Ketentuan Karya ............................................................................................................. 28
+F. Prosedur Pendaftaran ..................................................................................................... 28
+G. Biaya Pendaftaran .......................................................................................................... 29
+H. Teknis Pengumpulan ...................................................................................................... 29
+I. Mekanisme dan Tahapan Lomba ................................................................................... 29
+J. Kriteria Penilaian ............................................................................................................ 30
+K. Timeline Lomba .............................................................................................................  30
+L. Sanksi ............................................................................................................................... 31
+M. Narahubung .................................................................................................................... 31
+ 
+
+
+
+Software Development Competition
+IT Festival 2026
+
+A. DESKRIPSI LOMBA
+IT Festival 2026 merupakan kegiatan kompetisi tingkat nasional yang diselenggarakan
+sebagai wadah kreativitas mahasiswa dalam bidang teknologi dan inovasi digital.
+Software Development Competition merupakan salah satu cabang perlombaan pada IT
+Festival 2026 yang ditujukan bagi mahasiswa aktif jenjang D3/D4/S1 dari seluruh
+perguruan tinggi di Indonesia. Kompetisi ini bertujuan untuk mendorong peserta dalam
+menciptakan solusi digital inovatif yang mampu memberikan dampak positif terhadap
+lingkungan, masyarakat, serta perkembangan teknologi berkelanjutan. Peserta
+diharapkan mampu mengembangkan aplikasi berbasis web, mobile, desktop, maupun
+teknologi digital lainnya yang kreatif, inovatif, dan sesuai dengan tema perlombaan. 
+
+B. TEMA
+TEMA:  “Driving Sustainability in Nature Through Digital Innovation” 
+SUBTEMA: 
+
+Green Economy: Berfokus pada pengembangan inovasi digital yang mendukung
+pertumbuhan ekonomi berkelanjutan dengan tetap menjaga kelestarian lingkungan.
+Peserta diharapkan menghadirkan solusi yang mampu meningkatkan efisiensi
+sumber daya, mengurangi limbah dan emisi, mengoptimalkan penggunaan energi,
+serta mendukung sistem produksi ramah lingkungan. 
+Smart Small Island: Menitikberatkan pada penerapan teknologi digital untuk
+mendukung pembangunan berkelanjutan di wilayah kepulauan kecil. Inovasi dapat
+berorientasi pada ketahanan pangan, ketahanan energi, pengelolaan sumber daya
+pesisir, sistem logistik wilayah terpencil, maupun pemberdayaan masyarakat. 
+Smart Agroindustry and Logistic System: Berfokus pada optimalisasi proses
+produksi, pengolahan, penyimpanan, dan distribusi hasil agro melalui integrasi
+sistem digital. Peserta diharapkan mampu menghadirkan solusi yang meningkatkan
+efisiensi rantai pasok, transparansi distribusi, kualitas produk, dan keamanan
+produk.
+
+1
+
+
+
+Software Development Competition
+IT Festival 2026
+
+C. PENGHARGAAN
+Tunjukkan inovasi terbaik dari tim kamu dan menangkan total hadiah jutaan rupiah! 
+
+JUARA 1: Rp1.500.000 + Sertifikat + Medali 
+JUARA 2: Rp1.000.000 + Sertifikat + Medali 
+JUARA 3: Rp500.000 + Sertifikat + Medali
+
+(Seluruh peserta yang berpartisipasi akan mendapatkan E-Certificate)
+
+D. SYARAT DAN KETENTUAN PESERTA
+1.Peserta merupakan mahasiswa/i aktif jenjang D3/D4/S1 dari perguruan tinggi di
+
+Indonesia. 
+2.Status mahasiswa aktif dibuktikan dengan KTM, KTP, SIM, paspor, atau surat
+
+keterangan lainnya. 
+3.Perlombaan bersifat kelompok dengan jumlah anggota 1–3 orang dalam satu tim. 
+4.Seluruh anggota tim wajib berasal dari institusi yang sama. 
+5.Setiap peserta hanya diperbolehkan terdaftar pada satu tim. 
+6.Peserta wajib mengikuti akun Instagram resmi @itfestmicroipb. 
+7.Peserta wajib mengunggah twibbon resmi IT Festival 2026 pada akun Instagram
+
+masing-masing. 
+8.Peserta wajib mengikuti seluruh rangkaian kegiatan dan ketentuan lomba. 
+9.Panitia berhak mendiskualifikasi peserta yang melanggar aturan   perlombaan.
+
+10.Panitia memiliki hak publikasi atas karya peserta untuk kebutuhan dokumentasi
+dan media sosial. 
+
+11.Keputusan panitia dan juri bersifat mutlak dan tidak dapat diganggu gugat.
+12.Karya harus sesuai dengan tema dan subtema yang telah ditentukan (karya yang
+
+tidak sesuai tema akan mendapatkan pengurangan nilai). 
+13.Karya merupakan hasil orisinal peserta dan belum pernah dipublikasikan maupun
+
+diikutsertakan dalam perlombaan sejenis. 
+14.Karya tidak diperbolehkan mengandung unsur: SARA, pornografi, promosi,
+
+maupun pelanggaran hukum yang berlaku di Indonesia.  
+
+2
+
+
+
+Software Development Competition
+IT Festival 2026
+
+15.Peserta dilarang menggunakan template jadi secara penuh tanpa pengembangan
+lebih lanjut. Icon, logo, font, dan aset lainnya disediakan oleh masing-masing
+peserta. 
+
+16.Setiap tim hanya diperbolehkan mengirimkan satu karya. 
+17.Panitia berhak mendiskualifikasi peserta apabila ditemukan unsur plagiarisme
+
+maupun kecurangan dalam bentuk apa pun. 
+
+E. PROSEDUR PENDAFTARAN
+1.Peserta melakukan pendaftaran melalui Google Form yang telah disediakan
+
+panitia. 
+2.Peserta mengisi seluruh data yang dibutuhkan dengan benar dan lengkap. 
+3.Peserta melakukan pembayaran biaya pendaftaran sesuai gelombang yang berlaku
+
+dan mengunggah bukti pembayaran pada formulir. 
+4.Peserta melakukan konfirmasi pendaftaran kepada Contact Person yang tertera. 
+5.Setelah terkonfirmasi, peserta akan dimasukkan ke grup WhatsApp resmi
+
+perlombaan (wajib menggunakan nama asli pada display name WhatsApp).
+6.Seluruh informasi terkait lomba akan diumumkan melalui grup WhatsApp peserta.
+
+F. BIAYA PENDAFTARAN
+
+Gelombang Tanggal Biaya
+
+Gelombang 1 1 Juni – 15 Juni 2026 Rp80.000/Tim
+
+Gelombang 2 16 Juni - 15 Juli 2026 Rp100.000/Tim
+
+Gelombang 3 16 Juli - 5 Agustus 2026 Rp120.000/Tim
+
+GOPAY: 087749894108 (a.n. Aulia Nazwa Nazifa) 
+DANA: 087749894108 (a.n. Aulia Nazwa Nazifa) 
+MANDIRI: 1330030906689 (a.n. Aulia Nazwa Nazifa)
+
+3
+
+
+
+Software Development Competition
+IT Festival 2026
+
+G. PETUNJUK TEKNIS PENGUMPULAN
+1.Ketua tim mengunggah seluruh berkas pada form Upload Submission.
+2.Batas akhir pengumpulan karya: 5 Agustus 2026 pukul 23.59 WIB. 
+3.Peserta wajib menyertakan: Proposal (PDF), Pitch Deck (PDF), Link hasil karya,
+
+dan Link GitHub atau Google Drive produk. 
+4.Format Penamaan File Proposal: ITFEST26_SoftwareDevelopment_NamaTim.pdf 
+5.Ketentuan Produk: File 
+
+a.Produk berbasis mobile wajib menyertakan file APK. 
+b.Produk berbasis web wajib menyertakan URL hosting aktif. 
+c.Produk berbasis desktop wajib menyertakan executable file. 
+
+6.Link aplikasi wajib dapat diakses selama proses penjurian berlangsung. Panitia
+tidak bertanggung jawab terhadap gangguan server, hosting, maupun database
+milik peserta. 
+
+7.Peserta disarankan menyediakan akun demo untuk kebutuhan penilaian juri. 
+
+H. FORMAT PROPOSAL
+Proposal disusun dalam format PDF dan berisikan struktur berikut: 
+
+1.Halaman Sampul: Nama Tim, Nama Aplikasi, Logo Produk 
+2.Daftar Isi 
+3.BAB I – Pendahuluan: Latar belakang dan permasalahan.
+4.BAB II – Tim Pengembang: Anggota tim dan kontribusinya. 
+5.BAB III – Deskripsi Aplikasi: Ide dasar, fitur utama, & teknologi yang digunakan. 
+6.BAB IV – Manfaat & Dampak Aplikasi: Dampak terhadap masyarakat/lingkungan. 
+7.BAB V – Implementasi di Masa Depan: Rencana pengembangan ke depan.
+8.BAB VI – Tahapan Pengembangan: Proses pengembangan dari awal hingga akhir. 
+9.BAB VII – Kendala Pengembangan: Hambatan yang dihadapi selama proses.
+
+I. MEKANISME TAHAPAN LOMBA
+Babak Seleksi Awal (Online) 
+
+Penilaian dilakukan berdasarkan proposal, fitur aplikasi, dan kesesuaian tema. 
+Sepuluh (10) karya dengan nilai tertinggi akan lolos ke tahap final. 
+Pengumuman finalis: 11 Agustus 2026. 
+
+4
+
+
+
+Software Development Competition
+IT Fest 2026
+
+Technical Meeting Finalis (Online) 
+Dilaksanakan pada: 12 Agustus 2026. 
+Membahas teknis final, tata tertib presentasi, rundown, dan sesi tanya jawab. 
+
+Babak Final (Offline) 
+Dilaksanakan pada: Sabtu, 22 Agustus 2026 di Gedung Zeta Sekolah Vokasi IPB
+University. 
+Finalis akan melakukan presentasi (10 menit) dan tanya jawab (10 menit) beserta
+demo aplikasi di hadapan dewan juri. 
+Peserta wajib registrasi ulang, berpakaian rapi dan sopan, serta dilarang membuat
+keributan.
+
+J. KRITERIA PENILAIAN
+Seleksi Tahap 1 (Seleksi Awal)
+
+Kriteria Uraian Bobot
+
+Fungsionalitas & Kelengkapan fitur dan performa aplikasi 40%
+Fit
+
+Tampilan Hasil Karya UI/UX dan kemudahan penggunaan 25%
+lik i
+
+Kreativitas & Inovasi Ide kreatif dan inovasi teknologi 20%
+
+Kesesuaian Tema Kesesuaian aplikasi dengan tema lomba 15%
+
+Seleksi Tahap 2 (Final - Akumulasi Penilaian)
+
+Kriteria Uraian Bobot
+
+Hasil Karya Aplikasi Penilaian terhadap kualitas produk aplikasi 70%
+secara keseluruhan
+
+Penyampaian materi, penguasaan materi, dan
+Presentasi 30%
+
+kemampuan menjawab pertanyaan
+
+5
+
+
+
+Software Development Competition
+IT Festival 2026
+
+K. TIMELINE LOMBA
+
+Kegiatan Tanggal Keterangan
+
+Pendaftaran 1 Juni – 5 Agustus 2026 Online
+
+Pengumpulan Karya 16 Juli – 5 Agustus 2026 Online
+
+Penilaian Karya 6 Agustus – 10 Agustus 2026 Online
+
+Pengumuman Finalis 11 Agustus 2026 Online
+
+Technical Meeting Finalis 12 Agustus 2026 Online
+
+Final Presentasi 22 Agustus 2026 Offline
+
+Seminar, Expo &
+23 Agustus 2026 Offline
+
+Pengumuman
+
+L.  SANKSI
+Peserta dapat dikenakan sanksi maupun diskualifikasi apabila:
+
+1.Melakukan plagiarisme atau kecurangan.
+2.Menggunakan karya pihak lain tanpa izin.
+3.Mengganggu jalannya perlombaan.
+4.Memberikan data palsu atau melanggar aturan panitia.
+
+M. NARAHUBUNG
+Apabila ada hal yang kurang jelas harap ditanyakan pada kontak dibawah ini: 
+Rizki Ramadhani (0881011205176).
+
+Selamat Berkompetisi
+
+6
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+A. DESKRIPSI LOMBA
+IT Festival 2026 hadir sebagai panggung kompetisi tingkat nasional yang prestisius,
+mewadahi talenta-talenta terbaik mahasiswa Indonesia untuk berekspresi dan berkreasi
+dalam ekosistem teknologi serta inovasi digital. Sebagai salah satu cabang perlombaan
+utama, IT Network System Administration dirancang untuk mengevaluasi kemampuan
+peserta secara objektif dalam melakukan instalasi, konfigurasi, dan troubleshooting
+sistem layanan serta sistem jaringan. Pelaksanaan lomba dilakukan pada PC peserta,
+dengan Penyisihan secara online dan Final secara offline di tempat lomba. 
+
+Kompetensi yang diuji meliputi: 
+1.Pemahaman konsep administrasi layanan pada server dan integrasinya dengan
+
+berbagai sistem operasi hingga perangkat jaringan. 
+2.Kemampuan mengimplementasikan konfigurasi pada perangkat langsung maupun
+
+virtualisasi sesuai skenario tertentu. 
+3.Kemampuan menganalisa permasalahan hingga implementasi perbaikan pada
+
+layanan server maupun perangkat jaringan. 
+
+Information Technology Network System Administration (ITNSA) merupakan salah
+satu cabang lomba pada IT Festival 2026 yang menguji kemampuan peserta dalam
+administrasi sistem, jaringan komputer, troubleshooting, serta otomasi layanan berbasis
+Linux. 
+
+Kompetisi ini dirancang agar memiliki nuansa praktis dan relevan dengan kebutuhan
+dunia industri. 
+
+Melalui ITNSA, peserta akan dilatih untuk: 
+menganalisis masalah sistem dan jaringan 
+menyelesaikan konfigurasi layanan secara teknis 
+mengotomasi kebutuhan layanan Linux 
+mendokumentasikan hasil penyelesaian masalah secara runtut 
+
+Kompetisi ini menjadi bagian penting dari rangkaian IT Festival 2026 karena
+menggabungkan aspek ketelitian, pemahaman teknis, serta kemampuan kerja secara tim.
+
+7
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+B. TEMA
+TEMA: “Driving Sustainability in Nature Through Digital Innovation” 
+SUBTEMA: 
+
+Green Economy: Berfokus pada inovasi digital yang mendukung ekonomi
+berkelanjutan, efisiensi sumber daya, dan ramah lingkungan. 
+Smart Small Island: Menitikberatkan pada penerapan teknologi digital untuk
+pembangunan wilayah kepulauan kecil. 
+Smart Agro Industry and Logistic System: Berfokus pada optimalisasi proses
+produksi dan rantai pasok agroindustri melalui integrasi sistem digital. 
+
+C. PENGHARGAAN
+1.JUARA 1: Rp1.500.000 + Sertifikat + Medali. 
+2.JUARA 2: Rp1.000.000 + Sertifikat + Medali. 
+3.JUARA 3: Rp500.000 + Sertifikat + Medali. 
+
+(Seluruh peserta yang berpartisipasi akan mendapatkan E-Certificate). 
+
+D. PERSYARATAN DAN KETENTUAN PESERTA
+Peserta merupakan siswa/i SMK atau mahasiswa/i aktif jenjang D3/D4/S1 dari
+institusi negeri maupun swasta di Indonesia.  
+Status siswa atau mahasiswa aktif wajib dibuktikan dengan memindai/mengunggah
+Kartu Pelajar (bagi siswa SMK), Kartu Tanda Mahasiswa/KTM (bagi mahasiswa),
+KTP, SIM, Paspor, atau surat keterangan aktif sekolah/kuliah lainnya 
+Perlombaan untuk bidang ITNSA bersifat tim yang terdiri dari 1 - 2 orang. 
+Kedua anggota tim wajib berasal dari 1 (satu) perguruan tinggi atau kampus yang
+sama. 
+Peserta wajib memiliki perangkat (laptop/PC) komputasi yang memadai untuk
+menjalankan Cisco Packet Tracer, dan Virtual Machine secara lancar minimal
+RAM 8 dan CPU 4 Core. 
+Peserta wajib memiliki koneksi internet yang stabil untuk tahapan perlombaan
+online (Babak Penyisihan). 
+Peserta wajib mengikuti akun Instagram resmi @itfestmicroipb dan mengunggah
+twibbon resmi IT Festival 2026 di akun masing-masing. 
+Seluruh peserta wajib hadir secara virtual pada saat Technical Meeting. 
+Keputusan dewan juri dan panitia bersifat mutlak, final, dan tidak dapat diganggu
+gugat.
+
+8
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+E. PENDAFTARAN LOMBA
+Peserta mengisi formulir pendaftaran online yang telah disediakan melalui
+platform Google Form. 
+Peserta diwajibkan memiliki akun Instagram aktif dan wajib mengikuti (follow)
+akun media sosial resmi @itfestmicroipb, lalu mengunggah buktinya pada
+formulir pendaftaran. 
+Peserta diwajibkan untuk mengunggah twibbon IT Festival 2026 yang telah
+disediakan panitia melalui Instagram dan melampirkan buktinya pada formulir
+pendaftaran. 
+Peserta mengkonfirmasi pendaftaran kepada contact person yang tertera setelah
+mengisi Google Form. 
+Setelah dikonfirmasi, peserta dapat mengakses link untuk masuk ke dalam grup
+WhatsApp resmi. Seluruh informasi lebih lanjut mengenai perlombaan ITNSA
+akan diumumkan melalui grup tersebut. 
+Peserta diharapkan menggunakan nama asli pada display name akun WhatsApp
+demi kemudahan identifikasi. 
+Panitia memiliki hak penuh atas publikasi karya/kegiatan peserta ke media sosial
+Instagram @itfestmicroipb
+
+F. PEMBAYARAN LOMBA
+
+Gelombang Biaya
+
+Gelombang I 
+Rp80.000/tim
+
+(1 Juni – 15 Juni 2026)
+
+Gelombang II 
+Rp100.000/tim 
+
+(16 Juni – 15 Juli 2026) 
+
+Gelombang III 
+Rp120.000/tim 
+
+(16 Juli – 5 Agustus 2026) 
+
+9
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+Metode Pembayaran 
+Pembayaran dilakukan melalui: 
+
+GOPAY : 087749894108 a.n. Aulia Nazwa Nazifa
+DANA  : 087749894108 a.n. Aulia Nazwa Nazifa
+MANDIRI : 1330030906689 a.n. Aulia Nazwa Nazifa 
+
+Kemudian, peserta mengkonfirmasi pendaftaran ke contact person yang tertera
+setelah mengisi formulir pendaftaran.
+Peserta yang sudah terkonfirmasi pembayarannya dapat mengakses dan memasuki
+tautan link grup WhatsApp yang akan dikirimkan kepada masing-masing peserta. 
+
+G. TEKNIK DAN KOMPOSISI BOBOT PENILAIAN
+Sistem dan teknis penilaian ITNSA pada IT Festival 2026 dirancang secara eksklusif
+dengan mengadopsi best practice infrastruktur enterprise dan standar kompetensi
+industri teknologi global. Penilaian dibagi menjadi dua tahapan utama (Penyisihan dan
+Final) dengan fokus pengujian yang berbeda. Tim diperbolehkan membagi tugas antar
+anggota untuk memaksimalkan efisiensi waktu : 
+
+A. BABAK PENYISIHAN (ONLINE)- Total Bobot 100%
+Babak penyisihan berfokus pada fundamental jaringan dan kemampuan analisis
+masalah sistem operasi. Waktu total pengerjaan adalah 4 Jam.
+
+Bobot Deskripsi
+Modul Kriteria Uji Durasi Waktu Output /
+
+Penyisihan Kompetensi Deliverables
+
+Melakukan
+analisis dan
+penyelesaian
+masalah pada
+
+Troubleshooting \Dokumen
+A System 1,5 Jam 50% server Linux PoC/Write-Up
+
+Integration serta (PDF)
+mendokumentas
+
+ikan solusi
+secara
+
+komprehensif
+
+10
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+Melakukan
+instalasi dan
+konfigurasi
+
+layanan jaringan
+File .pka /
+
+dalam cakupan
+B Network Systems 2,5 Jam 50% Compilation
+
+routing dan
+(Nilai)
+
+switching
+menggunakan
+Cisco Packet
+Tracer 9.0.0
+
+B. BABAK FINAL (OFFLINE)- Total Bobot 100%
+Tim yang lolos ke tahap final akan diuji kemampuannya dalam merancang dan
+mengotomatisasi layanan enterprise secara langsung di lokasi acara. Waktu total
+pengerjaan adalah 3,5 Jam 
+
+Bobot Deskripsi
+Modul Kriteria Uji Durasi Waktu Output /
+
+Penyisihan Kompetensi Deliverables
+
+Melakukan
+instalasi dan
+konfigurasi
+
+Linux layanan Hasil
+C Environment & 3.5 Jam 80% enterprise konfigurasi
+
+Automation berbasis Linux Pada Server
+Debian pada
+
+server maupun
+client
+
+Menguji
+pemahaman
+
+Digabung Jawaban kuis
+ITNSA konsep dasar
+
+D dengan Modul 20% sesuai ketentuan
+Assessment dan teknis
+
+C panitia
+terkait seluruh
+
+modul
+
+11
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+H. DAFTAR ALAT & PERANGKAT LUNAK
+
+Spesifikasi Perangkat
+
+No. Alat Spesifikasi Keterangan
+
+Prosesor minimal 4 core,
+RAM minimal 8 GB, Storage
+
+1 Laptop/PC 1 Set/Perseta
+minimal 50 GB SSD, OS
+
+Windows 10/11
+
+2 Laptop/PC Kamera Internal/External 2 Buah
+
+Perangkat Lunak
+
+No. Aplikasi Spesifikasi Keterangan
+
+1 Sistem Operasi Linux Debian 13.0.3 1 Buah
+
+Sistem Operasi
+2 Windows 11 1 Buah
+
+Windows
+
+3 VMware Workstation VMware Workstation 25H2 1 Buah
+(Build 24995812)
+
+4 Cisco Packet Tracer Cisco Packet Tracer versi 1 Buah
+9.0.0
+
+Catatan: Seluruh perangkat lunak di atas dapat diunduh secara gratis pada link yang tertera
+di kisi kisi. Peserta wajib mengunduh dan menginstal seluruh perangkat lunak sebelum hari
+pelaksanaan lomba. 
+
+12
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+I. STANDAR PENGAWASAN ONLINE (BABAK
+PENYISIHAN)
+
+Opsi 1: 
+Tim Mengerjakan di Lokasi yang Sama.
+Kamera Utama diletakkan di sudut 45° di belakang/samping area kerja. 
+Kamera Sekunder (Face Cam) menampilkan wajah anggota tim ke platform
+monitoring panitia. 
+
+Opsi 2: 
+Tim Mengerjakan di Lokasi Berbeda.
+Setiap anggota menyiapkan Kamera Utama dari sudut 45° belakang. 
+Setiap anggota menyalakan Kamera Sekunder (Face Cam) dari perangkat masing-
+masing. 
+
+Ketentuan Umum Pengawasan: 
+Mikrofon pada ruangan wajib menyala (unmute) tanpa headset, speaker dapat
+dikecilkan untuk mencegah feedback. 
+Panitia berhak meminta tim melakukan Screen Sharing secara acak sewaktu-waktu. 
+Tim diperbolehkan berkomunikasi secara lisan dengan rekan satu timnya selama
+berkaitan dengan pembagian tugas teknis. 
+
+Ketentuan Tambahan Layout Pengawasan 
+Area Kerja: Meja harus bersih dari perangkat elektronik lain, buku catatan, atau
+media komunikasi ilegal.  
+Koneksi Audio: Perangkat monitoring wajib masuk ke dalam ruang virtual dengan
+audio menyala (unmute) namun speaker dimatikan untuk menghindari
+looping/feeding suara, m
+
+13
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+Visualisasi Teks Ruang Ujian: 
+
+Komputer Remote Server
+
+Peserta
+
+Komputer/Laptop/
+Handphone
+Monitoring
+
+J. ATURAN & TATA TERTIB LOMBA
+TECHNICAL MEETING 
+
+Peserta diharapkan hadir 10 menit lebih awal. 
+Peserta wajib menjaga sopan santun dan etika selama kegiatan. 
+Format nama akun Zoom: NamaAsli_NamaTim_Institusi. 
+Kamera wajib menyala selama sesi berlangsung. 
+Mic hanya dinyalakan saat menjawab salam atau bertanya. 
+
+BABAK PENYISIHAN 
+Semua kamera wajib menyala selama perlombaan berlangsung. 
+Peserta wajib berpakaian rapi sesuai ketentuan panitia. 
+Peserta wajib menggunakan ruangan steril dan pencahayaan baik. 
+Hanya peserta bersangkutan yang boleh berada di ruangan pengerjaan. 
+Peserta dilarang membuka tab atau aplikasi di luar keperluan lomba. 
+Peserta yang mengalami kendala teknis wajib segera melapor kepada panitia. 
+Peserta yang terlambat bergabung tidak mendapat tambahan waktu. 
+
+14
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+BABAK FINAL 
+Peserta wajib melakukan registrasi ulang secara offline. 
+Setiap tim dibolehkan membawa pendamping maksimal 1 orang dari institusi yang
+sama. 
+Peserta tidak diperbolehkan meninggalkan ruangan tanpa izin panitia. 
+Peserta yang menyelesaikan pengerjaan lebih awal wajib tetap berada di ruangan
+hingga waktu selesai. 
+Kegagalan teknis akibat kelalaian peserta menjadi tanggung jawab peserta.
+
+K. SANKSI
+SANKSI TINGKAT 1 — TEGURAN LISAN 
+
+Tidak mengaktifkan kamera selama lomba berlangsung. 
+Melakukan aktivitas tidak relevan. 
+Tidak memakai pakaian sesuai ketentuan. Pelanggaran ringan lebih dari 2 kali atau
+tidak segera diperbaiki dalam waktu maksimal 5 menit akan naik ke sanksi tingkat
+berikutnya.
+
+SANKSI TINGKAT 2 — TEGURAN TERTULIS (PENGURANGAN NILAI) 
+Terlambat kurang dari 30 menit dari waktu mulai lomba. 
+Meninggalkan ruangan melebihi waktu yang diberikan panitia. 
+Membuka tab/aplikasi yang tidak terkait lomba. 
+Menggunakan perangkat keras di luar ketentuan. 
+
+SANKSI TINGKAT 3 — PERINGATAN KERAS (DISKUALIFIKASI) 
+Tidak hadir dalam lomba. 
+Terlambat lebih dari 30 menit setelah lomba dimulai. 
+Melakukan kerjasama dengan tim lain selama lomba berlangsung. 
+Menerima bantuan dari pihak lain di luar ketentuan. 
+Memalsukan data tim atau informasi pribadi. 
+Mengganti peserta terdaftar dengan orang lain.
+
+15
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+L. HAL-HAL YANG HARUS DIPERHATIKAN
+Peserta yang lolos ke babak selanjutnya diminta mempersiapkan diri dengan
+mempelajari materi terkait sesuai dengan yang tertera pada kisi kisi 
+Jadwal dan waktu yang sudah diinformasikan merupakan ketentuan yang wajib diikuti.
+Keterlambatan atau ketidakhadiran tidak diberikan perpanjangan waktu. 
+Peserta wajib mengerjakan sendiri seluruh pekerjaan tanpa bantuan pihak lain dengan
+cara apa pun. 
+Peserta dilarang menggunakan Artificial Intelligence (AI) dalam bentuk apa pun
+selama pelaksanaan lomba, termasuk namun tidak terbatas pada ChatGPT, GitHub
+Copilot, Google Gemini, Claude, dan AI assistant lainnya. 
+Peserta dilarang membuka dokumentasi atau catatan dalam bentuk apa pun selama
+pelaksanaan lomba, baik berupa catatan pribadi, dokumen cetak, maupun sumber
+informasi dari internet. 
+Peserta wajib mengikuti briefing atau technical meeting secara online. 
+Peserta wajib menjaga ruangan pengerjaan tetap steril dari pihak yang tidak
+berkepentingan. 
+Peserta wajib mengikuti monitoring dan screen sharing selama lomba berlangsung.
+Segala bentuk kecurangan merupakan pelanggaran yang berdampak pada
+diskualifikasi. 
+
+M. TATA CARA PENGUMPULAN 
+Babak Penyisihan 
+
+Peserta wajib mengumpulkan hasil pengerjaan melalui platform atau link yang
+disediakan panitia. 
+Seluruh file konfigurasi dan dokumen write-up wajib dikumpulkan sesuai format
+dan nama file yang ditentukan. 
+Peserta wajib memastikan seluruh file terkirim sebelum waktu pengerjaan berakhir. 
+Keterlambatan pengumpulan akan dikenakan sanksi sesuai ketentuan panitia. 
+
+16
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+Babak Final 
+Peserta wajib menyerahkan hasil pengerjaan langsung kepada panitia di lokasi
+lomba. 
+Seluruh output konfigurasi wajib diverifikasi oleh juri menggunakan script.  
+Peserta tidak diperkenankan meninggalkan lokasi lomba sebelum proses
+pengumpulan dan verifikasi selesai. 
+
+N. TIMELINE LOMBA
+
+Acara Tanggal Keterangan
+
+Pendaftaran & Pembayaran 1 Juni – 5 Agustus 2026 Online
+
+Technical Meeting
+6 Agustus 2026 Online
+
+Penyisihan
+
+Babak Penyisihan 8 Agustus 2026 Online
+
+Pengumuman Finalis 11 Agustus 2026 Online
+
+Technical Meeting Finalis 12 Agustus 2026 Online
+
+Final Praktik 22 Agustus 2026 Offline
+
+Seminar, Expo &
+23 Agustus 2026 Offline
+
+Pengumuman
+
+17
+
+
+
+IT Network System Administration (ITNSA) 
+IT Festival 2026
+
+O. PENGHARGAAN
+JUARA 1: Rp1.500.000 + Sertifikat + Medali.
+JUARA 2: Rp1.000.000 + Sertifikat + Medali.
+JUARA 3: Rp500.000 + Sertifikat + Medali.
+Seluruh peserta yang berpartisipasi akan mendapatkan E-Certificate.
+
+P. NARAHUBUNG
+Apabila ada hal yang kurang jelas harap ditanyakan pada kontak dibawah ini: 
+Calvin Umboh: 085792881853 (Whatsapp)
+Pantau informasi terbaru melalui Instagram resmi @itfestmicroipb.
+
+Selamat Berkompetisi
+
+18
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+A. DESKRIPSI LOMBA
+1.Peserta merupakan Mahasiswa/i (D3/D4/S1) aktif dari perguruan tinggi yang ada di
+
+Indonesia, dibuktikan dengan KTP atau Surat keterangan lainnya (Kartu pelajar,
+SIM, KK, Paspor, atau surat keterangan lainnya).
+
+2.Perlombaan bersifat kelompok (1-3 orang) dalam satu tim yang berasal dari satu
+institusi yang sama. 
+
+3.Peserta wajib mengikuti syarat dan ketentuan umum yang berlaku di IT Festival
+2026. 
+
+4.Peserta diwajibkan memiliki akun Instagram dan wajib mengikuti media sosial
+@itfestmicroipb dan @csi_ipb lalu mengunggah buktinya pada formulir pendaftaran
+yang telah disediakan. 
+
+5.Peserta diwajibkan untuk mengunggah twibbon IT Festival 2026 yang telah
+disediakan oleh panitia melalui Instagram dan mengunggah buktinya pada formulir
+pendaftaran yang telah disediakan. 
+
+6.Panitia memiliki hak publikasi atas karya peserta ke media sosial Instagram
+@itfestmicroipb. 
+
+7.Apabila peserta melanggar peraturan akan diskualifikasi. 
+8.Keputusan panitia dan jProblem Setter bersifat mutlak dan tidak dapat diganggu
+
+gugat. 
+
+B. KETENTUAN LOMBA
+1.Konsep lomba Capture The Flag adalah Jeopardy yang memiliki soal-soal dengan
+
+kategori Web Exploitation, Binary Exploitation, Reverse Engineering, Digital
+Forensic, Cryptography dan Miscellaneous. 
+
+2.Credential Team akan dibagikan Sebelum warm up via Email ke ketua tim 
+3.Panitia akan menghubungi masing-masing ketua tim yang lolos ke babak final
+
+untuk mengkonfirmasi kehadiran tim ke babak final. 
+4.Apabila peserta melakukan kecurangan dalam bentuk dan skala apapun panitia
+
+berhak mendiskualifikasikan peserta dari perlombaan. 
+5.Sebanyak 10 tim teratas pada scoreboard yang lolos tahap awal (babak penyisihan)
+
+akan masuk ke tahap final. 
+6.Perlombaan akan berlangsung selama 8 jam pukul 09:00 - 17:00 WIB, dan
+
+pengumpulan write up pada Besok harinya pukul 08.00 WIB. 
+
+19
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+7.Calon peserta wajib mengikuti syarat dan ketentuan yang telah diberikan panitia
+apabila calon peserta melanggar akan terjadi diskualifikasi.
+
+8.Keputusan Problem Setter dan panitia bersifat mutlak tidak dapat diganggu gugat.
+
+C. PENDAFTARAN LOMBA
+1.Peserta mengisi formulir pendaftaran yang telah disediakan di Google Form.
+2.Peserta mengkonfirmasi pendaftaran kepada contact person yang tertera di Google
+
+Form.
+3.Setelah dikonfirmasi, peserta masuk ke grup WhatsApp melalui link yang
+
+diberikan oleh contact person.
+4.Seluruh Informasi mengenai perlombaan Capture The Flag (CTF) lebih lanjut akan
+
+diinformasikan melalui grup WhatsApp peserta.
+
+D. PEMBAYARAN LOMBA
+1.Peserta membayar biaya pendaftaran ke rekening yang tertera pada guide book,
+
+lalu mengunggah bukti pembayaran saat mengisi formulir pendaftaran.
+2. . Pembayaran sebesar Rp80.000/tim untuk pendaftaran gelombang I (1 Juni - 15
+
+Juni 2026), untuk gelombang II peserta wajib membayar sebesar Rp100.000/tim
+(16 Juni - 15 Juli 2026) dan untuk gelombang III peserta wajib membayar sebesar
+Rp120.000 (16 Juli - 5 Agustus 2026).
+
+3.Pembayaran dilakukan melalui: - GOPAY : 087749894108 a.n. Aulia Nazwa
+Nazifa - DANA : 087749894108 a.n. Aulia Nazwa Nazifa - MANDIRI :
+1330030906689 a.n. Aulia Nazwa Nazifa
+
+4.Kemudian, peserta mengkonfirmasi pendaftaran ke contact person yang tertera
+setelah mengisi formulir pendaftaran.
+
+5.Peserta yang sudah terkonfirmasi pembayarannya dapat mengakses dan memasuki
+tautan link grup WhatsApp yang akan dikirimkan kepada masing-masing peserta.
+
+E. TEKNIS PELAKSANAAN 
+1. Warm-up:
+
+Babak Warm Up diselenggarakan secara daring melalui platform CTF yang akan
+diinformasikan oleh panitia kepada seluruh peserta melalui grup WhatsApp resmi
+perlombaan. 
+Babak Warm Up bertujuan untuk membantu peserta melakukan adaptasi terhadap
+platform perlombaan, memahami mekanisme kompetisi, serta memastikan akun
+dan sistem yang digunakan dapat berfungsi dengan baik sebelum babak kualifikasi
+dimulai. 
+
+20
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+Soal yang disediakan pada babak Warm Up tidak termasuk dalam penilaian
+perlombaan.
+Skor yang diperoleh peserta pada tahap ini tidak akan memengaruhi apapun.
+Peserta diperkenankan menggunakan babak Warm Up untuk menguji fitur
+platform, mekanisme pengiriman flag, serta sistem scoreboard yang digunakan
+selama perlombaan.
+Peserta dilarang melakukan tindakan yang dapat mengganggu jalannya perlombaan
+maupun merusak infrastruktur yang disediakan panitia, termasuk namun tidak
+terbatas pada upaya menyerang platform perlombaan, mengganggu layanan,
+ataupun melakukan aktivitas di luar ruang lingkup challenge yang diberikan. 
+
+2. Babak Penyisihan:
+Babak Penyisihan diselenggarakan secara daring melalui platform GZCTF yang
+akan diinformasikan oleh panitia kepada seluruh peserta melalui grup WhatsApp
+resmi perlombaan. 
+Babak Penyisihan dilaksanakan pada hari Sabtu, 8 Agustus 2026 pukul 09.00 WIB
+sampai dengan 17.00 WIB.
+Babak Penyisihan menggunakan format kompetisi Jeopardy yang terdiri atas
+kategori Web Exploitation, Binary Exploitation, Reverse Engineering, Digital
+Forensic, Cryptography, dan Miscellaneous.
+Setiap tim akan memperoleh akun untuk mengakses platform perlombaan dan
+mengerjakan challenge yang tersedia selama kompetisi berlangsung.
+Scoring dilakukan secara dinamis (Dynamic Scoring), di mana poin setiap
+challenge akan berkurang seiring dengan bertambahnya jumlah tim yang berhasil
+menyelesaikan challenge tersebut.
+Setiap flag yang valid mengikuti format: ITFest26{...} 
+Perolehan poin setiap tim akan ditampilkan secara real-time melalui scoreboard.
+Peringkat peserta ditentukan berdasarkan total akumulasi poin yang diperoleh
+selama perlombaan berlangsung.
+Scoreboard akan dibekukan (scoreboard freeze) satu jam sebelum perlombaan
+berakhir. Selama periode pembekuan, peserta tetap dapat mengirimkan flag dan
+memperoleh poin, namun perubahan peringkat tidak akan ditampilkan hingga
+kompetisi selesai. 
+Kendala perangkat, jaringan, maupun koneksi internet yang dialami peserta selama
+perlombaan berlangsung merupakan tanggung jawab masing-masing peserta
+
+21
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+Penggunaan Artificial Intelligence (AI) berbasis antarmuka percakapan (chat
+interface) diperbolehkan sebagai alat bantu pembelajaran, referensi, analisis,
+maupun diskusi.
+Penggunaan AI Agent, AI CLI, autonomous agent, workflow otomatis, maupun
+sistem berbasis AI yang dapat menyelesaikan challenge secara mandiri tanpa
+intervensi signifikan dari peserta TIDAK DIPERBOLEHKAN.. 
+Peserta dilarang memasukkan challenge, file challenge, maupun konteks soal
+secara utuh ke dalam AI untuk memperoleh solusi atau flag secara langsung (one-
+shot solve).
+Apabila peserta menggunakan bantuan AI dalam proses penyelesaian challenge,
+maka sumber AI yang digunakan beserta riwayat percakapannya wajib
+dicantumkan pada bagian referensi write up.
+Referensi AI yang tidak dicantumkan, dimodifikasi, disembunyikan, atau tidak
+sesuai dengan penggunaan sebenarnya dapat menyebabkan pengurangan point
+hingga anulir pada challenge yang dikerjakan. 
+Peserta dilarang menggunakan tools automation seperti Nmap, SQLMap,
+Dirbuster, FFUF, atau tools sejenis yang melakukan scanning, enumeration,
+maupun eksploitasi secara otomatis.
+Peserta dilarang keras melakukan tindakan yang dapat mengganggu jalannya
+perlombaan, termasuk namun tidak terbatas pada menyerang infrastruktur
+perlombaan, mengganggu layanan panitia, merusak challenge, ataupun melakukan
+tindakan yang merugikan peserta lain.
+Setiap tim wajib mengumpulkan write up untuk challenge yang berhasil
+diselesaikan dengan format nama file: ITFEST26_Cybersecurity_NamaTim”
+Pengumpulan write up dilakukan melalui Google Form yang akan disediakan oleh
+panitia.
+Sebanyak 10 (sepuluh) tim dengan peringkat tertinggi pada akhir Babak
+Penyisihan dan telah memenuhi seluruh ketentuan perlombaan akan berhak
+melanjutkan ke Babak Final. 
+jika finalis terpilih tidak konfirmasi kehadiran maka slot akan diberikan ke yang
+lain.
+Keputusan panitia dan Problem Setter bersifat mutlak serta tidak dapat diganggu
+gugat. 
+
+22
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+3. Final:
+Babak Final diselenggarakan secara luring (on-site) di Gedung Zeta, Sekolah
+Vokasi IPB University
+Setiap peserta/tim DIWAJIBKAN untuk melakukan pendaftaran ulang di meja
+panitia dengan menunjukkan kartu identitas seperti kartu tanda penduduk (KTP)
+atau kartu tanda mahasiswa (KTM) atau kartu tanda pelajar (KTP) sebagai bentuk
+konfirmasi kehadiran.
+Babak Final diikuti oleh 10 (sepuluh) tim terbaik yang berhasil lolos dari Babak
+Penyisihan dan telah memenuhi seluruh ketentuan yang ditetapkan panitia.
+Babak Final menggunakan format kompetisi Speedrun, di mana peserta akan
+menyelesaikan challenge yang diberikan dalam beberapa gelombang (wave)
+berdasarkan kategori yang akan ditentukan oleh panitia pada hari-H.
+Kategori challenge yang digunakan pada Babak Final meliputi Cryptography,
+Reverse Engineering, Binary Exploitation, Digital Forensic, Web Exploitation, dan
+Miscellaneous.
+Setiap tim wajib menggunakan perangkat milik sendiri selama perlombaan
+berlangsung serta mematuhi seluruh ketentuan teknis yang diberikan panitia. 
+Penggunaan Artificial Intelligence (AI) dalam bentuk apa pun untuk membantu
+analisis, pembuatan script, eksploitasi, maupun penyelesaian challenge pada Babak
+Final TIDAK DIPERBOLEHKAN.
+Hasil perolehan poin masing-masing tim akan ditampilkan melalui scoreboard
+selama perlombaan berlangsung. Peringkat peserta ditentukan berdasarkan total
+akumulasi poin yang diperoleh selama Babak Final.
+Peserta dilarang melakukan tindakan yang dapat mengganggu jalannya
+perlombaan, termasuk namun tidak terbatas pada menyerang infrastruktur
+perlombaan, merusak challenge, mengganggu peserta lain, maupun melakukan
+tindakan yang memberikan keuntungan tidak sah. Pelanggaran terhadap ketentuan
+ini dapat mengakibatkan diskualifikasi. 
+Juara I, Juara II, dan Juara III ditentukan berdasarkan peringkat akhir pada
+scoreboard setelah perlombaan berakhir dan seluruh hasil kompetisi telah
+diverifikasi oleh panitia dan Problem Setter. 
+Keputusan panitia dan Problem Setter bersifat mutlak serta tidak dapat diganggu
+gugat
+
+23
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+F. JADWAL PELAKSANAAN
+Penanggung
+
+No. Waktu Kegiatan Tempat
+Jawab
+
+1 Senin, 1 Juni - Rabu (5 Agustus 2026 Pendaftaran Online Dzaky Naufal
+Putra Raditio
+
+Warm Up &
+2 Kamis, (6 Agustus 2026) Online Dzaky Naufal
+
+Technical Meeting Putra Raditio
+
+3 Sabtu, (8 Agustus 2026) Qualification Round Online Dzaky Naufal
+Putra Raditio
+
+4 Selasa, (11 Agustus 2026) Pengumuman Finalis Online Dzaky Naufal
+Putra Raditio
+
+Technical Meeting
+5 Rabu, (12 Agustus 2026) Online Dzaky Naufal
+
+Final Putra Raditio
+
+6 Sabtu, (22 Agustus 2026) Final Online Dzaky Naufal
+Putra Raditio
+
+Seminar, Project
+Expo, dan
+
+7 Minggu, (23 Agustus 2026) Online Dzaky Naufal
+Pengumuman Putra Raditio
+
+Pemenang
+
+G. KRITERIA PENILAIAN
+Babak Penyisihan :
+
+Penilaian Babak Penyisihan didasarkan pada akumulasi poin yang diperoleh
+peserta pada platform perlombaan dan hasil verifikasi write up oleh Problem
+Setter. 
+Setiap challenge yang berhasil diselesaikan wajib disertai write up yang
+menjelaskan langkah penyelesaian secara jelas dan dapat dipertanggungjawabkan. 
+Problem Setter berhak melakukan validasi terhadap seluruh write up yang
+dikumpulkan peserta.
+
+24
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+Pengurangan Poin hingga Anulir write up dapat dikenakan apabila: 
+a. Tidak menjelaskan langkah penyelesaian challenge secara lengkap; 
+b. Terindikasi menggunakan AI Agent untuk menyelesaikan challenge; 
+c. History chat ai tidak dapat diakses; 
+d. Mencantumkan history chat AI yang tidak sesuai dengan langkah
+penyelesaian challenge; 
+e. Menggunakan AI untuk melakukan penulisan Write Up secara menyeluruh; 
+f. Mengandung plagiarisme atau menyalin write up milik peserta lain. 
+
+Apabila suatu write up dinyatakan tidak valid, maka solve untuk challenge terkait
+dianggap tidak sah dan poin challenge tersebut akan dihapus dari perolehan skor
+tim. 
+ Tim yang memiliki write up tidak valid pada 40% atau lebih dari total challenge
+yang disediakan oleh Panitia dapat dikenakan sanksi diskualifikasi setelah melalui
+proses verifikasi oleh panitia dan Problem Setter. 
+Keputusan akhir mengenai validitas write up, pengurangan poin, pembatalan solve,
+maupun diskualifikasi sepenuhnya berada di tangan Problem Setter dan Panitia 
+
+Babak Final 
+Peringkat peserta pada Babak Final ditentukan berdasarkan total poin yang
+diperoleh selama perlombaan berlangsung. 
+Penggunaan AI dalam bentuk apapun dapat menyebabkan sanksi diskualifikasi 
+Apabila terdapat dua atau lebih tim yang memiliki total poin yang sama, maka
+penentuan peringkat dilakukan secara berurutan berdasarkan: 
+
+a. Jumlah first blood yang diperoleh; 
+b. Jumlah challenge yang berhasil diselesaikan; 
+c. Total waktu penyelesaian challenge (cumulative solve time); 
+d. Keputusan problem setter 
+
+ Keputusan panitia dan problem setter bersifat mutlak dan tidak dapat diganggu
+gugat. 
+
+H. PENGHARGAAN
+1.JUARA 1: Rp1.500.000 + Sertifikat + Medali. 
+2.JUARA 2: Rp1.000.000 + Sertifikat + Medali. 
+3.JUARA 3: Rp500.000 + Sertifikat + Medali. 
+
+(Seluruh peserta yang berpartisipasi akan mendapatkan E-Certificate). 
+
+25
+
+
+
+Capture The Flag (CTF) 
+IT Festival 2026
+
+I. BIAYA PENDAFTARAN
+1.Pendaftaran Gelombang I (1 Juni - 15 Juni 2026) : Rp80.000/.
+2.Pendaftaran Gelombang II (16 Juni - 15 Juli 2026) : Rp100.000/tim.
+3.Pendaftaran Gelombang II (16 Juli - 5 Agustus 2026) : Rp120.000/tim.
+
+J. NARAHUBUNG
+Apabila ada hal yang kurang jelas harap ditanyakan pada kontak dibawah ini: Dzaky
+Naufal Putra Raditio (081312124020).
+
+Selamat Berkompetisi
+
+26
+
+
+
+Short Movie
+IT Festival 2026
+
+A. DESKRIPSI LOMBA
+IT Festival 2026 merupakan kegiatan kompetisi tingkat nasional yang diselenggarakan
+sebagai wadah kreativitas mahasiswa dalam bidang teknologi dan inovasi digital. Short
+Movie adalah merupakan salah satu cabang perlombaan pada IT Fest 2026 yang
+ditargetkan untuk mahasiswa aktif (D3/D4/S1) dimana para peserta akan membuat
+Film Pendek yang berdurasi 1 - 30 Menit sesuai dengan tema yang telah ditentukan.
+
+B. TEMA
+TEMA:  “Driving Sustainability in Nature Through Digital Innovation” 
+SUBTEMA: 
+
+Green Economy: Berfokus pada inovasi digital yang mendukung ekonomi
+berkelanjutan, efisiensi sumber daya, dan ramah lingkungan.
+Smart Small Island: System Menitikberatkan pada penerapan teknologi untuk
+pembangunan wilayah kepulauan kecil.
+Smart Agroindustry and Logistic: Berfokus pada optimalisasi proses produksi dan
+rantai pasok agroindustri melalui integrasi sistem digital.
+
+C. PENGHARGAAN
+Tunjukkan inovasi terbaik dari tim kamu dan menangkan total hadiah jutaan rupiah! 
+
+JUARA 1: Rp1.500.000 + Sertifikat + Medali.
+JUARA 2: Rp1.000.000 + Sertifikat + Medali. 
+JUARA 3: Rp500.000 + Sertifikat + Medali.
+
+(Seluruh peserta yang berpartisipasi akan mendapatkan E-Certificate.)
+
+D. SYARAT DAN KETENTUAN PESERTA
+1.Peserta merupakan siswa SMA/SMK dan Mahasiswa/i (D3/D4/S1) aktif dari
+
+perguruan tinggi yang ada di Indonesia, dibuktikan dengan KTP atau Surat
+keterangan lainnya (Kartu pelajar, SIM, KK, Paspor, atau surat keterangan
+lainnya).
+
+2.Perlombaan bersifat kelompok (3 - 8 orang) dalam satu tim yang berasal dari satu
+institusi yang sama. 
+
+3.Peserta wajib mengikuti syarat dan ketentuan umum yang berlaku di IT Festival
+2026.
+
+4.Peserta diwajibkan memiliki akun Instagram dan wajib mengikuti media sosial
+@itfestmicroipb dan mengunggah buktinya pada formulir pendaftaran yang telah
+disediakan.
+
+27
+
+
+
+Short Movie
+IT Festival 2026
+
+Panitia memiliki hak publikasi atas karya peserta ke media sosial Instagram
+@itfestmicroipb.
+Peserta wajib mengikuti syarat dan ketentuan yang telah diberikan panitia.
+Apabila peserta melanggar peraturan akan diskualifikasi.
+Keputusan panitia dan juri bersifat mutlak dan tidak dapat diganggu gugat
+
+E. KETENTUAN KARYA
+1.Karya harus sesuai dengan tema dan subtema yang telah ditentukan (karya yang
+
+tidak sesuai tema akan mendapatkan pengurangan nilai).
+2.Karya merupakan hasil orisinal peserta dan belum pernah dipublikasikan maupun
+
+diikutsertakan dalam perlombaan sejenis.
+3.Karya tidak diperbolehkan mengandung unsur: SARA, pornografi, promosi,
+
+maupun pelanggaran hukum yang berlaku di Indonesia.
+4.Peserta dilarang menggunakan template jadi secara penuh tanpa pengembangan
+
+lebih lanjut. Icon, logo, font, dan aset lainnya disediakan oleh masing-masing
+peserta. 
+
+5.Setiap tim hanya diperbolehkan mengirimkan satu karya. 
+6.Panitia berhak mendiskualifikasi peserta apabila ditemukan unsur plagiarisme
+
+maupun kecurangan dalam bentuk apa pun.
+
+F. PROSEDUR PENDAFTARAN
+1.Peserta melakukan pendaftaran melalui Google Form yang telah disediakan
+
+panitia. 
+2.Peserta mengisi seluruh data yang dibutuhkan dengan benar dan lengkap. 
+3.Peserta melakukan pembayaran biaya pendaftaran sesuai gelombang yang berlaku
+
+dan mengunggah bukti pembayaran pada formulir. 
+4.Peserta melakukan konfirmasi pendaftaran kepada Contact Person yang tertera. 
+5.Setelah terkonfirmasi, peserta akan dimasukkan ke grup WhatsApp resmi
+
+perlombaan (wajib menggunakan nama asli pada display name WhatsApp). 
+6.Seluruh informasi terkait lomba akan diumumkan melalui grup WhatsApp peserta
+
+28
+
+
+
+Short Movie
+IT Festival 2026
+
+G. BIAYA PENDAFTARAN
+
+Gelombang Tanggal Biaya
+
+Gelombang 1 1 Juni – 15 Juni 2026 Rp80.000/Tim
+
+Gelombang 2 16 Juni - 15 Juli 2026 Rp100.000/Tim
+
+Gelombang 3 16 Juli - 5 Agustus 2026 Rp120.000/Tim
+
+GOPAY: 087749894108 (a.n. Aulia Nazwa Nazifa) 
+DANA: 087749894108 (a.n. Aulia Nazwa Nazifa) 
+MANDIRI: 1330030906689 (a.n. Aulia Nazwa Nazifa)
+
+H. TEKNIS PENGUMPULAN
+Ketua tim mengunggah seluruh berkas pada form Upload Submission. 
+Batas akhir pengumpulan karya: 14 Agustus 2026 pukul 23.59 WIB.
+Peserta wajib menyertakan: Link Youtube.
+Ketentuan Produk: 
+
+Video menggunakan rasio 16:9 (Landscape) 
+Video wajib menambahkan kredit IT Fest 2026 diawal / diakhir video 
+Video memiliki kualitas minimal 720p (HD)
+
+I. MEKANISME DAN TAHAPAN LOMBA
+Babak Seleksi Awal (Online) 
+
+Penilaian dilakukan berdasarkan tingkat kreativitas video 
+Tiga (3) karya dengan nilai tertinggi akan lolos menjadi pemenang 
+Pengumuman Pemenang: 21 Agustus 2026.
+
+29
+
+
+
+Short Movie
+IT Festival 2026
+
+J. KRITERIA PENILAIAN
+Seleksi Tahap 1 (Seleksi Awal)
+
+Kriteria Penilaian Bobot
+
+Makna pesan yang disampaikan didalam Short
+Kekuatan Pesan 20% 
+
+Movie 
+
+Tampilan Kreatif (Motion Graphic, Visual
+Tampilan Hasil Karya 30%
+
+Effect, etc) dalam Short Movie
+
+Ide & Kreativitas Ide kreatif dan alur cerita dari Short Movie 30%
+
+Kesesuaian Tema Kesesuaian aplikasi dengan tema lomba 20%
+
+K. TIMELINE LOMBA
+Kegiatan Tanggal Keterangan
+
+Pendaftaran 1 Juni – 5 Agustus 2026 Online
+
+Pengumpulan Karya 16 Juli – 5 Agustus 2026 Online
+
+Penilaian Karya 6 Agustus – 10 Agustus 2026 Online
+
+Pengumuman Finalis 11 Agustus 2026 Online
+
+Technical Meeting Finalis 12 Agustus 2026 Online
+
+Final Presentasi 22 Agustus 2026 Offline
+
+Seminar, Expo &
+23 Agustus 2026 Offline
+
+Pengumuman
+
+30
+
+
+
+Short Movie
+IT Festival 2026
+
+L. Sanksi
+1.Dilarang melakukan kecurangan dalam bentuk apapun selama perlombaan
+
+berlangsung.
+2.Peserta dapat dikenakan sanksi atau diskualifikasi apabila melakukan plagiarisme,
+
+memberikan data palsu, mengganggu jalan nya perlombaan, atau melanggar aturan
+panitia.
+
+3.Diharapkan seluruh peserta dapat menaati peraturandemi terciptanya kompetisi yang
+sportif dan profesional.
+
+M. NARAHUBUNG
+Apabila ada hal yang kurang jelas harap ditanyakan pada kontak dibawah ini: 
+ Rizqy Afkary Ginting: (081998087511)
+
+Selamat Berkompetisi
+
+31

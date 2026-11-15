@@ -1,0 +1,731 @@
+﻿GUIDE
+BOOK
+
+
+
+PETUNJUK  TEKNIS
+PERLOMBAAN  CTF
+
+A. PENDAHULUAN
+
+WRECK-IT 7.0 merupakan annual event di bidang keamanan
+siber yang diselenggarakan oleh Senat Korps Taruna Politeknik
+Siber dan Sandi Negara. Pada tahun 2026, WRECK-IT kembali
+hadir dengan mengusung tema “Cyber Warfare: Silent War on
+The Fifth Domain”. Salah satu rangkaian acara WRECK-IT 7.0
+adalah kompetisi Capture the Flag (CTF) berskala nasional
+yang akan diselenggarakan secara daring dan luring.
+Kompetisi CTF terbagi menjadi dua babak, yaitu babak
+penyisihan dan babak final. Konsep CTF yang digunakan pada
+babak penyisihan adalah berbasis Jeopardy, dimana setiap tim
+bersaing untuk mendapatkan poin tertinggi dengan
+mengerjakan soal-soal CTF yang sudah disediakan. Setiap soal
+memiliki skor yang berbeda tergantung dari tingkat kesulitan
+soal. Soal disajikan dalam berbagai kategori yang umum
+dikerjakaan dalam kompetisi CTF. Peserta yang memperoleh
+poin tertinggi akan menjadi pemenang. Pada babak final,
+digunakan konsep attack/defense dan Jeopardy, dimana dari
+total 7 tim yang masuk ke babak final dipilih satu tim yang
+membawa flag. Tim lain berusaha untuk mengambil flag yang
+diamankan tim pembawa flag sampai mendapatkannya.
+Pemenang ditentukan oleh tim yang paling banyak merebut
+flag dari tim lain serta yang dapat paling lama mengamankan
+flag ketika tim tersebut mendapatkan flag-nya. Kompetisi
+attack/defense akan berlangsung dengan kompetisi Jeopardy
+agar peserta dapat memperoleh poin tambahan.
+
+
+
+B. PENGHARGAAN
+
+Penghargaan yang diberikan kepada pemenang lomba berupa sejumlah uang dengan
+rincian sebagai berikut :
+
+Juara I General CTF : Rp 6.000.000,00 + Medali + Piagam + Merchandise 
+Juara II General CTF : Rp 4.000.000,00 + Medali + Piagam + Merchandise
+Juara III General CTF : Rp 2.000.000,00 + Medali + Piagam + Merchandise
+Juara Best Writeup General CTF : Rp 1.000.000,00 + Medali + Piagam + Merchandise 
+
+Juara I Junior CTF : Rp 4.000.000,00 + Piagam + Merchandise
+Juara II Junior CTF : Rp 2.000.000,00 + Piagam + Merchandise
+Juara III Junior CTF : Rp 1.000.000,00 + Piagam + Merchandise
+Juara Best Writeup Junior CTF : Rp 1.000.000,00 + Piagam + Merchandise
+
+C. TIMELINE
+ 
+
+TIMELINE TANGGAL
+
+Pembukaan Registrasi CTF, Pelatihan CTF,
+1 Mei 2026
+
+dan Pembukaan Registrasi Seminar (daring)
+
+Pelatihan CTF & Penutupan Registrasi CTF,
+14 Juni 2026
+
+dan Penutupan Registrasi Seminar (daring)
+
+Technical Meeting Babak Penyisihan CTF
+19 Juni 2026
+
+(daring)
+
+Penyisihan CTF (daring) 20 Juni 2026
+
+Technical Meeting Final CTF (daring) 1 Juli 2026
+
+Final CTF (luring) 8 Juli 2026
+
+Seminar dan Awarding (luring) 8 Juli 2026
+
+
+
+D. SYARAT DAN KETENTUAN
+
+1 . Peserta telah mengikuti  mekanisme registrasi  pada website
+resmi WRECK-IT 7.0 di  https://wreckit . id/
+
+2. Peserta waj ib mengikuti  Instagram resmi Poltek SSN
+(@poltekssn),  Korps Taruna Poltek SSN (@korpstar .poltekssn),
+dan WRECK-IT (@wreckit . id) .
+
+3 . Peserta diharuskan melengkapi berkas pendaftaran dengan
+data yang benar dan legal  secara hukum.
+
+4. Peserta waj ib menyelesaikan pengunggahan berkas
+administrasi  sebelum tahap registrasi  ditutup.
+
+5. Peserta bukan merupakan panit ia WRECK-IT 7.0.
+6. Peserta bukan pemenang Juara 1  WRECK-IT 6.0.
+7 . Set iap peserta hanya boleh terdaftar pada satu t im.
+8. Tim waj ib melakukan registrasi  ulang sebelum kompetis i
+
+dimulai .
+9 . Tim yang dinyatakan lolos babak penyis ihan berhak mengikuti
+
+babak f inal .
+10. Peserta di larang melakukan kecurangan dalam bentuk apapun
+
+dan menimbulkan gangguan yang disengaja untuk merugikan
+panit ia dan/atau peserta la in .
+
+1 1 . Peserta yang merupakan f inal is  lomba CTF WRECK-IT 7.0 waj ib
+menghadir i  kegiatan seminar dan awarding session.
+
+12 . Peserta yang t idak mengkonfirmasi  kehadiran baik ket ika babak
+penyis ihan dan babak f inal  akan didiskual i f ikasi .
+
+13 . Peserta yang t idak memenuhi persyaratan dan terbukti
+melanggar ketentuan,  akan didiskual i f ikasi  dan di larang
+mengikuti  per lombaan.
+
+14. Panit ia berhak mencabut gelar juara dan mengambil  kembal i
+hadiah yang telah diberikan apabi la terbukti  t im yang
+bersangkutan melakukan kecurangan atau pelanggaran la in
+ketika kompetis i  ber langsung.
+
+15. Panit ia dapat mengubah seluruh atau sebagian ketentuan yang
+berada dalam guidebook CTF WRECK-IT 7.0 sewaktu-waktu.
+Segala perubahan yang ter jadi  akan disampaikan melalui  e-mai l
+dan/atau website.
+
+
+
+E. MEKANISME REGISTRASI
+
+1 . Per iode registrasi  peserta akan berlangsung selama
+tanggal  1  Mei  – 14 Juni  2026.
+
+2. Ketua t im mengisi  kelengkapan data dir i  anggota t im
+pada website resmi WRECK-IT 7.0 (https://wreckit . id) .  
+
+3 . Ketua t im melengkapi dokumen pendaftaran dan
+mengunggah berkas yang sudah digabungkan menjadi
+satu ars ip pada website WRECK-IT.
+
+4. Ketua t im akan mendapatkan e-mai l  ver i f ikasi  pendaftaran
+maksimal 1x24 jam setelah pengunggahan berkas.
+
+5. Tim yang belum mendapatkan e-mai l  ver i f ikasi
+pendaftaran dalam kurun waktu 1x24 jam, dapat segera
+menghubungi narahubung yang tertera pada akhir
+guidebook.
+
+6. Tim yang telah terveri f ikasi  t idak diperbolehkan
+mengubah data ataupun mengganti  susunan t im.
+
+F. KETENTUAN LOMBA GENERAL CTF
+
+1 . Set iap peserta waj ib mematuhi  syarat dan ketentuan
+kompetis i  CTF WRECK-IT 7.0.
+
+2. Peserta adalah Warga Negara Indonesia dan dapat
+dibuktikan kewarganegaraannya dengan hasi l  pindai  kartu
+identitas (KTP/SIM/Paspor/Kartu Pelajar) .
+
+3 . Peserta merupakan t im yang terdir i  dar i  minimal satu
+orang dan pal ing banyak t iga orang peserta.
+
+4. Peserta bukan merupakan author soal  yang
+diperlombakan.
+
+5. Peserta yang dapat mengikuti  kompetis i  adalah peserta
+yang sudah diver i f ikasi  oleh panit ia WRECK-IT 7.0 dan
+tidak dapat digantikan oleh orang la in selama kompetis i
+berlangsung.
+
+
+
+G. BABAK PENYISIHAN GENERAL CTF
+
+1 . Babak penyis ihan akan di laksanakan secara daring.
+Informasi  lebih lanjut akan disampaikan melalui  s itus web
+dan grup Discord saat mendekati  waktu pelaksanaan
+babak penyis ihan.
+
+2. Pelaksanaan babak penyis ihan menggunakan s istem
+Jeopardy.
+
+3. Babak penyis ihan akan di laksanakan pada tanggal  20 Juni
+2026 selama kurang lebih 8 jam.
+
+4. Terdapat Technical  Meeting babak penyis ihan yang akan
+di laksanakan pada tanggal  19 Juni  2026.
+
+5. Satu jam sebelum berakhirnya babak penyis ihan,
+scoreboard akan dibekukan.
+
+6. Setiap t im waj ib mengumpulkan write-up dengan
+beberapa ketentuan,  yakni :
+
+    a .Pengumpulan write-up pal ing lambat 8 jam setelah
+       selesainya babak penyis ihan.
+    b .Write-up dikumpulkan pada formul ir  yang disediakan
+    c .Ketentuan format pengumpulan write-up dapat diakses  
+       pada tautan https://s . id/WriteupwreckitGeneral
+7 . Terdapat penghargaan Best Write-up yang diperuntukkan
+
+bagi satu t im terbaik .  Pemenang akan ditentukan oleh
+dewan jur i  dan keputusan t idak dapat diganggu gugat.
+
+8 . Terdapat beberapa larangan selama babak penyis ihan
+berlangsung,  yaitu:
+a . Melakukan DdoS terhadap server.
+b. Menimbulkan gangguan kepada peserta la innya ataupun  
+
+panit ia dalam bentuk apapun.
+c. Melakukan kerja sama dengan pihak yang t idak
+
+terdaftar sebagai  peserta.
+d. Peserta memberikan akun kepada pihak-pihak di  luar
+
+t im.
+e. Peserta bekerja sama dengan peserta la in sepert i
+
+berbagi f lag atau melakukan t indakan-t indakan
+kecurangan la innya.
+
+
+
+9. Bagi sepuluh t im yang menyelesaikan soal  dan
+mengumpulkan write-up dengan baik serta t idak didapati
+melakukan pelanggaran maka t im tersebut berhak
+melanjutkan ke babak f inal .  Keputusan panit ia yang telah
+ditetapkan t idak dapat diganggu gugat.
+
+10. Peni la ian merupakan hasi l  koordinasi  panit ia dengan
+dewan jur i .
+
+1 1 . Keputusan panit ia yang telah ditetapkan t idak dapat
+diganggu gugat.
+
+H. BABAK FINAL GENERAL CTF
+
+1 . Pelaksanaan babak f inal  akan di laksanakan secara on s ite.
+2 . Sistem yang akan digunakan pada babak f inal  adalah
+
+sistem attack/defense.
+3. Babak f inal  akan di laksanakan pada tanggal  8 Jul i  2026
+
+selama kurang lebih 6 jam.
+4. Setiap t im akan mendapat sebuah s istem yang di
+
+dalamnya terdapat kerentanan.  Masing-masing t im
+bertugas untuk mengamankan f lag dalam sistem mil iknya
+bersamaan dengan menyerang sistem lawan untuk
+mendapatkan f lag lawan.  Flag akan di-reset secara berkala
+pada set iap ronde.
+
+5. Skor dikalkulasi  berdasarkan perolehan f lag dalam seluruh
+ronde babak f inal .
+
+6 . Peni la ian merupakan hasi l  diskusi  panit ia bersama dengan
+dewan jur i .
+
+7 . Keputusan yang ditetapkan bersifat  mutlak dan t idak
+dapat diganggu gugat.
+
+
+
+I .  KETENTUAN LOMBA JUNIOR CTF
+1 . Set iap peserta waj ib mematuhi  syarat dan ketentuan
+
+kompetis i  CTF WRECK-IT 7.0.
+2 . Peserta adalah Warga Negara Indonesia dan dapat
+
+dibuktikan kewarganegaraannya dengan hasi l  pindai  kartu
+identitas (KTP/SIM/Paspor/Kartu Pelajar) .
+
+3 . Peserta merupakan s iswa SMA/SMK sederajat .
+4. Peserta merupakan t im yang terdir i  dar i  minimal satu
+
+orang dan maksimal t iga orang peserta.
+5 . Peserta bukan merupakan author soal  yang
+
+diperlombakan.
+6. Peserta yang dapat mengikuti  kompetis i  adalah peserta
+
+yang sudah diver i f ikasi  oleh panit ia WRECK-IT 7.0 dan
+tidak dapat digantikan oleh orang la in selama kompetis i
+berlangsung.
+
+J.  BABAK PENYISIHAN JUNIOR CTF
+
+1 . Babak penyis ihan akan di laksanakan secara daring
+informasi  lebih lanjut akan disampaikan melalui  s itus web
+dan grup discord saat mendekati  waktu pelaksanaan
+babak penyis ihan.
+
+2. Pelaksanaan babak penyis ihan menggunakan s istem
+Jeopardy.
+
+3. Babak penyis ihan akan di laksanakan pada tanggal  20 Juni
+2026 selama kurang lebih 8 jam.
+
+4. Terdapat Technical  Meeting banyak penyis ihan yang akan
+di laksanakan pada tanggal  19 Juni  2026
+
+    
+
+
+
+5. Satu jam sebelum berakhirnya babak penyis ihan,
+scoreboard akan dibekukan.
+
+6. Setiap t im waj ib mengumpulkan write-up dengan
+beberapa ketentuan,  yakni :
+
+     a .  Pengumpulan write-up pal ing lambat 8 jam setelah
+         selesainya babak penyis ihan.
+     b.  Write-up dikumpulkan pada formul ir  yang disediakan
+     c .  Ketentuan format pengumpulan write-up dapat diakses
+         pada tautan https://s . id/WriteupwreckitJunior
+7. Terdapat penghargaan Best Write-up yang diperuntukkan
+
+bagi satu t im terbaik .  Pemenang akan ditentukan oleh
+dewan jur i  dan keputusan t idak dapat diganggu gugat.
+
+8 . Terdapat beberapa larangan selama babak penyis ihan
+berlangsung,  yaitu:
+a . Melakukan DdoS terhadap server.
+b. Menimbulkan gangguan kepada peserta la innya ataupun
+
+panit ia dalam bentuk apapun.
+c. Melakukan kerja sama dengan pihak yang t idak
+
+terdaftar sebagai  peserta.
+d. Peserta memberikan akun kepada pihak-pihak di  luar
+
+t im.
+e. Peserta bekerja sama dengan peserta la in sepert i
+
+berbagi f lag atau melakukan t indakan-t indakan
+kecurangan la innya.
+
+9. Bagi  sepuluh t im yang menyelesaikan soal  dan
+mengumpulkan write-up dengan baik serta t idak didapati
+melakukan pelanggaran maka t im tersebut berhak
+melanjutkan ke babak f i :nal .
+
+10. Peni la ian merupakan hasi l  koordinasi  panit ia dengan
+dewan jur i .
+
+1 1 . Keputusan panit ia yang telah ditetapkan t idak dapat
+diganggu gugat
+
+
+
+PETUNJUK  TEKNIS
+PERLOMBAAN  HACKATHON
+
+A. PENDAHULUAN
+
+WRECK-IT 7.0 merupakan annual event di bidang keamanan
+siber yang diselenggarakan oleh Senat Korps Taruna Politeknik
+Siber dan Sandi Negara. Pada tahun 2026, WRECK-IT kembali
+hadir dengan mengusung tema “Cyber Warfare: Silent War on
+The Fifth Domain”. Salah satu rangkaian acara WRECK-IT 7.0
+adalah kompetisi Hackathon berskala nasional yang
+diselenggarakan secara daring. Kompetisi Hackathon WRECK-
+IT 7.0 menantang peserta untuk mengembangkan solusi
+inovatif di bidang keamanan siber. Peserta, baik individu
+maupun tim, diminta untuk menyampaikan ide dan karya
+kreatif melalui pengumpulan proposal, video penjelasan, dan
+repository GitHub sebagai dokumentasi implementasi solusi.
+Dari seluruh peserta, 5 tim terbaik akan lolos ke babak final,
+dimana masing-masing tim diberikan waktu 3 jam pada hari
+Final untuk menyelesaikan aplikasi yang dibuat. Setelah
+aplikasi selesai, tim final akan melakukan presentasi final untuk
+memaparkan solusi, inovasi, dan implementasi karya mereka.
+Penentuan pemenang dilakukan berdasarkan penilaian
+presentasi, dengan mempertimbangkan aspek kreativitas,
+efektivitas solusi, relevansi terhadap tema, dan kualitas
+penyampaian gagasan.
+
+
+
+B. PENGHARGAAN
+
+Penghargaan yang diberikan kepada pemenang lomba berupa sejumlah uang dengan
+rincian sebagai berikut :
+
+Juara I General Hackathon : Rp 6.000.000,00 + Medali + Piagam + Merchandise
+Juara II General Hackathon : Rp 4.000.000,00 + Medali + Piagam + Merchandise
+Juara III General Hackathon : Rp 2.000.000,00 + Medali + Piagam + Merchandise
+Juara Harapan I Hackathon : Rp 750.000,00 
+Juara Harapan II Hackathon : Rp 500.000,00 
+
+C. TIMELINE
+ 
+
+TIMELINE TANGGAL
+
+Pembukaan Registrasi Hackathon (daring) 1 Mei 2026
+
+Penutupan Registrasi Hackathon dan Batas
+14 Juni 2026
+
+Akhir Submission (daring) 
+
+Penyisihan Hackathon (daring) 15 s.d 20 Juni 2026
+
+Pengumuman Finalis Hackathon (daring) 21 Juni 2026
+
+Technical Meeting Final Hackathon (daring)  1 Juli 2-26
+
+Final Hackathon (luring) 8 Juli 2026
+
+Seminar dan Awarding (luring) 8 Juli 2026
+
+
+
+D. SYARAT DAN KETENTUAN
+
+1 . Peserta telah mengikuti  mekanisme registrasi  pada
+website resmi WRECK-IT 7.0 di  https://wreckit . id/
+
+2. Peserta waj ib mengikuti  Instagram resmi Poltek SSN
+(@poltekssn),  Korps Taruna Poltek SSN
+(@korpstar .poltekssn),  dan WRECK-IT (@wreckit . id) .
+
+3 . Peserta diharuskan melengkapi berkas pendaftaran
+dengan data yang benar dan legal  secara hukum.
+
+4. Peserta waj ib menyelesaikan pengunggahan berkas
+administrasi  sebelum tahap registrasi  ditutup.
+
+5. Peserta bukan merupakan panit ia WRECK-IT 7.0.
+6. Setiap peserta hanya boleh terdaftar pada satu t im.
+7. Tim waj ib melakukan registrasi  ulang sebelum kompetis i
+
+dimulai .
+8 . Peserta di larang melakukan kecurangan dalam bentuk
+
+apapun dan menimbulkan gangguan yang disengaja untuk
+merugikan panit ia dan/atau peserta la in .
+
+9. Peserta yang merupakan f inal is  lomba Hackathon  WRECK-
+IT 7.0 waj ib menghadir i  kegiatan awarding session.
+
+10. Peserta yang t idak mengkonfirmasi  kehadiran pada babak
+f inal  akan didiskual i f ikasi .
+
+1 1 . Peserta yang t idak memenuhi persyaratan dan terbukti
+melanggar ketentuan,  akan didiskual i f ikasi  dan di larang
+mengikuti  per lombaan.
+
+12 . Panit ia berhak mencabut gelar juara dan mengambil
+kembal i  hadiah yang telah diberikan apabi la terbukti  t im
+yang bersangkutan melakukan kecurangan atau
+pelanggaran la in ket ika kompetis i  ber langsung.
+
+13. Panit ia dapat mengubah seluruh atau sebagian ketentuan
+yang berada dalam guidebook CTF WRECK-IT 7.0
+sewaktu-waktu.  Segala perubahan yang ter jadi  akan
+disampaikan melalui  e-mai l  dan/atau website.
+
+
+
+E. MEKANISME REGISTRASI
+
+1 . Per iode registrasi  peserta akan berlangsung selama
+tanggal  1  Mei  – 14 Juni  2026.
+
+2. Ketua t im mengisi  kelengkapan data dir i  anggota t im
+pada website resmi WRECK-IT 7.0 (https://wreckit . id) .  
+
+3 . Ketua t im melengkapi dokumen pendaftaran dan
+mengunggah berkas yang sudah digabungkan menjadi
+satu ars ip pada website WRECK-IT.
+
+4. Ketua t im akan mendapatkan e-mai l  ver i f ikasi  pendaftaran
+maksimal 1x24 jam setelah pengunggahan berkas.
+
+5. Tim yang belum mendapatkan e-mai l  ver i f ikasi
+pendaftaran dalam kurun waktu 1x24 jam, dapat segera
+menghubungi narahubung yang tertera pada akhir
+guidebook.
+
+6. Tim yang telah terveri f ikasi  t idak diperbolehkan
+mengubah data ataupun mengganti  susunan t im.
+
+F. KETENTUAN LOMBA HACKATHON
+
+1 . Set iap peserta waj ib mematuhi  syarat dan ketentuan
+kompetis i  Hackathon WRECK-IT 7.0.
+
+2. Peserta adalah Warga Negara Indonesia dan dapat
+dibuktikan kewarganegaraannya dengan hasi l  pindai  kartu
+identitas (KTP/SIM/Paspor/Kartu Pelajar) .
+
+3 . Peserta merupakan t im yang terdir i  dar i  minimal t iga
+orang dan pal ing banyak l ima orang peserta.
+
+4. Peserta yang dapat mengikuti  kompetis i  adalah peserta
+yang sudah diver i f ikasi  oleh panit ia WRECK-IT 7.0 dan
+tidak dapat digantikan oleh orang la in selama kompetis i
+berlangsung.
+
+
+
+G. PENYISIHAN 
+
+1 . Babak penyis ihan akan di laksanakan dengan menyeleksi
+submission proposal  dan video serta repository GitHub.
+Informasi  lebih lanjut akan disampaikan melalui  s itus web
+dan grup Discord.
+
+2. Penyis ihan akan di laksanakan pada tanggal  15 s .d.  20 Juni
+2026 oleh para dewan jur i .
+
+3 . Bagi  l ima t im dengan ni la i  terbaik berhak melanjutkan ke
+babak f inal .  
+
+4 . Peni la ian merupakan hasi l  koordinasi  panit ia dengan
+dewan jur i .
+
+5 . Keputusan panit ia yang telah ditetapkan t idak dapat
+diganggu gugat.
+
+H. BABAK FINAL HACKATHON
+
+1 . Pelaksanaan babak f inal  akan di laksanakan secara on s ite.
+2 . Babak f inal  akan di laksanakan pada tanggal  8 Jul i  2026
+
+selama kurang lebih 3 jam untuk f inal isasi  apl ikasi  dan
+akan di lanjutkan dengan sesi  presentasi  selama kurang
+lebih 3 jam.
+
+3. Skor dikalkulasi  berdasarkan hasi l  presentasi  dalam babak
+f inal .
+
+4 . Peni la ian merupakan hasi l  diskusi  panit ia bersama dengan
+dewan jur i .
+
+5 . Keputusan yang ditetapkan bersifat  mutlak dan t idak
+dapat diganggu gugat
+
+
+
+TECHNICAL MEETING PENYISIHAN CTF
+
+19 Juni 2026
+
+WAKTU KEGIATAN
+
+19.45-20.00 WIB Masuk Zoom Meeting
+
+20.00-20.45 WIB Paparan dari panitia
+
+20.45-21.15 WIB Tanya Jawab
+
+21.15-21.30 WIB Penutup
+
+BABAK PENYISIHAN CTF
+
+20 Juni 2026
+WAKTU KEGIATAN
+
+07.00-07.30 WIB Reminding Grup
+
+07.30-08.00 WIB Reminding Grup 2
+
+08.00-09.00 WIB Peserta Login
+
+09.00-17.00 WIB Pengerjaan
+
+
+
+PENGUMPULAN WRITE-UP DAN
+PENGUMUMAN FINALIS
+
+21 Juni 2026
+WAKTU KEGIATAN
+
+Tenggat Waktu Maksimal
+14.30 WIB
+
+Pengumpulan Write-up
+
+18.30 WIB Pengumuman Finalis
+
+TECHNICAL MEETING FINAL CTF
+
+1  Jul i  2026
+WAKTU KEGIATAN
+
+19.45-20.00 WIB Masuk Zoom Meeting
+
+20.00-20.45 WIB Paparan dari Panitia
+
+20.45-21.15 WIB Tanya Jawab
+
+21.15-21.30 WIB Penutup
+
+
+
+BABAK FINAL CTF
+
+8 Jul i  2026
+WAKTU KEGIATAN
+
+07.00-08.20 WIB Registrasi Ulang
+
+08.20-09.00 WIB Persiapan 
+
+Pengerjaan Final Capture
+09.00-16.00 WIB
+
+The Flag
+
+16.00 WIB Istirahat & Menuju Ballroom
+
+TECHNICAL MEETING JUNIOR CTF
+
+19 Juni 2026
+WAKTU KEGIATAN
+
+20.00-20.15 WIB Pembukaan
+
+20.15-20.20 WIB Sambutan
+
+20.20-20.25 Sesi Sponsorship
+
+20.25-21.00 WIB Technical Meeting 
+
+21.00-21.15 WIB Tanya Jawab
+
+21.15-21.20 WIB Penutupan
+
+
+
+BABAK JUNIOR CTF
+
+20 Juni 2026
+
+WAKTU KEGIATAN
+
+07.00-07.30 WIB Reminding Grup 
+
+07.30-08.00 WIB Peserta Login
+
+08.00-16.00 WIB Pengerjaan CTF
+
+Deadline Pengumpulan
+16.00-21.00 WIB
+
+Write-up 
+
+PENGUMPULAN WRITE-UP DAN
+PENGUMUMAN FINALIS JUNIOR CTF
+
+21 Juni 2026
+WAKTU KEGIATAN
+
+Tenggat Waktu Maksimal
+14.30 WIB
+
+Pengumpulan Write-up
+
+18.30 WIB Pengumuman Finalis
+
+
+
+TECHNICAL MEETING  FINAL HACKATHON
+
+1  Jul i  2026
+
+WAKTU KEGIATAN
+
+19.45-20.00 WIB Masuk Zoom Meeting
+
+Opening & Penjelasan
+20.00-20.10 WIB
+
+Umum Hackathon
+
+20.10-20.45 WIB Penjelasan Teknis Final
+
+20.45-21.15 WIB Tanya Jawab
+
+21.15-21.30 WIB Penutup
+
+
+
+BABAK FINAL HACKATHON
+
+8 Jul i  2026
+
+WAKTU KEGIATAN
+
+07.00-08.20 WIB Registrasi Ulang
+
+08.20-09.00 WIB Persiapan 
+
+09.00-12.00 WIB Pengerjaan Hackathon
+
+Istirahat & Menuju
+12.00-13.00 WIB
+
+Ballroom
+
+13.00-13.15 WIB Briefing Teknis Presentasi
+
+13.15-15.20 WIB Paparan Finalis
+
+15.20-16.00 WIB Rekap Nilai, Diskusi Juri
+
+16.30 WIB Awarding Hackathon
+
+
+
+THANK YOU
+WhatsApp: +6282148987781
+Telegram: @wreckit_id
+
+info@wreckit.id
+
+https://wreckit.id/
+
+@wreckit.id

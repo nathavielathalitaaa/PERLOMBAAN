@@ -1,0 +1,396 @@
+﻿GUIDEBOOK DATA SLAYER 4.0 
+Dashboard Analytics Competition 
+
+Deskripsi Kompetisi 
+Dashboard Analytics Competition (DAC) kembali hadir sebagai ajang kompetisi 
+
+visualisasi data tingkat nasional dalam rangkaian Data Slayer 4.0. Diselenggarakan secara 
+daring oleh Himpunan Mahasiswa Sains Data (HMSD) Telkom University Purwokerto 
+bersama Pojok Statistik (POTIK), kompetisi ini menjadi wadah bagi mahasiswa untuk 
+menyalurkan kemampuan analisis, kreativitas, dan pemanfaatan data dalam memahami 
+berbagai isu di bidang pendidikan. 
+
+Kompetisi ini terbuka bagi seluruh mahasiswa aktif jenjang D3, D4/S1 dari berbagai 
+perguruan tinggi di Indonesia, peserta ditantang untuk mentransformasikan data menjadi 
+interactive dashboard yang informatif dan solutif. Dengan mengangkat tema utama Smart 
+Educational Visualization for Human Capital: Mengembangkan Dashboard yang Inklusif, 
+Adaptif, dan Solutif, peserta akan mengeksplorasi data, menemukan pola dan insight, 
+menyusun kajian analitis, hingga mempresentasikan hasilnya di hadapan dewan juri. 
+Penilaian tidak hanya berfokus pada kualitas visualisasi, tetapi juga pada kemampuan data 
+storytelling dalam menerjemahkan angka menjadi informasi dan narasi yang jelas, relevan, 
+serta mampu memberikan perspektif terhadap permasalahan pendidikan. 
+
+Melalui DAC Data Slayer 4.0, peserta tidak hanya mengasah kompetensi teknis dalam 
+analisis dan visualisasi data, tetapi juga mengembangkan kemampuan berpikir kritis dalam 
+memahami isu pendidikan melalui pendekatan berbasis data. Kompetisi ini diharapkan 
+menjadi kesempatan bagi mahasiswa untuk menghasilkan insight yang bermakna sekaligus 
+berkontribusi dalam melihat berbagai tantangan pendidikan dari perspektif data. 
+Timeline Kompetisi 
+
+ 
+Penyisihan 
+
+●​ Open registration................................... Batch 1: 19 Oktober 2026 - 8 November 2026  
+                                                                Batch 2: 9 November - 15 November 2026  
+
+●​ Pembuatan dashboard...........................19 Oktober 2026 - 23 November 2026 
+●​ Pengumpulan karya...............................23 November 2026 
+●​ Webinar dashboard................................27 November 2026 
+●​ Penilaian dashboard.............................23 - 29 November 2026 
+●​ Pengumuman lolos final........................30 November 2026 
+
+Final 
+●​ Technical meeting final..........................12 Desember 2026 
+●​ Vote juara favorit..................................1 Desember - 06 Desember 2026  
+●​ Pengerjaan paper final..........................1 Desember - 7 Desember 2026 
+●​ Pembuatan dan Pengumpulan PPT.........13 - 17 Desember 2026 
+●​ Final......................................................19 Desember 2026 
+
+2 
+
+
+
+ 
+
+Syarat dan Ketentuan Peserta 
+1.​ Peserta merupakan mahasiswa aktif yang sedang menempuh pendidikan pada jenjang 
+
+Diploma (D3), Sarjana Terapan (D4), Sarjana (S1), atau jenjang pendidikan yang 
+setara di perguruan tinggi seluruh Indonesia.  
+
+2.​ Peserta dapat mengikuti kompetisi secara individu atau tim dengan jumlah anggota 
+maksimal 3 (tiga) orang.  
+
+3.​ Peserta wajib merupakan Warga Negara Indonesia (WNI) yang dapat menunjukkan 
+identitas resmi berupa Kartu Tanda Mahasiswa (KTM). 
+
+4.​ Anggota dalam satu tim diperbolehkan berasal dari perguruan tinggi atau instansi 
+pendidikan yang berbeda. ​  
+
+5.​ Peserta diperbolehkan mengikuti lebih dari satu kompetisi dengan ketentuan bahwa 
+peserta hanya dapat berperan sebagai ketua tim pada satu kompetisi. Pada kompetisi 
+lainnya, peserta hanya diperkenankan berperan sebagai anggota tim.  
+
+6.​ Panitia berhak melakukan perubahan atau penambahan ketentuan kompetisi apabila 
+diperlukan. Setiap perubahan akan disampaikan melalui pemberitahuan resmi kepada 
+peserta.  
+
+7.​ Peserta wajib mengikuti akun Instagram @dataslayer.tup, 
+@hmsd.telkompurwokerto, dan @pojokstatistik.tup. Bukti mengikuti akun 
+tersebut dicantumkan pada formulir pendaftaran.  
+
+8.​ Peserta yang berhasil lolos ke tahap final wajib mempresentasikan karya melalui 
+platform Zoom Meeting sesuai dengan jadwal yang telah ditentukan oleh panitia.  
+
+9.​ Setiap peserta wajib mengunggah poster registrasi melalui fitur Add Yours pada 
+Instagram Story dengan mengakses template yang tersedia pada highlight akun 
+Instagram @dataslayer.tup. Bukti tangkapan layar (screenshot) dari unggahan 
+tersebut wajib dilampirkan pada formulir pendaftaran. 
+
+Mekanisme Pembayaran 
+1.​ Ketentuan Biaya Pendaftaran 
+
+​ Biaya pendaftaran peserta dibedakan berdasarkan periode pendaftaran, yaitu:  
+a.​ Batch 1: Rp30.000,00  
+b.​ Batch 2: Rp45.000,00  
+
+2.​ Ketentuan Pembayaran 
+Peserta dapat melakukan pembayaran biaya pendaftaran melalui rekening bank atau 
+e-wallet yang telah disediakan oleh panitia.  
+
+a.​ BNI: 1975746724 (a.n Intan Adelia) 
+b.​ MANDIRI : 1850010239009 (a.n Zalza Risqi Agustin) 
+c.​ SEABANK:  901878454999 (a.n Ilham Ramadanni) 
+d.​ QRIS (tertera pada google form pendaftaran) 
+
+3 
+
+
+
+ 
+
+Ketentuan Umum Karya 
+ 
+
+1.​ Biaya Pendaftaran 
+Biaya registrasi: Rp30.000,00 per karya untuk Batch 1 dan Rp45.000,00 per karya 
+untuk Batch 2. ​  
+
+2.​ Sertifikat Peserta 
+Seluruh peserta yang mengikuti kompetisi berhak memperoleh e-sertifikat sebagai 
+bukti keikutsertaan. 
+
+3.​ Surat Orisinalitas Karya  
+Peserta wajib melampirkan surat orisinalitas karya yang telah ditandatangani. Surat 
+tidak diwajibkan menggunakan materai. Template surat dapat diakses melalui 
+[https://data-slayer.com/orisinalitas ] 
+
+4.​ Hak atas Karya 
+Karya yang telah dikumpulkan menjadi hak panitia untuk keperluan penyelenggaraan 
+dan publikasi kompetisi.  
+
+5.​ Ketentuan Format Karya 
+Karya yang dikumpulkan harus memiliki ukuran 1900 × 1100 piksel (width × height) 
+dengan ukuran file maksimal 100 MB.  
+
+6.​ Keputusan Juri 
+Seluruh keputusan yang ditetapkan oleh dewan juri bersifat final dan tidak dapat 
+diganggu gugat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4 
+
+
+
+ 
+
+Tema dan Topik 
+Peserta diwajibkan mengembangkan dashboard interaktif yang memuat analisis dan 
+
+visualisasi data berdasarkan sumber data yang ditentukan oleh panitia. Adapun tema yang 
+dapat dipilih adalah sebagai berikut: 
+
+1.​ Kesenjangan Pendidikan Antarwilayah 
+Menganalisis ketimpangan fasilitas, akses, dan capaian pendidikan antarwilayah 
+(antarprovinsi, kabupaten, kota, serta daerah perkotaan vs. perdesaan). 
+
+2.​ Transformasi Digital dalam Pendidikan 
+Pemerataan teknologi digital, infrastruktur, dan internet yang memengaruhi kualitas 
+pembelajaran.  
+
+3.​ Pendidikan Inklusif dan Berkeadilan 
+Kesetaraan kesempatan belajar bagi semua kalangan tanpa terhambat faktor sosial, 
+ekonomi, gender, atau kondisi daerah.  
+
+4.​ Pendidikan untuk Masa Depan Dunia Kerja 
+Keterkaitan antara tingkat pendidikan dengan angka pengangguran dan kesiapan 
+SDM menjawab kebutuhan pasar kerja. 
+
+5.​ Pendidikan dan Pembangunan Sumber Daya Manusia  
+Peran capaian pendidikan terhadap kualitas SDM serta kondisi sosial-ekonomi demi 
+pembangunan berkelanjutan.  
+Data yang digunakan peserta wajib bersumber dari situs resmi BPS, yaitu BPS 
+
+Indonesia ( bps.go.id ) atau BPS Provinsi Jawa Tengah ( jateng.bps.go.id ).  
+Alur Perlombaan 
+
+ 
+Kompetisi terdiri atas dua tahap, yaitu penyisihan dan final, dengan ketentuan pada 
+
+masing-masing tahap sebagai berikut: 
+Tahap penyisihan 
+
+1.​ Peserta wajib membuat dashboard interaktif dengan maksimal 2 (dua) halaman yang 
+memuat hasil analisis dan visualisasi data sesuai dengan tema yang telah dipilih. 
+
+2.​ Peserta hanya diperbolehkan menggunakan salah satu dari tiga platform yang telah 
+ditentukan oleh panitia, yaitu Looker Studio, Tableau, atau Power BI. Dashboard yang 
+dibuat harus dapat diakses oleh dewan juri untuk keperluan penilaian. Peserta yang 
+tidak mematuhi ketentuan tersebut akan dikenakan sanksi berupa diskualifikasi dari 
+kompetisi.  
+
+3.​ Dashboard yang dikumpulkan wajib mencantumkan watermark Data Slayer yang 
+telah disediakan oleh panitia. Watermark dapat diunduh  melalui 
+[https://data-slayer.com/watermark ] 
+
+5 
+
+
+
+ 
+
+4.​ Dashboard dapat memuat Key Performance Indicators (KPI) atau indikator kinerja 
+utama yang relevan dengan tema dan dapat mendukung penyampaian hasil analisis. 
+
+5.​ Peserta wajib mengumpulkan berkas dalam bentuk ZIP yang berisi file dashboard dan 
+dataset yang digunakan, serta file PDF hasil dashboard. Format penamaan dashboard 
+wajib mengikuti ketentuan berikut: DAC_NamaTim.zip dan DAC_NamaTim.pdf. 
+
+6.​ Hasil karya pada tahap penyisihan akan dinilai berdasarkan kriteria yang telah 
+ditentukan oleh dewan juri dan memiliki bobot sebesar 40% dari keseluruhan nilai 
+kompetisi. 
+
+7.​ Rincian aspek dan bobot penilaian pada tahap penyisihan adalah sebagai berikut: 
+ No Kriteria Penilaian Uraian Bobot 
+ 
+ 1. Kesesuaian Tema & - Relevansi isi dashboard dengan tema 30% 
+
+Informasi yang yang diberikan 
+ Disajikan - Kejelasan pesan utama/insight yang 
+ ingin disampaikan. 
+
+ 2. Desain & Visualisasi Tata letak, keterbacaan grafik, pemilihan 30% 
+ jenis visualisasi yang tepat, konsistensi 
+
+warna dan label. 
+ 
+ 3. Analisis Data Kualitas pengolahan data, ketepatan 40% 
+
+perhitungan, dan kedalaman insight awal 
+ yang ditampilkan. 
+ 
+ TOTAL 100% 
+
+Tahap final 
+Peserta yang berhasil lolos tahap penyisihan akan melanjutkan ke tahap final. Pada 
+
+tahap ini, peserta diwajibkan menyusun paper analisis dan mempresentasikan hasil karyanya 
+di hadapan dewan juri. Ketentuan tahap final adalah sebagai berikut: 
+
+1.​ Peserta wajib menyusun paper analisis dengan menggunakan template yang telah 
+disediakan oleh panitia. 
+
+2.​ Template paper dapat diunduh melalui [ https://data-slayer.com/paper ] 
+3.​ Peserta wajib menyusun dan mengumpulkan paper final pada periode 1–7 Desember 
+
+2026, dengan batas akhir pengumpulan pada 7 Desember 2026. 
+4.​ Paper harus memuat dokumentasi proses analisis, meliputi pengumpulan data, sumber 
+
+data seperti publikasi atau tabel BPS, metode analisis yang digunakan, serta 
+interpretasi hasil analisis. 
+
+6 
+
+
+
+ 
+
+5.​ Presentasi mencakup penjelasan mengenai dashboard interaktif dan hasil analisis 
+dalam paper. Peserta dapat menggunakan PPT sebagai media pendukung presentasi 
+apabila diperlukan. 
+
+6.​ Dewan juri akan melakukan penilaian berdasarkan kualitas paper, kedalaman analisis, 
+kemampuan presentasi, serta kejelasan visualisasi dan penyampaian hasil. 
+
+7.​ Tahap final memiliki bobot sebesar 60% dari keseluruhan penilaian kompetisi. 
+8.​ Kriteria penilaian pada tahap final adalah sebagai berikut: 
+
+No Kriteria Penilaian Uraian Bobot 
+
+1. Isi & Kualitas Paper Struktur penulisan jelas, argumentasi 25% 
+logis, penggunaan referensi/data 
+pendukung yang tepat. 
+
+2. Pemahaman & Kemampuan menjelaskan insight yang 20% 
+Pendalaman Analisis ditemukan dari dashboard, keterkaitan 
+
+dengan permasalahan/tema, ketepatan 
+metodologi analisis. 
+
+3. Presentasi & Komunikasi Alur presentasi terstruktur, visualisasi 30% 
+pendukung menarik, penguasaan 
+materi, dan penyampaian 
+solusi/rekomendasi nyata berdasarkan 
+hasil analisis. 
+
+4. Ketepatan Menjawab Jawaban tepat, jelas, dan meyakinkan. 25% 
+Pertanyaan 
+
+TOTAL 100% 
+
+ 
+Sanksi Peserta 
+
+Peserta dapat dikenakan diskualifikasi apabila terbukti melakukan pelanggaran 
+terhadap ketentuan kompetisi, di antaranya: 
+
+1.​ Menggunakan dataset yang tidak sesuai dengan ketentuan yang telah ditetapkan oleh 
+panitia. 
+
+2.​ Tidak mencantumkan atau melengkapi tanda tangan pada surat orisinalitas karya 
+sesuai dengan ketentuan yang berlaku. 
+
+3.​ Tidak mencantumkan watermark Data Slayer pada karya yang dikumpulkan. 
+4.​ Melakukan tindakan kecurangan, plagiarisme, atau pelanggaran lain yang dapat 
+
+mempengaruhi keaslian dan integritas karya. 
+
+7 
+
+
+
+ 
+
+5.​ Melanggar ketentuan lain yang telah ditetapkan dalam Guidebook dan/atau 
+disampaikan secara resmi oleh panitia. 
+
+ 
+Ketentuan Juara 
+
+1.​ Penetapan Juara I, Juara II, dan Juara III didasarkan pada hasil penilaian dewan juri. 
+Keputusan dewan juri bersifat final dan tidak dapat diganggu gugat. 
+
+2.​ Nilai akhir peserta diperoleh dari akumulasi 40% (empat puluh persen) nilai tahap 
+penyisihan dan 60% (enam puluh persen) nilai tahap final. 
+
+3.​ Apabila terdapat dua atau lebih peserta dengan nilai akhir yang sama, penentuan 
+peringkat akan mengacu pada nilai tahap penyisihan yang lebih tinggi. 
+
+4.​ Juara Favorit ditentukan berdasarkan jumlah likes terbanyak pada karya peserta yang 
+diunggah melalui akun Instagram @dataslayer.tup. Hasil pemungutan suara akan 
+diumumkan melalui akun Instagram @dataslayer.tup dan grup peserta Dashboard 
+Analytics Competition. 
+
+5.​ Karya peserta akan dipublikasikan melalui akun Instagram @dataslayer.tup. Periode 
+online voting Juara Favorit berlangsung sesuai dengan jadwal yang telah ditetapkan 
+oleh panitia. 
+
+Catatan: Setiap peserta hanya dapat memperoleh satu gelar juara. Apabila Juara I, II, atau 
+III juga memperoleh jumlah likes terbanyak dalam pemilihan Juara Favorit, maka gelar Juara 
+Favorit akan diberikan kepada peserta lain dengan jumlah likes tertinggi berikutnya. 
+ 
+Hadiah dan Penghargaan 
+
+1.​ Seluruh peserta yang mengikuti kompetisi akan memperoleh e-sertifikat sebagai bukti 
+keikutsertaan. 
+
+2.​ Peserta yang berhasil masuk Top 10 Finalis akan memperoleh e-sertifikat sebagai 
+finalis. 
+
+3.​ Pemenang kompetisi akan memperoleh penghargaan sebagai berikut: 
+○​ Juara I: Uang Pembinaan + E-Sertifikat 
+○​ Juara II: Uang Pembinaan + E-Sertifikat 
+○​ Juara III: Uang Pembinaan + E-Sertifikat 
+○​ Juara Favorit: Uang Pembinaan + E-Sertifikat 
+
+ 
+ 
+ 
+ 
+
+8 
+
+
+
+ 
+
+Informasi Lebih Lanjut 
+ 
+
+1.​ Pusat Informasi DATA SLAYER 4.0  
+●​ data-slayer.com 
+
+2.​ WhatsApp 
+●​ Contact Person: wa.me/62 85180951340 - Yuwan 
+●​ Contact Person: wa.me/62895367014999 - Ray 
+
+3.​ Instagram  
+@dataslayer.tup 
+
+ 
+ 
+ 
+
+9

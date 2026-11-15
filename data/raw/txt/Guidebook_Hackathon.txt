@@ -1,0 +1,997 @@
+﻿DAFTAR ISI 
+
+ 
+
+Milad IT Fest 19 .................................................................................................................... 2 
+A. Tentang Milad IT Fest 19 .......................................................................................... 2 
+B. Tentang Hackathon Web Innovation ......................................................................... 2 
+
+Konsep Perlombaan .............................................................................................................. 1 
+A. Deskripsi Lomba ........................................................................................................ 1 
+B. Tema & Subtema Lomba ........................................................................................... 1 
+C. Kebebasan Eksplorasi Ide .......................................................................................... 2 
+D. Alur Kompetisi .......................................................................................................... 3 
+
+Pendaftaran ........................................................................................................................... 4 
+A. Periode & Biaya Pendaftaran ..................................................................................... 4 
+B. Syarat Peserta & Tim ................................................................................................. 4 
+C. Mekanisme Pendaftaran ............................................................................................. 4 
+D. Konfirmasi Pendaftaran ............................................................................................. 5 
+
+Tahap Proposal & Seleksi .................................................................................................... 5 
+A. Ketentuan Proposal .................................................................................................... 5 
+B. Isi Proposal ................................................................................................................ 6 
+C. Format & Pengumpulan Proposal .............................................................................. 7 
+D. Screening Proposal .................................................................................................... 7 
+E. Pengumuman Finalis ................................................................................................. 8 
+
+Persiapan Finalis ................................................................................................................... 8 
+A. Ketentuan Persiapan Finalis ...................................................................................... 8 
+B. Blueprint Produk ........................................................................................................ 9 
+C. Technical Meeting ................................................................................................... 10 
+
+Hackathon Day .................................................................................................................... 10 
+A. Ketentuan Hackathon Day ....................................................................................... 10 
+B. Ketentuan Pitching & Demo .................................................................................... 12 
+C. Deliverables ............................................................................................................. 12 
+D. Penilaian .................................................................................................................. 13 
+
+Ketentuan Umum ................................................................................................................ 14 
+A. Originalitas dan Hak Kekayaan Intelektual ............................................................. 14 
+B. Penggunaan AI ......................................................................................................... 14 
+C. Plagiarisme dan Kecurangan ................................................................................... 14 
+D. Pelanggaran dan Sanksi ........................................................................................... 14 
+
+Kontak ................................................................................................................................. 15 
+ 
+
+ 
+
+
+
+ 
+
+Milad IT Fest 19 
+
+A. Tentang Milad IT Fest 19 
+
+Milad IT Fest 19 merupakan rangkaian kegiatan dalam rangka memperingati 19 tahun 
+Program Studi Teknik Informatika Universitas Islam Riau. Kegiatan ini diselenggarakan 
+sebagai wadah bagi mahasiswa dan masyarakat untuk berpartisipasi dalam berbagai kegiatan 
+yang menggabungkan teknologi, kreativitas, inovasi, dan kolaborasi. 
+
+Melalui rangkaian kegiatan yang diselenggarakan, Milad IT Fest 19 tidak hanya 
+menjadi momentum peringatan hari jadi Program Studi Teknik Informatika, tetapi juga 
+menjadi ruang bagi peserta untuk mengembangkan kemampuan, menunjukkan kreativitas, 
+serta menghasilkan berbagai karya dan solusi di bidang teknologi. 
+
+Rangkaian Milad IT Fest 19 mencakup berbagai kegiatan dan kompetisi, salah satunya 
+Hackathon Web Innovation yang menjadi wadah bagi peserta untuk mengembangkan solusi 
+digital berbasis Web Application terhadap permasalahan nyata. 
+
+B. Tentang Hackathon Web Innovation 
+
+Hackathon Web Innovation merupakan salah satu kompetisi dalam rangkaian Milad IT 
+Fest 19 yang menantang peserta untuk mengembangkan solusi digital berbasis Web 
+Application berdasarkan permasalahan nyata yang mereka temukan. 
+
+Kompetisi dilaksanakan secara bertahap, dimulai dari pendaftaran dan pengumpulan 
+proposal, dilanjutkan dengan screening dan penetapan finalis. Tim yang lolos kemudian 
+melakukan persiapan rancangan produk sebelum mengikuti Hackathon Day, yaitu tahap 
+utama pengembangan Web Application. 
+
+Hackathon Day akan dilaksanakan secara luring di lingkungan Universitas Islam Riau 
+(UIR), bertempat di Aula Gedung A Fakultas Teknik UIR, pada waktu yang telah ditentukan 
+oleh panitia. Pada tahap ini, finalis mengimplementasikan rancangan yang telah dipersiapkan 
+menjadi Web Application dalam waktu pengembangan yang ditetapkan. 
+
+Informasi mengenai tema, subtema, konsep kompetisi, ketentuan peserta, mekanisme 
+proposal, serta aturan pengembangan akan dijelaskan pada bagian selanjutnya dalam 
+guidebook ini. 
+
+ 
+
+
+
+ 
+
+Konsep Perlombaan 
+
+A. Deskripsi Lomba 
+
+Hackathon Web Innovation Milad IT Fest 19 merupakan kompetisi pengembangan 
+solusi digital yang menantang peserta untuk mengidentifikasi permasalahan nyata, merancang 
+solusi inovatif, dan mengimplementasikannya dalam bentuk Web Application. 
+
+Kompetisi ini tidak hanya berfokus pada kemampuan peserta dalam menulis kode, 
+tetapi juga pada kemampuan memahami permasalahan, menentukan kebutuhan pengguna, 
+merancang solusi, memanfaatkan teknologi, serta menghasilkan produk digital yang memiliki 
+nilai dan potensi dampak nyata. 
+
+Dalam kompetisi ini, peserta diberikan empat subtema yang mengacu pada 
+Sustainable Development Goals (SDGs) sebagai arah dalam menentukan permasalahan. 
+Peserta kemudian mengembangkan gagasan yang dipilih menjadi sebuah Web Application 
+dan mempresentasikan hasilnya di hadapan juri. 
+
+Dengan demikian, peserta tidak hanya ditantang untuk membuat sebuah aplikasi, 
+tetapi juga untuk menunjukkan bahwa aplikasi yang dibuat merupakan solusi yang relevan 
+terhadap permasalahan nyata. 
+
+B. Tema & Subtema Lomba 
+
+Hackathon Web Innovation Milad IT Fest 19 mengusung tema “Technology for 
+Sustainable Impact”. Tema ini mengajak peserta untuk memanfaatkan teknologi dalam 
+menciptakan solusi digital yang mampu menjawab permasalahan nyata serta memberikan 
+manfaat dan dampak berkelanjutan bagi masyarakat. 
+
+Setiap tim wajib memilih salah satu dari empat subtema yang diturunkan dari empat 
+poin Sustainable Development Goals (SDGs) berikut sebagai arah utama pengembangan 
+proyek: 
+
+1. SDG 3 Good Health and Well-Being 
+
+Kesehatan dan Kesejahteraan 
+
+Fokus pada solusi digital yang mendukung kesehatan, kesejahteraan, akses layanan, 
+pencegahan, kesadaran, dan pengelolaan kesehatan. 
+
+2. SDG 4 Quality Education 
+
+Pendidikan Berkualitas 
+
+Fokus pada solusi digital yang mendukung akses, proses pembelajaran, pengembangan 
+kompetensi, pengelolaan pendidikan, dan pendidikan yang inklusif. 
+
+ 
+
+
+
+ 
+3. SDG 8 Decent Work and Economic Growth 
+
+Pekerjaan Layak dan Pertumbuhan Ekonomi 
+
+Fokus pada solusi digital yang mendukung pekerjaan, produktivitas, kewirausahaan, 
+pengembangan kompetensi, peluang kerja, serta aktivitas ekonomi yang inklusif dan 
+berkelanjutan. 
+
+4. SDG 11 — Sustainable Cities and Communities 
+
+Kota dan Komunitas Berkelanjutan 
+
+Fokus pada solusi digital yang mendukung kehidupan masyarakat, mobilitas, 
+aksesibilitas, fasilitas publik, ketahanan komunitas, lingkungan, dan kualitas kehidupan 
+yang berkelanjutan. 
+
+Catatan: Setiap tim wajib memilih satu subtema utama. Jika solusi berkaitan dengan lebih 
+
+dari satu SDG, penentuan subtema didasarkan pada permasalahan dan tujuan utama solusi, 
+
+bukan jenis aplikasi atau teknologi yang digunakan. 
+
+C. Kebebasan Eksplorasi Ide 
+
+Kompetisi menggunakan pendekatan open innovation. Peserta bebas menentukan 
+permasalahan berdasarkan observasi, pengalaman, riset, wawancara, atau kondisi nyata di 
+lingkungan sekitar. 
+
+Peserta bebas menentukan target pengguna, fitur, desain, pendekatan solusi, dan 
+teknologi selama tetap sesuai dengan subtema dan ketentuan kompetisi. 
+
+Tidak terdapat jenis aplikasi atau fitur tertentu yang diwajibkan untuk setiap subtema. 
+Peserta dapat mengembangkan solusi sesuai dengan permasalahan yang ditemukan. 
+
+Setiap tim harus mampu menjelaskan: 
+
+Apa masalahnya? → Siapa yang mengalami? → Apa solusinya? → Bagaimana teknologi 
+membantu? → Apa dampaknya? 
+
+ 
+
+
+
+ 
+
+D. Alur Kompetisi 
+
+Periode Agenda 
+
+Pendaftaran Batch 1 
+
+16–31 Oktober 2026 Pendaftaran peserta secara daring melalui formulir resmi 
+panitia. 
+
+Pendaftaran Batch 2 
+1–19 November 2026 Pendaftaran peserta secara daring melalui formulir resmi 
+
+panitia. 
+
+Batas Pengumpulan Proposal 
+19 November 2026 Batas akhir pengumpulan proposal ide solusi sesuai subtema 
+
+yang dipilih. 
+
+Screening 
+20–27 November 2026 
+
+Seleksi proposal berdasarkan kriteria yang telah ditentukan. 
+
+Pengumuman Finalis 
+28 November 2026 
+
+Pengumuman tim yang lolos sebagai finalis. 
+
+Technical Meeting 
+29 November 2026 
+
+Penjelasan teknis pelaksanaan kompetisi kepada finalis. 
+
+Hackathon Day 
+5 Desember 2026 
+
+Pengembangan Web Application secara luring di UIR. 
+
+Pitching & Demo 
+6 Desember 2026 
+
+Presentasi dan demonstrasi produk di hadapan dewan juri. 
+
+Seminar Nasional & Awarding 
+10 Desember 2026 Seminar Nasional serta pengumuman dan penghargaan 
+
+pemenang. 
+
+ 
+
+Prinsip Utama Kompetisi 
+
+Prepare the Blueprint, Build on Hackathon Day. 
+
+Peserta boleh mempersiapkan ide, riset, desain, arsitektur, dan kebutuhan teknis sebelum 
+
+Hackathon Day. 
+
+Namun, pengembangan Web Application untuk proyek kompetisi baru dimulai pada 
+
+Hackathon Day. 
+
+ 
+
+
+
+ 
+
+Pendaftaran 
+
+A. Periode & Biaya Pendaftaran 
+
+Periode Waktu Biaya Pendaftaran 
+
+Batch 1 16–31 Oktober 2026 Rp160.000,00/tim 
+
+Batch 2 1–19 November 2026 Rp180.000,00/tim 
+
+ 
+
+B. Syarat Peserta & Tim 
+
+Ketentuan Peserta 
+
+1. Peserta merupakan siswa SMA/SMK/sederajat atau mahasiswa aktif D3/D4/S1 di 
+
+Indonesia. 
+
+2. Satu peserta hanya boleh tergabung dalam satu tim. 
+
+3. Tim terdiri atas 2–4 orang. 
+
+4. Setiap tim memiliki satu ketua tim. 
+
+5. Anggota tim dapat berasal dari institusi pendidikan yang sama maupun berbeda. 
+
+6. Peserta wajib mengikuti seluruh tahapan kompetisi sesuai dengan jadwal yang telah 
+
+ditentukan oleh panitia. 
+
+7. Seluruh data yang diberikan harus benar dan dapat dipertanggungjawabkan. 
+
+C. Mekanisme Pendaftaran 
+
+Pendaftaran dilakukan secara daring melalui Google Form Pendaftaran yang 
+disediakan oleh panitia. 
+
+Setiap peserta wajib memenuhi persyaratan berikut sebelum menyelesaikan 
+pendaftaran: 
+
+1. Mengisi data peserta dengan benar. 
+
+2. Menentukan ketua dan anggota tim. 
+
+3. Memilih satu subtema utama. 
+
+4. Melakukan pembayaran pendaftaran. 
+
+5. Follow @miladtiuir dan @technofestuir. 
+
+6. Mengunggah bukti follow. 
+
+7. Mengunggah Twibbon resmi pada akun Instagram masing-masing. 
+
+ 
+
+
+
+ 
+8. Memastikan akun Instagram tidak dalam mode private. 
+
+9. Menandai @miladtiuir dan @technofestuir serta menggunakan caption yang ditentukan 
+
+panitia. Ketentuan follow dan Twibbon berlaku untuk seluruh anggota tim, bukan hanya 
+
+ketua. 
+
+D. Konfirmasi Pendaftaran 
+
+1. Panitia akan memverifikasi data, pembayaran, dan persyaratan pendaftaran. 
+
+2. Setelah terverifikasi, ketua tim akan menerima konfirmasi dan akses ke grup WhatsApp 
+
+resmi peserta. 
+
+3. Jika terdapat data yang belum sesuai, panitia akan menghubungi ketua tim untuk 
+
+melakukan perbaikan. 
+
+4. Dengan melakukan pendaftaran, peserta dianggap telah membaca, memahami, dan 
+
+menyetujui seluruh ketentuan yang tercantum dalam Guidebook Hackathon Web 
+
+Innovation Milad IT Fest 19. 
+
+5. Pengumpulan proposal dilaksanakan sesuai jadwal yang tercantum dalam Alur 
+
+Kompetisi. 
+
+Tahap Proposal & Seleksi 
+
+A. Ketentuan Proposal 
+
+1. Proposal merupakan dokumen yang digunakan untuk menjelaskan gagasan solusi yang 
+
+akan dikembangkan oleh setiap tim. 
+
+2. Setiap tim yang telah terdaftar wajib mengumpulkan satu proposal sesuai subtema yang 
+
+dipilih. 
+
+3. Proposal digunakan sebagai dasar bagi panitia dan/atau juri dalam melakukan screening 
+
+dan seleksi finalis. 
+
+4. Proposal tidak harus berupa produk yang sudah jadi atau Web Application yang telah 
+
+berfungsi. Peserta cukup menjelaskan permasalahan yang ingin diselesaikan, target 
+
+pengguna, solusi yang ditawarkan, serta gambaran awal produk. 
+
+5. Proposal harus dikembangkan oleh tim sendiri dan memiliki hubungan yang jelas dengan 
+
+subtema yang dipilih. 
+
+ 
+
+
+
+ 
+
+B. Isi Proposal 
+
+Proposal sekurang-kurangnya memuat: 
+
+Bagian Deskripsi 
+
+Identitas Tim • Nama tim. 
+
+• Nama anggota. 
+
+• Asal institusi. 
+
+Judul Proyek • Nama atau judul sementara Web Application yang akan 
+dikembangkan. 
+
+Subtema • SDG yang dipilih sebagai subtema utama. 
+
+Latar Belakang & • Permasalahan yang ingin diselesaikan. 
+Permasalahan • Latar belakang atau kondisi yang melandasi permasalahan 
+
+tersebut. 
+
+• Alasan permasalahan tersebut penting untuk diselesaikan. 
+
+Target Pengguna • Kelompok atau pihak yang mengalami permasalahan. 
+
+• Kebutuhan utama pengguna yang ingin dijawab. 
+
+Solusi yang Ditawarkan • Gambaran solusi yang ditawarkan. 
+
+• Cara Web Application membantu menyelesaikan 
+permasalahan. 
+
+• Fitur atau fungsi utama yang direncanakan. 
+
+Kesesuaian dengan • Penjelasan hubungan antara permasalahan dan solusi dengan 
+SDG subtema yang dipilih. 
+
+Potensi Dampak • Manfaat yang diharapkan. 
+
+• Perubahan atau dampak yang ingin dihasilkan melalui 
+solusi. 
+
+Rencana Teknologi • Gambaran teknologi, framework, database, API, AI, atau 
+teknologi pendukung lain yang direncanakan untuk 
+digunakan. 
+
+Gambaran Awal • Dapat berupa user flow, wireframe, mockup, diagram, atau 
+Produk visualisasi lain yang membantu menjelaskan solusi. 
+
+ 
+
+Peserta tidak diwajibkan membuat seluruh rancangan teknis secara lengkap pada tahap 
+proposal. Rancangan tersebut dapat disempurnakan setelah tim dinyatakan lolos sebagai 
+finalis. 
+
+ 
+
+
+
+ 
+
+C. Format & Pengumpulan Proposal 
+
+1. Dokumen diketik pada kertas berukuran A4, menggunakan font Times New Roman 12 
+
+pt, line spacing 1,5, dan margin standar 1 inci di semua sisi. 
+
+2. Panjang proposal maksimal 10 halaman teks (di luar sampul dan lampiran 
+
+wireframe/prototype). 
+
+3. Proposal dikumpulkan dalam format PDF dengan nama berkas: 
+
+<NamaTim>_Proposal_Hackathon.pdf. 
+
+4. Proposal harus menggunakan bahasa yang jelas, sistematis, dan mudah dipahami. 
+
+5. Seluruh informasi yang disampaikan dalam proposal harus dapat dipertanggungjawabkan 
+
+oleh tim. 
+
+6. Proposal dikumpulkan melalui link Pengumpulan Proposal yang disediakan oleh panitia. 
+
+D. Screening Proposal 
+
+Setiap proposal akan melalui proses screening untuk menilai kualitas dan kelayakan 
+gagasan yang diajukan. 
+
+Aspek yang menjadi pertimbangan dalam screening meliputi: 
+
+Aspek Penilaian Bobot Fokus Penilaian 
+
+Kejelasan, relevansi, dan keberadaan permasalahan 
+Permasalahan 20% 
+
+yang diangkat. 
+
+Target Pengguna 10% Kejelasan pihak yang mengalami permasalahan. 
+
+Solusi 20% Kesesuaian dan ketepatan solusi terhadap permasalahan. 
+
+Kesesuaian SDG 10% Kesesuaian ide dengan subtema yang dipilih. 
+
+Inovasi 15% Nilai inovasi dan kreativitas solusi. 
+
+Dampak 15% Potensi manfaat dan dampak yang dapat dihasilkan. 
+
+Kelayakan ide untuk dikembangkan menjadi Web 
+Kelayakan 10% 
+
+Application. 
+
+Total 100%  
+
+ 
+
+Screening tidak berfokus pada jumlah fitur atau kompleksitas aplikasi, tetapi pada 
+masalah yang jelas, solusi yang relevan, dan kelayakan untuk dikembangkan. 
+
+ 
+
+
+
+ 
+
+E. Pengumuman Finalis 
+
+1. Tim yang lolos screening ditetapkan sebagai finalis dan diumumkan melalui Instagram 
+
+resmi panitia. 
+
+2. Hasil screening dan keputusan juri dalam menentukan proposal yang lolos bersifat final 
+
+sesuai dengan ketentuan kompetisi. 
+
+3. Tim yang dinyatakan lolos wajib mengikuti seluruh tahapan berikutnya, termasuk 
+
+Technical Meeting, Hackathon Day, dan Pitching & Demo. 
+
+4. Setelah dinyatakan sebagai finalis, peserta dapat menyempurnakan ide dan rancangan 
+
+proyek berdasarkan hasil evaluasi atau kebutuhan pengembangan. Penyempurnaan 
+
+tersebut tetap harus mempertahankan permasalahan utama dan subtema yang telah 
+
+dipilih. 
+
+Penting: Lolos proposal bukan berarti waktu pengembangan telah dimulai. 
+
+Pengembangan produk kompetisi tetap dimulai pada Hackathon Day. 
+
+Persiapan Finalis 
+
+A. Ketentuan Persiapan Finalis 
+
+Finalis diberikan waktu untuk mempersiapkan kebutuhan pengembangan proyek 
+sebelum pelaksanaan Hackathon Day. Persiapan tersebut tidak termasuk pengembangan 
+produk kompetisi secara fungsional. Periode persiapan finalis berlangsung pada 28 November 
+– 4 Desember 2026. 
+
+Persiapan pada tahap ini bertujuan agar setiap tim datang ke Hackathon Day dengan 
+pemahaman masalah dan rancangan produk yang matang, sehingga waktu Hackathon dapat 
+digunakan secara efektif untuk mengimplementasikan solusi. 
+
+Selama periode persiapan, finalis diperbolehkan melakukan persiapan konseptual dan 
+teknis, tetapi belum diperbolehkan mengembangkan Web Application kompetisi secara 
+fungsional. 
+
+Hal-hal yang diperbolehkan untuk dipersiapkan antara lain: 
+
+• melakukan riset dan observasi terhadap permasalahan; 
+
+• melakukan validasi atau wawancara dengan calon pengguna; 
+
+• menyempurnakan konsep dan solusi; 
+
+• menentukan target pengguna; 
+
+• membuat user flow dan user journey; 
+
+ 
+
+
+
+ 
+• membuat wireframe dan desain UI/UX; 
+
+• merancang arsitektur sistem; 
+
+• merancang struktur database atau ERD; 
+
+• menentukan framework, library, database, API, dan teknologi yang akan digunakan; 
+
+• menyiapkan development environment; 
+
+• menyiapkan tools dan kebutuhan kerja tim; dan 
+
+• mempersiapkan dokumentasi atau materi pendukung yang diperlukan. 
+
+Sebaliknya, finalis tidak diperbolehkan melakukan pengembangan proyek kompetisi 
+sebelum Hackathon Day, termasuk: 
+
+• membuat frontend khusus untuk proyek kompetisi; 
+
+• membuat backend khusus untuk proyek kompetisi; 
+
+• membuat database yang telah terhubung dengan proyek; 
+
+• membuat API atau integrasi khusus proyek; 
+
+• melakukan deployment proyek; 
+
+• menyiapkan source code proyek; 
+
+• membuat prototype fungsional yang menjadi bagian dari produk kompetisi; atau 
+
+• menggunakan proyek yang telah dikembangkan sebelumnya sebagai dasar produk 
+
+kompetisi. 
+
+B. Blueprint Produk 
+
+Sebelum mengikuti Hackathon Day, setiap finalis diharapkan telah memiliki blueprint 
+produk yang menjadi dasar pengembangan selama Hackathon. 
+
+Blueprint dapat mencakup: 
+
+• permasalahan dan tujuan solusi; 
+
+• target pengguna; 
+
+• user flow; 
+
+• wireframe atau desain UI/UX; 
+
+• fitur utama dan prioritas pengembangan; 
+
+• arsitektur sistem; 
+
+• rancangan database; 
+
+• teknologi yang akan digunakan; dan 
+
+ 
+
+
+
+ 
+• rencana implementasi. 
+
+Blueprint merupakan rancangan, bukan produk yang sudah berfungsi. 
+
+C. Technical Meeting 
+
+Technical Meeting dilaksanakan pada 29 November 2026 dan wajib diikuti seluruh 
+finalis. 
+
+Technical Meeting membahas mekanisme Hackathon Day, waktu pengembangan, final 
+submission, Pitching & Demo, penilaian, serta hal teknis lainnya. 
+
+Hackathon Day 
+
+A. Ketentuan Hackathon Day 
+
+1. Hackathon Day merupakan tahap utama kompetisi, di mana setiap finalis mulai 
+
+mengimplementasikan blueprint yang telah dipersiapkan menjadi Web Application. 
+
+a. Pengembangan produk yang bersifat spesifik terhadap proyek wajib dilakukan 
+
+selama sesi Hackathon Day berlangsung. Finalis tidak diperkenankan membawa 
+
+produk, source code, database, maupun prototype fungsional yang telah 
+
+dikembangkan sebelum sesi dimulai. 
+
+b. Finalis diperbolehkan mempersiapkan kebutuhan teknis sebelum Hackathon Day, 
+
+seperti wireframe, user flow, arsitektur sistem, desain database, pemilihan 
+
+teknologi, instalasi tools, serta konfigurasi lingkungan pengembangan. 
+
+c. Finalis diperbolehkan menggunakan framework, library, package, API, layanan 
+
+cloud, open-source tools, dan teknologi pendukung lainnya selama sesuai dengan 
+
+ketentuan lomba dan lisensi yang berlaku. 
+
+d. Penggunaan AI diperbolehkan untuk membantu proses ideasi, coding, debugging, 
+
+dokumentasi, maupun kebutuhan teknis lainnya. Finalis tetap bertanggung jawab 
+
+untuk memahami dan mampu menjelaskan bagian produk yang dikembangkan 
+
+dengan bantuan AI. 
+
+e. Web Application merupakan keluaran utama dan wajib dapat dijalankan serta 
+
+didemonstrasikan pada saat final submission dan pitching. 
+
+f. Penggunaan Mobile Application, PWA, maupun platform tambahan lainnya bersifat 
+
+opsional dan tidak menjadi kewajiban peserta. Penilaian tetap berfokus pada 
+
+kualitas solusi dan implementasi produk, bukan jumlah platform yang digunakan. 
+
+ 
+
+
+
+ 
+2. Selama Hackathon Day berlangsung, finalis diperbolehkan melakukan pengembangan 
+
+produk secara penuh, meliputi: 
+
+a. Pengembangan frontend dan backend. 
+
+b. Implementasi database dan API. 
+
+c. Integrasi layanan atau teknologi pihak ketiga. 
+
+d. Implementasi fitur dan fungsionalitas produk. 
+
+e. Pengujian, debugging, dan deployment. 
+
+f. Penggunaan Git/GitHub untuk pengelolaan source code. 
+
+3. Finalis wajib menjaga riwayat pengembangan proyek selama Hackathon Day sebagai 
+
+bagian dari proses verifikasi, dengan ketentuan sebagai berikut: 
+
+a. Setiap tim wajib menggunakan repository GitHub untuk menyimpan source code 
+
+proyek. 
+
+b. Pada awal sesi Hackathon Day, setiap tim wajib mengundang akun GitHub panitia 
+
+ke repository proyek untuk keperluan monitoring dan verifikasi proses 
+
+pengembangan. 
+
+c. Finalis wajib melakukan commit dan push secara berkala selama proses 
+
+pengembangan. 
+
+d. Panitia dapat melakukan pemeriksaan terhadap riwayat commit untuk memastikan 
+
+proses pengembangan berlangsung sesuai dengan ketentuan Hackathon Day. 
+
+e. Panitia dapat melakukan pemeriksaan pada checkpoint yang telah ditentukan 
+
+selama sesi Hackathon Day. 
+
+4. Setelah waktu Hackathon Day berakhir, seluruh tim wajib menghentikan proses 
+
+pengembangan dan melakukan final submission sesuai dengan ketentuan yang ditetapkan 
+
+panitia. 
+
+5. Setiap anggota tim hanya diperbolehkan mengembangkan produk yang didaftarkan oleh 
+
+timnya sendiri. Penggunaan bantuan dari pihak di luar anggota tim dalam proses 
+
+pengembangan produk tidak diperkenankan. 
+
+6. Panitia berhak melakukan verifikasi terhadap proses pengembangan apabila terdapat 
+
+indikasi bahwa produk telah dikembangkan sebelum Hackathon Day atau terdapat 
+
+pelanggaran terhadap ketentuan yang berlaku. Temuan pelanggaran dapat menjadi dasar 
+
+pemberian sanksi hingga diskualifikasi. 
+
+ 
+
+
+
+ 
+
+B. Ketentuan Pitching & Demo 
+
+1. Sesi Pitching & Demo dilaksanakan setelah tahap Hackathon Day dan diikuti oleh seluruh 
+
+tim finalis. 
+
+2. Pitching & Demo dilakukan secara luring di hadapan dewan juri, dengan format 
+
+presentasi berupa pitch deck dan demo langsung produk. 
+
+3. Setiap tim wajib mempresentasikan hasil akhir Web Application yang telah 
+
+dikembangkan selama Hackathon Day, dengan ketentuan sebagai berikut: 
+
+a. Menjelaskan permasalahan dan kebutuhan pengguna yang diangkat. 
+
+b. Menjelaskan solusi dan tujuan produk yang dikembangkan. 
+
+c. Menunjukkan fitur utama dan alur penggunaan produk melalui demo. 
+
+d. Menjelaskan teknologi dan pendekatan yang digunakan dalam pengembangan. 
+
+e. Menjelaskan keterkaitan solusi dengan subtema SDG yang dipilih. 
+
+f. Menjelaskan potensi manfaat dan dampak solusi terhadap permasalahan yang 
+
+diangkat. 
+
+4. Sesi pitching dilanjutkan dengan sesi tanya jawab bersama dewan juri. 
+
+5. Urutan tampil dan alokasi waktu setiap tim akan diinformasikan oleh panitia melalui 
+
+Technical Meeting finalis. 
+
+C. Deliverables 
+
+1. Produk final berupa Web Application yang dapat dijalankan dan didemonstrasikan serta 
+
+mampu menjalankan fungsi utama dari solusi yang diusulkan. 
+
+2. Pitch deck. Jumlah slide tidak dibatasi, tetapi peserta wajib menyesuaikan materi 
+
+dengan alokasi waktu yang ditentukan. Pitch deck minimal memuat: 
+
+a. Permasalahan dan latar belakang. 
+
+b. Target pengguna. 
+
+c. Solusi yang ditawarkan. 
+
+d. Fitur dan demo produk. 
+
+e. Teknologi yang digunakan. 
+
+f. Kesesuaian dengan subtema SDG. 
+
+g. Dampak dan potensi pengembangan solusi. 
+
+ 
+
+
+
+ 
+3. Source code berupa repository GitHub proyek yang digunakan selama Hackathon Day 
+
+dan dapat diakses oleh panitia/dewan juri untuk keperluan verifikasi dan penilaian. 
+
+4. Informasi teknis mengenai format pengumpulan, batas waktu, dan ketentuan tambahan 
+
+akan disampaikan pada Technical Meeting finalis. 
+
+D. Penilaian 
+
+Aspek Penilaian Bobot Fokus Penilaian 
+
+Kejelasan permasalahan, relevansi terhadap kebutuhan 
+Permasalahan & 
+
+20% pengguna, serta ketepatan identifikasi masalah yang 
+Relevansi 
+
+diangkat. 
+
+Ketepatan solusi dalam menjawab permasalahan, 
+Kualitas Solusi 20% kelengkapan fungsi utama, dan manfaat yang diberikan 
+
+kepada pengguna. 
+
+Kebaruan pendekatan, kreativitas dalam merancang 
+Inovasi & Kreativitas 15% solusi, serta nilai tambah yang ditawarkan 
+
+dibandingkan pendekatan yang sudah ada. 
+
+Kualitas antarmuka, kemudahan penggunaan, alur 
+UI/UX & 
+
+15% pengguna, serta keberfungsian Web Application saat 
+Fungsionalitas 
+
+didemonstrasikan. 
+
+Ketepatan penggunaan teknologi, kualitas 
+Implementasi 
+
+10% implementasi, serta kesesuaian teknologi dengan 
+Teknologi 
+
+kebutuhan solusi. 
+
+Dampak & Kesesuaian solusi dengan subtema yang dipilih serta 
+10% 
+
+Kesesuaian SDG potensi manfaat dan dampak yang dapat dihasilkan. 
+
+Kejelasan penyampaian, kemampuan melakukan demo, 
+Pitching & Q&A 10% penguasaan produk, serta ketepatan dalam menjawab 
+
+pertanyaan dewan juri. 
+
+Total 100%  
+
+ 
+
+ 
+
+
+
+ 
+
+Ketentuan Umum 
+
+A. Originalitas dan Hak Kekayaan Intelektual 
+
+1. Setiap karya yang dikembangkan wajib merupakan hasil kerja tim sendiri dan tidak 
+
+melanggar hak kekayaan intelektual pihak lain. 
+
+2. Peserta diperbolehkan menggunakan framework, library, API, dataset, aset desain, dan 
+
+layanan pihak ketiga selama sesuai dengan lisensi dan ketentuan yang berlaku. 
+
+3. Peserta tidak diperkenankan menggunakan kembali proyek atau produk yang telah 
+
+dikembangkan sebelum kompetisi sebagai produk yang dilombakan. 
+
+B. Penggunaan AI 
+
+1. Peserta diperbolehkan menggunakan teknologi AI untuk membantu proses ideasi, riset, 
+
+coding, debugging, dokumentasi, desain, maupun kebutuhan teknis lainnya. 
+
+2. Peserta bertanggung jawab atas hasil yang dihasilkan dengan bantuan AI dan wajib 
+
+memahami serta mampu menjelaskan bagian produk yang menggunakan AI apabila 
+
+diminta oleh dewan juri. 
+
+3. Penggunaan AI tidak diperkenankan untuk mengembangkan produk kompetisi secara 
+
+spesifik sebelum Hackathon Day berlangsung. 
+
+4. Penggunaan AI bersifat opsional dan bukan merupakan persyaratan dalam kompetisi. 
+
+C. Plagiarisme dan Kecurangan 
+
+1. Peserta dilarang melakukan plagiarisme, menggunakan source code atau karya pihak lain 
+
+tanpa izin, memanipulasi data atau identitas, maupun melakukan tindakan yang 
+
+memberikan keuntungan secara tidak adil. 
+
+2. Peserta tidak diperkenankan melibatkan pihak di luar anggota tim dalam proses 
+
+pengembangan produk. 
+
+3. Setiap tim bertanggung jawab atas seluruh materi, kode, data, aset, dan hasil 
+
+pengembangan yang dikumpulkan selama kompetisi. 
+
+D. Pelanggaran dan Sanksi 
+
+1. Panitia dan dewan juri berhak melakukan pemeriksaan apabila terdapat dugaan 
+
+pelanggaran terhadap ketentuan kompetisi. 
+
+2. Pelanggaran dapat dikenakan sanksi berupa: 
+
+ 
+
+
+
+ 
+a. Teguran atau peringatan. 
+
+b. Pengurangan nilai. 
+
+c. Pembatalan hasil submission. 
+
+d. Diskualifikasi. 
+
+3. Pelanggaran berat, termasuk pengembangan produk sebelum Hackathon Day, 
+
+plagiarisme, penggunaan pihak luar, dan tindakan kecurangan, dapat menjadi dasar 
+
+diskualifikasi. 
+
+4. Keputusan panitia dan dewan juri terkait pelanggaran dan hasil kompetisi bersifat final. 
+
+Kontak 
+
+Untuk informasi, pertanyaan, dan koordinasi terkait Hackathon Web Innovation Milad 
+IT Fest 19, peserta dapat menghubungi panitia melalui kontak resmi berikut: 
+
+Contact Person Hackathon 
+
+0831-8406-2226 (Rhadit) 
+
+0851-8545-0317 (Noni) 
+
+Official Instagram 
+
+@miladtiuir 
+
+@technofestuir 
+
+Website 
+
+miladitfest.my.id 
+
+Peserta diharapkan menggunakan kanal komunikasi resmi yang telah disediakan dan 
+mencantumkan identitas tim ketika menyampaikan pertanyaan atau kendala terkait kompetisi.

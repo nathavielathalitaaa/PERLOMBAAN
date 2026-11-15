@@ -1,0 +1,1716 @@
+﻿1 
+
+
+
+ 
+
+Catatan: 
+Versi  : 1.9 
+Tanggal : 14/07/2026 
+ 
+
+  
+
+ 2 
+
+
+
+ 
+
+DAFTAR ISI 
+A. PENDAHULUAN ..................................................................................................... 5 
+
+A.1. Pendahuluan ................................................................................................... 5 
+
+A.2. Tema Kegiatan ............................................................................................... 7 
+
+A.3. Tujuan Kegiatan ............................................................................................. 8 
+
+A.4. Nama Kegiatan ............................................................................................. 11 
+
+A.5. Penyelenggara ............................................................................................. 11 
+
+A.6. Peserta Kegiatan ......................................................................................... 11 
+
+A.7. Kategori Kompetisi ..................................................................................... 12 
+
+A.8. Bidang Kompetisi ........................................................................................ 12 
+
+B. PELAKSANAAN LOMBA ..................................................................................... 13 
+
+B.1 Jadwal Pelaksanaan Lomba ....................................................................... 13 
+
+B.2 Pendaftaran Lomba ...................................................................................... 13 
+
+B.3 Bentuk Kompetisi ......................................................................................... 15 
+
+B.3.1 Babak Penyisihan ................................................................................. 15 
+
+B.3.2 Babak Semifinal .................................................................................... 17 
+
+B.3.3 Babak Final ............................................................................................ 22 
+
+B.4 Biaya Pendaftaran ........................................................................................ 27 
+
+B.3.1 Babak Penyisihan ................................................................................. 27 
+
+B.3.2 Babak Semifinal .................................................................................... 27 
+
+B.3.3 Babak Final ............................................................................................ 27 
+
+C. MATERI LOMBA ................................................................................................... 29 
+
+C.1. Cakupan Materi ............................................................................................ 29 
+
+C.1.1 Matematika ............................................................................................ 29 
+
+C.1.2 Logika ..................................................................................................... 30 
+
+C.1.3 Berpikir Komputasional ....................................................................... 30 
+
+C.2. Materi Per Level ........................................................................................... 31 
+
+C.2.1 Level A — Little Explorer ................................................................... 31 
+
+C.2.2 Level B — Junior Thinker ................................................................... 32 
+
+C.2.3 Level C — Smart Solver ...................................................................... 32 
+
+C.2.4 Level D — Logic Challenger .............................................................. 33 
+
+ 3 
+
+
+
+ 
+
+C.2.5 Level E — Future Coder ..................................................................... 34 
+
+C.3. Contoh Soal .................................................................................................. 35 
+
+C.3.1 Level A – Little Explorer...................................................................... 36 
+
+C.3.2 Level B – Junior Thinker ...................................................................... 37 
+
+C.3.3 Level C – Smart Solver ........................................................................ 38 
+
+C.3.3 Level D – Logic Challenger ................................................................ 39 
+
+C.3.3 Level C – Future Coder ....................................................................... 40 
+
+C.4. Buku Referensi ............................................................................................. 41 
+
+D. FASILITAS DAN PENGHARGAAN ..................................................................... 45 
+
+1. Babak Penyisihan ............................................................................................ 45 
+
+2. Babak Semi-Final ............................................................................................ 45 
+
+3. Babak Final ....................................................................................................... 46 
+
+E. FREQUENTLY ASKED QUESTIONS ................................................................... 48 
+
+ 
+
+  
+
+ 4 
+
+
+
+ 
+
+ 
+
+A. PENDAHULUAN  
+
+A.1. Pendahuluan 
+Perkembangan teknologi digital, kecerdasan buatan (Artificial 
+Intelligence/AI), data, dan otomasi telah mengubah cara manusia belajar, 
+bekerja, berkomunikasi, dan menyelesaikan masalah. Di era transformasi 
+digital saat ini, kemampuan membaca dan menulis saja tidak lagi cukup. 
+Generasi muda juga perlu memiliki kemampuan berpikir logis, numerik, 
+analitis, dan sistematis sebagai bagian dari literasi baru yang sangat penting 
+untuk masa depan. 
+ 
+Kemampuan matematika, logika, dan computational thinking kini menjadi 
+fondasi penting dalam berbagai bidang, mulai dari teknologi, bisnis, 
+kesehatan, pendidikan, hingga industri kreatif. Kemampuan tersebut 
+membantu seseorang memahami pola, menganalisis informasi, menyusun 
+strategi, mengambil keputusan, serta menyelesaikan masalah secara efektif 
+dan efisien. Di era AI, kemampuan berpikir seperti ini menjadi semakin 
+penting karena manusia tidak hanya dituntut menjadi pengguna teknologi, 
+tetapi juga mampu memahami cara berpikir sistem dan memanfaatkan 
+teknologi secara cerdas, kritis, dan kreatif. 
+ 
+Namun demikian, pembelajaran matematika dan logika sering kali masih 
+dianggap sulit, membosankan, dan jauh dari kehidupan sehari-hari. Padahal, 
+jika dikemas dengan pendekatan yang tepat, matematika dan logika dapat 
+menjadi sarana yang menyenangkan untuk melatih kemampuan berpikir 
+kritis, problem solving, kreativitas, daya analisis, dan kemampuan 
+mengambil keputusan sejak usia dini. 
+ 
+Berangkat dari kebutuhan tersebut, AlgoQuest 2026 hadir sebagai 
+kompetisi nasional yang menggabungkan matematika, logika, dan 
+computational thinking dalam bentuk tantangan yang edukatif, menarik, dan 
+relevan dengan perkembangan zaman. Kompetisi ini ditujukan bagi siswa 
+mulai dari kelas 1 Sekolah Dasar (SD) hingga kelas 12 Sekolah Menengah 
+Atas (SMA) atau sederajat sebagai ruang untuk belajar, bertanding, 
+sekaligus mengembangkan kemampuan berpikir tingkat tinggi melalui soal-
+soal berbasis penalaran, strategi, pola, analisis, dan pemecahan masalah. 
+
+ 5 
+
+
+
+ 
+
+ 
+Target peserta yang mencakup jenjang SD hingga SMA dipilih karena 
+kemampuan berpikir logis, numerasi, dan problem solving perlu dibangun 
+secara bertahap sejak usia dini. Pada jenjang sekolah dasar, siswa mulai 
+belajar mengenali pola, memahami hubungan sebab-akibat, serta menyusun 
+langkah penyelesaian sederhana. Pada jenjang SMP, kemampuan berpikir 
+abstrak, analitis, dan strategis mulai berkembang lebih kuat. Sementara pada 
+jenjang SMA, siswa mulai dihadapkan pada persoalan yang membutuhkan 
+penalaran kompleks, pengambilan keputusan, optimasi, dan kemampuan 
+analisis yang lebih mendalam. 
+ 
+Dengan memberikan pengalaman kompetisi sejak dini, siswa tidak hanya 
+dilatih untuk menjawab soal, tetapi juga belajar menghadapi tantangan, 
+berpikir sistematis, menyusun strategi, dan menyelesaikan masalah secara 
+mandiri. Kemampuan ini sangat penting untuk menghadapi tantangan 
+pendidikan, dunia kerja, dan perkembangan teknologi di masa depan. 
+ 
+Selain itu, kompetisi seperti AlgoQuest 2026 juga menjadi sarana bagi siswa 
+untuk: 
+
+• meningkatkan rasa percaya diri dalam menyelesaikan masalah, 
+
+• melatih ketelitian dan kemampuan analisis, 
+
+• membangun daya juang dan pola pikir bertumbuh (growth mindset), 
+
+• membiasakan berpikir kreatif dan logis, 
+
+• serta mengenal cara berpikir komputasional yang menjadi dasar 
+berbagai teknologi modern saat ini. 
+
+ 
+Di era AI, kemampuan seperti mengenali pola, menyusun langkah 
+penyelesaian, memahami data, berpikir logis, dan membuat keputusan 
+berbasis analisis menjadi keterampilan yang sangat dibutuhkan di hampir 
+semua bidang. Oleh karena itu, penguasaan matematika, logika, dan 
+computational thinking tidak lagi hanya relevan untuk siswa yang ingin 
+masuk bidang teknologi, tetapi juga penting bagi seluruh generasi muda 
+sebagai bagian dari literasi masa depan. 
+ 
+Melalui semangat Math, Logic, and Coding, AlgoQuest 2026 tidak hanya 
+berfokus pada kemampuan menghitung secara cepat, tetapi juga pada 
+kemampuan memahami masalah, menyusun strategi penyelesaian, 
+menemukan pola, berpikir sistematis, serta mengambil keputusan secara 
+logis. Kompetisi ini diharapkan dapat menjadi wadah untuk memacu minat 
+
+ 6 
+
+
+
+ 
+
+dan kemampuan generasi muda Indonesia dalam menguasai literasi digital 
+baru yang sangat dibutuhkan di masa kini dan masa depan. 
+Selain menjadi ajang kompetisi, AlgoQuest 2026 juga diharapkan menjadi 
+ruang belajar yang menyenangkan dan inspiratif bagi siswa Indonesia. Soal-
+soal yang disusun tidak hanya menekankan hafalan rumus, tetapi dirancang 
+untuk mendorong peserta berpikir lebih dalam, menganalisis situasi, 
+memahami pola, dan menemukan solusi kreatif terhadap berbagai 
+permasalahan. 
+ 
+AlgoQuest 2026 diselenggarakan oleh Laboratorium Rekayasa Data dan 
+Inteligensi Bisnis, Departemen Sistem Informasi, Institut Teknologi 
+Sepuluh Nopember (ITS), Surabaya, melalui platform algoritme.id. 
+Kegiatan ini merupakan bagian dari program penelitian dan pengabdian 
+kepada masyarakat yang dilakukan oleh tim dosen dan mahasiswa untuk 
+mendukung penguatan literasi numerasi, logika, computational thinking, dan 
+kemampuan problem solving bagi generasi muda Indonesia. 
+ 
+Melalui kegiatan ini, tim penyelenggara berharap dapat membangun 
+ekosistem pembelajaran yang lebih adaptif terhadap perkembangan 
+teknologi dan kebutuhan masa depan, sekaligus mendorong lahirnya 
+generasi muda yang tidak hanya cerdas secara akademik, tetapi juga mampu 
+berpikir kritis, kreatif, sistematis, dan solutif dalam menghadapi berbagai 
+tantangan di era digital dan AI. 
+ 
+Dengan mengusung tagline: 
+ 
+“Beyond Counting, Towards Problem Solving” 
+ 
+AlgoQuest 2026 diharapkan menjadi lebih dari sekadar kompetisi, tetapi 
+juga menjadi gerakan edukasi untuk membangun budaya berpikir, bernalar, 
+dan menyelesaikan masalah secara cerdas di kalangan generasi muda 
+Indonesia. 
+
+A.2. Tema Kegiatan 
+ 
+“Beyond Counting, Towards Problem Solving” 
+ 
+“Bukan Sekadar Pintar Menghitung, Tapi Jago Memecahkan Masalah” 
+ 
+
+ 7 
+
+
+
+ 
+
+Tema ini menggambarkan bahwa kemampuan masa depan tidak hanya 
+ditentukan oleh seberapa cepat siswa menghitung, tetapi juga bagaimana 
+siswa memahami masalah, menemukan pola, menyusun strategi, dan 
+menghasilkan solusi. 
+
+A.3. Tujuan Kegiatan 
+Kegiatan AlgoQuest 2026 bertujuan untuk menjadi wadah pengembangan 
+kemampuan matematika, logika, dan computational thinking bagi generasi 
+muda Indonesia sejak usia dini. Kompetisi ini tidak hanya berorientasi pada 
+pencapaian akademik, tetapi juga diarahkan untuk membangun pola pikir 
+kritis, sistematis, kreatif, dan solutif yang sangat dibutuhkan di era digital 
+dan kecerdasan buatan (Artificial Intelligence/AI). 
+ 
+Secara khusus, tujuan kegiatan AlgoQuest 2026 adalah sebagai berikut: 
+ 
+
+1. Meningkatkan Minat dan Kemampuan Matematika, Logika, dan 
+Computational Thinking 
+
+ 
+AlgoQuest 2026 bertujuan untuk meningkatkan minat siswa terhadap 
+matematika, logika, dan cara berpikir komputasional melalui 
+pendekatan yang lebih menarik, kontekstual, dan menantang. 
+Kompetisi ini diharapkan mampu mengubah pandangan bahwa 
+matematika dan logika bukan sekadar pelajaran sekolah yang penuh 
+rumus, tetapi keterampilan berpikir yang sangat berguna dalam 
+kehidupan sehari-hari dan masa depan. 
+ 
+Melalui soal-soal berbasis penalaran, pola, strategi, dan problem 
+solving, peserta didorong untuk berpikir lebih dalam, memahami 
+masalah secara sistematis, serta menemukan solusi secara kreatif dan 
+logis. 
+
+ 
+2. Mengembangkan Kemampuan Problem Solving Sejak Dini 
+
+ 
+Kemampuan menyelesaikan masalah (problem solving) merupakan 
+salah satu keterampilan utama yang dibutuhkan di abad ke-21. 
+AlgoQuest 2026 dirancang untuk melatih siswa agar terbiasa 
+menghadapi tantangan, menganalisis informasi, menemukan pola, 
+menyusun strategi, serta mengambil keputusan secara tepat. 
+ 
+
+ 8 
+
+
+
+ 
+
+Melalui proses tersebut, peserta tidak hanya belajar mencari jawaban 
+benar, tetapi juga belajar memahami proses berpikir dalam 
+menyelesaikan suatu masalah. Kemampuan ini sangat penting untuk 
+mendukung keberhasilan siswa dalam pendidikan maupun kehidupan 
+di masa depan. 
+
+ 
+3. Menjadi Sarana Penguatan Literasi Digital di Era AI 
+
+ 
+Perkembangan AI, data, dan teknologi digital menuntut generasi muda 
+untuk memiliki kemampuan berpikir logis, analitis, dan sistematis. 
+AlgoQuest 2026 hadir sebagai salah satu sarana penguatan literasi 
+digital baru yang relevan dengan perkembangan zaman. 
+ 
+Kompetisi ini diharapkan dapat membantu siswa memahami 
+pentingnya kemampuan seperti: 
+
+• mengenali pola,  
+
+• berpikir algoritmik,  
+
+• menyusun langkah penyelesaian,  
+
+• memahami hubungan logis,  
+
+• serta membuat keputusan berbasis analisis.  
+ 
+
+Kemampuan tersebut menjadi fondasi penting dalam berbagai bidang, 
+termasuk teknologi, sains, bisnis, pendidikan, dan industri kreatif di 
+masa depan. 
+
+ 
+4. Mendorong Budaya Berpikir Kritis dan Kreatif 
+
+ 
+AlgoQuest 2026 bertujuan untuk membangun budaya berpikir kritis, 
+kreatif, dan analitis di kalangan siswa Indonesia. Soal-soal yang 
+disusun tidak hanya menguji kemampuan menghitung, tetapi juga 
+kemampuan memahami situasi, menafsirkan informasi, membuat 
+strategi, dan menemukan solusi yang efektif. 
+ 
+Dengan demikian, peserta diharapkan terbiasa untuk: 
+
+• berpikir secara runtut dan sistematis,  
+
+• tidak mudah menyerah ketika menghadapi tantangan,  
+
+• mencoba berbagai strategi penyelesaian,  
+
+• serta memiliki rasa ingin tahu yang tinggi dalam belajar.  
+ 
+
+ 9 
+
+
+
+ 
+
+5. Memberikan Ruang Kompetisi yang Edukatif dan Menyenangkan 
+ 
+ 
+
+AlgoQuest 2026 juga bertujuan menghadirkan pengalaman kompetisi 
+yang tidak hanya kompetitif, tetapi juga edukatif, menyenangkan, dan 
+inspiratif bagi siswa dari kelas 1 SD hingga kelas 12 SMA. 
+Melalui kompetisi ini, peserta dapat: 
+
+• belajar sambil bertanding,  
+
+• mengenal tantangan berbasis logika dan penalaran,  
+
+• bertemu dengan siswa dari berbagai daerah,  
+
+• serta memperoleh pengalaman baru dalam menyelesaikan 
+masalah secara kreatif dan sistematis.  
+
+ 
+6. Menemukan dan Mengembangkan Talenta Muda Indonesia 
+
+ 
+AlgoQuest 2026 diharapkan dapat menjadi wadah untuk menemukan 
+siswa-siswa berbakat dalam bidang matematika, logika, dan problem 
+solving dari berbagai daerah di Indonesia. 
+Melalui kompetisi ini, peserta yang memiliki potensi dapat: 
+
+• mengembangkan kemampuan berpikir tingkat tinggi,  
+
+• meningkatkan rasa percaya diri,  
+
+• memperoleh pengalaman kompetisi nasional,  
+
+• serta terdorong untuk terus belajar dan berkembang.  
+ 
+
+7. Mendukung Penguatan Ekosistem Pendidikan Berbasis Problem 
+Solving 
+
+Kegiatan ini juga bertujuan untuk mendukung pengembangan 
+ekosistem pendidikan yang lebih adaptif terhadap perkembangan 
+teknologi dan kebutuhan masa depan. AlgoQuest 2026 diharapkan 
+dapat menjadi media kolaborasi antara siswa, guru, sekolah, orang 
+tua, perguruan tinggi, dan komunitas pendidikan dalam membangun 
+budaya belajar berbasis penalaran dan problem solving. 
+ 
+Melalui kegiatan ini, matematika dan logika diharapkan tidak lagi 
+dipandang sebagai pelajaran yang menakutkan, tetapi sebagai sarana 
+untuk melatih cara berpikir dan menyelesaikan masalah dalam 
+kehidupan nyata. 
+ 
+
+8. Mendukung Kegiatan Penelitian dan Pengabdian kepada Masyarakat 
+
+ 10 
+
+
+
+ 
+
+ 
+AlgoQuest 2026 merupakan bagian dari kegiatan penelitian dan 
+pengabdian kepada masyarakat yang dilakukan oleh tim dosen dan 
+mahasiswa dari Laboratorium Rekayasa Data dan Inteligensi Bisnis, 
+Departemen Sistem Informasi, Institut Teknologi Sepuluh Nopember 
+(ITS), Surabaya, melalui platform algoritme.id. 
+ 
+Melalui kegiatan ini, tim penyelenggara berupaya menghadirkan 
+inovasi pembelajaran dan kompetisi yang relevan dengan 
+perkembangan era digital, sekaligus memberikan kontribusi nyata 
+dalam penguatan literasi numerasi, logika, dan computational thinking 
+bagi generasi muda Indonesia. 
+
+ 
+Secara umum, AlgoQuest 2026 diharapkan tidak hanya menjadi ajang 
+perlombaan, tetapi juga menjadi gerakan edukasi untuk membangun 
+generasi muda Indonesia yang: 
+
+• mampu berpikir kritis dan logis,  
+
+• kreatif dalam menyelesaikan masalah,  
+
+• adaptif terhadap perkembangan teknologi,  
+
+• serta siap menghadapi tantangan masa depan di era digital dan AI.  
+ 
+
+A.4. Nama Kegiatan 
+AlgoQuest 2026 
+National Math, Logic, and Coding Competition 
+ 
+
+A.5. Penyelenggara 
+ 
+Laboratorium Rekayasa Data dan Inteligensi Bisnis 
+Departemen Sistem Informasi 
+Institut Teknologi Sepuluh Nopember (ITS), Surabaya 
+melalui platform algoritme.id 
+ 
+
+A.6. Peserta Kegiatan 
+Peserta AlgoQuest 2026 adalah siswa aktif dari jenjang: 
+
+ 11 
+
+
+
+ 
+
+• Kelas 1–6 Sekolah Dasar/sederajat  
+• Kelas 7–9 Sekolah Menengah Pertama/sederajat  
+• Kelas 10–12 Sekolah Menengah Atas/sederajat  
+
+ 
+Peserta dapat berasal dari sekolah negeri, sekolah swasta, madrasah, 
+pesantren, homeschooling, maupun lembaga pendidikan lainnya. 
+ 
+
+A.7. Kategori Kompetisi 
+Peserta dibagi menjadi lima kategori berdasarkan jenjang kelas, sebagai 
+berikut: 
+ 
+
+ 
+ 
+
+A.8. Bidang Kompetisi 
+AlgoQuest 2026 mencakup gabungan tiga bidang utama sekaligus: 
+ 
+a. Mathematics 
+Bidang ini menguji kemampuan numerasi, operasi hitung, pola bilangan, 
+geometri, aljabar dasar, perbandingan, peluang, dan pemecahan masalah 
+matematis sesuai jenjang peserta. 
+
+ 12 
+
+
+
+ 
+
+ 
+b. Logic 
+Bidang ini menguji kemampuan berpikir runtut, menemukan pola, 
+memahami hubungan sebab-akibat, membaca instruksi, menyusun strategi, 
+dan menyelesaikan tantangan logis. 
+ 
+c. Coding and Computational Thinking 
+Bidang ini menguji kemampuan berpikir komputasional, memahami 
+algoritma, urutan instruksi, flowchart, pseudocode, debugging, conditional, 
+looping, array sederhana, hingga dasar-dasar pemrograman sesuai kategori 
+peserta. 
+ 
+
+B. PELAKSANAAN LOMBA 
+
+B.1 Jadwal Pelaksanaan Lomba 
+ 
+Jadwal pelaksanaan lomba adalah sebagai berikut: 
+ 
+
+ 
+ 
+
+B.2 Pendaftaran Lomba 
+ 
+Pendaftaran dapat dilakukan secara individu maupun secara kolektif 
+melalui tautan: https://algoritme.id/daftar-lomba/ 
+ 
+
+ 13 
+
+
+
+ 
+
+a. Pendaftaran Secara Individu 
+Pendaftaran secara individu dapat dilakukan secara mandiri oleh 
+siswa atau dibantu oleh orangtua/guru. Biaya pendaftaran individu 
+adalah: 
+
+• Gratis, dengan persyaratan: 
+i. Follow IG: @algoritmeid, screen shoot bukti following 
+ii. Repost feed Algoquest 2026 di feed atau story IG, 
+
+screen shoot bukti repost 
+iii. Download Template Twibbon dan Template caption IG di: 
+
+https://its.id/algoquest2026twibbon 
+iv. Edit Twibbon secara mandiri atau melalui 
+
+https://www.twibbonize.com/algoquest26 
+v. Unggah twibbon di IG peserta, dengan caption yang 
+
+ditentukan pada poin (iii); tag IG: @algoritmeid 
+@its_sisteminformasi, dan @its_campus 
+
+vi. Screen shoot bukti feed twibbon di IG. 
+
+• Berbayar Rp. 20.000, tanpa persyaratan. Biaya pendaftaran 
+ditransfer ke No Rekening BRI: 3158 01018199502 a.n. Al-Khiqmah 
+Manzilatul Mukaromah (Bisa Melalui Aplikasi Flip) 
+ 
+
+b. Pendaftaran Secara Kolektif 
+Pembayaran dapat dilakukan secara kolektif oleh pihak sekolah, 
+sehingga tidak perlu mendaftarkan peserta satu per satu, dengan 
+ketentuan sebagai berikut: 
+
+i. Unduh file excel pendaftaran 
+kolektif: https://its.id/algoquest26datakolektif (File - 
+Download - Microsoft Excel) 
+
+ii. Lengkapi file excel dengan data peserta kolektif 
+iii. Lakukan transfer biaya pendaftaran Rp. 10.000/peserta 
+
+ke  No Rekening BRI: 3158 01018199502 a.n. Al-Khiqmah 
+Manzilatul Mukaromah (Bisa Melalui Aplikasi Flip) 
+
+iv. Simpan Bukti Pembayaran 
+v. Scan dokumen persyaratan: Surat Pengantar/Keterangan 
+
+dari Kepala Sekolah (Format Bebas) 
+ 
+ 
+
+ 14 
+
+
+
+ 
+
+B.3 Bentuk Kompetisi 
+AlgoQuest 2026 dilaksanakan dalam tiga tahap utama, yaitu Babak 
+Penyisihan, Babak Semifinal, dan Babak Final. Setiap babak dirancang 
+secara bertahap untuk mengukur kemampuan peserta dalam matematika, 
+logika, computational thinking, dan dasar-dasar coding sesuai dengan level 
+masing-masing. 
+ 
+
+B.3.1 Babak Penyisihan 
+
+Babak penyisihan merupakan tahap awal kompetisi yang wajib diikuti oleh 
+seluruh peserta terdaftar. Babak ini bertujuan untuk menyeleksi peserta 
+berdasarkan kemampuan dasar dalam memahami konsep matematika, 
+logika, dan pemecahan masalah komputasional. 
+ 
+Babak penyisihan dilaksanakan secara daring/online menggunakan 
+platform algoritme.id sebagai media pengerjaan soal dan Zoom Meeting 
+sebagai media pengawasan serta koordinasi teknis selama kompetisi 
+berlangsung. 
+ 
+Untuk menjaga integritas pelaksanaan kompetisi, peserta diwajibkan 
+menggunakan dua device selama babak penyisihan, yaitu: 
+
+1. Device utama, seperti laptop, komputer, tablet, atau perangkat lain 
+yang digunakan untuk mengakses platform algoritme.id dan 
+mengerjakan soal. 
+
+2. Device kedua, seperti smartphone atau perangkat lain yang 
+digunakan untuk bergabung ke Zoom Meeting sebagai media 
+pengawasan selama kompetisi berlangsung. 
+ 
+
+Pada babak penyisihan, peserta mengerjakan 40 soal dalam waktu 90 
+menit. Komposisi soal terdiri atas: 
+ 
+
+ 15 
+
+
+
+ 
+
+ 
+ 
+Soal pada babak penyisihan disusun sesuai dengan level peserta. Materi soal 
+mencakup kemampuan numerasi, penalaran logis, pola, instruksi algoritmik 
+sederhana, dan computational thinking dasar. Peserta dengan hasil terbaik 
+pada babak penyisihan berhak melanjutkan ke babak semifinal. 
+ 
+
+ 
+
+ 16 
+
+
+
+ 
+
+ 
+Tata Tertib Babak Penyisihan: 
+
+1. Peserta diminta mengerjakan soal di tempat yang tenang, dan aman 
+dari gangguan dengan internet yang stabil. 
+
+2. Diharapkan memiliki backup jaringan internet, e.g. Wifi dan 
+Tethering. 
+
+3. Peserta wajib menggunakan 2 device:  
+a. Device 1 harus berupa laptop / PC / tablet / HP untuk 
+
+mengerjakan soal 
+b. Device 2 harus berupa HP untuk join zoom. 
+
+4. Device 2 harus diletakkan 1 meter di sebelah kiri atau kanan peserta, 
+wajah peserta dan layar device 1 harus terlihat. 
+
+5. Pada device 2 kamera dan microphone harus menyala. 
+6. Peserta tidak diperbolehkan menggunakan kalkulator 
+7. Peserta hanya diperbolehkan menggunakan 1 lembar kertas putih 
+
+A4 dan pensil/ballpoint sebagai kertas buram. 
+8. Format penamaan zoom pada device 2: nomor peserta_Nomor 
+
+Breakout R_Nama Lengkap. Contoh: AQ26PA0072_R01_Rafif Taqiy 
+9. Pengerjaan soal menggunakan platform: https://edu.algoritme.id 
+10. Username dan password akan dibagikan melalui email yang 
+
+terdaftar pada saat registrasi h-1 pelaksanaan babak penyisihan, 
+mohon pastikan telah memeriksa folder spam. 
+
+11. Bagi peserta yang belum mendapatkan username dan 
+password  mohon segera menghubungi panitia. 
+
+ 17 
+
+
+
+ 
+
+12. Peserta yang melakukan kecurangan atau tidak mematuhi 
+peraturan akan didiskualifikasi. 
+
+  
+
+ 18 
+
+
+
+ 
+
+B.3.2 Babak Semifinal 
+
+Babak semifinal merupakan tahap lanjutan bagi peserta yang berhasil lolos 
+dari babak penyisihan. Sebanyak 70% peserta terbaik dari setiap level 
+pada babak penyisihan berhak melanjutkan ke babak semifinal. 
+ 
+Babak semifinal dilaksanakan secara daring/online menggunakan platform 
+algoritme.id sebagai media pengerjaan soal dan Zoom Meeting sebagai 
+media pengawasan serta koordinasi teknis. Sama seperti babak penyisihan, 
+peserta semifinal wajib menggunakan dua device selama kompetisi 
+berlangsung, yaitu satu device untuk mengerjakan soal dan satu device 
+untuk mengikuti Zoom Meeting. 
+ 
+Pada babak semifinal, materi lomba sama dengan babak penyisihan, akan 
+tetapi tingkat kesulitan soal meningkat dibandingkan babak penyisihan. Soal 
+dirancang untuk menguji kemampuan berpikir lebih mendalam, ketelitian, 
+strategi pemecahan masalah, dan kemampuan peserta dalam menerapkan 
+logika komputasional. Peserta mengerjakan 40 soal dalam waktu 90 menit. 
+Komposisi soal terdiri atas: 
+
+ 
+Sistem penilaian babak semifinal adalah sebagai berikut: 
+
+a. Untuk Soal Pilihan Ganda, jawaban benar bernilai 4, jawaban salah 
+bernilai -2, kosong bernilai 0 
+
+b. Untuk Soal Isian Singkat, jawaban benar bernilai 8, jawaban salah atau 
+kosong bernilai 0. 
+
+Rangking diurutkan berdasarkan total nilai peserta dan total waktu 
+pengerjaan.  
+ 
+
+ 19 
+
+
+
+ 
+
+ 
+ 
+
+Jadwal Pelaksanaan babak semifinal adalah Sabtu, 25 Juli 2026, dengan 
+detail waktu pelaksanaan sebagai berikut: 
+
+ 
+ 
+
+Bagi peserta yang berhalangan mengikuti babak semifinal, diperkenankan 
+untuk mengikuti diluar jadwal, yaitu pada hari Jumat, 24 Juli 2026, 19.30 
+– 21.00 WIB. Peserta yang mengikuti babak semifinal diluar jadwal, wajib 
+untuk mengisi form konfirmasi pada tautan: https://its.id/aq26-konfirmasi-
+sf , paling lambat tanggal 17 Juli 2026, 23.59 WIB 
+ 
+Tata Tertib Babak Semifinal kurang lebih sama dengan Babak Penyisihan, 
+sebagai berikut: 
+
+ 20 
+
+
+
+ 
+
+1. Peserta diminta mengerjakan soal di tempat yang tenang, dan aman 
+dari gangguan dengan internet yang stabil. 
+
+2. Diharapkan memiliki backup jaringan internet, e.g. Wifi dan 
+Tethering. 
+
+3. Peserta wajib menggunakan 2 device:  
+a. Device 1 harus berupa laptop / PC / tablet / HP untuk 
+
+mengerjakan soal 
+b. Device 2 harus berupa HP untuk join zoom. 
+
+4. Device 2 harus diletakkan 1 meter di sebelah kiri atau kanan peserta, 
+wajah peserta dan layar device 1 harus terlihat. 
+
+5. Pada device 2 kamera dan microphone harus menyala. 
+6. Peserta tidak diperbolehkan menggunakan kalkulator 
+7. Peserta hanya diperbolehkan menggunakan 1 lembar kertas putih 
+
+A4 dan pensil/ballpoint sebagai kertas buram. 
+8. Format penamaan zoom pada device 2: nomor peserta_Nomor 
+
+Breakout R_Nama Lengkap. Contoh: AQ26PA0072_R01_Rafif Taqiy 
+9. Pengerjaan soal menggunakan platform: https://edu.algoritme.id 
+10. Username dan password akan dibagikan melalui email yang 
+
+terdaftar pada saat registrasi h-1 pelaksanaan babak semifinal, 
+mohon pastikan telah memeriksa folder spam. 
+
+11. Bagi peserta yang belum mendapatkan username dan 
+password  mohon segera menghubungi panitia. 
+
+12. Peserta yang melakukan kecurangan atau tidak mematuhi 
+peraturan akan didiskualifikasi. 
+
+ 
+ 
+  
+
+ 21 
+
+
+
+ 
+
+B.3.3 Babak Final 
+
+Babak final merupakan tahap puncak AlgoQuest 2026 yang diikuti oleh 11 
+peserta terbaik dari setiap level berdasarkan hasil babak semifinal. Babak 
+final dilaksanakan secara luring/offline di Kampus Institut Teknologi 
+Sepuluh Nopember (ITS), Surabaya. 
+ 
+
+ 
+Pada babak final, peserta tidak hanya diuji melalui soal tertulis, tetapi juga 
+melalui kemampuan berpikir analitis, menyusun solusi, dan menyelesaikan 
+studi kasus berbasis pemrograman. Babak ini dirancang untuk memberikan 
+pengalaman kompetisi yang lebih menantang, aplikatif, dan dekat dengan 
+suasana pembelajaran teknologi secara langsung. 
+ 
+Sebagai bagian dari kegiatan final, peserta finalis juga akan mendapatkan 
+pelatihan coding gratis di Lab. Pemrograman Departemen Sistem 
+Informasi, ITS. Pelatihan ini menjadi nilai tambah bagi peserta karena 
+mereka tidak hanya mengikuti kompetisi, tetapi juga memperoleh 
+pengalaman belajar langsung di lingkungan akademik dan teknologi 
+kampus.  
+ 
+
+ 22 
+
+
+
+ 
+
+ 
+ 
+Soal esai digunakan untuk mengukur kemampuan peserta dalam 
+menjelaskan proses berpikir, strategi penyelesaian, dan argumentasi logis. 
+Sementara itu, studi kasus pemrograman digunakan untuk menguji 
+kemampuan peserta dalam memahami masalah, merancang algoritma, dan 
+menyusun solusi secara sistematis sesuai dengan level kompetisi. 
+ 
+Pemenang AlgoQuest 2026 ditentukan berdasarkan hasil penilaian pada 
+babak final oleh panitia dan dewan juri. Keputusan panitia dan dewan juri 
+bersifat final dan tidak dapat diganggu gugat. 
+ 
+ 
+Tempat Pelaksanaan Babak Final adalah:  
+Gedung Departemen Sistem Informasi, Institut Teknologi Sepuluh 
+Nopember, Jl Raya ITS, Kampus ITS, Sukolilo, Surabaya, 60117 
+ 
+Google Map: https://maps.app.goo.gl/zyYHoCtzwTSiUcs66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 23 
+
+
+
+ 
+
+ 
+
+ 
+ 
+Rundown Babak Final Adalah sebagai berikut: 
+ 
+
+ 24 
+
+
+
+ 
+
+ 
+ 
+
+ 25 
+
+
+
+ 
+
+ 
+  
+
+ 26 
+
+
+
+ 
+
+ 
+Tata Tertib Babak Final: 
+ 
+Pada saat pelaksanaan Babak Final, peserta diwajibkan untuk: 
+
+1. Mengenakan seragam khas sekolah, e.g. Batik Sekolah, dan memakai 
+sepatu. 
+
+2. Datang tepat waktu, peserta yang terlambat tidak diberi 
+perpanjangan waktu. 
+
+3. Membawa Kartu Identitas: KTP/Kartu Pelajar/FC KK/FC Halaman 
+Identitas Raport/Identitas lainya 
+
+4. Peserta wajib membawa peralatan tulis: pensil/ball point dan 
+penghapus 
+
+5. Membawa Smartphone Android (Khusus Level D) 
+6. Membawa laptop sendiri (Khusus level E), mohon menghubungi 
+
+panitia jika tidak memiliki laptop sendiri. 
+ 
+Pada saat pelaksanaan Babak Final, peserta dilarang untuk: 
+
+1. Menggunakan kalkulator 
+2. Mengenakan perhiasan yang berlebihan 
+
+ 
+Untuk menghindari kepadatan tempat parkir kendaraan, peserta disarankan 
+untuk menggunakan taksi online dari rumah/penginapan ke lokasi.  
+
+B.4 Biaya Pendaftaran 
+
+B.3.1 Babak Penyisihan 
+
+Biaya pendaftaran babak penyisihan adalah sebagai berikut: 
+i. Gratis, dengan syarat follow IG dan repost feed IG @algoritmeid 
+ii. Rp. 20.000,- dengan tanpa persyaratan 
+iii. Rp. 10.000/peserta untuk pendaftaran kolektif dari sekolah yang 
+
+sama 
+
+B.3.2 Babak Semifinal 
+
+Biaya pendaftaran untuk babak semifinal adalah gratis. 
+
+B.3.3 Babak Final 
+
+ 
+Biaya pendaftaran Babak Final adalah gratis untuk top scorer di setiap level. 
+Untuk peringkat 2-9 diwajibkan membayar commitment fee sebesar Rp. 
+
+ 27 
+
+
+
+ 
+
+100.000,- yang akan diganti dengan fasilitas peserta final berupa: goodie 
+bag, merchandise, snack and lunch box, serta medali. 
+ 
+Catatan Penting: 
+ 
+
+1. Peserta yang sudah membayar commitment fee, tetapi berhalangan 
+hadir tidak dapat meminta pembayaran kembali commitment fee 
+yang telah dibayarkan. 
+
+2. Panitia tidak menanggung biaya transportasi dan akomodasi peserta 
+selama pelaksanaan final. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 28 
+
+
+
+ 
+
+ 
+
+C. MATERI LOMBA 
+
+C.1. Cakupan Materi 
+Materi AlgoQuest 2026 disusun untuk mengukur kemampuan peserta dalam 
+tiga bidang utama, yaitu matematika, logika, dan berpikir komputasional. 
+Ketiga bidang ini menjadi fondasi penting dalam membangun kemampuan 
+problem solving, penalaran sistematis, serta kesiapan peserta dalam 
+menghadapi tantangan akademik dan teknologi masa depan. 
+ 
+Secara umum, cakupan materi AlgoQuest 2026 meliputi: 
+
+C.1.1 Matematika 
+
+Materi matematika bertujuan untuk mengukur kemampuan peserta dalam 
+memahami konsep numerasi, mengenali pola, melakukan perhitungan, serta 
+menyelesaikan masalah berbasis penalaran. Matematika dalam kompetisi ini 
+tidak hanya menekankan kemampuan menghitung, tetapi juga bagaimana 
+peserta mampu memahami masalah, memilih strategi penyelesaian, dan 
+menemukan jawaban secara logis. 
+ 
+Cakupan materi matematika secara garis besar meliputi: 
+
+1. Operasi bilangan 
+2. Pola bilangan dan pola visual 
+3. Perbandingan dan proporsi 
+4. Pengukuran 
+5. Geometri dasar 
+6. Kombinatorika sederhana 
+7. Aritmetika sosial sederhana 
+8. Pemecahan masalah berbasis cerita 
+9. Strategi penyelesaian soal olimpiade matematika sesuai jenjang 
+
+ 
+Untuk Level A sampai Level D, materi matematika mengacu secara umum 
+pada pendekatan math olympiad sesuai tingkatan, termasuk pola soal yang 
+sejalan dengan gaya pembelajaran dan latihan olimpiade matematika seperti 
+yang dikembangkan dalam buku-buku Terry Chew, dengan penyesuaian 
+terhadap level kelas peserta. 
+ 
+
+ 29 
+
+
+
+ 
+
+C.1.2 Logika 
+
+Materi logika bertujuan untuk mengukur kemampuan peserta dalam berpikir 
+runtut, mengenali hubungan antar informasi, menarik kesimpulan, dan 
+menyelesaikan masalah berdasarkan aturan tertentu. Logika menjadi bagian 
+penting karena membantu peserta memahami bagaimana sebuah masalah 
+dapat dianalisis secara terstruktur. 
+ 
+Cakupan materi logika secara garis besar meliputi: 
+
+1. Pola gambar, simbol, dan angka 
+2. Urutan dan hubungan logis 
+3. Klasifikasi dan pengelompokan 
+4. Pernyataan benar-salah 
+5. Sebab-akibat sederhana 
+6. Penalaran deduktif dan induktif dasar 
+7. Teka-teki logika 
+8. Strategi pengambilan keputusan berdasarkan informasi 
+9. Relasi, himpunan, dan struktur logika sederhana sesuai jenjang 
+
+ 
+Untuk Level E, materi logika diarahkan lebih kuat pada konsep dasar logika 
+dan struktur diskrit, dengan rujukan utama pada pendekatan materi dalam 
+buku Logika dan Struktur Diskrit karya Ahmad Muklason Dkk, terutama 
+pada bagian-bagian yang relevan untuk penguatan penalaran, logika 
+matematika, relasi, fungsi, himpunan, dan dasar-dasar struktur diskrit. 
+ 
+
+C.1.3 Berpikir Komputasional 
+
+Berpikir komputasional atau computational thinking merupakan 
+kemampuan untuk memahami masalah dan menyusun langkah penyelesaian 
+secara sistematis. Materi ini menjadi jembatan antara matematika, logika, 
+dan coding. Peserta tidak hanya dituntut untuk menemukan jawaban, tetapi 
+juga memahami proses berpikir yang digunakan untuk sampai pada solusi. 
+ 
+Cakupan materi berpikir komputasional secara garis besar meliputi: 
+
+1. Dekomposisi masalah 
+2. Pengenalan pola 
+3. Abstraksi 
+4. Perancangan algoritma 
+5. Urutan instruksi 
+6. Percabangan sederhana 
+7. Perulangan sederhana 
+
+ 30 
+
+
+
+ 
+
+8. Debugging atau menemukan kesalahan logika 
+9. Pseudocode dan alur penyelesaian masalah sesuai level dan Studi 
+
+kasus pemrograman sederhana untuk level lanjutan 
+ 
+
+Pada level awal, materi berpikir komputasional dapat disajikan dalam bentuk 
+gambar, alur instruksi, pola, atau cerita sederhana. Pada level yang lebih 
+tinggi, materi dapat disajikan dalam bentuk pseudocode, struktur logika, 
+atau studi kasus pemrograman dasar. 
+ 
+
+C.2. Materi Per Level 
+Materi per level disusun secara bertahap agar sesuai dengan perkembangan 
+usia, kemampuan berpikir, dan jenjang pendidikan peserta. Setiap level tetap 
+memuat unsur matematika, logika, dan berpikir komputasional, tetapi 
+dengan tingkat kedalaman dan kompleksitas yang berbeda. 
+
+C.2.1 Level A — Little Explorer 
+
+Peserta: Kelas 1–2 SD/sederajat 
+Level A dirancang untuk peserta pemula yang sedang membangun dasar 
+numerasi, pengenalan pola, dan kemampuan berpikir logis sederhana. Soal 
+pada level ini disajikan dengan bahasa yang mudah dipahami, visual yang 
+sederhana, dan konteks yang dekat dengan kehidupan sehari-hari anak. 
+ 
+Cakupan materi Level A meliputi: 
+
+1. Penjumlahan dan pengurangan sederhana 
+2. Perbandingan jumlah benda 
+3. Pola angka sederhana 
+4. Pola gambar dan warna 
+5. Bentuk geometri dasar 
+6. Urutan kejadian 
+7. Klasifikasi benda berdasarkan ciri tertentu 
+8. Instruksi langkah demi langkah sederhana 
+9. Logika visual sederhana 
+10. Cerita matematika sederhana 
+
+ 
+Fokus utama Level A adalah melatih peserta untuk membaca pola, 
+memahami instruksi, dan menyelesaikan masalah sederhana dengan cara 
+yang menyenangkan. 
+ 
+
+ 31 
+
+
+
+ 
+
+C.2.2 Level B — Junior Thinker 
+
+Peserta: Kelas 3–4 SD/sederajat 
+ 
+Level B ditujukan bagi peserta yang sudah mulai memahami operasi 
+bilangan lebih kompleks dan mampu mengerjakan soal berbasis cerita. Pada 
+level ini, peserta mulai diperkenalkan dengan pola penalaran yang lebih 
+beragam dan strategi penyelesaian masalah sederhana. 
+ 
+Cakupan materi Level B meliputi: 
+
+1. Operasi hitung bilangan bulat sederhana 
+2. Perkalian dan pembagian dasar 
+3. Pola bilangan dan pola gambar 
+4. Pengukuran panjang, berat, dan waktu sederhana 
+5. Bangun datar dasar 
+6. Pecahan sederhana 
+7. Perbandingan sederhana 
+8. Soal cerita matematika 
+9. Teka-teki logika dasar 
+10. Urutan instruksi dan algoritma sederhana 
+11. Pengenalan pola dalam alur penyelesaian masalah 
+
+ 
+Fokus utama Level B adalah meningkatkan kemampuan peserta dalam 
+memahami soal cerita, menemukan pola, dan menyelesaikan masalah 
+menggunakan langkah yang runtut. 
+ 
+
+C.2.3 Level C — Smart Solver 
+
+Peserta: Kelas 5–6 SD/sederajat 
+ 
+Level C dirancang untuk peserta yang mulai siap menghadapi bentuk soal 
+olimpiade matematika dasar. Peserta diharapkan mampu menggabungkan 
+kemampuan berhitung, penalaran logis, dan strategi penyelesaian masalah 
+dalam satu proses berpikir. 
+ 
+Cakupan materi Level C meliputi: 
+
+1. Operasi bilangan yang lebih kompleks 
+2. Pecahan, desimal, dan persen dasar 
+3. Faktor, kelipatan, FPB, dan KPK 
+4. Pola bilangan dan barisan sederhana 
+5. Perbandingan dan skala sederhana 
+
+ 32 
+
+
+
+ 
+
+6. Luas dan keliling bangun datar 
+7. Volume bangun ruang sederhana 
+8. Kombinatorika sederhana 
+9. Logika pernyataan sederhana 
+10. Strategi menyelesaikan soal olimpiade matematika dasar 
+11. Algoritma sederhana berbasis langkah-langkah 
+12. Debugging logika sederhana 
+
+ 
+Fokus utama Level C adalah menguatkan kemampuan problem solving dan 
+membiasakan peserta untuk menyusun strategi sebelum menjawab soal. 
+ 
+
+C.2.4 Level D — Logic Challenger 
+
+Peserta: Kelas 7–9 SMP/sederajat 
+ 
+Level D ditujukan untuk peserta SMP yang sudah memiliki dasar matematika 
+lebih kuat dan mulai mampu memahami persoalan abstrak. Pada level ini, 
+soal dapat memuat penalaran yang lebih dalam, strategi penyelesaian yang 
+lebih panjang, serta pengenalan konsep algoritmik yang lebih jelas. 
+ 
+Cakupan materi Level D meliputi: 
+
+1. Bilangan bulat, pecahan, desimal, dan persen 
+2. Perbandingan, skala, dan proporsi 
+3. Aljabar dasar 
+4. Persamaan dan pertidaksamaan sederhana 
+5. Pola bilangan dan barisan 
+6. Geometri bidang dan ruang dasar 
+7. Peluang sederhana 
+8. Kombinatorika dasar 
+9. Logika matematika sederhana 
+10. Himpunan dasar 
+11. Strategi penyelesaian soal olimpiade matematika tingkat SMP 
+12. Pseudocode sederhana 
+13. Percabangan dan perulangan dalam alur logika 
+14. Analisis langkah penyelesaian masalah 
+
+ 
+Fokus utama Level D adalah melatih peserta untuk berpikir analitis, 
+memahami pola yang lebih kompleks, dan menyusun solusi secara 
+sistematis. 
+ 
+
+ 33 
+
+
+
+ 
+
+C.2.5 Level E — Future Coder 
+
+Peserta: Kelas 10–12 SMA/sederajat 
+ 
+Level E merupakan level tertinggi dalam AlgoQuest 2026. Pada level ini, 
+peserta diharapkan mampu memahami persoalan matematika dan logika 
+yang lebih abstrak, serta mampu menerapkan konsep berpikir 
+komputasional dalam penyelesaian masalah yang lebih kompleks. 
+Materi Level E diarahkan pada penguatan logika, struktur diskrit, dan dasar-
+dasar pemecahan masalah komputasional. Rujukan utama untuk 
+pengembangan materi Level E adalah pendekatan dalam buku Logika dan 
+Struktur Diskrit karya Ahmad Muklason Dkk, dengan penyesuaian terhadap 
+kebutuhan kompetisi pelajar SMA/sederajat. 
+ 
+Cakupan materi Level E meliputi: 
+
+1. Logika proposisi 
+2. Pernyataan, negasi, konjungsi, disjungsi, implikasi, dan biimplikasi 
+3. Tabel kebenaran 
+4. Penalaran deduktif 
+5. Himpunan 
+6. Relasi dan fungsi 
+7. Kombinatorika dasar 
+8. Prinsip pencacahan 
+9. Graf sederhana 
+10. Barisan dan rekursi dasar 
+11. Algoritma dan pseudocode 
+12. Analisis alur program sederhana 
+13. Percabangan dan perulangan 
+14. Studi kasus pemrograman dasar 
+15. Strategi problem solving berbasis struktur diskrit 
+
+ 
+Fokus utama Level E adalah menyiapkan peserta untuk berpikir seperti 
+problem solver dan calon programmer, yaitu mampu memahami masalah, 
+memodelkan persoalan, menyusun algoritma, dan menjelaskan solusi secara 
+logis. 
+ 
+
+  
+
+ 34 
+
+
+
+ 
+
+C.3. Contoh Soal 
+Contoh soal akan disampaikan melalui feed IG: @algoritmeid secara 
+bertahap. 
+
+ 35 
+
+
+
+ 
+
+C.3.1 Level A – Little Explorer 
+
+No Keterangan Link Instagram 
+ 
+
+1 Ringkasan Materi dan Referensi 
+
+ 
+2 Contoh Soal Paket 1 
+
+ 
+3 Contoh Soal Paket 2 
+
+ 
+ 
+
+ 36 
+
+
+
+ 
+
+C.3.2 Level B – Junior Thinker 
+
+No Keterangan Link Instagram 
+ 
+
+1 Ringkasan Materi dan Referensi 
+
+ 
+2 Contoh Soal Paket 1 
+
+ 
+3 Contoh Soal Paket 2 
+
+ 
+
+ 37 
+
+
+
+ 
+
+C.3.3 Level C – Smart Solver 
+
+No Keterangan Link Instagram 
+ 
+
+1 Ringkasan Materi dan Referensi 
+
+ 
+2 Contoh Soal Paket 1 
+
+ 
+3 Contoh Soal Paket 2 
+
+ 
+
+ 38 
+
+
+
+ 
+
+C.3.3 Level D – Logic Challenger 
+
+No Keterangan Link Instagram 
+ 
+
+1 Ringkasan Materi dan Referensi 
+
+ 
+2 Contoh Soal Paket 1 
+
+ 
+3 Contoh Soal Paket 2 
+
+ 
+
+ 39 
+
+
+
+ 
+
+C.3.3 Level C – Future Coder 
+
+No Keterangan Link Instagram 
+ 
+
+1 Ringkasan Materi dan Referensi 
+
+ 
+2 Contoh Soal Paket 1 
+
+ 
+3 Contoh Soal Paket 2 
+
+ 
+
+ 40 
+
+
+
+ 
+
+C.4. Buku Referensi 
+Berikut adalah buku referensi utama (bukan satu-satunya) yang dapat 
+dijadikan salah satu bahan bacaan untuk persiapan lomba: 
+ 
+
+1. Level A (1-2 SD) – Little Explorer: 
+- Math Olympiad Unleash the Math Olympian In You, 
+
+Terry Chew – Level Junior 1 
+
+ 
+ 
+
+2. Level B (3-4 SD) – Junior Thinker: 
+- Math Olympiad Unleash the Math Olympian In You, 
+
+Terry Chew – Level Junior 2 
+
+ 
+
+ 41 
+
+
+
+ 
+
+ 
+3. Level C (5-6 SD) – Smart Solver: 
+
+- Math Olympiad Unleash the Math Olympian In You, 
+Terry Chew – Level Beginner 
+
+ 
+ 
+
+4. Level D (7-9 SMP) – Logic Challenger: 
+- Math Olympiad Unleash the Math Olympian In You, 
+
+Terry Chew – Level Intermediate 
+
+ 
+ 
+
+ 42 
+
+
+
+ 
+
+- Math Olympiad Unleash the Math Olympian In You, 
+Terry Chew – Advanced 
+
+ 
+
+ 
+ 
+
+- Math Olympiad Unleash the Math Olympian In You, 
+Terry Chew – Level The Next Lap 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 43 
+
+
+
+ 
+
+5. Level E (10-12 SMA) – Future Coder: 
+- Logika dan Struktur Diskret (Ahmad Muklason, dkk) 
+
+ 
+(bisa diperoleh disini) 
+
+- Dicrete Math and its Application – Kennet Rosen: 
+
+ 
+
+ 44 
+
+
+
+ 
+
+- Berfikir Komputasional: Pengantar Pemrograman 
+Dasar menggunakan Java 
+
+ 
+
+ 
+(bisa diperoleh disini) 
+
+ 
+
+D. FASILITAS DAN PENGHARGAAN 
+
+1. Babak Penyisihan 
+a. Semua peserta akan mendapatkan sertifikat elektronik sebagai 
+
+peserta kompetisi 
+b. Sertifikat elektronik sebagai Juara 1 – 10 untuk setiap level 
+
+2. Babak Semi-Final 
+a. Semua peserta akan mendapatkan sertifikat elektronik sebagai semi-
+
+finalis kompetisi 
+b. Sertifikat elektronik sebagai Juara 1 – 10 untuk setiap level 
+
+ 
+
+ 45 
+
+
+
+ 
+
+3. Babak Final 
+a. Fasilitas untuk semua peserta Final: Goodie Bag, Marchandise, 
+
+Snack and Lunch Box. 
+b. Semua finalis akan mendapatkan pelatihan coding gratis secara 
+
+luring di laboratorium pemrograman sistem informasi ITS 
+c. Semua finalis mendapatkan akses kelas online di platform 
+
+algoritme.id 
+d. Uang Tunai Rp.1.000.000 dan Trophy Top Scorer – Untuk finalis 
+
+Peringkat 1 Per level 
+e. Gold Medal – Untuk finalis Peringkat 1-3 Per level 
+f. Silver Medal – Untuk finalis Peringkat 4-6 Per level 
+g. Bronze Medal – Untuk finalis Peringkat 4-10 Per level 
+h. Trophy Juara Umum – Trophy Juara Umum Sekolah diberikan 
+
+kepada sekolah yang memperoleh total poin prestasi tertinggi 
+berdasarkan capaian peserta pada Babak Final AlgoQuest 2026. 
+Perhitungan Juara Umum Sekolah mengikuti ketentuan sebagaimana 
+dijelaskan pada bagian Ketentuan Juara Umum Sekolah. 
+
+ 
+Catatan Penting: 
+ 
+
+• Panitia tidak menanggung biaya transportasi dan akomodasi peserta 
+selama pelaksanaan final. 
+
+• Ketentuan Penentuan Juara Umum Sekolah 
+o Juara Umum Sekolah AlgoQuest 2026 ditentukan berdasarkan 
+
+akumulasi poin yang diperoleh peserta dari sekolah yang sama 
+pada seluruh level kompetisi, yaitu Level A, Level B, Level C, 
+Level D, dan Level E. 
+
+o Poin diberikan berdasarkan peringkat peserta pada Babak 
+Final dengan ketentuan sebagai berikut: 
+
+Peringkat Poin 
+Juara 1 3 poin 
+Juara 2 2 poin 
+Juara 3 1 poin 
+o Total poin sekolah dihitung dengan menjumlahkan seluruh 
+
+poin yang diperoleh peserta dari sekolah tersebut pada semua 
+level kompetisi. 
+
+o Contoh: 
+▪ Apabila suatu sekolah memperoleh: 
+
+• Juara 1 Level A = 3 poin 
+
+ 46 
+
+
+
+ 
+
+• Juara 2 Level C = 2 poin 
+
+• Juara 3 Level D = 1 poin 
+▪ maka total poin sekolah tersebut adalah 6 poin. 
+
+o Apabila terdapat dua atau lebih sekolah dengan total poin 
+yang sama (draw/tie), penentuan Juara Umum dilakukan secara 
+berurutan berdasarkan kriteria berikut: 
+
+o Jumlah peserta pada Babak Final 
+Sekolah dengan jumlah peserta yang lebih banyak pada Babak 
+Final ditempatkan pada peringkat yang lebih tinggi. 
+
+o Jumlah peserta pada Babak Semifinal 
+Apabila jumlah peserta pada Babak Final masih sama, sekolah 
+dengan jumlah peserta yang lebih banyak pada Babak 
+Semifinal ditempatkan pada peringkat yang lebih tinggi. 
+
+o Jumlah peserta pada Babak Penyisihan 
+Apabila jumlah peserta pada Babak Semifinal masih sama, 
+sekolah dengan jumlah peserta yang lebih banyak pada Babak 
+Penyisihan ditempatkan pada peringkat yang lebih tinggi. 
+
+o Perhitungan dilakukan berdasarkan data sekolah yang 
+tercantum pada data resmi pendaftaran peserta AlgoQuest 
+2026. 
+
+  
+
+ 47 
+
+
+
+ 
+
+E. Contact Person 
+a. Direct Message IG: @algoritmeid 
+b. WA: +62 823-2281-6421 (eric) 
+
+  
+
+ 48 
+
+
+
+ 
+
+F. FREQUENTLY ASKED QUESTIONS (FAQ) 
+1. Tanya: Siapa penyelenggara kegiatan kompetisi ini? 
+
+Jawab: Kompetisi ini diselenggarakan oleh Tim Dosen dan 
+Mahasiswa Lab. Rekayasa Data dan Inteligensi Bisnis, 
+Departemen Sistem Informasi, Fakultas Teknologi Elektro dan 
+Informatika Cerdas, Institut Teknologi Sepuluh Nopember (ITS), 
+Surabaya. Kegiatan ini merupakan bagian dari Proyek Kegiatan 
+Penelitian dan Pengabdian Masyarakat 
+ 
+
+2. Tanya: Contact Person Panitia yang bisa dihubungi? 
+Jawab: +62 823-2281-6421 (eric) 
+ 
+
+3.  Tanya: Link Pendaftaran Lomba? 
+Jawab: https://algoritme.id/daftar-lomba/ 
+ 
+
+4. Tanya: Berapa biaya pendaftaran? 
+Jawaban: Gratis (dengan follow IG algoritmeid dan unggah 
+twibbon); Rp.20.000 dengan tanpa syarat 
+ 
+
+5. Tanya: Apakah bisa mendaftar secara kolektif? 
+Jawab: bisa, disediakan form khusus di 
+https://algoritme.id/daftar-lomba/ 
+ 
+
+6. Tanya: Apakah ada contoh soal 
+Jawab: ada, contoh soal akan disampaikan melalui feed IG. 
+ 
+
+7. Tanya: Pada saat final, biaya akomodasi dan transportasi apakah 
+ditanggung oleh panitia? 
+Jawab: Tidak, biaya akomodasi dan transportasi ditanggung oleh 
+peserta. 
+
+8. Tanya: Apa bahasa pemrograman yang digunakan pada Algoquest? 
+Jawab: Untuk semua jenjang SD: Scratch, untuk SMP: App Inventor, 
+untuk SMA: Python. Untuk coding hanya ada di tahap final saja, 
+tahap penyisihan dan semifinal soal matematika dan logika tanpa 
+coding. 
+
+9. Tanya: Bagaimana konsep lomba Algoquest? 
+Jawab: Untuk semua jenjang SD: Scratch, untuk SMP: App Inventor, 
+untuk SMA: Python. Untuk coding hanya ada di tahap final saja, 
+
+ 49 
+
+
+
+ 
+
+tahap penyisihan dan semifinal soal matematika dan logika tanpa 
+coding. 
+
+10. Tanya: Apakah boleh mengikuti level lomba tidak sesuai 
+dengan kelas? Missal kelas IX SMP mendaftar level E (untuk SMA) 
+Jawab: tidak diperbolehkan, level lomba harus sesuai dengan kelas. 
+
+11. Tanya: Untuk Final dilaksanakan secara offline kapan?  
+Jawab: Final dilaksanakan tanggal 22 Agustus 2026 secara 
+luring/offline, 08.00-16.00 WIB di Kampus ITS, Sukolilo, Surabaya. 
+
+ 50

@@ -1,0 +1,656 @@
+﻿1 
+ 
+
+
+
+ 
+
+ 
+
+DAFTAR ISI LOMBA CLEAN CODE 
+ 
+DAFTAR ISI LOMBA CLEAN CODE ............................................................................ 2 
+TEMA KEGIATAN ............................................................................................................... 3 
+TIMELINE KEGIATAN LOMBA CLEAN CODE ......................................................... 5 
+TATA CARA PENDAFTARAN ........................................................................................ 6 
+SYARAT DAN KETENTUAN UMUM ............................................................................ 8 
+DESKRIPSI PERLOMBAAN ........................................................................................... 10 
+KETENTUAN PERLOMBAAN DAN SPESIFIKASI TEKNIS .................................... 11 
+KETENTUAN DISKUALIFIKASI ...................................................................................... 12 
+SISTEM PERLOMBAAN ................................................................................................... 13 
+KETENTUAN PENILAIAN................................................................................................ 15 
+HADIAH DAN PENGHARGAAN .................................................................................. 17 
+NARAHUBUNG DAN PEMBAYARAN ...................................................................... 18 
+LAMPIRAN .......................................................................................................................... 19 
+ 
+
+ 
+
+ 
+
+2 
+ 
+
+
+
+ 
+
+ 
+
+TEMA KEGIATAN 
+
+Clean Code Web Programming berfokus pada pengembangan 
+
+aplikasi web modern yang tidak hanya memiliki tampilan 
+
+antarmuka yang menarik, tetapi juga mengedepankan kualitas 
+
+arsitektur kodingan yang bersih (Clean Code), kerapihan struktur 
+
+proyek, kemudahan perawatan (Maintainability), dan efisiensi 
+
+performa sesuai standar industri. 
+
+Tema utama INFORMIND FEST VOL. II adalah "Compile Your 
+
+Future, Deploy Your Impact" yang menjadi landasan utama bagi 
+
+seluruh peserta. Karya yang dikembangkan wajib memilih salah 
+
+satu dari 4 (empat) subtema pilihan berikut: 
+
+1. EKRAF(Ekonomi Kreatif) 
+
+Solusi web untuk digitalisasi UMKM lokal, platform ekonomi 
+
+kreatif, marketplace jasa/karya independen, atau tools 
+
+bisnis kreator. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+ 
+
+
+
+ 
+
+ 
+2. STEM (Science Technology and Mathematics) 
+
+Platform web edu-tech, simulasi sains/matematika 
+
+interaktif, portal kuis koding, atau alat bantu produktivitas 
+
+akademis. 
+
+ 
+
+3. SOCIOTECH (Social Technology) 
+
+Platform web pemberdayaan masyarakat, sistem 
+
+transparansi sosial, pengaduan fasilitas lingkungan, atau 
+
+penanggulangan masalah publik. 
+
+ 
+
+4. FINTECH (Finance Technology) 
+
+Aplikasi web pencatatan keuangan UMKM/komunitas, kasir 
+
+digital ringan (POS), pelacak anggaran, atau edukasi literasi 
+
+keuangan. 
+
+ 
+
+4 
+ 
+
+
+
+ 
+
+ 
+
+TIMELINE KEGIATAN LOMBA CLEAN CODE 
+
+5 
+ 
+
+
+
+ 
+
+ 
+
+TATA CARA PENDAFTARAN 
+
+1. KUALIFIKASI PESERTA 
+
+a. Siswa/i aktif SMA/SMK/Sederajat se-Indonesia. 
+
+b. Mahasiswa/i aktif se-Indonesia. 
+
+c. Pembuktian dilakukan dengan wajib melampirkan kartu 
+
+tanda pelajar/mahasiswa pada formulir pendaftaran. 
+
+ 
+
+2. BIAYA PENDAFTARAN 
+
+a. Gelombang I (Early Bird): Rp85.000,00/Tim. 
+
+b. Gelombang II (Reguler): Rp95.000/Tim. 
+
+ 
+
+3. MEKANISME PENDAFTARAN 
+
+a. Mengisi formulir pendaftaran pada link Google Form resmi 
+
+panitia. Link dapat diakses disini: 
+
+b. Mengunggah bukti pembayaran QRIS ke HIMAIF UNIBI pada 
+
+formulir pendaftaran. 
+
+c. Mengunggah bukti screenshot follow akun Instagram 
+
+@informind.fest dan @himaifunibi. 
+
+d. Setelah terdaftar, peserta akan dimasukkan ke grup 
+
+koordinasi perlombaan. 
+
+6 
+ 
+
+
+
+ 
+
+ 
+e. Peserta yang mendaftar dianggap telah menyetujui 
+
+syarat dan ketentuan lomba. 
+
+ 
+
+7 
+ 
+
+
+
+ 
+
+ 
+
+SYARAT DAN KETENTUAN UMUM 
+
+1. PERSYARATAN TIM 
+
+a. Peserta merupakan siswa/i dan mahasiswa/i aktif yang 
+
+dibuktikan dengan melampirkan kartu tanda 
+
+pelajar/mahasiswa. 
+
+b. Setiap tim terdiri dari minimal 2 (dua) orang dan maksimal 
+
+3 (tiga) orang. 
+
+c. Anggota diperkenankan dari instansi yang berbeda 
+
+(selama jenjang kategorinya sama). 
+
+ 
+
+2. KEWAJIBAN PESERTA 
+
+a. Menghadiri Technical Meeting minimal 1 (satu) orang 
+
+perwakilan per tim. 
+
+b. Mematuhi seluruh peraturan dan rangkaian kompetisi. 
+
+c. Peserta wajib mengikuti akun Instagram @informind.fest 
+
+dan @himaifunibi. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+ 
+
+
+
+ 
+
+ 
+3. KETENTUAN KARYA 
+
+a. Karya harus bersifat orisinil (asli) yang belum pernah 
+
+dipublikasi atau diikutsertakan di kompetisi lain. 
+
+b. Karya wajib dikumpulkan sebelum batas waktu berakhir 
+
+(H-1 Review pukul 23:59) 
+
+ 
+
+4. KEBIJAKAN DAN SANKSI 
+
+a. Biaya pendaftaran tidak dapat direfund (dikembalikan) 
+
+jika peserta mengundurkan diri. 
+
+b. Peserta yang melanggar peraturan atau tidak memenuhi 
+
+persyaratan akan didiskualifikasi. 
+
+c. Keputusan panitia dan dewan juri bersifat mutlak yang 
+
+tidak dapat diganggu gugat. 
+
+ 
+
+9 
+ 
+
+
+
+ 
+
+ 
+
+DESKRIPSI PERLOMBAAN 
+
+INFORMIND FEST VOL. II adalah seminar sekaligus kompetisi 
+
+nasional yang diselenggarakan sebagai wadah kreativitas dan 
+
+inovasi siswa/mahasiswa dalam menguji kecakapan 
+
+merancang aplikasi web modern. Pada cabang Lomba Clean 
+
+Code Web Programming, seleksi awal diawali dengan 
+
+pengumpulan Abstrak/Proposal Ide sebagai tahap filtering ide 
+
+karya (sama seperti lomba UI/UX). Selanjutnya, karya kode 
+
+peserta diuji melalui System Automated (CI/CD build check, linter 
+
+ESLint, & JSCPD) sebelum masuk ke tahap final berupa 
+
+Wawancara dan Juri Cek Code. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+ 
+
+
+
+ 
+
+ 
+
+KETENTUAN PERLOMBAAN DAN SPESIFIKASI 
+TEKNIS 
+
+1. Peserta diberi kebebassan untuk memilih satu subtema 
+
+yang telah disediakan panitia. 
+
+2. Stack teknologi bebas/direkomendasikan: ekosistem 
+
+JavaScript/TypeScript (Vanilla JS, React, Next.js) serta 
+
+PHP (Laravel, CodeIgniter). 
+
+3. Diperbolehkan menggunakan CSS Framework seperti 
+
+Tailwind CSS atau Bootstrap. 
+
+4. Proyek wajib disimpan dalam repositori GitHub publik milik 
+
+tim dan menyertakan file README.md berisi cara 
+
+menjalankan proyek. 
+
+5. Kode tidak boleh mengandung unsur SARA, pornografi, 
+
+perjudian, maupun hal yang melanggar hukum di 
+
+Indonesia. 
+
+6. Hak kepemilikan karya tetap menjadi milik peserta, namun 
+
+panitia berhak mendokumentasikan karya untuk publikasi 
+
+kegiatan. 
+
+ 
+
+ 
+
+11 
+ 
+
+
+
+ 
+
+ 
+
+KETENTUAN DISKUALIFIKASI 
+
+1. Jika peserta terbukti melakukan plagiarisme atau 
+
+menggunakan karya milik orang lain (skor JSCPD > 50%). 
+
+2. Jika peserta tidak memenuhi persyaratan administrasi 
+
+atau pengumpulan abstrak/laporan ide. 
+
+3. Jika peserta sengaja memanipulasi file linter atau 
+
+menggunakan komentar // eslint-disable secara agresif 
+
+untuk mengelabui auto-grading. 
+
+4. Jika peserta mengumpulkan karya melebihi batas waktu 
+
+yang ditentukan panitia. 
+
+5. Jika peserta melanggar ketentuan, spesifikasi teknis, atau 
+
+regulasi umum INFORMIND FEST VOL. II. 
+
+6. Keputusan panitia dan dewan juri adalah mutlak yang tidak 
+
+dapat diganggu gugat. 
+
+12 
+ 
+
+
+
+ 
+
+ 
+
+SISTEM PERLOMBAAN 
+ 
+
+1. Tahap Kesatu 
+
+a. Peserta mendaftar melalui Google Form yang telah 
+
+disediakan. 
+
+b. Peserta mengikuti Technical Meeting minimal dihadiri 
+
+oleh 1 orang perwakilan tim. 
+
+c. Peserta mengumpulkan karya melalui Google Form 
+
+yang berisikan tautan Google Drive meliputi: 
+
+• Pernyataan orisinalitas karya 
+
+• Laporan karya yang berisikan: 
+
+• Latar belakang 
+
+• Nama dan tema karya 
+
+• Tech stack 
+
+• Alur arsitektur web 
+
+d. Berkas abstrak/laporan ide dinilai oleh panitia/juri 
+
+untuk menyaring ide-ide paling inovatif & solutif. 
+
+e. Tim yang lolos dari seleksi abstrak akan berlanjut ke 
+
+Tahap Kedua 
+
+ 
+
+ 
+
+13 
+ 
+
+
+
+ 
+
+ 
+2. Tahap Kedua 
+
+a. Peserta yang dinyatakan lolos seleksi abstrak 
+
+mengumpulkan tautan Repositori GitHub resmi karya. 
+
+b. Panitia akan mengecek keterjalanan dan kerapihan 
+
+kode via System Automated (Ci/CD GitHub Actions 
+
+Build Check, Linter ESLint, dan Plagiarism Detector 
+
+JSCPD). 
+
+c. Tim dengan skor screeening otomatis tertinggi akan 
+
+lanjut ke Tahap Ketigga (Final). 
+
+ 
+
+3. Tahap Ketiga 
+
+a. Finalis mengikuti sesi Wawancara / Presentasi karya di 
+
+hadapan Dewan Juri. 
+
+b. Dewan Juri melakukan pemeriksaan kebersihan & 
+
+arsitektur kode secara langsung (Juri Cek Code) serta 
+
+sesi tanya jawab teknis. 
+
+c. Tim dengan total nilai tertinggi di masing-masing 
+
+kategori (Pelajar SMA/SMK Sederajat dan Mahasiswa) 
+
+dinyatakan sebagai pemenang. 
+
+ 
+
+14 
+ 
+
+
+
+ 
+
+ 
+
+KETENTUAN PENILAIAN 
+
+No Aspek Penilaian Deskripsi Bobot Skor 
+
+1 Clean Code & Kerapihan folder, 35% 1-
+
+Arsitektur keterbacaan kode, 100 
+
+ketiadaan dead code, 
+
+kepatuhan Linter & skor 
+
+JSCPD. 
+
+2 Inovasi & Keunikan gagasan, 25% 1-
+
+Kesesuaian urgensi masalah, dan 100 
+
+Subtema keselarasan dengan 
+
+subtema pilihan. 
+
+3 Kualitas UI/UX & Keindahan visual 20% 1-
+
+Responsivitas antarmuka, kenyamanan 100 
+
+navigasi, dan 
+
+responsivitas layar. 
+
+15 
+ 
+
+
+
+ 
+
+4 Fungsionalitas & Keterjalanan fitur utama 20% 1-
+
+Performa tanpa error/bugs dan 100 
+
+kecepatan akses web. 
+
+Total 100% 
+
+ 
+
+Nilai Akhir Kelulusan dihitung dengan formula rekapitulasi bobot: 
+
+Formula Nilai Akhir: 
+
+Nilai Akhir = (20% x Nilai Tahap 1 Abstrak Ide) + (40% x Nilai Tahap 
+
+2 System Automated) + (40% x Nilai Tahap 3 Wawancara & Juri 
+
+Cek Code) 
+
+ 
+
+16 
+ 
+
+
+
+ 
+
+ 
+
+HADIAH DAN PENGHARGAAN 
+ 
+
+1. Juara I Kategori Mahasiswa:  
+
+Sertifikat + Piala Akrilik + Uang Pembinaan 
+
+2. Juara II Kategori Mahasiswa:  
+
+Sertifikat + Piala Akrilik + Uang Pembinaan 
+
+3. Juara I Kategori SMA/SMK/Sederajat:  
+
+Sertifikat + Piala Akrilik + Uang Pembinaan 
+
+4. Juara II Kategori SMA/SMK/Sederajat:  
+
+Sertifikat + Piala Akrilik + Uang Pembinaan 
+
+ 
+
+17 
+ 
+
+
+
+ 
+
+ 
+
+NARAHUBUNG DAN PEMBAYARAN 
+ 
+
+Nama : Lucky Fauzi 
+
+No. Telepon : +62 895-6320-35020 
+
+Instagram : @lckys_ 
+ 
+
+Pembayaran dapat dilakukan melalui QRIS HIMAIF UNIBI pada 
+
+formulir pendaftaran. 
+
+ 
+
+18 
+ 
+
+
+
+ 
+
+ 
+
+LAMPIRAN 
+ 
+
+Format berikut diisi dan ditandatangani di atas materai Rp10.000, 
+
+dan diunggah pada formulir pendaftaran. 
+
+ 
+
+Link format pernyataan surat orisinalitas:  
+
+https://docs.google.com/document/d/1Wf-
+
+ruK8rREzGvqtmeDXyyUAvmEER1OCd5a_TMBd51QE/edit?usp=sha
+
+ring  
+
+ 
+
+19

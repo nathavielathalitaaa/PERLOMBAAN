@@ -1,0 +1,993 @@
+﻿LATAR BELAKANG 
+
+ 
+Tempat Pengelolaan Sampah Terpadu (TPST) Bantargebang di Kota Bekasi 
+
+merupakan fasilitas pengelolaan sampah utama yang menampung sebagian besar 
+
+sampah dari wilayah DKI Jakarta. Menurut Waste4Change (2024), TPST Bantargebang 
+
+menerima sekitar 7.500–8.000 ton sampah per hari, yang menunjukkan tingginya 
+
+timbulan sampah yang dihasilkan masyarakat. Fenomena ini mencerminkan tantangan 
+
+yang lebih luas terkait pola konsumsi dan produksi yang terus meningkat seiring 
+
+pertumbuhan ekonomi dan populasi. Menurut Kaza et al. (2018), timbulan sampah global 
+
+diproyeksikan meningkat hingga mencapai 3,40 miliar ton per tahun pada tahun 2050 
+
+apabila tidak diimbangi dengan perubahan pola konsumsi serta pengelolaan limbah yang 
+
+lebih berkelanjutan. Selain itu, menurut Global Resources Outlook 2024 yang diterbitkan 
+
+oleh UNEP dan IRP, ekstraksi sumber daya global diproyeksikan meningkat hingga 60% 
+
+pada tahun 2060 dibandingkan tahun 2020 apabila tidak disertai upaya yang 
+
+terkoordinasi dan berkelanjutan. Kondisi tersebut menunjukkan bahwa permasalahan 
+
+lingkungan tidak dapat diselesaikan hanya melalui pengelolaan sampah di hilir, tetapi 
+
+juga memerlukan perubahan pola konsumsi dan produksi sejak dari sumbernya. 
+
+Menyadari tantangan tersebut, Perserikatan Bangsa-Bangsa (PBB) melalui 
+
+Sustainable Development Goals (SDGs) menetapkan Goal 12: Responsible 
+
+Consumption and Production yang bertujuan memastikan terwujudnya pola konsumsi 
+
+dan produksi yang berkelanjutan (United Nations, 2015). Secara khusus, Target 12.5 
+
+menekankan pengurangan timbulan sampah melalui pencegahan, pengurangan, daur 
+
+ulang, dan penggunaan kembali, sedangkan Target 12.8 bertujuan memastikan setiap 
+
+individu memiliki informasi dan kesadaran yang memadai mengenai pembangunan 
+
+berkelanjutan serta gaya hidup yang selaras dengan alam (United Nations, 2015). Kedua 
+
+target tersebut menegaskan bahwa pencapaian keberlanjutan tidak hanya bergantung 
+
+pada pengelolaan limbah yang efektif, tetapi juga memerlukan peningkatan pengetahuan 
+
+dan kesadaran masyarakat dalam menerapkan konsumsi yang lebih bertanggung jawab.  
+
+Dalam mendukung pencapaian tujuan tersebut, generasi muda memiliki peran 
+
+strategis sebagai agen perubahan yang mampu menghadirkan gagasan, inovasi, dan 
+
+solusi terhadap berbagai tantangan keberlanjutan. Oleh karena itu, diperlukan wadah 
+
+yang dapat mengembangkan kemampuan berpikir kritis, kreativitas, serta pemecahan 
+
+masalah melalui pendekatan yang aplikatif dan kontekstual. Sebagai bentuk kontribusi 
+
+terhadap upaya tersebut, BEM FMIPA UI 2026 melalui Departemen Keilmuan 
+
+menyelenggarakan UI Science Olympiad 2026 dengan tema “Smart Consumption, 
+
+Sustainable Future”. Melalui berbagai cabang kompetisi yang ditujukan bagi siswa 
+
+SMA/sederajat dan mahasiswa, kegiatan ini diharapkan dapat meningkatkan 
+
+pemahaman peserta mengenai pentingnya konsumsi dan produksi yang bertanggung 
+
+jawab sekaligus mendorong lahirnya gagasan inovatif yang mendukung pencapaian 
+
+SDGs Goal 12, khususnya Target 12.5 dan Target 12.8. 
+
+ 
+
+ 
+
+
+
+ 
+
+TUJUAN 
+
+ 
+Penyelenggaraan lomba Study Case Competition UI Science Olympiad 2026 bertujuan 
+
+untuk: 
+
+1.​ Mengasah kemampuan problem solving mahasiswa melalui proses analisis kritis 
+
+dan terstruktur dalam mengurai kompleksitas studi kasus nyata, khususnya yang 
+
+berkaitan dengan isu konsumsi dan produksi yang bertanggung jawab (Sustainable 
+
+Development Goals (SDGs) ke-12); 
+
+2.​ Mendorong kontribusi nyata dari mahasiswa dengan menuntut mahasiswa untuk 
+
+merumuskan rancangan solusi, strategi bisnis, atau kebijakan yang inovatif, 
+
+aplikatif, dan dapat diimplementasikan secara langsung oleh masyarakat maupun 
+
+industri; 
+
+3.​ Meningkatkan daya saing dan jiwa kompetitif mahasiswa di tingkat nasional dalam 
+
+merancang, mempresentasikan, serta mempertahankan argumen penyelesaian 
+
+masalah secara komprehensif; 
+
+4.​ Melatih kecakapan pengambilan keputusan strategis yang berbasis pada data 
+
+dengan mempertimbangkan dampak multidimensi guna mewujudkan masa depan 
+
+yang berkelanjutan; dan 
+
+5.​ Mencetak agen perubahan dari kalangan akademisi yang tidak hanya memahami 
+
+teori, tetapi juga tanggap dan adaptif terhadap tantangan eksploitasi sumber daya 
+
+alam dan pengelolaan limbah di era modern. 
+
+ 
+
+DESKRIPSI LOMBA 
+
+ 
+Study Case Competition merupakan salah satu cabang kompetisi pada UI Science 
+
+Olympiad 2026 yang bertujuan mengembangkan kemampuan mahasiswa dalam 
+
+menganalisis serta menyelesaikan permasalahan nyata secara kritis dan inovatif. Dalam 
+
+praktiknya, mahasiswa akan dihadapkan pada tantangan untuk menganalisis suatu 
+
+kasus nyata secara komprehensif dari sudut pandang daya dukung lingkungan dan 
+
+batas-batas ekologis. Melalui cabang lomba Study Case Competition, mahasiswa dapat 
+
+menyelesaikan studi kasus yang diberikan, merancang solusi yang kreatif, aplikatif, 
+
+inovatif, dan berdampak nyata dalam mendorong terciptanya perilaku konsumsi dan 
+
+produksi yang lebih berkelanjutan. 
+
+ 
+
+TEMA 
+
+ 
+“Smart Consumption, Sustainable Future” 
+
+ 
+
+ 
+
+
+
+ 
+
+SUBTEMA 
+
+ 
+Dalam rangka mencapai garis besar tema “Smart Consumption, Sustainable 
+
+Future”, diperlukan suatu pendekatan yang harapannya dapat menghasilkan tulisan yang 
+
+bermakna. Maka dari itu, terdapat subtema yang merupakan penjabaran dari tema besar 
+
+di atas. Subtema tersebut adalah Innovating Smart Solutions for Responsible 
+
+Consumption and Sustainable Production. Subtema ini berfokus pada 
+
+pengembangan solusi inovatif untuk mewujudkan pola konsumsi yang bertanggung 
+
+jawab dan sistem produksi yang berkelanjutan melalui pemanfaatan ilmu pengetahuan, 
+
+teknologi, serta pendekatan multidisiplin. Peserta diharapkan mampu menganalisis 
+
+berbagai tantangan nyata terkait efisiensi penggunaan sumber daya, pengurangan 
+
+limbah, ekonomi sirkular (circular economy), rantai pasok berkelanjutan, hingga 
+
+perubahan perilaku konsumsi. Kemudian, peserta mampu merancang solusi yang efektif 
+
+dan implementatif dalam bentuk inovasi teknologi, model bisnis, kebijakan, maupun 
+
+program berbasis masyarakat dalam rangka mewujudkan Sustainable Development Goal 
+
+(SDG) 12: Responsible Consumption and Production. 
+
+ 
+
+
+
+ 
+
+LINI MASA KEGIATAN 
+
+ 
+
+Kegiatan Tanggal Keterangan 
+
+Dilaksanakan secara daring melalui 
+Pendaftaran Early Bird 10–23 Agustus 2026 
+
+website uiso.net 
+
+24 Agustus–6 Dilaksanakan secara daring melalui 
+Pendaftaran Batch 1 
+
+September 2026 website uiso.net 
+
+7–20 September Dilaksanakan secara daring melalui 
+Pendaftaran Batch 2 
+
+2026 website uiso.net 
+
+21–26 September Dilaksanakan secara daring melalui 
+Pendaftaran Extended 
+
+2026 website uiso.net 
+
+Grand Opening, 
+Dilaksanakan secara daring melalui 
+
+Webinar, dan Technical 27 September 2026 
+Zoom Meeting 
+
+Meeting 1 
+
+ Pembukaan 
+Dilaksanakan secara daring melalui 
+
+Pengumpulan Abstrak  28 September 2026 
+website uiso.net 
+
+Study Case Competition 
+
+Batas Pengumpulan 
+Dilaksanakan secara daring melalui 
+
+Abstrak Study Case 14 Oktober 2026 
+website uiso.net 
+
+Competition 
+
+Pengumuman Finalis Diumumkan melalui akun media 
+31 Oktober 2026 
+
+Study Case Competition sosial UI Science Olympiad 2026 
+
+Dilaksanakan secara daring melalui 
+Technical Meeting 2 7 November 2026 
+
+Zoom Meeting 
+
+Batas Akhir 
+Dikumpulkan secara daring melalui 
+
+Pengumpulan 20 November 2026 
+website uiso.net 
+
+PowerPoint Finalis 
+
+Pelaksanaan Babak Dilaksanakan secara luring di 
+
+Final Study Case 27 November 2026  Multidisiplin FMIPA Universitas 
+
+Competition Indonesia 
+
+Seminar Lingkungan, 
+
+MIPA Tour, Campus Dilaksanakan secara luring di dalam 
+28 November 2026 
+
+Tour, dan Sustainable lingkungan Universitas Indonesia 
+
+Fair 
+
+
+
+ 
+
+Grand Closing dan Dilaksanakan secara luring di dalam 
+29 November 2026 
+
+Awarding Day lingkungan Universitas Indonesia 
+
+ 
+
+PERSYARATAN PESERTA 
+ 
+
+1.​ Peserta merupakan mahasiswa/i aktif jenjang D-3/D-4/S-1 di perguruan tinggi 
+
+seluruh Indonesia yang dibuktikan dengan Kartu Tanda Mahasiswa atau surat 
+
+keterangan yang menyatakan bahwa peserta merupakan mahasiswa aktif pada 
+
+perguruan tinggi tersebut. Bagi mahasiswa baru yang belum memiliki Kartu Tanda 
+
+Mahasiswa, dipersilakan mengirimkan bukti penerimaan mahasiswa dari perguruan 
+
+tinggi yang bersangkutan seperti tangkapan layar pengumuman penerimaan. 
+
+2.​ Peserta Study Case Competition UI Science Olympiad 2026 diwajibkan melakukan 
+
+pendaftaran dengan mengisi formulir registrasi secara lengkap menggunakan data 
+
+yang benar dan valid, serta melakukan pembayaran biaya pendaftaran sesuai 
+
+nominal yang telah ditetapkan untuk cabang perlombaan yang diikuti. 
+
+3.​ Peserta dinyatakan terdiskualifikasi apabila terbukti: 
+
+a.​ memalsukan identitas setelah melakukan registrasi perlombaan; 
+
+b.​ tidak mematuhi persyaratan, mekanisme, maupun peraturan selama masa 
+
+perlombaan; 
+
+c.​ digantikan/dibantu oleh orang lain; dan 
+
+d.​ melakukan kecurangan dalam bentuk apapun. 
+
+4.​ Peserta yang didiskualifikasi tidak berhak memeroleh penghargaan maupun 
+
+pengembalian biaya pendaftaran. 
+
+5.​ Mengenai data yang diberikan oleh peserta, panitia UI Science Olympiad 2026 
+
+berhak menghubungi peserta untuk menyampaikan informasi mengenai rangkaian 
+
+acara UI Science Olympiad 2026 yang sedang maupun akan berlangsung. 
+
+6.​ Data pribadi peserta UI Science Olympiad 2026 akan dilindungi kerahasiaannya 
+
+dan tidak akan disebarluaskan oleh panitia UI Science Olympiad 2026. 
+
+7.​ ​Panitia UI Science Olympiad 2026 memiliki hak untuk mempergunakan data 
+
+pendaftar guna mengirimkan pembaruan informasi terkait rangkaian acara UI 
+
+Science Olympiad periode ini maupun periode mendatang. 
+
+8.​ Panitia UI Science Olympiad 2026 dapat mengubah persyaratan sewaktu-waktu 
+
+dan segala perubahan peraturan akan diinformasikan lebih lanjut melalui akun 
+
+media sosial UI Science Olympiad 2026. 
+
+ 
+
+ 
+
+
+
+ 
+
+MEKANISME PENDAFTARAN 
+
+ 
+1.​ Pendaftaran lomba Study Case Competition dapat dilakukan melalui beberapa 
+
+gelombang pendaftaran, yaitu: 
+
+a.​ Early Bird​: 10–23 Agustus 2026 
+
+b.​ Batch 1​ : 24 Agustus–6 September 2026 
+
+c.​ Batch 2​ : 7–20 September 2026 
+
+d.​ Extended : 21–26 September 2026 
+
+2.​ Untuk pengisian formulir pendaftaran hanya dilakukan oleh ketua tim. 
+
+3.​ Ketua tim melakukan pendaftaran secara daring melalui website resmi UI Science 
+
+Olympiad 2026, yaitu pada uiso.net. 
+
+4.​ Ketua tim wajib melengkapi formulir pendaftaran dengan mengunggah beberapa 
+
+persyaratan, yaitu: 
+
+a.​ Scan Kartu Tanda Mahasiswa, surat keterangan mahasiswa aktif, atau bukti 
+
+penerimaan mahasiswa (dapat memilih salah satu) seluruh anggota tim 
+
+dalam format .jpg atau .png dengan penamaan file Kartu Tanda 
+
+Mahasiswa_Nama Lengkap; 
+
+b.​ Seluruh anggota tim wajib mengikuti akun Instagram resmi UI Science 
+
+Olympiad 2026 dan mengirimkan bukti tangkapan layar bahwa peserta telah 
+
+mengikuti akun Instagram @uiso.2026 dalam format .jpg atau .png dengan 
+
+penamaan file Bukti Follow_Nama Lengkap; 
+
+c.​ Seluruh anggota tim wajib mengunggah twibbon (slide 1) dan poster (slide 2) 
+
+pada feeds akun Instagram pribadi peserta (akun asli dan tidak private), lalu 
+
+kirimkan bukti tangkapan layar unggahan tersebut dalam format .jpg atau 
+
+.png dengan penamaan file Bukti Postingan Feeds_Nama Lengkap;  
+
+d.​ Seluruh anggota tim wajib mengunggah poster pada story akun Instagram 
+
+pribadi peserta (akun asli dan tidak private), lalu kirimkan bukti tangkapan 
+
+layar unggahan tersebut dalam format .jpg atau .png dengan penamaan file 
+
+Bukti Postingan Story_Nama Lengkap; dan 
+
+e.​ Ketua tim wajib melakukan pembayaran sesuai dengan nominal cabang 
+
+lomba Study Case Competition dan mengirimkan bukti pembayaran tersebut 
+
+dalam format .jpg atau .png dengan penamaan file Bukti 
+
+Pembayaran_Nama Lengkap. 
+
+5.​ Panitia UI Science Olympiad 2026 akan melakukan verifikasi terhadap seluruh 
+
+dokumen pendaftaran paling lambat 7 x 24 jam setelah ketua tim menyelesaikan 
+
+proses pendaftaran. 
+
+6.​ Tim yang telah lolos tahap verifikasi akan menerima email sebagai tanda proses 
+
+pendaftaran telah selesai. 
+
+7.​ Pada dashboard pendaftaran uiso.net akan tertera link grup WhatsApp dan seluruh 
+
+anggota tim diwajibkan masuk ke dalam grup tersebut. 
+
+ 
+
+ 
+
+
+
+ 
+
+MEKANISME PEMBAYARAN 
+ 
+
+1.​ Tim wajib melakukan pembayaran biaya pendaftaran sesuai dengan nominal 
+
+gelombang pendaftaran, dengan rincian sebagai berikut: 
+
+a.​ Early Bird​: Rp90.0000,00 
+
+b.​ Batch 1 ​ : Rp105.000,00 
+
+c.​ Batch 2​ : Rp120.000,00 
+
+d.​ Extended​: Rp150.000,00 
+
+2.​ Pembayaran dapat dilakukan melalui transfer ke rekening berikut:  
+
+Bank Jago (108426929183 a.n Rhadit Ya Rasikh Setiawan) 
+
+3.​ Tim wajib mengunggah bukti pembayaran pada website uiso.net dalam format .jpg 
+
+atau .png dengan penamaan file Bukti Pembayaran_Nama Tim. 
+
+4.​ Seluruh biaya administrasi transfer menjadi tanggung jawab masing-masing tim. 
+
+Apabila nominal pembayaran yang diterima kurang dari ketentuan yang berlaku, 
+
+panitia UI Science Olympiad 2026 akan menghubungi tim untuk melakukan proses 
+
+pelunasan biaya pendaftaran. 
+
+5.​ Apabila terdapat kelebihan jumlah nominal saat proses pembayaran biaya 
+
+pendaftaran, tim dapat melakukan Refund (Pengembalian Dana) dengan 
+
+mekanisme sebagai berikut: 
+
+a.​ Perwakilan tim menghubungi Bendahara Controller UI Science Olympiad 
+
+2026 atas nama Rhaditya Rasikh Setiawan (085889099901); 
+
+b.​ Perwakilan tim mengirimkan format chat sebagai berikut: 
+
+Nama Tim/Peserta​ : xxx 
+
+Cabang Lomba​ ​ : xxx 
+
+Nominal Transfer​ : xxx 
+
+kepada Bendahara Controller UI Science Olympiad 2026; dan 
+
+c.​ Setelah mengirimkan format chat tersebut, perwakilan tim diwajibkan 
+
+melampirkan bukti transfer. 
+
+d.​ Apabila telah dikonfirmasi oleh Bendahara Controller UI Science Olympiad 
+
+2026, perwakilan tim diwajibkan mengisi Google Formulir. 
+
+6.​ Apabila terdapat kesalahan atau kondisi yang membuat tim harus membatalkan 
+
+pendaftaran, maka tidak ada Refund (Pengembalian Dana) bagi tim tersebut. 
+
+7.​ Tim tidak dapat melakukan perubahan data maupun pengurangan/penambahan 
+
+anggota apabila sudah menyelesaikan tahapan pendaftaran di website. 
+
+ 
+
+ 
+
+
+
+ 
+
+KETENTUAN UMUM PERLOMBAAN 
+ 
+
+1.​ Lomba Study Case Competition bersifat tim berisikan 2–3 orang termasuk Ketua 
+
+Tim. 
+
+2.​ Setiap tim wajib terdiri atas peserta yang berasal dari instansi yang sama. 
+
+3.​ Alur kompetisi dibagi menjadi dua babak, yaitu Babak Penyisihan dan Babak Final. 
+
+4.​ Setiap peserta diperbolehkan mengikuti lebih dari satu cabang lomba. 
+
+5.​ Apabila setiap lomba yang diikuti dinyatakan lolos melaju Babak Final, peserta 
+
+wajib memilih salah satu cabang lomba dengan ketentuan setiap finalis di setiap 
+
+lomba wajib mengikuti Babak Final secara luring dan tidak dapat digantikan oleh 
+
+orang lain. 
+
+6.​ Setiap tim hanya diperbolehkan mengumpulkan satu karya Study Case 
+
+Competition. 
+
+7.​ Peserta wajib mengikuti Technical Meeting 1 pada Minggu, 27 September 2026. 
+
+8.​ Finalis wajib mengikuti Technical Meeting 2 pada Sabtu, 7 November 2026. 
+
+9.​ Finalis wajib menggunakan pakaian formal dan jaket almamater perguruan tinggi 
+
+ketika Babak Final lomba Study Case Competition pada Jumat, 27 November 
+
+2026. 
+
+10.​ Finalis wajib menggunakan kaus UI Science Olympiad 2026 ketika Seminar 
+
+Lingkungan, MIPA Tour, Campus Tour, dan Sustainable Fair pada Sabtu, 28 
+
+November 2026. 
+
+11.​ Finalis wajib menggunakan pakaian batik ketika Grand Closing dan Awarding Day 
+
+pada Minggu, 29 November 2026. 
+
+12.​ Peserta wajib mematuhi seluruh ketentuan yang ditetapkan oleh panitia UI Science 
+
+Olympiad 2026. 
+
+ 
+
+ 
+
+
+
+ 
+
+KETENTUAN KHUSUS PERLOMBAAN 
+ 
+
+Aturan penulisan untuk abstrak perlombaan Study Case Competition UI Science 
+
+Olympiad 2026 meliputi:   
+
+1.​ ​Abstrak wajib ditulis menggunakan Bahasa Indonesia yang baik dan benar sesuai 
+
+pedoman Ejaan Yang Disempurnakan (EYD) Edisi V.    
+
+2.​ Abstrak Study Case Competition bersifat orisinal dan belum pernah dilombakan 
+
+maupun dipublikasikan dimanapun. 
+
+3.​ Abstrak Study Case Competition tidak diperbolehkan mengandung unsur 
+
+pornografi, pelanggaran hukum, serta SARA (Suku, Agama, Ras, dan 
+
+Antargolongan). 
+
+4.​ Abstrak harus bebas dari penjiplakan ide, modifikasi kalimat tanpa izin, atau 
+
+pencantuman data empiris tanpa menyertakan sumber referensi yang jelas.  
+
+5.​ ​Pembahasan dalam tulisan harus relevan dengan tema dan subtema yang telah 
+
+ditentukan.   
+
+6.​ Abstrak Study Case Competition wajib ditulis menggunakan 
+
+FORMAT ABSTRAK STUDY CASE COMPETITION UI SCIENCE OLYMPIA…
+
+yang telah disediakan oleh panitia UI Science Olympiad 2026. 
+
+7.​ ​Komponen abstrak berdasarkan template resmi meliputi: 
+
+a.​ Halaman Sampul/Judul; 
+
+b.​ Latar Belakang; 
+
+c.​ Rumusan Masalah; 
+
+d.​ Metode; 
+
+e.​ Solusi; 
+
+f.​ Dampak dan keberlanjutan; 
+
+g.​ Kata kunci; 
+
+h.​ Daftar pustaka; dan 
+
+i.​ Lampiran. 
+
+8.​ ​Standar teknis tata letak dokumen adalah sebagai berikut: 
+
+a.​ Jenis Kertas​ ​ ​ : A4 
+
+b.​ Jenis Huruf​ ​ ​ : Times New Roman 
+
+c.​ Ukuran Huruf​ ​ ​ : 12 
+
+d.​ Jarak Baris​ ​ ​ : 1,5 spasi 
+
+e.​ Perataan Teks​ ​ ​ : Justify (rata kanan-kiri). 
+
+f.​ Batas Halaman (Margin)​ :   
+
+●​ ​Atas​​ : 3 cm   
+
+●​ ​Bawah​ : 3 cm   
+
+●​ ​Kanan​ : 3 cm   
+
+●​ Kiri​ ​ : 4 cm 
+
+9.​ Seluruh sumber referensi wajib dicantumkan pada halaman daftar pustaka sesuai 
+
+dengan format APA (American Psychological Association) style 7th Ed. 
+
+10.​ Seluruh sumber referensi yang digunakan wajib merupakan referensi yang telah 
+
+dipublikasikan paling lama lima tahun terakhir. 
+
+
+
+ 
+
+11.​ Pendaftar diwajibkan menyertakan Surat Pernyataan Orisinalitas yang dibubuhi 
+
+tanda tangan pada bagian lampiran Abstrak. 
+
+12.​ ​Peserta yang karyanya terindikasi memiliki persentase plagiarisme: 
+
+a.​ Lebih atau sama dengan 20% akan mendapatkan pengurangan poin. 
+
+b.​ Lebih atau sama dengan 25% akan langsung didiskualifikasi dari 
+
+perlombaan.   
+
+13.​ ​Panitia tidak membatasi jenis rujukan yang digunakan, peserta dibebaskan 
+
+mengambil referensi dari buku ilmiah, jurnal, website terpercaya, maupun literatur 
+
+valid lainnya. 
+
+14.​ ​Tim juri berhak memotong perolehan nilai jika abstrak tidak sesuai dengan 
+
+ketentuan format yang ada atau menggunakan sumber referensi yang kurang 
+
+kredibel. 
+
+ 
+
+ 
+
+
+
+ 
+
+MEKANISME BABAK PENYISIHAN 
+ 
+
+1.​ Setiap tim hanya diperkenankan mengumpulkan satu abstrak. 
+
+2.​ Pengumpulan karya dilakukan oleh ketua tim melalui dashboard peserta pada 
+
+website uiso.net.  
+
+3.​ ​Pengunggahan file abstrak hanya bisa dilakukan satu kali. 
+
+4.​ Setelah abstrak berhasil dikirim, peserta tidak dapat melakukan penggantian, 
+
+pengeditan, maupun pengunggahan ulang dokumen dengan alasan apa pun.   
+
+5.​ ​Keterlambatan dalam mengirimkan abstrak akan berakibat pada diskualifikasi tim. 
+
+6.​ ​Abstrak wajib dikirim dalam format .pdf dengan penamaan: Study Case 
+
+Competition_Nama Tim_Judul Abstrak. 
+
+7.​ ​Proses pengiriman dokumen dilakukan melalui website uiso.net dengan batas akhir 
+
+pengiriman hingga tanggal 14 Oktober 2026 pukul 23.59 WIB. 
+
+8.​ Batas waktu pengumpulan bersifat final dan tidak akan diperpanjang atas alasan 
+
+apa pun. 
+
+9.​ Peserta wajib memastikan bahwa dokumen telah berhasil terunggah dan terkirim 
+
+pada dashboard peserta.  
+
+10.​ Sebanyak enam tim dengan perolehan nilai tertinggi dari Babak Penyisihan akan 
+
+melaju ke Babak Final. 
+
+11.​ Jika terdapat tim dengan nilai yang sama, maka juri akan meninjau kembali untuk 
+
+menentukan tim yang akan melaju ke Babak Final. 
+
+12.​ Hasil Babak Penyisihan akan diumumkan melalui media sosial resmi UI Science 
+
+Olympiad 2026 sesuai jadwal yang telah ditentukan. 
+
+13.​ Keputusan dewan juri dan panitia bersifat mutlak dan tidak dapat diganggu gugat.  
+
+ 
+
+ 
+
+
+
+ 
+
+MEKANISME DAFTAR ULANG 
+
+ 
+
+1.​ Peserta yang dinyatakan sebagai calon finalis dapat melakukan pendaftaran ulang 
+
+secara daring melalui website resmi UI Science Olympiad 2026, yaitu pada uiso.net 
+
+dimulai pada 31 Oktober–3 November 2026. 
+
+2.​ Pendaftaran ulang akan ditutup pada tanggal 3 November 2026 pukul 23.59 WIB. 
+
+3.​ Apabila calon finalis tidak melakukan pendaftaran ulang pada batas waktu yang 
+
+telah ditentukan, maka kuota finalis akan diberikan kepada peserta waiting list yang 
+
+akan diinformasikan oleh panitia melalui private chat WhatsApp. 
+
+4.​ Peserta waiting list yang sudah dinyatakan sebagai finalis oleh panitia diwajibkan 
+
+melakukan pendaftaran ulang pada tanggal 4–6 November 2026.  
+
+5.​ Pendaftaran ulang peserta waiting list akan ditutup pada tanggal 6 November 2026 
+
+pukul 23.59 WIB. 
+
+6.​ Peserta wajib melakukan pembayaran biaya pendaftaran ulang sebesar 
+
+Rp125.000,00 dengan rincian untuk biaya kaus, merchandise, dan konsumsi finalis 
+
+selama tiga hari rangkaian utama UI Science Olympiad 2026 berlangsung. 
+
+7.​ Bagi finalis yang memerlukan penginapan, panitia menyediakan paket akomodasi 
+
+dengan rincian mendapat penginapan dan transportasi menuju venue acara yang 
+
+dibayarkan terpisah di luar biaya pendaftaran ulang. 
+
+a.​ Paket A: Rp720.000,00 
+
+b.​ Paket B: Rp650.000,00 
+
+c.​ Paket C: Rp620.000,00 
+
+8.​ Detail paket akomodasi akan diinformasikan pada Booklet Akomodasi. 
+
+ 
+
+ 
+
+
+
+ 
+
+MEKANISME BABAK FINAL 
+
+ 
+
+1.​ Setiap tim yang melaju ke Babak Final wajib mengumpulkan karya PowerPoint 
+
+untuk presentasi. 
+
+2.​ Pengumpulan karya dilakukan oleh ketua tim melalui dashboard peserta pada 
+
+website uiso.net. 
+
+3.​ Keterlambatan dalam mengirimkan abstrak akan berakibat pada diskualifikasi tim. 
+
+4.​ Karya PowerPoint wajib dikirim dalam format .pdf dengan penamaan: Final Study 
+
+Case Competition_Nama Tim. 
+
+5.​ ​Pengunggahan file karya PowerPoint hanya bisa dilakukan satu kali. 
+
+6.​ Setelah karya berhasil dikirim, peserta tidak dapat melakukan penggantian, 
+
+pengeditan, maupun pengunggahan ulang dokumen dengan alasan apa pun. 
+
+7.​ Tenggat waktu pengumpulan karya PowerPoint adalah 20 November 2026 Pukul 
+
+23.59 WIB. 
+
+8.​ Batas waktu pengumpulan bersifat final dan tidak akan diperpanjang atas alasan 
+
+apa pun. 
+
+9.​ Babak Final dilaksanakan secara luring di Fakultas Matematika dan Ilmu 
+
+Pengetahuan Alam Universitas Indonesia. 
+
+10.​ Setiap tim melakukan registrasi di Selasar Prof. Dr. Soemantri Brodjonegoro FMIPA 
+
+UI untuk menghadiri pembukaan lomba. 
+
+11.​ Setelah pembukaan lomba, setiap tim akan didampingi oleh panitia menuju ruang 
+
+pelaksanaan babak final. 
+
+12.​ Urutan presentasi ditentukan saat Technical Meeting 2. 
+
+13.​ Tim yang mendapatkan giliran presentasi akan dipanggil sebanyak tiga kali. 
+
+14.​ Jika setelah tiga panggilan tim tersebut tidak hadir, maka akan langsung 
+
+didiskualifikasi. 
+
+15.​ Durasi untuk presentasi maksimal 15 menit. 
+
+16.​ Durasi untuk tanya jawab maksimal 15 menit. 
+
+17.​ Panitia akan memberi peringatan ketika waktu presentasi terisa 10 menit, lima 
+
+menit, satu menit, dan ketika waktu telah habis. 
+
+18.​ Hasil Babak Final akan diumumkan ketika Grand Closing dan Awarding Day UI 
+
+Science Olympiad 2026. 
+
+19.​ Keputusan dewan juri dan panitia bersifat mutlak dan tidak dapat diganggu gugat. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+PEMBOBOTAN BABAK PENYISIHAN 
+
+No. Aspek Penilaian Bobot 
+
+1. Keselarasan Dengan Tema dan Subtema 10% 
+
+2. Kesesuaian, Kerapian Dokumen, dan Tata Bahasa 20% 
+
+3. Ketepatan dan Kelengkapan Analisis Atas Masalah yang 
+25% 
+
+Diidentifikasi 
+
+4. Data dan Sumber Referensi 15% 
+
+5. Solutif, Rasionalitas, dan Kerelevanan Solusi 30% 
+
+TOTAL BOBOT 100% 
+
+ 
+
+PEMBOBOTAN BABAK FINAL 
+
+No. Aspek Penilaian Bobot 
+
+1. Kreativitas dan Orisinalitas Pitch Deck Solution 20% 
+
+2. Kualitas Presentasi dan Penguasaan Topik 25% 
+
+3. Struktur Penyampaian Saat Presentasi 25% 
+
+4. Kemampuan Menjawab Atas Pertanyaan Juri 30% 
+
+TOTAL BOBOT 100% 
+
+ 
+
+ 
+
+
+
+ 
+
+PENGHARGAAN 
+
+​Peserta : E-Sertifikat 
+
+Finalis : Sertifikat Finalis 
+
+Juara 1 : Uang Tunai Rp4.500.000,00 + Piala + Sertifikat 
+
+Juara 2 : Uang Tunai Rp3.500.000,00 + Piala + Sertifikat 
+
+Juara 3 : Uang Tunai Rp2.500.000,00 + Piala + Sertifikat 
+
+​Best Presentation : Uang Tunai Rp1.000.000,00 + Piala + Sertifikat 
+
+ 
+
+
+
+ 
+
+PENUTUP 
+
+Demikian panduan pelaksanaan Lomba Study Case Competition UI Science Olympiad 
+
+2026 ini dirancang agar dapat menjadi pedoman jalannya acara bagi seluruh pihak yang 
+
+berkepentingan. Hal-hal krusial lain yang belum terakomodasi dalam petunjuk ini akan 
+
+ditambahkan di waktu mendatang. Untuk informasi lebih lanjut, silahkan menghubungi 
+
+narahubung resmi panitia atau mengunjungi laman media sosial kami pada saluran 
+
+berikut: 
+
+​Instagram​ : @uiso.2026   
+
+​Email​ ​ : uiso2026.official@gmail.com 
+
+ 
+
+NARAHUBUNG 
+
+Fathi Abdulhaqqi  
+
+WhatsApp: 085141574914 / ID LINE: 98765114501507 
+
+ 
+
+Azzura Zuhaira Syabiyah 
+
+WhatsApp: 0895402077979 / ID LINE: syazura28 
+
+ 
+
+Rifqi Kamal Al Asyari 
+
+WhatsApp: 081211787213 / ID LINE: rifqikamalalasyari`

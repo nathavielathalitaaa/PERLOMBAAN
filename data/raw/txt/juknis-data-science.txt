@@ -1,0 +1,211 @@
+﻿PETUNJUK TEKNIS · 2026/2027
+
+FESTIVAL SAINS & TEKNOLOGI NASIONAL
+
+TANGENFEST #1
+DATA
+SCIENCE
+COMPETITION
+
+PERORANGAN DARING PENUH · KAGGLE · ZOOM 8 – 24 JANUARI 2027
+
+MAKSIMAL MAHASISWA S1/SEDERAJAT AKTIF
+
+Termasuk Pelajar & Mahasiswa D1-D4.
+
+Halo, aku Tangi! Baca juknis ini sampai habis ya,
+terutama bagian Ketentuan model & data.
+
+fest.tangen.co.id · @tangenfest Juknis Data Science · hal. 1/5
+
+
+
+TANGENFEST #1 JUKNIS DATA SCIENCE
+
+1 Tentang kompetisi
+
+Kompetisi Data Science TangenFest #1 menantang peserta membangun model klasifikasi gambar.
+Dataset ditentukan dan disediakan hanya oleh panitia melalui Kaggle; kasus dirilis pada saat
+pembukaan acara tanggal 8 Januari 2027.
+
+Kompetisi diikuti secara perorangan dan berlangsung sepenuhnya daring: peserta mengerjakan
+pada komputernya sendiri, sedangkan presentasi babak final dilaksanakan melalui Zoom (tautan
+dikirim panitia melalui grup peserta). Peserta maksimal mahasiswa S1/sederajat aktif, termasuk
+pelajar dan mahasiswa D1-D4. Seluruh jenjang dinilai bersama tanpa pembedaan tingkat.
+
+2 Jadwal
+
+1 NOV Pendaftaran dibuka di fest.tangen.co.id
+2026
+
+7 JAN 12.00 WIB Penutupan pendaftaran
+2027
+
+7 JAN 19.00 WIB Technical meeting Data Science
+2027
+
+8 JAN 19.30 WIB Pembukaan acara, webinar, dan perilisan kasus Data Science (dataset
+2027 dibuka di Kaggle)
+
+19 JAN Batas akhir pengumpulan model
+2027
+
+21 JAN Pengumuman 10 finalis
+2027
+
+23 JAN Babak final: presentasi finalis
+2027
+
+24 JAN Pengumuman pemenang dan pembagian e-sertifikat
+2027
+
+3 Cara penilaian
+
+Tugas: klasifikasi gambar. Model dinilai berdasarkan dua hal: akurasi (seberapa sering prediksinya
+benar) dan keyakinan model (seberapa yakin model terhadap prediksinya). Semakin tinggi akurasi
+dan semakin tinggi keyakinan, semakin tinggi skor yang diperoleh.
+
+Kaggle sebagai pembanding. Papan peringkat (leaderboard) Kaggle digunakan agar peserta dapat
+memantau posisinya dan membandingkan modelnya. Peringkat di Kaggle bukan nilai akhir.
+
+Penentuan 10 finalis dilakukan sepenuhnya oleh model, yaitu skor model terhadap data uji (test)
+yang tidak pernah disebarkan sebelumnya.
+
+Penentuan juara 1 sampai 3: 50% penilaian dewan juri dan 50% kualitas model. Rumus skor rinci dan
+format berkas prediksi dijelaskan pada saat technical meeting.
+
+fest.tangen.co.id · @tangenfest Juknis Data Science · hal. 2/5
+
+
+
+TANGENFEST #1 JUKNIS DATA SCIENCE
+
+4 Ketentuan model & data
+
+Boleh Dilarang
+Pustaka (library) apa pun untuk Otomatisasi pemodelan seperti AutoML
+membangun dan melatih model (misalnya atau pustaka sejenis yang memilih model,
+NumPy, pandas, scikit-learn, PyTorch, fitur, atau arsitektur secara otomatis.
+TensorFlow), selama tidak Data eksternal, dilarang sepenuhnya.
+mengotomatisasi proses pemodelan. Data yang boleh digunakan hanya dataset
+Algoritma machine learning dan model yang ditentukan oleh panitia.
+pretrained generik yang tersedia publik Model pretrained yang dikhususkan
+dan dirilis sebelum 1 November 2026 untuk kasus serupa.
+(lihat ketentuan di bawah).
+
+Menggunakan data uji untuk melatih
+Fitur kustom, pra-pemrosesan, dan model atau memperoleh label secara tidak
+augmentasi rancangan sendiri. sah.
+Menyimpan seed dan konfigurasi AI agentik/otonom seperti Claude Code,
+pelatihan pada notebook agar mudah Copilot, Hermes, OpenClaw, dan
+diperiksa. sejenisnya.
+Jupyter Notebook atau Google Colab
+(disarankan).
+Bereksperimen sebanyak mungkin dan
+memantau papan peringkat
+(leaderboard) Kaggle.
+
+Model pretrained: hanya yang bersifat generik
+Transfer knowledge dari model pretrained yang tersedia publik diizinkan, tetapi hanya untuk model
+generik (dilatih untuk keperluan umum, bukan untuk kasus yang dirilis). Contoh: jika dataset yang
+dirilis adalah kasus medis, peserta tidak boleh memakai pretrained model medis; hanya model yang
+sifatnya general. Bobot model harus sudah dirilis secara publik sebelum 1 November 2026.
+
+Jenis, spesifikasi, dan kelas model yang diizinkan diumumkan resmi pada technical meeting.
+Contoh yang berpeluang diizinkan (menunggu konfirmasi di technical meeting): keluarga ResNet,
+MobileNet, EfficientNet, DenseNet, ConvNeXt, dan ViT dengan bobot generik. Model di luar contoh
+itu wajib dikonfirmasi panitia terlebih dahulu.
+
+Batas komputasi: epoch dan iterasi
+Pelatihan dibatasi oleh batas epoch dan iterasi yang diumumkan pada technical meeting dan di
+halaman kompetisi Kaggle saat dataset dirilis. Satu epoch = seluruh gambar latih yang dipakai
+diproses satu kali; satu iterasi = satu kali pembaruan bobot; anggaran total = batas epoch × jumlah
+gambar latih. Batas berlaku untuk seluruh tahap pelatihan digabung, termasuk fine-tuning. Batas
+ukuran (resolusi) masukan juga ditetapkan panitia.
+
+fest.tangen.co.id · @tangenfest Juknis Data Science · hal. 3/5
+
+
+
+TANGENFEST #1 JUKNIS DATA SCIENCE
+
+4 Ketentuan model & data (lanjutan)
+
+Wajib melaporkan dan wajib dapat direproduksi
+Peserta wajib mencantumkan sumber pretrained model (nama, versi, tautan, dan tanggal rilis) serta
+menjelaskan proses pra-pemrosesan, pelatihan, fine-tuning, dan evaluasi model. Kode wajib dapat
+direproduksi: seluruh proses yang mengandung keacakan (inisialisasi, pembagian data, augmentasi,
+urutan batch, dropout, dan sejenisnya) wajib menggunakan seed tetap. Dengan kode, data, dan seed
+yang sama, hasil harus sama atau mirip dalam batas toleransi perbedaan perangkat keras dan
+pustaka. Hasil yang menyimpang jauh dan tidak dapat direproduksi panitia dapat diperlakukan
+sebagai indikasi kecurangan.
+
+5 Kerja perorangan
+
+Satu peserta hanya diperbolehkan memiliki satu akun Kaggle. Dilarang menggunakan lebih dari
+satu akun.
+
+Dilarang bekerja sama, berbagi kode, atau berbagi model dengan peserta lain.
+Seluruh pekerjaan dikerjakan sendiri oleh peserta yang terdaftar.
+
+6 Pelanggaran & sanksi
+
+Indikasi penggunaan AI agentik/otonom, data eksternal, model pretrained yang
+dikhususkan untuk kasus serupa, penggunaan data uji untuk melatih model, atau
+bentuk kecurangan lain, dapat berujung diskualifikasi. Panitia dapat meminta
+notebook/kode, seed, bobot model, dan penjelasan langsung (termasuk
+menjalankan ulang pelatihan) untuk memastikan model merupakan karya
+peserta sendiri dan hasilnya dapat direproduksi.
+
+Keputusan panitia dan juri bersifat mutlak dan tidak dapat diganggu gugat.
+
+fest.tangen.co.id · @tangenfest Juknis Data Science · hal. 4/5
+
+
+
+TANGENFEST #1 JUKNIS DATA SCIENCE
+
+7 Babak final & presentasi
+
+10 finalis terbaik (diumumkan 21 Januari 2027) mempresentasikan modelnya pada 23 Januari 2027
+melalui Zoom. Durasi presentasi maksimal 20 menit per peserta.
+
+Presentasi memaparkan pendekatan, pra-pemrosesan dan fitur kustom, model pretrained yang
+dipakai (sumber dan alasan pemilihannya), proses pelatihan dan fine-tuning, serta evaluasi model.
+Presentasi dinilai oleh dewan juri dan menentukan 50% nilai akhir juara 1 sampai 3; 50% lainnya
+berasal dari kualitas model. Presentasi juga digunakan untuk memastikan keaslian karya.
+
+8 Penghargaan
+
+PERINGKAT PENGHARGAAN
+
+Juara 1 Medali emas · uang pembinaan · cenderamata · e-sertifikat juara
+
+Juara 2 Medali perak · cenderamata · e-sertifikat juara
+
+Juara 3 Medali perunggu · cenderamata · e-sertifikat juara
+
+Finalis E-sertifikat finalis
+
+Peserta E-sertifikat kepesertaan
+
+9 Cara mendaftar
+
+Buka fest.tangen.co.id, buat akun (Gmail), dan lengkapi data diri serta nama sekolah/kampus.
+
+Pilih Data Science, lalu lakukan pembayaran administrasi sebesar Rp69.000 per peserta langsung
+melalui situs web ini sebelum 7 Januari 2027 pukul 12.00 WIB.
+Buat twibbon, unggah ke feed Instagram (tandai @tangenfest), lalu unggah tangkapan layarnya
+beserta kartu pelajar/kartu mahasiswa atau surat keterangan sekolah/universitas (dapat
+menyusul setelah pembayaran administrasi).
+Tautan grup peserta ditampilkan di web fest.tangen.co.id setelah melakukan pembayaran
+administrasi.
+
+10 Kontak panitia
+
+Alief Alesa
+0857-0771-7786 0896-9585-5355
+
+Semangat berlatih! Sampai jumpa di leaderboard dan di babak final.
+
+fest.tangen.co.id · @tangenfest Juknis Data Science · hal. 5/5

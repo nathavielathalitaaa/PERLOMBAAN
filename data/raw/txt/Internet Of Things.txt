@@ -1,0 +1,1301 @@
+﻿M
+
+GUIDEBOOK
+Development
+
+
+Competition
+
+Internet of things
+
+gamedev AppDEV robotic
+
+
+
+deskripsi
+
+umum
+
+Internet of Things (IoT) Competition merupakan cabang perlombaan 
+MAGE 12 yang berfokus pada pembuatan alat yang dapat 
+terintegrasi dengan koneksi nirkabel untuk terhubung dengan alat 
+lain yang dapat dikendalikan. Kompetisi ini merupakan kesempatan 
+bagi peserta untuk mengeksplorasi dan mengembangkan ide-ide 
+hebat ke dalam bentuk alat dan software (jika diperlukan). Pada 
+tahun ini MAGE 12 berfokus pada "Long Life Legacy: Empowering 
+Smart Cities for a Sustainable Urban Future". Yang membawa 
+subtema:
+
+1. Climate Disaster Technology
+
+2. Smart Technology Infrastructure
+
+3. Green Urban Ecosystem
+
+yang dipilih sebagai upaya untuk mendorong inovasi dan revolusi 
+teknologi dalam menjawab tantangan perkotaan masa kini, 
+khususnya terkait perubahan iklim dan keberlanjutan lingkungan. 
+Melalui pemanfaatan teknologi berbasis Internet of Things (IoT), 
+peserta diharapkan mampu menghadirkan solusi cerdas seperti 
+sistem mitigasi bencana, infrastruktur kota pintar, serta ekosistem 
+urban yang ramah lingkungan. Dengan demikian, inovasi yang 
+dihasilkan tidak hanya memberikan dampak jangka pendek, tetapi 
+juga berkontribusi dalam menciptakan kota yang tangguh, efisien, 
+dan berkelanjutan di masa depan.
+
+
+
+
+Alur
+
+pendaftaran
+
+Setiap tim hanya diperkenankan mengirimkan satu orang 
+perwakilan sebagai pendaftar, dan pendaftar tersebut secara 
+otomatis ditetapkan sebagai ketua tim.
+
+Pendaftar wajib mengunggah twibbon dengan template dari link 
+https://its.id/m/TwibbonCompetitionMAGE12
+
+
+Kunjungi website resmi MAGE 12 di mage-its.id
+
+Pendaftar wajib melakukan pendaftaran akun apabila belum 
+
+memiliki akun, dengan ketentuan nomor yang digunakan 
+terdaftar pada WhatsApp dan email dapat menerima verifikasi.
+
+Sistem akan mengirimkan email verifikasi kepada pendaftar.
+
+Pendaftar wajib melakukan verifikasi akun melalui tautan yang 
+dikirimkan pada email.
+
+Pendaftar melakukan login ke akun yang telah terdaftar dan 
+akan diarahkan ke halaman dashboard.
+
+Pendaftar memilih menu Competition, kemudian menelusuri dan 
+memilih kompetisi yang ingin diikuti.
+
+Pendaftar mengisi identitas tim dan memilih kategori peserta.
+
+Dalam proses pendaftaran, pendaftar wajib memenuhi 
+ketentuan sebagai berikut:
+
+
+Mengunggah KTP/Kartu Pelajar
+
+Mengunggah twibbon sesuai template yang telah disediakan
+
+Memberikan like dan melakukan repost poster MAGE 12 pada 
+Instastory serta tag teman/kerabat
+
+
+Mengunggah file berisi bukti:
+
+Mengikuti akun Instagram MAGE 12 (@mage_its)
+
+Mengikuti akun TikTok MAGE 12 (@mage.its)
+
+Mengikuti akun LinkedIn MAGE 12 (khusus mahasiswa) 
+(https://www.linkedin.com/company/mage-12)
+
+
+Pendaftar mengisi proposal (opsional dan dapat dilengkapi 
+setelah pendaftaran)
+
+Pendaftar melakukan pembayaran sesuai nominal yang tertera 
+melalui QRIS dan mengunggah bukti pembayaran
+
+Pendaftar akan dinyatakan berhasil mendaftar setelah 
+melakukan submit dan menunggu proses verifikasi pembayaran 
+oleh panitia paling lambat 2x24 jam.
+
+Apabila data pada website belum terdaftar, pendaftar 
+diharapkan melakukan konfirmasi kepada contact person yang 
+tersedia.
+
+
+
+Setiap tim hanya diperkenankan mengirimkan satu orang 
+perwakilan sebagai pendaftar, dan pendaftar tersebut secara 
+otomatis ditetapkan sebagai ketua tim.
+
+Pendaftar wajib mengunggah twibbon dengan template dari link 
+https://its.id/m/TwibbonCompetitionMAGE12
+
+
+Kunjungi website resmi MAGE 12 di mage-its.id
+
+Pendaftar wajib melakukan pendaftaran akun apabila belum 
+
+memiliki akun, dengan ketentuan nomor yang digunakan 
+terdaftar pada WhatsApp dan email dapat menerima verifikasi.
+
+Sistem akan mengirimkan email verifikasi kepada pendaftar.
+
+Pendaftar wajib melakukan verifikasi akun melalui tautan yang 
+dikirimkan pada email.
+
+Pendaftar melakukan login ke akun yang telah terdaftar dan 
+akan diarahkan ke halaman dashboard.
+
+Pendaftar memilih menu Competition, kemudian menelusuri dan 
+memilih kompetisi yang ingin diikuti.
+
+Pendaftar mengisi identitas tim dan memilih kategori peserta.
+
+Dalam proses pendaftaran, pendaftar wajib memenuhi 
+ketentuan sebagai berikut:
+
+
+Mengunggah KTAP/Kartlu Pelajar
+ r
+
+peMengunggah twibbon sesuai template yang telah disediakan
+
+
+Membnerikadn like dan meflakuktan repaost porster MaAGE 12n pada 
+Instastory serta tag teman/kerabat
+
+
+Mengunggah file berisi bukti:
+
+Mengikuti akun Instagram MAGE 12 (@mage_its)
+
+Mengikuti akun TikTok MAGE 12 (@mage.its)
+
+Mengikuti akun LinkedIn MAGE 12 (khusus mahasiswa) 
+(https://www.linkedin.com/company/mage-12)
+
+
+Pendaftar mengisi proposal (opsional dan dapat dilengkapi 
+setelah pendaftaran)
+
+Pendaftar melakukan pembayaran sesuai nominal yang tertera 
+melalui QRIS dan mengunggah bukti pembayaran
+
+Pendaftar akan dinyatakan berhasil mendaftar setelah 
+melakukan submit dan menunggu proses verifikasi pembayaran 
+oleh panitia paling lambat 2x24 jam.
+
+Apabila data pada website belum terdaftar, pendaftar 
+diharapkan melakukan konfirmasi kepada contact person yang 
+tersedia.
+
+
+
+ketentuan
+
+umum
+
+Peserta adalah siswa/i SMA/SMK/sederajat dan mahasiswa/i 
+aktif program D3/D4/S1, dibuktikan dengan Kartu Pelajar yang 
+masih berlaku atau surat keterangan siswa aktif dari sekolah 
+terkait untuk siswa dan dibuktikan dengan Kartu Tanda 
+Mahasiswa yang masih berlaku atau surat keterangan resmi 
+dari perguruan tinggi/instansi terkait untuk mahasiswa.
+
+Satu tim terdiri atas maksimal tiga orang, dengan salah satu 
+anggota adalah ketua tim.
+
+Peserta dalam satu tim berasal dari universitas/sekolah/instansi 
+yang sama dan diperbolehkan dari angkatan berbeda.
+
+Peserta yang mengikuti kompetisi merupakan peserta yang 
+telah terdaftar dan tidak dapat digantikan oleh orang lain.
+
+Pendaftaran hanya dapat dilakukan melalui website MAGE 12.
+
+Setiap tim diperbolehkan mengirim maksimal satu karya.
+
+Setiap tim hanya boleh memilih salah satu sub-tema.
+
+Nama tim tidak boleh mengandung unsur SARA, pornografi, 
+kekerasan, dan hal-hal lain yang tidak patut dipublikasikan.
+
+Karya yang dikembangkan merupakan karya orisinil (bukan 
+jiplakan atau saduran) dan belum pernah mendapatkan 
+penghargaan dari kompetisi manapun. Hak kekayaan intelektual 
+dari karya peserta tetap menjadi hak peserta.
+
+Semua aset yang digunakan dalam pembuatan karya harus 
+orisinil atau yang berlisensi bebas, dan jika peserta 
+menggunakan aset berlisensi, diharapkan mencantumkan 
+lisensi tersebut.
+
+Jika peserta didapatkan menggunakan aset tanpa lisensi bebas 
+atau tidak mencantumkan lisensi, maka peserta dikenakan 
+sanksi oleh panitia.
+
+Karya yang diikutsertakan tidak boleh mengandung unsur SARA, 
+pornografi, kekerasan, dan hal-hal lain yang tidak patut 
+dipublikasikan.
+
+Karya yang diikutsertakan hanya terbatas pada platform PC 
+atau Mobile.
+
+Keputusan panitia dan dewan juri tidak dapat diganggu gugat 
+tanpa alasan yang berlandaskan data.
+
+Peserta yang mengundurkan diri pada saat pertandingan atau 
+mendapat sanksi diskualifikasi tidak dapat mengajukan refund 
+biaya pendaftaran.
+
+
+
+Peserta adalah siswa/i SMA/SMK/sederajat dan mahasiswa/i 
+aktif program D3/D4/S1, dibuktikan dengan Kartu Pelajar yang 
+masih berlaku atau surat keterangan siswa aktif dari sekolah 
+terkait untuk siswa dan dibuktikan dengan Kartu Tanda 
+Mahasiswa yang masih berlaku atau surat keterangan resmi 
+dari perguruan tinggi/instansi terkait untuk mahasiswa.
+
+Satu tim terdiri atas maksimal tiga orang, dengan salah satu 
+anggota adalah ketua tim.
+
+Peserta dalam satu tim berasal dari universitas/sekolah/instansi 
+yang sama dan diperbolehkan dari angkatan berbeda.
+
+Peserta yang mengikuti kompetisi merupakan peserta yang 
+telah terdaftar dan tidak dapat digantikan oleh orang lain.
+
+Pendaftaran hanya dapat dilakukan melalui website MAGE 12.
+
+Setiap tim diperbolehkan mengirim maksimal satu karya.
+
+Setiap tim hanya boleh memilih salah satu sub-tema.
+
+Nama tim tidak boleh mengandung unsur SARA, pornografi, 
+kekerasan, dan hal-hal lain yang tidak patut dipublikasikan.
+
+Karya yang dikembangkan merupakan karya orisinil (bukan 
+jiplakan atau saduran) dan belum pernah mendapatkan 
+penghargaan dari kompetisi manapun.Hak kekayaan intelektual 
+dari karya peserta tetap menjadi hak peserta.
+
+Semkua aset yatng deigunaknan dtalam upembuatan n
+karya harus 
+orisinil atau yang berlisensi bebas, dan jika peserta 
+menggunakan auset bmerlisenusi, dmiharapkan mencantumkan 
+lisensi tersebut.
+
+Jika peserta didapatkan menggunakan aset tanpa lisensi bebas 
+atau tidak mencantumkan lisensi, maka peserta dikenakan 
+sanksi oleh panitia.
+
+Karya yang diikutsertakan tidak boleh mengandung unsur SARA, 
+pornografi, kekerasan, dan hal-hal lain yang tidak patut 
+dipublikasikan.
+
+Karya yang diikutsertakan hanya terbatas pada platform PC 
+atau Mobile.
+
+Keputusan panitia dan dewan juri tidak dapat diganggu gugat 
+tanpa alasan yang berlandaskan data.
+
+Peserta yang mengundurkan diri pada saat pertandingan atau 
+mendapat sanksi diskualifikasi tidak dapat mengajukan refund 
+biaya pendaftaran.
+
+
+
+timeline
+Pendaftaran & Pengumpulan 
+
+25 Mei 2026 - 25 Juli 2026 Proposal Gelombang 1 DARING
+
+25 Juli 2026 - 15 Agustus Pendaftaran & Pengumpulan 
+2026 Proposal Gelombang 2 DARING
+
+16 Agustus 2026 - 20 Seleksi Tahap 1 DARING
+Agustus 2026
+
+21 Agustus 2026 Pengumuman Tahap 1 DARING
+
+22 Agustus 2026 - 19 Pengumpulan Tahap 2 
+Oktober 2026 (Realisasi Karya) DARING
+
+20 Oktober 2026 - 24 Seleksi Tahap 2 DARING
+Oktober 2026
+
+Pengumuman Tahap 2 
+25 Oktober 2026 (Realisasi Karya) DARING
+
+31 Oktober 2026 Technical Meeting Final DARING
+
+
+
+timeline
+14 November 2026 Final LURING
+
+15 November 2026 Awarding & Exhibition LURING
+
+
+
+tahap 1
+
+proposal
+
+Pada tahap 1 peserta mengumpulkan proposal dari ide yang akan dibuat. 
+Ketentuan proposal adalah sebagai berikut.
+
+Proposal berisi ide orisinil.
+
+
+Proposal harus bisa direalisasikan dalam bentuk alat sesuai dengan 
+ketentuan pada tahap 2 (jika lolos).
+
+Tidak mengandung unsur SARA.
+
+Proposal yang dibuat harus mencantumkan poin-poin sebagai berikut.
+
+
+Deskripsi singkat ide (maksimal 1 halaman)
+
+Latar Belakang
+
+Tujuan dan manfaat ide
+
+
+Tujuan Ide
+
+Manfaat Ide
+
+
+Batasan dan sasaran pengguna
+
+Batasan
+
+Sasaran Pengguna
+
+
+Analisis
+
+Bahan yang digunakan
+
+Konsep yang diterapkan
+
+[Sub-bab lain]
+
+
+Implementasi dan cara kerja
+
+Desain
+
+
+Arsitektur Perangkat Lunak
+
+Arsitektur Perangkat Keras
+
+Representasi User Interface
+
+[Sub-bab lain]
+
+
+Daftar Pustaka
+
+Lampiran (surat keterangan siswa atau mahasiswa aktif)
+
+
+Proposal ditulis menggunakan aturan sebagai berikut.
+
+Diketik dalam kertas A4 dengan margin 4-3-3-3 dalam cm (left-top-
+right-bottom).
+
+Font Times New Roman ukuran 12 dan spasi 1,5.
+
+Maksimal 25 halaman (tidak termasuk cover, daftar isi, daftar 
+pustaka).
+
+
+Contoh proposal dapat diunduh di website MAGE 11.
+
+Proposal disimpan dalam bentuk pdf dengan format penamaan file.
+
+Submisi proposal dilakukan di website resmi MAGE 12.
+
+Setiap tim diperbolehkan mengumpulkan atau mengganti proposal 
+hingga batas waktu yang ditentukan, tetapi hanya submisi terakhir 
+yang akan dinilai.
+
+
+
+Pada tahap 1 peserta mengumpulkan proposal dari ide yang akan dibuat. 
+Ketentuan proposal adalah sebagai berikut.
+
+Proposal berisi ide orisinil.
+
+
+Proposal harus bisa direalisasikan dalam bentuk alat sesuai dengan 
+ketentuan pada tahap 2 (jika lolos).
+
+Tidak mengandung unsur SARA.
+
+Proposal yang dibuat harus mencantumkan poin-poin sebagai berikut.
+
+
+Deskripsi singkat ide (maksimal 1 halaman)
+
+Latar Belakang
+
+Tujuan dan manfaat ide
+
+
+Tujuan Ide
+
+Manfaat Ide
+
+
+Batasan dan sasaran pengguna
+
+Batasan
+
+Sasaran Pengguna
+
+
+Analisis
+
+Bahan yang digunakan
+
+Konsep yang diterapkan
+
+[Sub-bab lain]
+
+
+Implementasi dan cara kerja
+
+Desain
+
+
+Arsitektur Perangkat Lunak
+
+Arsitektur Perangkat Keras
+
+Representasi User Interface
+
+[Sub-bab lain]
+ahap 1
+
+
+Daftapr Pustarka
+ oposal
+Lampiran (surat keterangan siswa atau mahasiswa aktif)
+
+
+Proposal ditulis menggunakan aturan sebagai berikut.
+
+Diketik dalam kertas A4 dengan margin 4-3-3-3 dalam cm (left-top-
+right-bottom).
+
+Font Times New Roman ukuran 12 dan spasi 1,5.
+
+Maksimal 25 halaman (tidak termasuk cover, daftar isi, daftar 
+pustaka).
+
+Contoh proposal dapat diunduh di website MAGE 12.
+
+
+Proposal disimpan dalam bentuk pdf dengan format penamaan file. 
+
+MAGE12_Tahap 1_IoT_[Nama Tim].pdf
+
+Submisi proposal dilakukan di website resmi MAGE 12.
+
+Setiap tim diperbolehkan mengumpulkan atau mengganti proposal 
+hingga batas waktu yang ditentukan, tetapi hanya submisi terakhir 
+yang akan dinilai.
+
+
+
+Teknis Online Tahap 1
+
+Peserta login ke akun yang sudah didaftarkan lomba di website MAGE 12.
+
+Peserta mengirim proposal dalam format pdf pada website MAGE 12.
+
+Juri mengakses proposal dari para peserta melalui website MAGE 12.
+
+Juri memberikan penilaian untuk proposal yang telah dikirimkan.
+
+Peserta mendapatkan pemberitahuan apakah lolos menuju tahap 
+selanjutnya apabila masa seleksi selesai atau juri telah selesai 
+memberikan penilaian.
+
+
+
+Tahap II
+
+laporan & Video
+Tahap 2 dapat diikuti oleh tim yang dinyatakan lolos pada tahap 1, peserta 
+diwajibkan untuk membuat video dan mengirimkan laporan yang dibuat 
+berdasarkan proposalnya dengan ketentuan sebagai berikut.
+
+
+
+A. Ketentuan Laporan
+
+Struktur dari laporan progres adalah sebagai berikut
+
+
+Cover
+
+Daftar Isi
+
+Progress
+
+
+Persentase hasil jadi
+
+Berisi persentase dari ide yang telah dibuat beserta penjelasan 
+singkat hasilnya.
+
+
+Hal yang telah dikerjakan
+
+Berisi penjelasan mengenai apa saja yang telah dikerjakan sejauh 
+ini.
+
+
+Hal yang belum dikerjakan
+
+Berisi penjelasan mengenai apa saja yang belum dikerjakan 
+sejauh ini.
+
+
+Demonstrasi sejauh ini
+
+Berisi penjelasan demonstrasi dari ide sesuai dengan video yang 
+telah dibuat (disertai gambar).
+
+
+Tantangan atau hambatan
+
+Sebelum pengerjaan
+
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta sebelum mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Saat pengerjaan
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta ketika mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Akan dihadapi
+
+Menjelaskan kemungkinan tantangan atau hambatan yang bisa 
+saja terjadi pada pengerjaan selanjutnya disertai solusi yang 
+direncanakan.
+
+
+Lanjutan
+
+Pengerjaan selanjutnya
+
+
+Berisi apa saja yang akan dikerjakan selanjutnya.
+
+Rencana penambahan (opsional)
+
+
+Berisi rencana untuk menambahkan fitur yang tidak ada di 
+proposal.
+
+
+ Lampiran (opsional)
+
+Lampiran dapat berupa gambar dari produk
+
+
+
+B. Ketentuan Video
+
+Video yang dibuat mengandung.
+
+
+Time-lapse progres pembuatan alat
+
+Demonstrasi cara kerja dari alat
+
+
+Video dikumpulkan dengan format 720p mp4 berdurasi maksimal 3 
+menit.
+
+Video dibuat semenarik mungkin.
+
+
+
+C. Ketentuan Pengumpulan
+
+Laporan dan video disatukan ke dalam format rar dan di upload ke 
+google drive kemudian link dari drive tersebut dapat di submit ke dalam 
+website MAGE 12 dengan format penulisan.   
+
+
+Submisi link Google drive yang berisi file “rar” dari laporan dan video 
+dilakukan di website resmi MAGE 12.
+
+Setiap tim diperbolehkan mengumpulkan atau mengganti submisi file 
+“rar” hingga batas waktu yang ditentukan, tetapi hanya submisi terakhir 
+yang akan dinilai.
+
+
+
+Teknisi Onlien Tahap 2
+
+Tim yang dinyatakan lolos tahap 1 dapat mengikuti tahap 2.
+
+Pengumpulan video dan laporan melalui website MAGE 12.
+
+Juri mengakses data yang dikirim oleh peserta pada web MAGE 12.
+
+Juri memberikan penilaian untuk karya yang telah dikirimkan.
+
+Peserta mendapatkan pemberitahuan apakah lolos menuju tahap 
+selanjutnya apabila masa seleksi selesai atau juri telah selesai 
+memberikan penilaian.
+
+
+
+Tahap 2 dapat diikuti oleh tim yang dinyatakan lolos pada tahap 1, peserta 
+diwajibkan untuk membuat video dan mengirimkan laporan yang dibuat 
+berdasarkan proposalnya dengan ketentuan sebagai berikut.
+
+
+
+A. Ketentuan Laporan
+
+Struktur dari laporan progres adalah sebagai berikut
+
+
+Cover
+
+Daftar Isi
+
+Progress
+
+
+Persentase hasil jadi
+
+Berisi persentase dari ide yang telah dibuat beserta penjelasan 
+singkat hasilnya.
+
+
+Hal yang telah dikerjakan
+
+Berisi penjelasan mengenai apa saja yang telah dikerjakan sejauh 
+ini.
+
+
+Hal yang belum dikerjakan
+
+Berisi penjelasan mengenai apa saja yang belum dikerjakan 
+sejauh ini.
+ Tahap II
+
+
+laDemonstrasi sejauh ini
+
+Beprisi peonjelarsan daemonstras i da&ri ide sesVuai diednganevideo yang 
+telah dibuat (disertai gambar).
+
+
+Tantangan atau hambatan
+
+Sebelum pengerjaan
+
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta sebelum mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Saat pengerjaan
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta ketika mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Akan dihadapi
+
+Menjelaskan kemungkinan tantangan atau hambatan yang bisa 
+saja terjadi pada pengerjaan selanjutnya disertai solusi yang 
+direncanakan.
+
+
+Lanjutan
+
+Pengerjaan selanjutnya
+
+
+Berisi apa saja yang akan dikerjakan selanjutnya.
+
+Rencana penambahan (opsional)
+
+
+Berisi rencana untuk menambahkan fitur yang tidak ada di 
+proposal.
+
+
+ Lampiran (opsional)
+
+Lampiran dapat berupa gambar dari produk
+
+
+
+B. Ketentuan Video
+
+Video yang dibuat mengandung.
+
+
+Time-lapse progres pembuatan alat
+
+Demonstrasi cara kerja dari alat
+
+
+Video dikumpulkan dengan format 720p mp4 berdurasi maksimal 3 
+menit.
+
+Video dibuat semenarik mungkin.
+
+
+
+C. Ketentuan Pengumpulan
+
+Laporan dan video disatukan ke dalam format rar dan di upload ke 
+google drive kemudian link dari drive tersebut dapat di submit ke dalam 
+website MAGE 12 dengan format penulisan.   
+
+
+Submisi link Google drive yang berisi file “rar” dari laporan dan video 
+dilakukan di website resmi MAGE 12.
+
+Setiap tim diperbolehkan mengumpulkan atau mengganti submisi file 
+“rar” hingga batas waktu yang ditentukan, tetapi hanya submisi terakhir 
+yang akan dinilai.
+
+
+
+Teknisi Onlien Tahap 2
+
+Tim yang dinyatakan lolos tahap 1 dapat mengikuti tahap 2.
+
+Pengumpulan video dan laporan melalui website MAGE 12.
+
+Juri mengakses data yang dikirim oleh peserta pada web MAGE 12.
+
+Juri memberikan penilaian untuk karya yang telah dikirimkan.
+
+Peserta mendapatkan pemberitahuan apakah lolos menuju tahap 
+selanjutnya apabila masa seleksi selesai atau juri telah selesai 
+memberikan penilaian.
+
+
+
+Tahap 2 dapat diikuti oleh tim yang dinyatakan lolos pada tahap 1, peserta 
+diwajibkan untuk membuat video dan mengirimkan laporan yang dibuat 
+berdasarkan proposalnya dengan ketentuan sebagai berikut.
+
+
+
+A. Ketentuan Laporan
+
+Struktur dari laporan progres adalah sebagai berikut
+
+
+Cover
+
+Daftar Isi
+
+Progress
+
+
+Persentase hasil jadi
+
+Berisi persentase dari ide yang telah dibuat beserta penjelasan 
+singkat hasilnya.
+
+
+Hal yang telah dikerjakan
+
+Berisi penjelasan mengenai apa saja yang telah dikerjakan sejauh 
+ini.
+
+
+Hal yang belum dikerjakan
+
+Berisi penjelasan mengenai apa saja yang belum dikerjakan 
+sejauh ini.
+
+
+Demonstrasi sejauh ini
+
+Berisi penjelasan demonstrasi dari ide sesuai dengan video yang 
+telah dibuat (disertai gambar).
+
+
+Tantangan atau hambatan
+
+Sebelum pengerjaan
+
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta sebelum mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Saat pengerjaan
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta ketika mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Akan dihadapi
+
+Menjelaskan kemungkinan tantangan atau hambatan yang bisa 
+saja terjadi pada pengerjaan selanjutnya disertai solusi yang 
+direncanakan.
+
+
+Lanjutan
+
+Pengerjaan selanjutnya
+
+
+Berisi apa saja yang akan dikerjakan selanjutnya.
+
+Rencana penambahan (opsional)
+
+
+Berisi rencaTna uantuk hmenambaphkan  fituII
+r yang tidak ada di 
+
+l proposal.
+
+ Lampirapn (opsionarl)
+ an & Video
+
+Lampiran dapat berupa gambar dari produk
+
+
+
+B. Ketentuan Video
+
+Video yang dibuat mengandung.
+
+
+Time-lapse progres pembuatan alat
+
+Demonstrasi cara kerja dari alat
+
+
+Video dikumpulkan dengan format 720p mp4 berdurasi maksimal 3 
+menit.
+
+Video dibuat semenarik mungkin.
+
+
+
+C. Ketentuan Pengumpulan
+
+Laporan dan video disatukan ke dalam format rar dan di upload ke 
+google drive kemudian link dari drive tersebut dapat di submit ke dalam 
+website MAGE 12 dengan format penulisan.    
+
+
+MAGE12_Tahap 2_IoT_[Nama Tim].rar
+
+**Pastikan link drive yang dikumpulkan tidak di private 
+
+dan dibuat siapapun yang memiliki link dapat melihat.**
+Submisi link Google drive yang berisi file “rar” dari laporan dan video 
+dilakukan di website resmi MAGE 12.
+
+Setiap tim diperbolehkan mengumpulkan atau mengganti submisi file 
+“rar” hingga batas waktu yang ditentukan, tetapi hanya submisi terakhir 
+yang akan dinilai.
+
+
+
+Teknisi Onlien Tahap 2
+
+Tim yang dinyatakan lolos tahap 1 dapat mengikuti tahap 2.
+
+Pengumpulan video dan laporan melalui website MAGE 12.
+
+Juri mengakses data yang dikirim oleh peserta pada web MAGE 12.
+
+Juri memberikan penilaian untuk karya yang telah dikirimkan.
+
+Peserta mendapatkan pemberitahuan apakah lolos menuju tahap 
+selanjutnya apabila masa seleksi selesai atau juri telah selesai 
+memberikan penilaian.
+
+
+
+Tahap 2 dapat diikuti oleh tim yang dinyatakan lolos pada tahap 1, peserta 
+diwajibkan untuk membuat video dan mengirimkan laporan yang dibuat 
+berdasarkan proposalnya dengan ketentuan sebagai berikut.
+
+
+
+A. Ketentuan Laporan
+
+Struktur dari laporan progres adalah sebagai berikut
+
+
+Cover
+
+Daftar Isi
+
+Progress
+
+
+Persentase hasil jadi
+
+Berisi persentase dari ide yang telah dibuat beserta penjelasan 
+singkat hasilnya.
+
+
+Hal yang telah dikerjakan
+
+Berisi penjelasan mengenai apa saja yang telah dikerjakan sejauh 
+ini.
+
+
+Hal yang belum dikerjakan
+
+Berisi penjelasan mengenai apa saja yang belum dikerjakan 
+sejauh ini.
+
+
+Demonstrasi sejauh ini
+
+Berisi penjelasan demonstrasi dari ide sesuai dengan video yang 
+telah dibuat (disertai gambar).
+
+
+Tantangan atau hambatan
+
+Sebelum pengerjaan
+
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta sebelum mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Saat pengerjaan
+
+Menjelaskan tantangan atau hambatan yang dihadapi oleh 
+peserta ketika mengerjakan ide disertai dengan solusi untuk 
+menyelesaikannya.
+
+
+Akan dihadapi
+
+Menjelaskan kemungkinan tantangan atau hambatan yang bisa 
+saja terjadi pada pengerjaan selanjutnya disertai solusi yang 
+direncanakan.
+
+
+Lanjutan
+
+Pengerjaan selanjutnya
+
+
+Berisi apa saja yang akan dikerjakan selanjutnya.
+
+Rencana penambahan (opsional)
+
+
+Berisi rencana untuk menambahkan fitur yang tidak ada di 
+proposal.
+
+
+ Lampiran (opsional)
+
+Lampiran dapat berupa gambar dari produk
+
+
+
+B. Ketentuan Video
+
+Video yang dibuat mengandung.
+
+
+Time-lapse progres pembuatan alat
+
+Demonstrasi cara kerja dari alat
+
+
+Video dikumpulkan dengan format 720p mp4 berdurasi maksimal 3 
+menit.
+
+Video dibuat semenarik mungkin.
+
+
+
+C. Ketentuan Pengumpulan
+
+Laporan dan video disatukan ke dalam format rar dan di upload ke 
+google drive kemudian link dari drive tersebut dapat di submit ke dalam 
+website MAGE 12 dengan format penulisan.   
+
+
+Submisi link Google drive yang berisi file “rar” dari laporan dan video 
+dilakukan di websTite resmi MAhGE 12a.
+ p II
+
+
+lSetiap tim diperbolehkan mengumpulkan atau mengganti submisi file 
+“rar” hingpga boatas rwaktuayangnditen tuk&an, te tapVi hanyiadsubmeisi teorakhir 
+yang akan dinilai.
+
+
+
+Teknisi OnlINE Tahap 2
+
+Tim yang dinyatakan lolos tahap 1 dapat mengikuti tahap 2.
+
+Pengumpulan video dan laporan melalui website MAGE 12.
+
+Juri mengakses data yang dikirim oleh peserta pada web MAGE 12.
+
+Juri memberikan penilaian untuk karya yang telah dikirimkan.
+
+Peserta mendapatkan pemberitahuan apakah lolos menuju tahap 
+selanjutnya apabila masa seleksi selesai atau juri telah selesai 
+memberikan penilaian.
+
+
+
+Tahap III
+
+Final & exhibition
+Tim yang lolos pada tahap 2 akan mengikuti tahap 3 yaitu presentasi 
+secara offline serta Exhibition. Exhibition sendiri merupakan pameran 
+dimana peserta dapat memamerkan karya mereka kepada masyarakat 
+umum. Peserta diharap untuk mempersiapkan hal-hal berikut.
+
+
+Powerpoint untuk presentasi
+
+Bersedia menunjukan source code & karya apabila diminta dewan juri.
+
+Untuk keperluan exhibition, peserta diwajibkan membawa X-Banner 
+dengan ukuran sesuai kebutuhan, asalkan tampak dari jauh.
+
+
+
+Teknis Tahap Final dan Exhibition
+
+Tim yang lolos pada tahap 2 akan mengikuti tahap final. Sebelum tahap 
+final dilaksanakan, diadakan technical meeting secara online pada 
+tanggal 31 Oktober 2026 dan wajib dihadiri oleh minimal satu orang 
+perwakilan dari setiap tim. Waktu technical meeting akan diinformasikan 
+secara langsung kepada peserta.
+
+
+Peserta wajib melakukan konfirmasi kehadiran final paling lambat pada 
+tanggal 30 Oktober 2026  jam 23.59 (sebelum technical meeting).
+
+Peserta yang tidak melakukan konfirmasi kehadiran kepada panitia 
+akan dianggap mengundurkan diri.
+
+Peserta yang tidak menghadiri technical meeting tanpa alasan akan 
+dianggap mengundurkan diri.
+
+Pada tahap final, peserta melakukan exhibition dan presentasi serta 
+tanya jawab di hadapan juri dengan estimasi waktu 20 menit. Dengan 
+rincian 10 menit presentasi dan demo, 10 menit untuk tanya jawab.
+
+Karya yang akan dijurikan harus selesai dan dapat beroperasi dengan 
+baik.
+
+
+
+kriteria
+
+penilaian
+
+Berikut adalah kriteria penilaian untuk perlombaan Internet of Things (IoT) 
+Competition.
+
+A. Kriteria Tahap 1 (Proposal)
+
+
+Kesesuaian dengan ketentuan proposal
+
+Format penulisan, struktur proposal, dan ketentuan lainnya.
+
+Kesesuaian dengan tema dan subtema yang telah ditentukan.
+
+Originalitas dan inovasi keaslian ide beserta inovasi yang diusulkan dari 
+ide yang serupa.
+
+Dampak yang ditimbulkan jika ide direalisasikan.
+
+Probabilitas dan kreativitas pembuatan dan pengaplikasiannya.
+
+
+
+B. Kriteria Tahap 2 (realisasi karya)
+
+Laporan
+
+
+Relevansi dengan proposal.
+
+Kesesuaian dengan ketentuan.
+
+Kelengkapan data dan progres.
+
+
+Video
+
+Estetika dan kreativitas.
+
+Informatif.
+
+Kesesuaian dengan ketentuan.
+
+
+
+C. Kriteria Karya
+
+Manfaat dan Pengaruh
+
+
+Penilaian karya berdasarkan pada manfaat, kegunaan serta 
+pengaruh terhadap pemerataan pembangunan.
+
+
+Inovasi dan Kreativitas
+
+Penilaian karya berdasarkan pada inovasi yang dibuat, kedetailan, 
+dan kreativitas peserta dalam pembuatan karya IoT.
+
+
+Interface
+
+Penilaian karya berdasarkan desain dari interface yang menarik dan 
+mudah digunakan (user friendly).
+
+
+Orisinalitas Ide
+
+Penilaian karya berdasarkan pada keaslian ide dari peserta dalam 
+pembuatan karya.
+
+
+Kesesuaian Tema
+
+Fungsionalitas sistem untuk mencapai tujuan pembuatannya.
+
+
+
+Berikut adalah kriteria penilaian untuk perlombaan Internet of Things (IoT) 
+Competition.
+
+A. Kriteria Tahap 1 (Proposal)
+
+
+Kesesuaian dengan ketentuan proposal
+
+Format penulisan, struktur proposal, dan ketentuan lainnya.
+
+Kesesuaian dengan tema dan subtema yang telah ditentukan.
+
+Originalitas dan inovasi keaslian ide beserta inovasi yang diusulkan dari 
+ide yang serupa.
+
+Dampak yang ditimbulkan jika ide direalisasikan.
+
+Probabilitas dan kreativitas pembuatan dan pengaplikasiannya.
+
+
+
+B. Kriteria Tahap 2 (realisasi karya)
+
+Laporan
+
+
+Relevansi dengan proposal.
+
+Kesesuaian dengan ketentuan.
+
+Kelengkapan data dan progres.
+
+
+Video
+
+Estetika dan kreativitas.
+
+Informatif.
+kriteria
+
+Kesesupaian dengan ketentiulan.
+
+ aian
+
+C. Kriteria Karya
+
+Manfaat dan Pengaruh
+
+
+Penilaian karya berdasarkan pada manfaat, kegunaan serta 
+pengaruh terhadap pemerataan pembangunan.
+
+
+Inovasi dan Kreativitas
+
+Penilaian karya berdasarkan pada inovasi yang dibuat, kedetailan, 
+dan kreativitas peserta dalam pembuatan karya IoT.
+
+
+Interface
+
+Penilaian karya berdasarkan desain dari interface yang menarik dan 
+mudah digunakan (user friendly).
+
+
+Orisinalitas Ide
+
+Penilaian karya berdasarkan pada keaslian ide dari peserta dalam 
+pembuatan karya.
+
+
+Kesesuaian Tema
+
+Penilaian karya berdasarkan kesesuaian tema IoT dengan tema 
+yang telah ditentukan.
+
+
+Fungsionalitas sistem untuk mencapai tujuan pembuatannya.
+
+
+
+penghargaan
+Total hadiah untuk Internet Of Things Competition mencapai 5++ juta 
+rupiah serta bagi pemenang juara 1 jenjang SMA akan berkesempatan 
+untuk mendapatkan Free Pass Teknik Komputer ITS. Dengan kriteria yang 
+dapat diakses pada link berikut: https://its.id/m/KetentuanFreepassMAGE12 
+
+
+
+*Syarat dan ketentuan berlaku
+
+
+
+Contact Person :
+
+Andi   	: 082332681226 (WA)
+
+Tri      	: 081384911119 (WA)

@@ -1,0 +1,703 @@
+﻿KATEGORI SMA SEDERAJAT
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Daftar Isi
+
+PENDAHULUAN
+Tentang Manajemen Rekayasa ........................................................................................... 01
+Tentang MR Days ....................................................................................................................... 01
+Visi & Misi ........................................................................................................................................ 02
+Why Should You Join? ............................................................................................................ 03
+
+TEMA EMIC 2026
+Tema & Subtema Kategori ................................................................................................... 04
+Subtema Kategori ..................................................................................................................... 05
+
+ALUR KOMPETISI
+Alur Kompetisi ............................................................................................................................. 06
+Timeline ........................................................................................................................................... 07
+
+PERATURAN
+Penghargaan ............................................................................................................................... 08
+Peraturan Umum ....................................................................................................................... 09
+Peraturan Peserta ...................................................................................................................... 10
+Ketentuan Registrasi .................................................................................................................. 11
+
+PANDUAN RANCANGAN KARYA
+Ketentuan Umum & Format Extended Abstract ........................................................ 12
+Konten Karya & Limitasi ..........................................................................................................  13
+Limitasi & Syarat Ketentuan Khusus ................................................................................. 14
+Pengumpulan Karya ................................................................................................................... 15
+
+PENILAIAN
+Matriks Penilaian .......................................................................................................................... 16
+Penalti & Pelanggaran ............................................................................................................... 17
+
+CONTACT PERSON ..................................................................................................................18
+
+i
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Tentang Manajemen Rekayasa
+Manajemen Rekayasa (MR) adalah sub-keilmuan yang mengkombinasikan ilmu rekayasa
+(engineering) dengan keahlian manajemen untuk memimpin suatu tim yang berisi para
+expertise dalam mengerjakan persoalan-persoalan pembaharuan sistem-sistem dalam
+suatu sistem dan organisasi. 
+
+Tentang MR Days
+MR Days adalah rangkaian kegiatan yang diselenggarakan dua tahun sekali oleh
+Manajemen Rekayasa ITB dan menjadi wadah untuk memperkenalkan, mengeksplorasi,
+dan menunjukkan peran Manajemen Rekayasa kepada masyarakat yang lebih luas. Melalui
+berbagai kegiatan seperti kompetisi, program pembelajaran, showcase, serta networking,
+MR Days mempertemukan mahasiswa, akademisi, dan profesional untuk saling terhubung,
+berkolaborasi, serta memperluas pengenalan Manajemen Rekayasa di Indonesia.
+
+Salah satu rangkaian kegiatan MR Days merupakan kompetisi yang ditujukan kepada siswa
+SMA/sederajat serta mahasiswa D3/D4/S1 di Indonesia. Kompetisi ini bertujuan
+mendorong peserta untuk mengembangkan produk inovatif sebagai solusi atas
+permasalahan nyata dengan menerapkan pendekatan Manajemen Rekayasa yang
+mengintegrasikan aspek rekayasa, bisnis, teknologi, dan manajemen.
+
+2024 2026
+
+01
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+VISI
+Establish MR Days as the strategic platform that
+
+advances the recognition, collaboration, and
+ecosystem of Engineering Management in Indonesia,
+
+creating lasting impact for society and industry.
+
+MISI
+1.Memperkuat pengakuan terhadap Manajemen Rekayasa melalui
+
+program yang mampu memperkenalkan identitas, kompetensi, dan
+relevansinya kepada masyarakat, akademisi, dan industri
+
+2.Membangun ruang kolaborasi yang mempertemukan mahasiswa,
+akademisi, alumni, industri, dan pemerintah untuk memperkuat
+jejaring Manajemen Rekayasa di Indonesia
+
+3.Mengembangkan kompetensi calon Engineering Manager melalui
+pengalaman belajar, kompetisi, dan interaksi dengan industri yang
+mendorong inovasi, kepemimpinan, dan penyelesaian masalah
+nyata
+
+4.Menciptakan pengalaman yang bermakna bagi panitia melalui
+budaya kepanitiaan yang kolaboratif, bertumbuh, dan berorientasi
+pada pembelajaran
+
+5.Membangun fondasi ekosistem Manajemen Rekayasa yang
+berkelanjutan melalui kemitraan, koneksi nasional, dan inisiatif yang
+terus berkembang setelah MR Days berakhir
+
+02
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Why should you join?
+Turn ideas into innovative solutions
+Wujudkan ide kamu menjadi produk inovatif dengan menjawab tantangan
+dunia nyata melalui pendekatan Manajemen Rekayasa.
+
+Develop engineering & management skills
+Tingkatkan kemampuan kamu dalam menganalisis masalah dan merancang
+solusi dengan mempertimbangkan aspek rekayasa, bisnis, teknologi, dan
+manajerial.
+
+Real-world problem solving
+Tantang diri kamu untuk mengatasi tantangan dunia nyata dan pelajari cara
+mengubah kebutuhan yang teridentifikasi menjadi solusi yang bernilai.
+
+Expand your network
+Perluas network kamu dengan terhubung bersama inovator dan
+profesional industri, bertukar wawasan serta perspektif mengenai
+tantangan dunia nyata.
+
+Build your portfolio
+Bangun portofolio kamu dengan pengalaman kompetisi yang bergengsi
+melalui unjuk kemampuan kreativitas, pemecahan masalah, kerja sama tim,
+dan inovasi
+
+03
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Tema EMIC 2026
+“Redefining Value Through Sustainable Innovation”
+
+Subtema Kategori SMA
+1) Smart Industry & Productivity
+
+Subtema ini berfokus pada pemanfaatan teknologi dan inovasi
+untuk membuat proses kerja menjadi lebih cepat, mudah, dan
+efisien. Peserta dapat mengeksplorasi berbagai masalah dalam
+kegiatan produksi, distribusi, maupun aktivitas sehari-hari dan
+mencari cara untuk memperbaikinya. Solusi dapat memanfaatkan
+teknologi, otomatisasi, maupun cara kerja baru yang membantu
+menghemat waktu, tenaga, dan sumber daya.
+
+EXPLORE : Process Optimization Automation Resource Efficiency Supply Chain Workforce etc.
+
+2) Health & Well-Being
+Subtema ini berfokus pada inovasi yang dapat membantu
+masyarakat hidup lebih sehat, aman, dan sejahtera. Peserta dapat
+mengeksplorasi berbagai permasalahan kesehatan dan
+kesejahteraan yang ditemui dalam kehidupan sehari-hari, baik di
+sekolah, keluarga, maupun lingkungan sekitar. Solusi diharapkan
+dapat memudahkan masyarakat menjaga kesehatan, meningkatkan
+kenyamanan, dan memenuhi kebutuhan yang belum teratasi.
+
+EXPLORE : Patient Experience Healthcare Access Healthcare Efficiency Public Health etc.
+
+04
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+3) Sustainable Environment
+
+Subtema ini berfokus pada inovasi untuk menjaga lingkungan dan
+menggunakan sumber daya secara lebih bijak dan berkelanjutan.
+Peserta dapat mengeksplorasi permasalahan seperti sampah,
+penggunaan energi, polusi, dan pemborosan sumber daya yang
+terjadi di sekitar mereka. Solusi yang dikembangkan diharapkan
+dapat mengurangi dampak terhadap lingkungan sekaligus
+menciptakan kebiasaan dan cara hidup yang lebih berkelanjutan.
+
+EXPLORE : Waste Management Circular Economy Energy Efficiency Pollution Reduction etc.
+
+4) Education & Digital Society
+Subtema ini berfokus pada pemanfaatan teknologi untuk membuat
+belajar, bekerja, dan berinteraksi menjadi lebih mudah dan terarah.
+Peserta dapat mengeksplorasi permasalahan dalam pendidikan
+dan kehidupan digital, seperti kesenjangan akses, kesulitan belajar,
+literasi digital, maupun penggunaan teknologi yang belum optimal,
+serta mengembangkan solusi yang meningkatkan pengalaman
+belajar dan memperluas akses teknologi.
+
+EXPLORE : Digital Literacy Learning Experience Technology Adoption  Learning Experience etc.
+
+5) Inclusive Economy & Society
+Subtema ini berfokus pada penciptaan kesempatan dan akses yang
+lebih luas bagi masyarakat untuk berkembang dan berpartisipasi
+dalam kehidupan ekonomi maupun sosial. Peserta dapat
+mengeksplorasi hambatan yang dihadapi individu, pelaku usaha,
+maupun komunitas dalam mendapatkan akses terhadap informasi,
+layanan, pasar, dan sumber daya, serta mengembangkan solusi yang
+membuka peluang dan memberdayakan lebih banyak masyarakat.
+
+EXPLORE : UMKM Empowerment Financial Inclusion Local Resource Development Market Access etc.
+
+05
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Alur Kompetisi
+Tahap Preliminary
+Pada tahap ini, tim diwajibkan untuk mengumpulkan Extended Abstract yang
+menyajikan secara ringkas pemahaman tim mengenai tema serta pendekatan solusi
+yang diusulkan. Extended Abstract berfungsi sebagai tantangan awal bagi peserta
+untuk menjawab kebutuhan nyata masyarakat agar selaras dengan subtema yang
+dipilih. 
+
+Tahap Semifinal
+Pada tahap semifinal peserta diwajibkan mengumpukan Proposal. Tahap proposal
+bertujuan untuk menguji kemampuan peserta dalam memahami permasalahan,
+memvalidasi kebutuhan pengguna, mengembangkan solusi berdasarkan pendekatan
+Design Thinking dan analisis kelayakan implementasi.
+
+Tahap Final
+Pada tahap ini, finalis akan menghasilkan dua output utama, yaitu prototype ide
+yang dikembangkan dan pitch deck. Finalis akan mengikuti sesi mentoring untuk
+mendukung pengembangan solusi, kemudian mempresentasikannya melalui pitching
+di hadapan juri dan menampilkan prototype pada exhibition.
+
+06
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Timeline
+Open Registration Preliminary Submission
+
+21 September - 10 Oktober 2026 14 Oktober 2026
+
+Semifinalist Announcement
+24 Oktober 2026
+
+Product Semifinal Phase
+Development 101 27 Oktober -
+31 Oktober 2026  7 November 2026
+
+Finalist Announcement
+21 November 2026
+
+Final Phase & Mentoring Session Pitching and Exhibition
+22 November - 3 Desember 2026 4 - 5 Desember 2026
+
+07
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Penghargaan
+A. Benefit Juara
+Juara 1: Uang Penghargaan + Sertifikat Penghargaan
+Juara 2: Uang Penghargaan + Sertifikat Penghargaan
+Juara 3: Uang Penghargaan + Sertifikat Penghargaan
+Juara Harapan 1: Uang Penghargaan + Sertifikat Penghargaan
+Juara Harapan 2: Uang Penghargaan + Sertifikat Penghargaan
+
+B. Benefit Partisipasi
+Benefit yang didapatkan melalui partisipasi EMIC 2026 adalah sebagai berikut:
+1. E-certificate partisipasi untuk semua peserta
+2.Uang dan Sertifikat Penghargaan bagi pemenang Juara 1, 2, dan 3 serta Juara
+Harapan 1 dan 2
+3. Kesempatan Networking kepada pemangku industri bagi finalis.
+4. Coaching dan mentoring dari narasumber berpengalaman untuk finalis.
+
+08
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Peraturan
+A. Peraturan Umum
+
+1. Ide inovasi harus bersifat orisinal, terbebas dari unsur plagiarisme, dan belum
+pernah memenangkan kompetisi.
+
+2.Penggunaan karya, data, gambar, atau materi milik pihak lain wajib mencantumkan
+sumber yang jelas menggunakan sitasi berformat sesuai yang ada.
+
+3.Penggunaan kecerdasan buatan (Artificial Intelligence/AI) diperbolehkan sebagai alat
+bantu diskusi dan ilustrasi. Ide dan konten utama WAJIB merupakan hasil
+pemikiran peserta. 
+
+4.Panitia berhak meminta klarifikasi apabila ditemukan indikasi pelanggaran yang
+dilakukan oleh peserta.
+
+5.Kecurangan yang terdeteksi selama masa kompetisi akan mengakibatkan
+diskualifikasi.
+
+6.Seluruh peserta WAJIB mematuhi peraturan yang ditetapkan oleh panitia melalui
+guidebook. Panitia berhak melakukan perubahan jadwal, mekanisme, maupun
+ketentuan kompetisi apabila diperlukan dan akan diinformasikan kepada peserta
+melalui media komunikasi resmi EMIC MR Days 2026. Hal-hal yang belum diatur
+secara rinci dalam peraturan ini akan disampaikan juga melalui media komunikasi resmi
+EMIC MR Days 2026.
+
+7.Keputusan juri bersifat final dan tidak dapat digugat.
+8.Peserta dianggap telah membaca, memahami, dan menyetujui seluruh peraturan
+
+yang tercantum dalam Guidebook.
+
+09
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+B. Peraturan Peserta
+1.Peserta merupakan siswa SMA/sederajat yang masih aktif bersekolah di
+
+Indonesia yang dibuktikan melalui Kartu Pelajar atau Surat Keterangan Aktif resmi
+dari sekolah asal.
+
+2.Setiap tim terdiri dari 2 (dua) hingga 3 (tiga) siswa yang tidak wajib berasal dari
+sekolah yang sama.
+
+3.Setiap tim wajib menunjuk satu orang sebagai ketua tim.
+4.Setiap siswa hanya boleh terdaftar dalam 1 (satu) tim.
+5.Sekolah dapat mengirim lebih dari 1 (satu) tim untuk berkompetisi.
+6.Seluruh anggota tim wajib terdaftar pada formulir pendaftaran. Anggota yang
+
+tidak terdaftar secara resmi tidak akan diakui sebagai peserta kompetisi.
+7.Ketua maupun anggota tim yang telah terdaftar pada registrasi tim tidak dapat
+
+diganti dengan alasan apa pun.
+8.Tim WAJIB menggunakan nama tim yang tidak mengandung unsur SARA, ujaran
+
+kebencian, atau konten yang melanggar norma hukum dan kesusilaan.
+9.Peserta WAJIB memberikan data dan dokumen yang benar, lengkap, dan dapat
+
+dipertanggungjawabkan.
+10.Peserta yang lolos ke tahap berikutnya WAJIB mengikuti seluruh rangkaian
+
+kompetisi sesuai jadwal yang ditetapkan panitia.
+11.Setiap tim disarankan memiliki maksimal satu guru pembimbing.
+
+10
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+C. Ketentuan Registrasi
+1.Peserta WAJIB membaca dan memahami Guidebook EMIC 2026 sebelum
+
+melakukan pendaftaran.
+2.Peserta WAJIB mendaftarkan diri melalui link: bit.ly/RegistrationEMIC2026
+3.Pendaftaran hanya dilakukan sekali untuk tiap tim.
+4.Tidak ada biaya pendaftaran untuk preliminary round.
+5.Peserta yang lolos ke babak Semifinal wajib melakukan pendaftaran ulang dan
+
+membayar biaya pendaftaran sesuai dengan alur pendaftaran yang telah ditentukan.
+6.Setiap peserta WAJIB memenuhi seluruh persyaratan berikut:
+
+Mengunggah Kartu Pelajar atau Surat Keterangan Aktif Sekolah
+Mengikuti akun Instagram @mrdays2026 dan Tiktok @mrdays2026 (dilakukan oleh
+setiap anggota)
+Mengunggah poster melalui Instagram Story dan menandai akun Instagram
+@mrdays2026 (dilakukan oleh setiap anggota)
+Membagikan poster dan caption informasi lomba ke 3 grup dengan jumlah
+minimal anggota berjumlah 10 (grup belajar, komunitas lomba, atau grup serupa)
+pada WhatsApp atau Line
+Mengunggah twibbon yang telah disediakan melalui akun Instagram pribadi yang
+tidak diprivat, dengan menandai 3 akun pengikut bersama (mutual followers) dan 1
+akun sekolah atau OSIS
+
+7.Seluruh persyaratan pendaftaran seluruh anggota digabungkan ke dalam satu file PDF
+untuk kemudian diunggah pada link pendaftaran sesuai dengan ketentuan format dan
+penamaan yang tercantum.
+
+8.Seluruh dokumen dan informasi yang diperlukan untuk registrasi dapat diakses melalui
+link: linktr.ee/competitionmrdays2026
+
+9.Peserta WAJIB mengajukan permintaan bergabung ke grup komunikasi yang
+tercantum pada formulir pendaftaran.
+
+10.Peserta yang tidak menyelesaikan seluruh tahapan pendaftaran sesuai ketentuan
+dinyatakan belum terdaftar secara resmi.
+
+11
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Panduan Rancangan
+Karya
+
+A. Ketentuan Umum Karya Preliminary
+1.Extended Abstract karya tulis belum pernah dipublikasikan dan tidak sedang
+
+diikutsertakan dalam kompetisi sejenis.
+2.Setiap peserta/tim hanya diperbolehkan mengirimkan satu Extended Abstract.
+3.Karya harus bersifat orisinal, bebas plagiarisme, dan relevan dengan tema serta
+
+subtema kompetisi.
+4.Karya tulis harus disusun secara objektif dan sistematis, serta didukung oleh informasi,
+
+data, atau fakta yang aktual dan dapat dipertanggungjawabkan.
+5.Karya tidak boleh mengandung unsur diskriminasi, ujaran kebencian, maupun konten
+
+yang bertentangan dengan norma dan ketentuan yang berlaku. Penggunaan Bahasa
+Indonesia harus sesuai dengan kaidah Ejaan Bahasa Indonesia yang Disempurnakan
+(EYD V).
+
+6.Template Extended Abstract dan surat pernyataan dapat diakses melalui link:
+         linktr.ee/competitionmrdays2026
+
+B. Format Extended Abstract
+1.Jenis font: Times New Roman
+
+2.Judul: Font 14 pt (Bold) dengan maksimal 12 kata
+3. Isi: Font 12 pt
+4.Spasi: 1,0
+5.Perataan: Justify
+6.Margin: 4 cm (kiri) dan 3 cm (kanan, atas, dan bawah)
+7.Ukuran kertas: A4
+8.Jumlah halaman: Maksimal 2 halaman (tidak termasuk cover, referensi, lampiran, dan
+
+surat pernyataan)
+9.Nama file: SMA_Extended Abstract_MRDAYS_Nama Tim 
+
+12
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+C. Konten Karya
+Karya yang harus dikumpulkan pada tahap Preliminary terdiri dari
+
+1.Cover
+Halaman sampul disusun secara kreatif yang menggambarkan inovasi yang akan
+diangkat oleh karya peserta. Cover wajib menyertakan nama tim, daftar anggota,
+judul karya, serta logo resmi MR Days 2026, FTI ITB, dan MTI ITB tanpa
+menyantumkan logo sekolah atau institusi
+
+2.  Extended Abstract, wajib terdiri namun tidak terbatas pada:
+Urgensi Permasalahan: penjelasan mengenai permasalahan yang diangkat,
+urgensi penyelesaiannya, serta dampaknya terhadap target pengguna.
+Proses Design Thinking: penerapan dan penjelasan tahapan Design Thinking
+dalam mengidentifikasi, menganalisis, dan memahami permasalahan hingga
+menghasilkan solusi yang tepat.
+Solusi yang Diusulkan: penjelasan mengenai gagasan dan konsep awal solusi
+yang ditawarkan, mencakup fungsi utama, gambaran cara kerja, fitur atau
+karakteristik utama, serta value yang diberikan dalam menjawab permasalahan.
+Inovasi dan Kebaruan: penjelasan mengenai aspek kebaruan dan inovasi produk,
+termasuk fitur, teknologi, mekanisme, atau pendekatan baru yang dikembangkan,
+serta perbedaannya dibandingkan dengan solusi atau produk yang telah ada.
+Tujuan dan Dampak yang Diharapkan: penjelasan mengenai tujuan yang ingin
+dicapai serta dampak yang diharapkan dari penerapan solusi terhadap target
+pengguna dan permasalahan yang diangkat.
+
+3.Referensi
+Apabila mencantumkan sumber lain wajib menyertakan sumber referensi sesuai
+dengan format penulisan yang ada.
+
+4.Lampiran
+Berisi lampiran pendukung jika diperlukan. 
+
+5.Surat Pernyataan Orisinalitas & Laporan Pengunaan AI
+
+D. Limitasi
+1.Produk harus berupa produk fisik (tangible product) yang dapat diwujudkan dalam
+
+bentuk prototipe.
+
+13
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+2.Produk harus memiliki fungsi utama yang jelas dan dapat digunakan sebagai solusi
+terhadap permasalahan yang diangkat.
+
+3. Inovasi yang diajukan harus memiliki nilai kebaruan atau pengembangan yang
+signifikan dibandingkan solusi yang sudah ada.
+
+4.Produk harus memberikan manfaat dan dampak yang relevan bagi target pengguna
+sesuai dengan permasalahan yang diangkat.
+
+5.Fitur utama yang ditawarkan harus realistis untuk dikembangkan dan dapat
+didemonstrasikan melalui prototipe.
+
+6.Produk harus mempertimbangkan aspek keamanan, kemudahan penggunaan, dan
+kelayakan implementasi bagi target pengguna.
+
+7.Produk harus memiliki potensi untuk dikembangkan dan diterapkan dalam skala yang
+lebih luas, dengan mempertimbangkan aspek teknis dan ekonomis.
+
+8.Apabila produk lolos hingga tahap final, peserta wajib mengembangkan prototipe
+dengan ketentuan:
+
+Prototipe harus merepresentasikan desain dan fungsi utama produk yang
+diajukan.
+Prototipe harus dapat dipamerkan dalam booth berukuran 2x2.
+
+E. Syarat & Ketentuan Khusus 
+1.Setiap tim hanya diperbolehkan mengajukan satu karya atau konsep solusi selama
+
+rangkaian kompetisi MR Days.
+2.Karya atau solusi yang dikembangkan pada tahap selanjutnya harus tetap mengacu
+
+pada ide utama yang diajukan pada tahap preliminary. Peserta diperbolehkan untuk
+mengembangkan, memperjelas, dan membuat solusi menjadi lebih spesifik, tetapi
+tidak diperbolehkan mengganti ide utama atau mengajukan solusi baru.
+
+3.Peserta disarankan untuk menyampaikan solusi pada tahap preliminary secara umum,
+dengan tetap menjelaskan inti permasalahan, konsep solusi, dan value utama yang
+ditawarkan. Detail solusi dapat dikembangkan dan dibuat lebih spesifik pada tahap
+berikutnya.
+
+4.Penambahan fitur, penyempurnaan mekanisme, perubahan teknis, dan
+pengembangan lainnya diperbolehkan selama tidak mengubah inti solusi yang telah
+diajukan pada tahap preliminary.
+
+14
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+5.Setiap karya yang dikumpulkan harus merupakan karya orisinal dan bebas dari
+plagiarisme. Karya tidak boleh menjiplak atau mengambil karya pihak lain tanpa
+mencantumkan sumber yang sesuai. Karya yang diajukan belum pernah
+memenangkan kompetisi.
+
+6.Hak cipta dan ketentuan penggunaan karya yang diajukan mengikuti kebijakan MR
+Days. Peserta memberikan hak kepada panitia MR Days untuk menggunakan,
+menampilkan, mendokumentasikan, dan mempublikasikan karya untuk keperluan
+penyelenggaraan serta publikasi kompetisi, tanpa menghilangkan hak moral pencipta
+atas karya tersebut.
+
+7.Nama tim, nama karya, maupun seluruh materi yang dikumpulkan dilarang
+mengandung unsur yang menyinggung suku, agama, ras, dan antargolongan (SARA),
+diskriminasi, ujaran kebencian, pornografi, maupun konten lain yang bertentangan
+dengan norma dan peraturan yang berlaku.
+
+8.Pelanggaran terhadap ketentuan dapat mengakibatkan pengurangan nilai hingga
+diskualifikasi, sesuai dengan jenis dan tingkat pelanggaran.
+
+9.Keputusan panitia dan dewan juri MR Days bersifat final dan tidak dapat diganggu
+gugat.
+
+F. Pengumpulan Karya
+1.Format Extended Abstract yang dikumpulkan harus mengikuti template dan struktur
+
+yang telah diberikan. 
+2.File dikumpulkan dalam format PDF melalui link yang akan diumumkan melalui grup
+
+komunikasi peserta. 
+3.File yang harus dikumpulkan berupa Extended Abstract dan surat pernyataan
+
+orisinalitas dalam satu file PDF.
+4.File dikirimkan oleh ketua tim.
+5.Waktu yang dibuka untuk pengumpulan pada tahap preliminary akan sesuai dengan
+
+durasi preliminary round yang ditentukan oleh panitia. 
+6.Panitia tidak bertanggung jawab dengan segala bentuk keterlambatan dan tidak akan
+
+ditoleransi dengan alasan apa pun. Peserta diharapkan melakukan antisipasi mandiri
+untuk meminimalkan risiko terlambat.
+
+15
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Matriks Penilaian
+Kriteria Penilaian Subkriteria Max Score
+
+Kesesuaian Format &
+Format Penulisan (5%) 5
+
+Kejelasan Penyajian
+
+Relevansi & Urgensi
+20
+
+Masalah
+Identifikasi Masalah (40%)
+
+Analisis Akar Masalah &
+20
+
+Bukti Pendukung
+
+Penerapan Design
+Thinking dalam Memahami 20
+
+Analisis Design Thinking & Merumuskan Masalah
+(35%)
+
+Ketepatan Proses Analisis 15
+
+Solusi (15%) Inovasi & Kebaruan Solusi 15
+
+Kesesuaian dengan
+Kesesuaian Subtema (5%) 5
+
+Subtema
+
+TOTAL (100%) 100
+
+16
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Penalti & Pelanggaran
+PELANGGARAN PENALTI
+
+≤ 1 jam: -10 poin. Lebih dari 1 jam: file tidak
+Keterlambatan pengumpulan
+
+diterima.
+
+Mengubah template (ukuran/posisi
+Ketidaksesuaian format shapes, logo, ukuran halaman, atau elemen
+
+wajib): -5 poin.
+
+Format nama file tidak sesuai ketentuan: -5
+Kesalahan penamaan file
+
+poin.
+
+File salah, tidak lengkap, atau tidak dapat
+Kesalahan pengunggahan dokumen
+
+dibuka: karya tidak diterima.
+
+Plagiarisme Diskualifikasi.
+
+Pelanggaran ketentuan tidak mencatat
+Diskualifikasi.
+
+laporan penggunaan AI
+
+Karya pernah menjuarai kompetisi
+Diskualifikasi.
+
+serupa
+
+Mengganti ide utama setelah tahap
+preliminary: diskualifikasi. Pengembangan
+
+Mengganti ide utama
+atau spesifikasi lebih lanjut dari ide yang
+sama diperbolehkan.
+
+Pelanggaran SARA Diskualifikasi.
+
+17
+
+
+
+EMIC SMA/MA 
+GUIDEBOOK
+
+Contact Person
+Erina: 081282064806 (WA)
+
+Chelsea: 082223696883 (WA)
+
+18

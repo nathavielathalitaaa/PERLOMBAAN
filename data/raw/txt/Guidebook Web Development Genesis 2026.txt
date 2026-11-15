@@ -1,0 +1,625 @@
+﻿GUIDEBOOK
+WEB DEVELOPMENT
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Nama 
+Kegiatan
+
+GENESIS 2026
+
+“Menghadapi Tantangan Global dengan Sportivitas dan
+Inovasi”
+
+GENESIS 2026 merupakan ajang perlombaan bergengsi yang
+diselenggarakan oleh Himpunan Mahasiswa Teknologi Rekayasa
+Perangkat Lunak (HMTRPL) Politeknik Enjinering Indorama.
+Kegiatan ini dirancang sebagai wadah bagi mahasiswa/i aktif
+(D3/D4/S1) di wilayah Purwasuka (Purwakarta, Subang, dan
+Karawang) untuk menuangkan ide, gagasan kreatif, dan kemampuan
+teknis dalam pengembangan sistem berbasis web yang inovatif dan
+solutif.
+
+Melalui kompetisi Web Development (Pengembangan Web), peserta
+ditantang tidak hanya untuk menciptakan aplikasi yang unggul
+secara visual, tetapi juga memiliki integritas kode yang tinggi,
+fungsionalitas yang kuat, serta mampu menjawab tantangan nyata
+di era digital dengan menjunjung tinggi nilai sportivitas.
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Tujuan
+Kegiatan
+
+1.Mendorong mahasiswa untuk mengidentifikasi tantangan global
+dan mentransformasikannya menjadi solusi teknologi berbasis
+jejaring (web) yang inovatif, solutif, serta memiliki daya guna
+nyata bagi masyarakat maupun sektor industri.
+
+2.Menanamkan integritas profesional dalam setiap tahap
+pengembangan perangkat lunak (software development), yang
+mencakup keaslian (orisinalitas) karya, transparansi logika sistem,
+serta kepatuhan terhadap etika penulisan kode bersih (clean
+code).
+
+3.Mengasah keterampilan teknis (hard skills) dan kemampuan
+pemecahan masalah atau keterampilan nonteknis (soft skills)
+peserta agar selaras dengan standar kebutuhan industri
+teknologi masa depan, sekaligus mencerminkan keunggulan
+inovasi praktis dari pendidikan vokasi.
+
+4.Menciptakan ruang sinergi dan pertukaran gagasan bagi talenta
+digital muda dari berbagai perguruan tinggi di wilayah
+Purwasuka (Purwakarta, Subang, dan Karawang), guna
+memperkuat peran generasi mahasiswa sebagai penggerak
+utama transformasi digital.
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Tema
+Web Development
+Kompetisi Web Development pada GENESIS 2026 berfokus pada
+pengembangan sistem atau solusi digital berbasis web yang
+fungsional, inovatif, dan relevan dengan tantangan global. Berbeda
+dengan perancangan visual semata, proses ini sangat
+menitikberatkan pada kompetensi teknis. Peserta diuji
+kemampuannya dalam menulis kode yang bersih (clean code) dan
+terstruktur, serta merancang sistem dengan performa tinggi.
+
+Pada kegiatan perlombaan ini, peserta (mahasiswa) ditantang untuk
+menciptakan sebuah inovasi aplikasi web yang mampu memecahkan
+permasalahan nyata yang sejalan dengan tema utama acara. Peserta
+dituntut untuk memikirkan orisinalitas ide dan efektivitas fitur yang
+mereka bangun agar solusi digital tersebut dapat secara nyata
+menjawab masalah yang diangkat.
+
+Melalui studi kasus ini, diharapkan setiap tim mampu
+mendemonstrasikan sistem web yang andal, berjalan lancar tanpa
+galat (error atau bug-free), dan memiliki logika proses yang tepat.
+Lebih dari itu, karya yang dihasilkan diharapkan menjadi bukti nyata
+kesiapan talenta digital muda dalam menghadirkan solusi teknologi
+yang bermanfaat dan inovatif untuk masyarakat luas di era disrupsi
+digital.
+
+
+
+TIMELINE 
+KEGIATAN
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+TIMELINE KEGIATAN
+
+No. Kegiatan Hari dan Tanggal Tempat / Media
+
+Pendaftaran dan Pengumpulan Karya
+1 6 – 19 Mei 2026 Google Form
+
+Gelombang 1
+
+2 Pendaftaran Gelombang 2 20 Mei – 11 Juni 2026 Google Form
+
+Batas Akhir Pengumpulan Karya
+3 Selasa, 16 Juni 2026 Google Form
+
+Gelombang 2
+
+Opening & Technical Meeting GENESIS
+4 Sabtu, 13 Juni 2026 Google Meet
+
+2026
+
+5 Penilaian Babak Penyisihan 14 - 16 Juni 2026 Internal Panitia
+
+Instagram
+6 Pengumuman Finalis Rabu, 17 Juni 2026
+
+(@genesis_hmtrpl)
+
+Kampus Politeknik
+7 Presentasi dan Demonstrasi Finalis Sabtu, 20 Juni 2026
+
+Enjinering Indorama
+
+Gedung (Bale Sawala)
+8 Awarding Ceremony dan Talkshow Jum'at , 03 Juli 2026
+
+Yudistira
+
+
+
+TATA CARA
+PENDAFTARAN
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+TATA CARA PENDAFTARAN
+
+1.Peserta merupakan mahasiswa/i aktif (D3/D4/S1) di wilayah
+Purwasuka (Purwakarta, Subang, dan Karawang) yang dibuktikan
+dengan pindaian (scan) Kartu Tanda Mahasiswa (KTM) seluruh
+anggota tim, lalu disatukan dalam satu format PDF dan dikumpulkan
+ke dalam formulir Google (Google Form) perlombaan Web
+Development.
+
+2.Peserta wajib membayar biaya pendaftaran sebesar Rp80.000 pada
+gelombang 1 dan Rp27.000 (Promo Diskon 70%) pada gelombang 2.
+
+a.Catatan Khusus Promo Diskon: Bagi peserta Gelombang 1
+maupun Gelombang 2 yang sudah terlanjur mendaftar dan
+melakukan pembayaran dengan harga normal (Rp80.000 atau
+Rp90.000) sebelum promo diskon 70% ini diberlakukan, panitia
+akan memberikan pengembalian dana (refund selisih harga)
+sebesar 70% dari nominal yang telah ditransfer. Proses pendataan
+rekening untuk refund ini akan dikoordinasikan lebih lanjut oleh
+panitia melalui Grup WhatsApp resmi peserta.
+
+3.Peserta wajib mengisi formulir pendaftaran secara daring melalui
+tautan berikut: [Tautan Google Form]
+
+4.Peserta dapat melakukan pendaftaran sampai dengan batas waktu
+yang telah ditentukan.
+
+5.Peserta wajib mencantumkan bukti pembayaran yang sah pada
+formulir pendaftaran yang telah disediakan untuk proses validasi
+panitia.
+
+6.Panitia akan memasukkan perwakilan peserta yang sudah tervalidasi
+ke dalam grup koordinasi lomba Web Development.
+
+7.Seluruh anggota tim wajib mengikuti akun Instagram @hmtrpl_pei
+dan @genesis_hmtrpl.
+
+8.Peserta yang telah mendaftar akan dianggap menerima serta
+menyetujui semua persyaratan lomba yang telah ditetapkan.
+
+
+
+SYARAT DAN
+KETENTUAN
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+SYARAT DAN KETENTUAN
+
+1.Peserta merupakan mahasiswa/i aktif (D3/D4/S1) di wilayah Purwasuka
+(Purwakarta, Subang, dan Karawang) yang dibuktikan dengan melampirkan
+pindaian (scan) Kartu Tanda Mahasiswa (KTM) seluruh anggota tim.
+
+2.Peserta wajib mendaftar secara berkelompok (tim) yang terdiri dari
+maksimal 3 (tiga) orang dari perguruan tinggi atau instansi yang sama.
+Anggota tim yang sudah terdaftar tidak dapat digantikan oleh peserta lain
+tanpa sepengetahuan dan persetujuan tertulis dari panitia. Satu perguruan
+tinggi/instansi diperbolehkan mengirimkan lebih dari satu tim, namun satu
+peserta tidak diperkenankan terdaftar dalam lebih dari satu tim.
+
+3.Biaya pendaftaran yang telah dibayarkan tidak dapat dikembalikan apabila
+peserta mengundurkan diri.
+
+4.Karya yang diikutsertakan harus bersifat orisinal, murni hasil kerja mandiri
+tim, dan belum pernah menjadi juara atau dipublikasikan dalam ajang
+lomba lain.
+
+5.Peserta wajib mengumpulkan karya (tautan repositori GitHub, tautan
+aplikasi live (opsional), dan tautan Video Presentasi Tim) melalui formulir
+pengumpulan karya yang dibagikan di grup WhatsApp, sesuai dengan
+batas waktu yang telah ditentukan oleh panitia.
+
+6.Seluruh anggota tim wajib mengikuti akun Instagram @hmtrpl_pei dan
+@genesis_hmtrpl.
+
+7.Perwakilan atau seluruh anggota tim wajib menghadiri Technical Meeting
+(Techmeet) secara daring pada jadwal yang telah ditentukan.
+
+8.Peserta wajib mematuhi dan mengikuti seluruh prosedur serta peraturan
+kompetisi yang telah ditetapkan oleh panitia dari awal hingga babak final
+berakhir.
+
+9.Segala keputusan yang telah ditetapkan oleh panitia dan dewan juri bersifat
+mutlak dan tidak dapat diganggu gugat oleh pihak mana pun.
+
+10.Peserta yang terbukti tidak memenuhi persyaratan administrasi maupun
+teknis yang telah ditetapkan akan otomatis didiskualifikasi dari perlombaan.
+
+
+
+DESKRIPSI
+KOMPETISI
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Deskripsi Kompetisi
+
+Genesis Competition 2026 merupakan kegiatan yang diselenggarakan
+oleh HMTRPL Politeknik Enjinering Indorama sebagai wadah
+pengembangan kreativitas, inovasi, dan kompetensi teknis mahasiswa
+dalam pengembangan sistem berbasis web. Aplikasi web yang
+dikembangkan diharapkan tidak hanya memiliki visual yang menarik,
+tetapi juga harus solutif, berkinerja tinggi, dan mampu menjawab
+tantangan global.
+
+Sistem berbasis web yang dikembangkan wajib memenuhi ketentuan
+kompetensi yang telah ditetapkan oleh panitia sebagai berikut:
+
+1.Kedalaman solusi digital dalam menjawab permasalahan atau
+tantangan global, serta orisinalitas ide dan efektivitas fitur yang
+ditawarkan.
+
+2.Kelengkapan dan keandalan fitur aplikasi yang dibangun. Sistem
+dipastikan harus memenuhi logika proses yang direncanakan dan
+berjalan lancar tanpa celah (bug-free).
+
+3.Mengimplementasikan penulisan kode yang rapi dan jelas (clean
+code), struktur folder yang modular, penggunaan komentar yang
+efektif, serta kepatuhan terhadap praktik terbaik (best practice) dari
+bahasa pemrograman atau kerangka kerja (framework) yang
+digunakan.
+
+4.Estetika visual dan konsistensi elemen desain (warna, tipografi) yang
+menerapkan prinsip desain berpusat pada pengguna (user-centric
+design) untuk menjamin kemudahan navigasi dan kenyamanan
+pengguna.
+
+5.Efisiensi pemuatan halaman (loading speed), optimasi aset, serta
+adaptabilitas tampilan situs web (website) agar dapat diakses dengan
+baik melalui berbagai perangkat (desktop, tablet, maupun
+smartphone).
+
+
+
+KETENTUAN
+KOMPETISI
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Ketentuan Kompetisi
+
+Adapun ketentuan kompetisi sebagai berikut:
+1.Peserta dibebaskan menggunakan tech stack, bahasa pemrograman, serta
+
+kerangka kerja (framework) pengembangan web (seperti Laravel, React, Vue,
+Node.js, dsb.), serta UI framework/library (seperti Bootstrap, Tailwind CSS, dsb.)
+sesuai dengan keahlian tim.
+
+2.Peserta dilarang keras menggunakan Content Management System (CMS) seperti
+WordPress, Joomla, Shopify, Wix, atau platform drag-and-drop website builder
+sejenisnya, maupun menggunakan template web instan siap pakai. Sistem web
+harus dibangun atau diprogram secara kustom (custom-built).
+
+3.Aplikasi dilarang keras memuat unsur SARA, pornografi, serta konten yang
+bertentangan dengan etika, norma, dan hukum yang berlaku di Indonesia.
+
+4.Karya harus orisinal, murni hasil pengembangan tim, belum pernah memenangkan
+kompetisi lain, dan bebas dari plagiarisme kode.
+
+5.Kode sumber (source code) wajib diunggah ke GitHub (publik/privat). Jika privat,
+peserta wajib mengundang akun GitHub panitia sebagai kolaborator sebelum
+batas waktu pengumpulan berakhir.
+
+6.Repositori wajib memiliki README.md (deskripsi dan panduan instalasi). Dilarang
+mengunggah berkas (file) .env; gunakan .env.example sebagai templat konfigurasi
+variabel lingkungan tanpa mengisi nilai aslinya.
+
+7.Aplikasi dapat (opsional) di-deploy ke layanan hosting gratis (seperti Vercel,
+Netlify, Cloudflare Pages, GitHub Pages, Render, InfinityFree, dsb.) agar dapat
+diakses secara daring oleh juri untuk pengujian fungsionalitas dan responsivitas.
+Panitia sama sekali tidak mewajibkan peserta untuk menggunakan layanan
+hosting berbayar.
+
+8.Tautan GitHub, tautan aplikasi live (opsional), dan tautan Video Presentasi Tim
+dikumpulkan melalui formulir Google (Google Form) resmi sesuai tenggat waktu.
+
+9.Peserta wajib melampirkan PDF gabungan KTM anggota tim dan Lembar
+Orisinalitas pada formulir pengumpulan.
+
+10.HKI tetap milik peserta, namun panitia GENESIS 2026 berhak menggunakan karya
+untuk keperluan publikasi dan dokumentasi.
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Ketentuan Kompetisi
+
+Berikut Tautan/QR Code Templat Dokumen Orisinalitas
+
+Surat Lembar Orisinalitas Web Development
+
+
+
+KETENTUAN
+VIDEO PRESENTASI
+TIM
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Ketentuan Pembuatan
+Video Presentasi Tim
+
+Video presentasi berdurasi 5 - 15 menit dan wajib diunggah ke YouTube
+atau Google Drive (pastikan akses tautan bersifat publik/dapat dilihat
+oleh juri). Di dalam video, peserta wajib memuat konten berikut secara
+berurutan:
+
+1.Peserta wajib menampilkan seluruh anggota tim secara langsung
+(wajah terlihat jelas) pada awal video untuk menyebutkan nama, asal
+kampus, dan nama tim guna memvalidasi partisipasi seluruh anggota.
+
+2.Peserta harus menjelaskan secara singkat mengenai latar belakang
+masalah yang ingin dipecahkan dan bagaimana aplikasi web yang
+dibuat dapat menjadi solusi digital yang relevan dengan tema
+tantangan global.
+
+3.Peserta wajib menampilkan demonstrasi rekaman layar (screen
+record) saat aplikasi dijalankan untuk menunjukkan bahwa antarmuka
+sistem mudah dinavigasi, fitur berjalan lancar tanpa error, serta
+memperlihatkan responsivitas web, di mana wajah peserta yang
+mempresentasikan disarankan tetap terlihat menggunakan fitur
+picture-in-picture.
+
+4.Peserta diwajibkan untuk memperlihatkan secara singkat struktur
+folder dari kode sumber (source code) yang dibuat, serta menjelaskan
+tech stack yang digunakan untuk membuktikan bahwa aplikasi
+tersebut benar-benar dibangun secara kustom (custom-built).
+
+
+
+KETENTUAN
+DISKUALIFIKASI
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Ketentuan Diskualifikasi
+
+Peserta kompetisi akan terkena diskualifikasi apabila:
+1.Terbukti melakukan plagiarisme, penyalinan karya milik orang lain,
+
+atau kecurangan kode (code cheating).
+2.Tidak melengkapi dokumen dan syarat administrasi pendaftaran yang
+
+telah ditentukan oleh panitia.
+3.Tidak mematuhi syarat serta ketentuan kompetisi yang telah
+
+ditetapkan.
+4.Mengembangkan karya (aplikasi web) yang memuat unsur SARA
+
+(Suku, Agama, Ras, dan antargolongan), pornografi, maupun konten
+lain yang melanggar etika, norma, dan hukum yang berlaku di
+Indonesia.
+
+5.Tim yang lolos sebagai finalis tidak menghadiri babak final secara
+luring (offline) di kampus.
+
+6.Terlambat mengumpulkan karya (tautan repositori GitHub dan tautan
+Video Presentasi Tim) melewati batas waktu yang telah ditentukan
+oleh panitia.
+
+7.Melanggar ketentuan, tata tertib, atau aturan kompetisi spesifik
+lainnya yang berlaku selama rangkaian acara GENESIS 2026.
+
+
+
+SISTEM DAN
+ALUR KOMPETISI
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Sistem dan Alur Kompetisi
+
+Babak Penyisihan (Daring/Online)
+Peserta melakukan pendaftaran melalui tautan Google Form registrasi resmi. Adapun
+tautan khusus untuk Google Form Pengumpulan Karya akan dibagikan secara terpisah
+oleh panitia melalui Grup WhatsApp peserta setelah tim tervalidasi.
+Format pengumpulan karya menggunakan tautan repositori GitHub dan tautan
+aplikasi yang telah di-deploy (opsional), serta tautan Video Presentasi Tim (5 - 15
+menit), disertai dokumen kelengkapan administrasi (PDF KTM dan Lembar
+Orisinalitas).
+Batas akhir pengumpulan karya adalah pada waktu yang telah ditentukan (sesuai lini
+masa atau timeline pendaftaran).
+Pada tahap seleksi awal ini, dewan juri akan melakukan kurasi melalui video presentasi
+dan menguji langsung fungsionalitas, performa, responsivitas, inovasi fitur, hingga
+kualitas kode sumber (source code) dari aplikasi web yang telah dikirimkan secara
+daring.
+5 (lima) tim terbaik dengan akumulasi nilai tertinggi berhak lolos ke babak final.
+
+Babak Final (Luring/Offline)
+Lima tim yang lolos sebagai finalis wajib hadir secara luring (offline) di kampus
+Politeknik Enjinering Indorama untuk mengikuti babak final.
+Sebelum sesi presentasi dimulai, finalis wajib mengikuti Opening Briefing dan
+pengundian urutan tampil yang dipandu oleh panitia.
+Setiap tim finalis akan diberikan alokasi waktu maksimal 30 menit untuk melakukan
+presentasi di hadapan dewan juri.
+Waktu presentasi dibagi menjadi dua sesi: 15 menit untuk demonstrasi aplikasi (live
+demo) dan 15 menit untuk sesi tanya jawab sekaligus code review secara mendalam
+oleh juri.
+Nilai dari babak final ini akan menentukan peraih gelar Juara 1, 2, dan 3. Keputusan
+dewan juri bersifat mutlak dan tidak dapat diganggu gugat.
+
+Puncak Acara (Luring/Offline)
+Seluruh finalis diwajibkan untuk menghadiri puncak acara GENESIS 2026 pada tanggal
+03 Juli 2026.
+Puncak acara akan diselenggarakan di Bale Sawala Yudistira, Kabupaten Purwakarta.
+Agenda puncak meliputi Awarding Ceremony (penyerahan medali, sertifikat, dan uang
+pembinaan bagi para pemenang) serta sesi gelar wicara (talkshow) inspiratif yang
+dapat diikuti secara gratis oleh seluruh peserta.
+
+
+
+KETENTUAN
+PENILAIAN
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Ketentuan Penilaian
+
+Penilaian dilakukan dalam dua babak
+
+1.Penilaian Babak Penyisihan (Daring/Online)
+
+No. Aspek Penilaian Deskripsi Bobot Skor
+
+Kelengkapan dan keandalan fitur-fitur yang
+dikembangkan. Sistem harus berjalan tanpa
+
+1 Fungsionalitas Sistem 25% 1-100
+galat (error atau bug-free) dan memenuhi
+logika proses yang direncanakan.
+
+Implementasi clean code (penamaan
+variabel yang jelas), struktur folder yang
+modular, penggunaan komentar yang
+
+Kualitas Kode dan
+2 efektif, serta kepatuhan terhadap praktik 20% 1-100
+
+Struktur
+terbaik (best practice) bahasa pemrograman
+atau kerangka kerja (framework) yang
+digunakan.
+
+Kedalaman solusi digital dalam menjawab
+Inovasi dan Relevansi tantangan global sesuai tema. Orisinalitas
+
+3 20% 1-100
+Tema ide dan efektivitas fitur dalam
+
+menyelesaikan masalah yang diangkat.
+
+Estetika visual, konsistensi elemen (warna,
+Antarmuka dan tipografi), dan kemudahan navigasi.
+
+4 Pengalaman Penerapan prinsip desain berpusat pada 20% 1-100
+Pengguna (UI/UX) pengguna (user-centric design) untuk
+
+memastikan kenyamanan pengguna.
+
+Efisiensi pemuatan halaman (loading speed) dan
+optimasi aset. Adaptabilitas tampilan situs web
+saat diakses melalui berbagai perangkat
+
+Performa dan (desktop, tablet, maupun smartphone/mobile-
+5
+
+Responsivitas friendly). (Bagi peserta yang tidak melampirkan 15% 1-100
+tautan aplikasi live/deploy, aspek ini dievaluasi
+murni berdasarkan kelancaran demonstrasi pada
+Video Presentasi dan tinjauan efisiensi kode di
+GitHub).
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Ketentuan Penilaian
+
+2.Penilaian Babak Final (Luring/Offline)
+
+No. Aspek Penilaian Deskripsi Bobot Skor
+
+Kelancaran dalam menunjukkan cara kerja
+sistem secara langsung di hadapan juri.
+
+Demonstrasi Sistem
+1 Kemampuan menangani skenario 25% 1-100
+
+(live demo)
+pengujian (use case) yang diminta oleh juri
+saat demonstrasi.
+
+Kedalaman pemahaman peserta terhadap
+teknologi yang digunakan (stack, basis
+data/database, API, atau kerangka
+
+2 Penguasaan Teknis 25% 1-100
+kerja/framework). Mampu menjelaskan
+alasan pemilihan arsitektur atau algoritma
+tertentu.
+
+Kemampuan menyampaikan ide secara
+sistematis, percaya diri, dan profesional.
+
+Presentasi dan
+3 Penggunaan media presentasi yang 20% 1-100
+
+Komunikasi
+mendukung penjelasan alur berpikir
+pengembangan produk.
+
+Ketepatan, logika, dan ketegasan dalam
+Argumentasi dan menjawab pertanyaan juri. Kemampuan
+
+4 Pemecahan Masalah mempertahankan solusi serta 20% 1-100
+(problem solving) memberikan argumen teknis maupun
+
+nonteknis yang valid.
+
+Menunjukkan profesionalisme selama
+kompetisi, menghargai waktu, serta
+
+5 Sikap dan Sportivitas 10% 1-100
+mencerminkan nilai sportivitas sesuai
+dengan tema kegiatan.
+
+
+
+HADIAH DAN
+PENGHARGAAN
+
+
+
+Genesis 2026  -  Guidebook Web Development
+
+Hadiah dan Penghargaan
+
+Juara I: Uang Pembinaan + Piala dan Sertifikat
+Juara II: Uang Pembinaan + Piala dan Sertifikat
+Juara III: Uang Pembinaan + Piala dan Sertifikat
+Seluruh Peserta: Sertifikat Elektronik (E-Sertifikat)
+
+Narahubung
+
+Apabila terdapat pertanyaan seputar pendaftaran maupun teknis
+kompetisi Web Development (Pengembangan Web), silakan
+menghubungi:
+
+WhatsApp: 0858-7279-2870 (Reza - Penanggung Jawab)
+Instagram: @hmtrpl_pei dan @genesis_hmtrpl
+
+Pembayaran
+
+SeaBank
+No. Rekening: 901418454820
+A/N: Ilman Fadhilah Ahmad
+
+DANA
+No. Rekening: +62 856-1356-386
+A/N: Satria Bintang
+
+Informasi
+
+Segala bentuk kesalahan atau kekeliruan dalam guidebook ini akan
+dilakukan perbaikan sebagaimana mestinya oleh panitia.

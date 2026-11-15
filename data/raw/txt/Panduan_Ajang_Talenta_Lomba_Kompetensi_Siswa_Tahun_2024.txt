@@ -1,0 +1,2586 @@
+﻿[DOCUMENT TITLE] 
+[Document subtitle] 
+
+ 
+
+  
+
+[DATE] 
+[COMPANY NAME] 
+[Company address] 
+
+i 
+ 
+
+
+
+ 
+PEDOMAN 
+
+LOMBA KOMPETENSI SISWA  
+SEKOLAH MENENGAH KEJURUAN (LKS – SMK ) 
+
+TAHUN 2024 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BALAI PENGEMBANGAN TALENTA INDONESIA 
+PUSAT PRESTASI NASIONAL 
+
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+
+ 
+ 
+ 
+
+ii 
+ 
+
+
+
+PEDOMAN 
+LOMBA KOMPETENSI SISWA  
+
+SEKOLAH MENENGAH KEJURUAN (LKS SMK)  
+TAHUN 2024 
+
+ 
+Diterbitkan oleh: 
+
+Balai Pengembangan Talenta Indonesia Pusat Prestasi Nasional 
+Kementerian Pendidikan Kebudayaan, Riset dan Teknologi 
+
+Jalan Gardu, Srengseng Sawah, Jagakarsa, Jakarta Selatan, 12640 
+ 
+
+Pengarah: 
+Asep Sukmayadi 
+Sugeng Riyadi 
+
+ 
+Penanggung Jawab: 
+Setiawan Witaradya 
+
+Nugroho Eko Prasetya 
+ 
+
+Tim Penyusun: 
+Sukirno 
+
+Miftahul Sholeh 
+Arinto Nugroho 
+Dwi Yunanto 
+
+Yunus 
+Mahefud Ismail 
+
+ 
+Tim Kontributor: 
+
+Staf Pokja Vokasi BPTI 
+ 
+
+Desain Sampul: 
+Tri Isti Wahyuningsih. 
+
+Iman Sudjudi 
+Muhammad Nafi Rizaldi 
+Anggun Rahayu Utami 
+
+Achmad Latif 
+ 
+
+Penyunting: 
+Angger Pramono 
+
+Yusuf Budi 
+Haviz Kurniawan Mawardi 
+
+ 
+ 
+
+©2023 Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Hak cipta dilindungi Undang-Undang. 
+
+All rights reserved. 
+
+iii 
+ 
+
+
+
+ 
+
+ 
+KATA PENGANTAR 
+
+ 
+ Kegiatan ajang talenta merupakan wahana aktualisasi unjuk prestasi peserta didik, yang 
+juga menjadi momentum untuk menemukenali anak-anak berbakat atau yang mempunyai 
+potensi talenta di atas rata-rata. Dalam mengikuti ajang talenta, mereka akan mendapatkan 
+tantangan terutama dalam menghasilkan suatu karya dan menjadi yang terbaik. Kegiatan ajang 
+talenta merupakan bagian dari proses pembinaan prestasi talenta secara berkelanjutan, dan turut 
+andil dalam mengembangkan karakter peserta didik menuju profil Pelajar Pancasila. 
+ Balai Pengembangan Talenta Indonesia (BPTI) menyelenggarakan ajang talenta setiap 
+tahun di berbagai bidang. Dalam kerangka program Manajemen Talenta Nasional (MTN), 
+BPTI/Puspresnas melakukan pembinaan berkelanjutan untuk menghasilkan bibit-bibit talenta 
+unggul di bidang-bidang Riset dan Inovasi; Seni dan Budaya; serta Olahraga. 
+ Menandai semangat Merdeka Belajar, Merdeka Berprestasi, aktualisasi prestasi melalui 
+ajang talenta didasarkan pada minat dan bakat. Pemerintah mulai memberikan perhatian yang 
+lebih serius terhadap anak-anak yang berprestasi di berbagai bidang ketalentaan. Mereka yang 
+berhasil akan mendapatkan banyak manfaat untuk pengembangan karir belajar atau karir 
+profesionalnya, seperti beasiswa atau pembinaan lanjut untuk mencapai prestasi maksimal. 
+ Lomba Kompetensi Siswa Sekolah Menengah Kejuruan (LKS SMK) adalah sebuah 
+ajang talenta di bidang riset dan inovasi yang diselenggarakan untuk peserta didik Sekolah 
+Menengah Kejuruan (SMK). Ajang LKS diselenggarakan secara bertingkat mulai dari daerah 
+hingga nasional, untuk menjaring peserta terbaik dari 38 provinsi. Mekanisme bertingkat 
+tersebut merupakan salah satu cara untuk memberikan kesempatan yang sama dan adil bagi 
+peserta didik di seluruh Indonesia untuk berprestasi dan menjadi bibit-bibit talenta potensial.  
+ Pedoman ini disusun untuk memberikan informasi dan gambaran berbagai aspek 
+penyelenggaraan ajang LKS SMK kepada para peserta, pendamping, pembina, juri, dan para 
+pemangku kepentingan lainnya. Selamat mempersiapkan diri, belajar, berlatih, dan bekerja 
+sebaik-baiknya agar kegiatan ajang dapat terlaksana sesuai rencana dan memberikan hasil 
+maksimal. 
+ Kami mengucapkan terima kasih kepada semua pihak yang berpartisipasi dan berperan 
+aktif dalam penyusunan pedoman ini. 
+ 
+         Jakarta,   November 2023 
+                                                                                  Kepala Balai, 
+ 
+ 
+ 
+ 
+           Asep Sukmayadi  
+              NIP197206062006041001
+
+3 
+ 
+
+
+
+ 
+
+ 
+ 
+
+DAFTAR ISI 
+ 
+
+ 
+
+KATA PENGANTAR ........................................................................................................................................... 3 
+DAFTAR ISI ........................................................................................................................................................... 4 
+BAB I PENDAHULUAN ..................................................................................................................................... 6 
+A. Latar Belakang ...................................................................................................................................................... 6 
+B. Dasar Hukum ........................................................................................................................................................ 7 
+C. Tujuan ...................................................................................................................................................................... 9 
+D. Hasil yang Diharapkan ...................................................................................................................................... 9 
+E. Logo, Tema, dan Tagar ...................................................................................................................................... 9 
+
+BAB II PENYELENGGARAAN ..................................................................................................................... 10 
+A. Asas dan Prinsip Ajang Talenta ................................................................................................................... 10 
+B. Sasaran ................................................................................................................................................................... 11 
+C. Bidang dan Cabang Lomba ............................................................................................................................ 11 
+D. Sarana dan Prasarana ...................................................................................................................................... 12 
+E. Unsur Penyelenggara ...................................................................................................................................... 13 
+F. Mekanisme ........................................................................................................................................................... 22 
+F. Jadwal ..................................................................................................................................................................... 24 
+G. Skema Penilaian ................................................................................................................................................. 25 
+H. Formulir atau Lembar Penilaian ................................................................................................................ 25 
+I. Prosedur Pengujian dan Penilaian ............................................................................................................. 26 
+J. Finalisasi Nilai .................................................................................................................................................... 26 
+K. Competition Information System (CIS) ................................................................................................... 27 
+L. Sosialisasi Sistem Penilaian .......................................................................................................................... 27 
+M. Publikasi Hasil Penilaian ........................................................................................................................... 27 
+N. Perizinan Penggunaan Sistem CIS di LKS Provinsi ........................................................................ 27 
+O. Pembiayaan ..................................................................................................................................................... 28 
+P. Kegiatan Pendukung dan Program Berkelanjutan ............................................................................. 28 
+Q. Program Berkelanjutan ............................................................................................................................. 29 
+
+BAB III NORMA DAN KETENTUAN PENYELENGGARAAN ........................................................... 30 
+A. Peristilahan dan Ketentuan Umum ........................................................................................................... 30 
+B. Deskripsi Teknis Bidang Lomba ................................................................................................................. 31 
+C. Persyaratan Peserta, Ketua Kontingen, Pembimbing, Juri, Workshop Manager, dan 
+Teknisi ............................................................................................................................................................................. 35 
+
+4 
+ 
+
+
+
+ 
+
+D. Bentuk penghargaan yang diberikan pada LKS SMK 2024 Tingkat Nasional adalah. ........ 39 
+E. Pengawasan dan Sanksi Pelanggaran ...................................................................................................... 39 
+F. Keamanan dan Keselamatan Penyelenggaraan ................................................................................... 40 
+G. Tata Tertib ............................................................................................................................................................ 41 
+
+BAB IV .................................................................................................................................................................. 43 
+BAB V PENUTUP ............................................................................................................................................. 44 
+ 
+ 
+ 
+ 
+  
+
+5 
+ 
+
+
+
+ 
+
+BAB I 
+PENDAHULUAN 
+
+ 
+A. Latar Belakang 
+
+ 
+ Revolusi industri 4.0 telah membawa perubahan fundamental pada berbagai tatanan 
+kehidupan global. Hal ini ditandai dengan semakin berkembangnya kreativitas dan inovasi 
+dengan memanfaatkan teknologi informasi yang pada akhirnya mendisrupsi berbagai sendi 
+kehidupan global, termasuk persaingan dalam bidang ekonomi dan industri. Disrupsi tersebut 
+dapat tercermin dari terjadinya perubahan yang cepat akibat pemanfaatan Artificial Intelligence 
+(AI), Internet of Things, Human-Machine Interface, dan merebaknya fenomena sharing 
+economy. Hal ini menjadi momentum untuk menjadikan standar kompetensi peserta didik 
+Sekolah Menengah Kejuruan (SMK) yang didukung kreativitas dan inovasi sebagai garda 
+terdepan memenangkan persaingan ekonomi global. Era revolusi industri 5.0 semakin 
+menjadikan pengembangan kompetensi peserta didik SMK sebagai salah satu isu strategis yang 
+perlu mendapatkan perhatian kita bersama, utamanya dalam memastikan pengembangan 
+kebijakan yang kondusif dalam mendukung Indonesia Maju. Pengembangan kompetensi 
+peserta didik SMK dipandang strategis untuk menyiapkan generasi mendatang yang produktif, 
+berkarakter, dan siap bersaing dalam dunia global. Untuk menjawab tantangan tersebut 
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, melalui Balai Pengembangan 
+Talenta Indonesia. Pusat Prestasi Nasional, Balai Pengembangan Talenta Indonesia (BPTI) 
+menyelenggarakan Lomba Kompetensi Siswa (LKS) SMK tahun 2024 dengan tema Merdeka 
+Berprestasi, Talenta Vokasi Menginspirasi. 
+ 
+ Lomba Kompetensi Siswa (LKS) SMK tingkat Nasional ini dalam rangka untuk 
+memotivasi dan meningkatkan kompetensi peserta didik SMK dalam menjawab kebutuhan 
+tenaga kerja yang handal, berkarakter, dan terstandar dengan dunia usaha dan dunia industri. 
+Dukungan dunia usaha dan dunia industri memberikan kesempatan dalam mengasah dan 
+menyiapkan kompetensi peserta didik SMK untuk memasuki dunia kerja sangat diperlukan. 
+Peningkatan kompetensi tersebut perlu disusun satu strategi dan kurikulum yang mengacu pada 
+standar industri. Dengan terbitnya Peraturan Menteri Keuangan No 128/PMK.010/2019 
+tentang Pemberian Pengurangan Penghasilan Bruto atas Penyelenggaraan Kegiatan Praktik 
+Kerja, Pemagangan, dan/atau Pembelajaran dalam Rangka Pembinaan dan Pengembangan 
+Sumber Daya Manusia Berbasis Kompetensi Tertentu, diharapkan dukungan dunia 
+usaha/dunia industri dalam kerjasama dan bermitra akan lebih erat dan meningkat. 
+
+ Untuk menghasilkan lulusan SMK yang kompetitif harus didukung dengan kompetensi 
+hard skills dan kemampuan dasar soft skills antara lain kemampuan berkomunikasi, berpikir 
+kritis, memecahkan masalah, berinteraksi, serta kemampuan bekerjasama secara efektif dengan 
+pihak lain, maupun karakter yang tangguh, mandiri, bertanggung jawab, kreatif dan berjiwa 
+wirausaha.  
+
+ BPTI-PUSPRESNAS pada tahun 2024 ini menyelenggarakan Lomba Kompetensi 
+Siswa (LKS) SMK secara luring (Onsite) sehingga diharapkan dapat menjadi wadah 
+penyaluran bakat dan minat serta kompetensi yang sesuai dengan perkembangan teknologi 
+
+6 
+ 
+
+
+
+ 
+
+masa kini. Adapun berbagai kompetensi keahlian yang dikuasai siswa SMK akan terwadahi 
+kinerjanya melalui kegiatan LKS Siswa SMK Tingkat Nasional.  
+
+ Melalui kegiatan tersebut, peserta dituntut untuk memiliki kompetensi yang tertulis 
+dalam Deskripsi Teknis, melalui Test Project pada bidang lomba sesuai dengan keahliannya. 
+Selanjutnya dari ajang LKS ini, akan dihasilkan para pemenang LKS yang akan berkiprah 
+dalam World Skills Asia (WSA) dan World Skills Competition (WSC) sehingga mampu 
+meningkatkan reputasi Indonesia di kancah internasional. Kegiatan LKS juga memberikan 
+peluang kepada dunia usaha dan industri untuk berpartisipasi menyukseskan dan memeriahkan 
+penyelenggaraan LKS sekaligus dalam rangka penyiapan SDM industri yang lebih baik. 
+
+B. Dasar Hukum 
+ 
+
+1. Undang-undang No 20 Tahun 2003 Tentang Sistem Pendidikan Nasional; 
+2. Peraturan Pemerintah (PP) Nomor 17 Tahun 2010 tentang Pengelolaan Dan 
+
+Penyelenggaraan Pendidikan (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 
+23, Tambahan Lembaran Negara Republik Indonesia Nomor 5105) sebagaimana telah 
+diubah dengan Peraturan Pemerintah Nomor 66 Tahun 2010 tentang Perubahan atas 
+Peraturan Pemerintah Nomor 17 Tahun 2010 tentang Pengelolaan dan Penyelenggaraan 
+Pendidikan (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 112, Tambahan 
+Lembaran Negara Nomor 5157); 
+
+3. Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintah Daerah (Lembaran Negara 
+Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5587) sebagaimana telah diubah dengan Undang-Undang 9 Tahun 2015 
+tentang perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2015 tentang Pemerintah 
+Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5679); 
+
+4. Peraturan Presiden Nomor Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka 
+Menengah Nasional (RPJMN) Tahun 2020-2024; 
+
+5. Peraturan Presiden Nomor 87 Tahun 2017 tetang Penguatan Pendidikan Karakter; 
+6. Instruksi Presiden nomor 9 tahun 2016 tentang Revitalisasi Sekolah Menengah Kejuruan 
+
+untuk Peningkatan Daya Saing Sumberdaya Manusia Indonesia; 
+7. Peraturan Menteri Pendidikan Nasional No. 34 Tahun 2006 tentang Pembinaan Prestasi 
+
+Siswa yang Memiliki Potensi Kecerdasan dan/atau Bakat Istimewa; 
+8. Peraturan Menteri Pendidikan Nasional Republik Indonesia Nomor 39 Tahun 2008 
+
+tentang Pembinaan Kesiswaan; 
+9. Peraturan Menteri Pendidikan dan Kebudayaan Nomor 62 Tahun 2014 Tentang Kegiatan 
+
+Ekstrakurikuler Pada Pendidikan Dasar Dan Pendidikan Menengah; 
+10. Peraturan Menteri Pendidikan dan Kebudayaan Nomor Nomor 23 Tahun 2015 tentang 
+
+Penumbuhan Budi Pekerti; 
+11. Peraturan Menteri Pendidikan dan Kebudayaan Nomor Nomor 20 Tahun 2018 tentang 
+
+PPK; 
+12. Permendikbudristek No. 27 Tahun 2021 tentang Organisasi dan Tata Kerja Balai 
+
+Pengembangan Talenta Indonesia; 
+
+7 
+ 
+
+
+
+ 
+
+13. Permendikbudristek No. 28 Tahun 2021 Organisasi dan Tata Kerja Kementerian 
+Pendidikan, Kebudayaan, Riset dan Teknologi; 
+
+14. Rencana Strategis Kementerian Pendidikan dan Kebudayaan Tahun 2020-2024; 
+15. DIPA (Daftar Isian Pelaksanaan Anggaran) Balai Pengembangan Talenta Indonesia Tahun 2024. 
+  
+
+8 
+ 
+
+
+
+ 
+
+ 
+C. Tujuan 
+
+ 
+Penyelenggaraan LKS SMK 2024 bertujuan: 
+1. Mengukur kompetensi, karakter positif, produktif, kreatif, kompetitif, dan inovatif bagi 
+
+peserta didik 
+2. Mengetahui peta kualitas SMK di seluruh Indonesia sesuai standar dunia usaha/dunia 
+
+industri 
+3. Mempromosikan performa kerja peserta didik dan meningkatkan citra SMK 
+4. Memotivasi peserta didik untuk meningkatkan keahlian sesuai standar dunia usaha/dunia 
+
+industri 
+5. Mendorong produktivitas peserta didik untuk mampu bekerja secara optimal dan 
+
+menghasilkan produk inovatif 
+6. Mempersiapkan peserta didik dapat bersaing secara global 
+7. Mendorong peserta didik untuk berkompetisi secara positif dengan tetap mengedepankan 
+
+nilai kejujuran. 
+ 
+
+D. Hasil yang Diharapkan 
+ 
+Hasil yang diharapkan dari penyelenggaraan LKS SMK 2024 adalah sebagai berikut. 
+1. Kompetensi, karakter positif, produktif, kreatif, kompetitif, dan inovatif peserta didik dapat 
+
+diukur 
+2. Kualitas SMK di seluruh Indonesia sesuai standar dunia usaha/dunia industri dapat 
+
+terpetakan 
+3. Performa kerja peserta didik dan citra SMK terpromosikan  
+4. Peserta didik termotivasi untuk meningkatkan keahlian sesuai standar dunia usaha/dunia 
+
+industri 
+5. Peserta didik terdorong produktivitasnya untuk mampu bekerja secara optimal dan 
+
+menghasilkan produk inovatif 
+6. Peserta didik siap bersaing secara global 
+7. Peserta didik terdorong untuk berkompetisi secara positif dengan mengedepankan nilai 
+
+kejujuran. 
+ 
+
+E. Logo, Tema, dan Tagar 
+ 
+Logo LKS adalah Jumlah Jari. Menggambarkan kompetensi siswa yang cerdas dan 
+berkarakter. 
+ 
+ 
+ 
+ 
+ 
+ 
+Tema : Merdeka Berprestasi Talenta Vokasi Menginspirasi 
+Tagar :  #TalentaVokasiMendunia 
+
+9 
+ 
+
+
+
+ 
+
+ 
+BAB II 
+
+PENYELENGGARAAN 
+ 
+
+A. Asas dan Prinsip Ajang Talenta 
+Asas dan prinsip mencakup nilai, norma, asas penyelenggaraan, dan prinsip penyelenggaraan. 
+Penyelenggaraan ajang talenta harus mencerminkan dan menerapkan asas dan prinsip yang 
+sesuai dengan tujuan pendidikan. 
+1. Nilai 
+ Nilai-nilai yang dikandung dalam pelaksanaan ajang talenta tidak bertentangan dengan 
+
+nilai-nilai pendidikan, seperti pembelajaran, obyektivitas, produktivitas, estetika, 
+keteladanan, kedisiplinan, kejujuran, dan nilai-nilai karakter positip lainnya. Nilai-nilai 
+tersebut perlu disosialisasikan kepada seluruh komponen yang terlibat dalam 
+penyelenggaraan agar dipahami dan diaktualisasikan dalam berbagai aspek kegiatan. 
+
+2. Norma 
+ Norma ajang talenta mencakup norma etika yang tidak tertulis, yang berlaku sesuai dengan 
+
+kebudayaan setempat, serta norma tertulis yang berwujud ketentuan atau peraturan, 
+termasuk tata tertib acara seremonial dan kegiatan ajang itu sendiri. Selain untuk mengatur 
+berlangsungnya kegiatan yang tertib, lancar, dan aman, penegakan norma diharapkan dapat 
+mendorong tumbuh dan berkembangnya motivasi berprestasi para peserta, 
+mengekspresikan kreativitas dan keindahan, serta keterbukaan. Selain itu, penyelenggaraan 
+ajang talenta juga harus mengikuti asas dan prinsip penyelenggaraan yang ditentukan dalam 
+dokumen ini. 
+
+3. Asas penyelenggaraan 
+a. diselenggarakan dalam kerangka pembangunan pendidikan nasional; 
+b. menjadi bagian dari gerakan perubahan menuju kemajuan; 
+c. menjadi wadah bagi aktualisasi prestasi talenta peserta didik; 
+d. terbuka bagi peserta didik dari semua jenjang dan jenis pendidikan 
+
+ 
+4. Prinsip penyelenggaraan 
+
+Penyelenggaraan Ajang Talenta mengikuti prinsip Inclusive, Growth, Participative dan 
+Sustain, yang dimanifestasikan dengan upaya-upaya berikut: 
+a. pemerataan kesempatan bagi seluruh peserta didik Indonesia tanpa membedakan suku, 
+
+agama, rupa, dan ras; 
+b. pemberian kebebasan pengenalan diri dan kesempatan tumbuh-kembang peserta didik 
+
+tanpa intervensi yang eksploitatif; 
+c. pembinaan yang membuka peluang peserta didik untuk berprestasi internasional dan 
+
+berkarya sebagai pionir perubahan bangsa meraih keunggulan kompetitif (competive 
+advantage); 
+
+d. tata kelola penyelenggaraan yang obyektif, efisien, akuntabel dan transparan; 
+e. intensifikasi pembinaan di daerah dalam rangka mengupayakan pemerataan prestasi 
+
+melalui kegiatan pencarian dan pemanduan bakat (talent scouting) yang melibatkan 
+seluruh pemangku kepentingan 
+
+10 
+ 
+
+
+
+ 
+
+f. partisipasi seluruh pemangku kepentingan di semua aspek penyelenggaraan; 
+g. perencanaan, pelaksanaan, dan evaluasi yang konsisten dan berkesinambungan; 
+h. implementasi penjaminan mutu yang berkelanjutan. 
+
+ 
+B. Sasaran 
+
+Sasaran LKS SMK 2024 adalah seluruh peserta didik SMK dari seluruh Indonesia. 
+ 
+
+C. Bidang dan Cabang Lomba 
+LKS SMK 2024 melombakan 37 bidang dan 1 bidang ekshibisi. Ini disesuaikan dengan bidang 
+keahlian di SMK, yaitu : 
+
+ 
+NO. NAMA BIDANG LOMBA  PESERTA 
+Kelompok Konstruksi, Teknologi Bangunan dan Agribisnis  
+1.  Teknik Pemasangan Batu Bata (Bricklaying) 1 
+2.  Teknik Instalasi Kelistrikan (Electrical Installation) 1 
+3.  Pembuatan Kabinet (Cabinet Making) 1 
+4.  Teknik Pemasangan Tegel Keramik Dinding dan Lantai (Wall and 1 
+
+Floor Tilling) 
+5.  Lanskap dan Pertamanan (Landscape and Gardening) 2 
+6.  Pemasangan Instalasi Pipa Air dan Pemanas (Plumbing and Heating) 1 
+7.  Teknik Tata Udara dan Pendingin (Refrigeration and Air 1 
+
+Conditioning) 
+Seni Kreatif & Fashion  
+8.  Teknologi Mode (Fashion Technology) 1 
+9.  Teknologi Desain Grafis (Graphic Design Technology) 1 
+10.  Teknik Gambar Bangunan (CAD Building) 2 
+Teknologi Informasi & Komunikasi  
+11.  Teknologi Informasi Piranti Lunak untuk Bisnis (IT Software 1 
+
+Solution for Business) 
+12.  Teknologi Informasi Sistem Administrasi Jaringan (IT Network 1 
+
+System Administration) 
+13.  Komputasi Awan (Cloud Computing) 1 
+14.  Teknologi Keamanan Siber (Cyber Security) 2 
+15.  Teknik Desain Laman (Web Technologies) 1 
+16.  Kabel Jaringan Komputer Informasi (Information Network Cabling) 1 
+
+ 
+ 
+
+Teknologi Manufaktur dan Rekayasa  
+17.  Otomasi Mesin Perkakas Penggilingan/Mesin Bubut CNC 1 
+
+11 
+ 
+
+
+
+ 
+
+NO. NAMA BIDANG LOMBA  PESERTA 
+Penggilingan (CNC Milling) 
+
+18.  Otomasi Mesin Perkakas Belok/Mesin Bubut CNC Belok (CNC 1 
+Turning) 
+
+19.  Elektronika (Electronics) 1 
+20.  Sistem Kendali Industri (Industrial Control) 1 
+21.  Teknik Perancangan Permesinan CAD (Mechanical Engineering 1 
+
+CAD) 
+22.  Mekatronika (Mechatronics) 2 
+23.  Robotika Mobile (Mobile Robotics) 2 
+24.  Teknik Pencetakan Plastik (Plastic Die Engineering) 1 
+25.  Model Prototyping (Prototype Modeling) 1 
+
+26.  Pengelasan (Welding) 1 
+27.  Alat Berat (heavy equipment) 2 
+28.  Robot Manufacturing System 2 
+
+Kelompok Pariwisata & Layanan Sosial dan Individual  
+29.  Tata Kecantikan/Terapi Kecantikan (Beauty Therapy) 1 
+30.  Hotel Resepsionis (Hotel Reception) 1 
+31.  Kue Pastri dan Confectionery (Patisserie and Confectionery) 1 
+32.  Pelayanan Restoran (Restaurant Service) 1 
+33.  Keperawatan Kesehatan dan Sosial (Health and Social Care) 1 
+34.  Penataan Rambut (Hairdressing) 1 
+Kelompok Transportasi  
+
+35.  Teknik Perbaikan Body Mobil (Autobody Repair) 1 
+
+36.  Teknologi Otomotif Mobil (Automobile Technology) 1 
+
+37.  Teknik Pengecatan Mobil (Car Painting) 1 
+ 
+D. Sarana dan Prasarana 
+
+Sarana dan prasarana yang dibutuhkan dalam penyelenggaraan LKS SMK 2024 sebagai berikut. 
+1. Ruang kerja peserta lomba yang kondusif (dalam dan/atau luar ruang) beserta 
+
+kelengkapannya untuk pengerjaan karya  
+2. Lampu penerangan 
+3. Komputer /Laptop 
+4. Printer 
+5. UPS atau Genset 
+
+12 
+ 
+
+
+
+ 
+
+6. Jaringan internet 
+7. Alat peraga/penunjang presentasi 
+
+Catatan: Sarana dan prasarana lainnya mengikuti deskripsi teknis masing masing 
+lomba. 
+
+ 
+E. Unsur Penyelenggara 
+
+Penyelenggara LKS 2024 bagi peserta didik SMK terdiri dari: 
+1. Tingkat daerah : sekolah; dinas provinsi/kab/kota; dan lain-lain 
+2. Tingkat nasional : BPTI 
+
+Tugas dan pihak-pihak yang terlibat dalam penyelenggaraan LKS, sebagai berikut. 
+
+1. Penanggung jawab LKS tingkat nasional 
+ Penanggung jawab LKS tingkat pusat bertanggung jawab mengelola kegiatan LKS 
+
+jenjang SMK tingkat nasional yang mencakup persiapan, pelaksanaan, evaluasi dan 
+penyusunan laporan kegiatan Lomba Kompetensi Siswa Nasional, berkoordinasi dan 
+menindaklanjuti arahan pimpinan, berkolaborasi erat dengan kontingen Provinsi dan 
+seluruh tim dalam rangka persiapan, pelaksanaan, evaluasi dan penyusunan 
+pelaksanaan LKS tingkat nasional. Penanggung jawab LKS jenjang SMK tingkat 
+nasional bertugas: 
+a. Memimpin semua kelompok kerja agar sesuai dengan visi serta tujuan dan semua 
+
+rencana yang telah ditentukan; 
+b. Memimpin rapat koordinasi yang dilakukan berkala sesuai kebutuhan; 
+c. Membuat detail konsep dan melimpahkan tugas kepada kelompok kerja yang 
+
+bersangkutan sesuai ketetapan Struktur Organisasi; 
+d. Mengkoordinasi Acara LKS jenjang SMK secara keseluruhan dan berkomunikasi 
+
+dengan semua pihak; 
+e. Memberi pengarahan dan melakukan pengawasan saat pelaksanaan LKS jenjang 
+
+SMK; 
+f. Memastikan dan menyetujui semua persiapan kebutuhan LKS jenjang SMK  dan 
+
+penunjang LKS jenjang SMK sudah terpenuhi; 
+g. Memastikan dan menyetujui semua kegiatan masing-masing jenis/bidang lomba 
+
+berjalan baik dengan berkoordinasi dengan semua pihak; 
+h. Mencari alternatif solusi jika terjadi permasalahan dan membuat keputusan secara 
+
+tepat; 
+i. Bertanggungjawab kepada pemangku kepentingan dan Pimpinan; 
+j. Meminta laporan pertanggungjawaban kepada setiap PenanggungJawab 
+
+Kelompok Kerja; 
+k. Bersama sekretaris, Penanggungjawab Acara Lomba membuat laporan 
+
+pertanggungjawaban (LPJ) pelaksanaan Kegiatan LKS jenjang SMK. 
+  
+
+13 
+ 
+
+
+
+ 
+
+2. Tim Manajemen Program 
+ Tim manajemen program terdiri dari kepala balai, kasubag umum, ketua, dan 
+
+sekretaris bertanggungjawab untuk memberikan bantuan kepada penanggung jawab 
+LKS tingkat nasional dan melaksanakan pengendalian pelaksanaan setiap tahapan 
+kegiatan serta melaksanakan koordinasi dan berkolaborasi dengan berbagai pihak 
+guna kelancaran pelaksanaan LKS.  
+
+ Tugas manajemen program sebagai berikut. 
+a. Memberikan bantuan kepada Penanggung jawab LKS SMK tingkat nasional terkait 
+
+dengan koordinasi dan pengendalian kegiatan; 
+b. Menyusun rencana kerja harian saat pra-kompetisi/pra-lomba (2 minggu sebelum 
+
+acara), kompetisi/lomba, dan pasca kompetisi/pasca lomba (tepat setelah selesai 
+acara dan persiapan untuk Exit Strategy dan sustainability); 
+
+d. Mengkonsolidasi rencana masing-masing kelompok kerja saat pra-kompetisi/pra-
+lomba, kompetisi/lomba, dan pasca kompetisi/pasca lomba serta menyusun alat 
+pengendalian pekerjaan; 
+
+e. Menginventarisir pihak Provinsi yang perlu dihubungi, pihak di lingkungan 
+kemdikbud ristek, instansi kementerian/Lembaga lain, Sponsorship, Dewan Juri, 
+Juri, teknisi juri dan Tim CIS yang perlu dihubungi di tingkat Nasional. Dalam hal 
+ini bekerjasama dengan seluruh Penanggungjawab Kelompok Kerja; 
+
+f. Melaporkan dan berkoordinasi dengan Penanggung Jawab LKS jenjang SMK 
+Tingkat Nasional tentang berbagai hal yang berkaitan dengan saat pra-
+kompetisi/pra-lomba, kompetisi/lomba, dan pasca kompetisi/pasca lomba; 
+
+g. Berkoordinasi dengan Sekretariat terkait dengan kesiapan surat menyurat yang 
+diperlukan dan memantau kelancaran kesekretariatan; 
+
+h. Berkoordinasi dengan penanggungjawab acara lomba untuk memastikan 
+kesesuaian antara rencana yang telah disusun dan realisasi pelaksanaan; 
+
+i. Bekerjasama dengan penanggungjawab acara lomba memastikan kesiapan press 
+release yang perlu dikoordinasikan dengan BKHM; 
+
+j. Bekerjasama dengan Penanggungjawab Acara Lomba memastikan pelaksanaan 
+koordinasi dengan protokol Menteri Pendidikan dan Kebudayaan; 
+
+k. Berkoordinasi dengan Penanggungjawab Teknis Bidang Lomba untuk memastikan 
+kesesuaian antara rencana yang telah disusun dan realisasi pelaksanaan; 
+
+l. Berkoordinasi dengan Penanggungjawab Logistik dan Perlengkapan untuk 
+memastikan kesesuaian antara rencana yang telah disusun dan realisasi 
+pelaksanaan; 
+
+m. Melakukan pengecekan harian terkait dengan progres harian masing-masing 
+kelompok kerja pada pelaksanaan.  
+
+  
+
+14 
+ 
+
+
+
+ 
+
+3. Sekretariat 
+Sekretariat bertanggungjawab terhadap semua administrasi dari pelaksanaan lomba. 
+Tugas sekretariat adalah: 
+a. Membuat rencana kerja harian saat pra-kompetisi/pra-lomba (2 minggu sebelum 
+
+acara), kompetisi/lomba, dan pasca kompetisi/pasca lomba (tepat setelah selesai 
+acara hingga 1 minggu setelah acara); 
+
+b. Menyediakan layanan administrasi yang efisien serta berkolaborasi yang baik 
+dengan Manajemen Program, Penanggung Jawab Acara Lomba, dan Penanggung 
+Jawab Teknis Lomba, tentang pihak-pihak yang perlu dipersiapkan surat 
+undangannya; 
+
+c. Berkoordinasi dengan pihak yang memberikan bantuan terkait kesiapan rencana 
+konsumsi, peralatan kerja dan hal lain yang menjadi tanggungjawab dari pihak 
+yang memberikan bantuan berkaitan dengan Kesekretariatan; 
+
+d. Menyiapkan surat keputusan seluruh pihak yang terlibat; 
+e. Merinci dan mempersiapkan jenis ATK yang perlu diadakan dan dikomunikasikan 
+
+dengan pihak Sub Bagian TU; 
+f. Bekerjasama dengan Tim IT dan Penanggung Jawab Acara Lomba untuk 
+
+menyiapkan sertifikat untuk seluruh pihak yang terlibat;  
+g. Bekerjasama dengan Tim IT dan Penanggung Jawab Acara Lomba membuat tanda 
+
+kepanitiaan seperti ID Card atau Name Card; 
+h. Mempersiapkan souvenir untuk disampaikan kepada pihak luar terkait dengan 
+
+penghargaan atas kontribusi/kerjasama yang diberikan; 
+i. Menyiapkan dan mengedarkan daftar hadir peserta dan daftar hadir panitia; 
+j. Memastikan semua unsur di Lingkungan Kemendikbudristek, Instansi 
+
+Kementerian/Lembaga di luar Kemendikbudristek, Dewan Juri, Juri, Teknisi dan 
+Panitia menandatangani daftar hadir; 
+
+k. Mengumpulkan surat tugas, tes rapid/PCR, kwitansi transportasi, pakta Integritas 
+dan SPPD; 
+
+l. Berkoordinasi dengan Penanggung jawab logistik & perlengkapan terkait 
+pendistribusian name tag, paket ATK, seragam, kaos maupun paket vitamin dan 
+obat (apabila tersedia); 
+
+m. Menyediakan buku saku (buku mutu komunikasi) terhadap Kelompok Kerja untuk 
+memastikan Rencana Kerja harian saat lomba; 
+
+n. Memastikan bahwa seluruh kegiatan telah selesai baik dari aspek administrasinya;  
+o. Berkoordinasi dengan kelompok kerja lainnya sesuai dengan kebutuhan; 
+p. Bertanggungjawab kepada Koordinasi LKS jenjang SMK Tingkat Nasional. 
+
+ 
+
+4. Penanggung jawab Bidang Lomba 
+ Penanggung jawab Bidang Lomba bertanggung jawab terhadap kelancaran 
+
+pelaksanaan lomba yang meliputi: 
+a. Menyusun rencana teknis terkait persiapan dan pelaksanaan lomba yang berkaitan 
+
+dengan tugas-tugas dari tim IT, tim CIS, Dewan Juri, Juri, dan Teknisi; 
+
+15 
+ 
+
+
+
+ 
+
+b. Menyusun rencana kerja harian saat pra-kompetisi/pra-lomba (2 minggu sebelum 
+acara), kompetisi/lomba, dan pasca kompetisi/pasca lomba (tepat setelah selesai 
+acara hingga 1 minggu setelah acara); 
+
+c. Menyiapkan agenda dan kebutuhan Technical Meeting (TM) umum dan 
+berkoordinasi dengan juri dan teknisi, serta menjadi fasilitator pada acara tersebut; 
+
+d. Berkoordinasi dengan Tim IT tentang kesiapan sistem IT dengan pihak pelaksana 
+lomba serta dipastikan koneksi lancar; 
+
+e. Berkoordinasi dengan Tim Dewan Juri dan Juri terkait dengan kesiapan serta 
+sistem/mekanisme penjurian dan pelaporan hasil penjurian berbasis pada 
+transparansi dan akuntabilitas; 
+
+f. Berkoordinasi dengan Tim CIS terkait dengan sistem penilaian pelaksanaan LKS 
+jenjang SMK dan mekanisme/alur dari proses penilaian yang akan dilakukan; 
+
+g. Bersama dengan Penanggung Jawab Acara Lomba, Tim IT dan Tim CIS, 
+menjelang pelaksanaan lomba untuk memastikan bahwa fasilitas kerja dan layanan 
+internet yang tersedia memadai; 
+
+h. Melaksanakan koordinasi dengan Tim Dewan Juri dan Tim Juri sebelum 
+pelaksanaan penjurian dimulai, serta memastikan seluruh peralatan telah siap; 
+
+i. Melaksanakan pembacaan kartu komunikasi dengan Tim Juri dari setiap jenis 
+lomba terkait dengan hal-hal yang perlu ditingkatkan guna kelancaran dan hasil 
+kerja berkualitas dari setiap jenis lomba (Tugas Teknisi); 
+
+j. Melaksanakan observasi sampling pelaksanaan di beberapa jenis lomba untuk 
+memastikan bahwa telah terorganisasi dengan baik dan seluruh fasilitas teknis 
+pendukung dinilai memadai (Tugas Dewan Juri); 
+
+k. Melaksanakan pengamatan terhadap kerja IT dan Tim CIS (Tugas Korlap); 
+l. Memastikan penggunaan K3 untuk setiap bidang lomba baik dari sisi pelaksana 
+
+Lomba Kompetensi Siswa maupun dari ketersediaan sarana penjurian dalam 
+penyelenggaraan LKS; (Tugas Penyelenggara) 
+
+m. Memantau pelaksanaan lomba agar sesuai dengan hasil Technical Meeting dan 
+Panduan Teknis; 
+
+n. Menyusun laporan untuk disampaikan kepada Penanggung Jawab LKS jenjang 
+SMK Tingkat Nasional; (Format Lamporan Terlampir) 
+
+5. Koordinator Acara Lomba 
+Koordinator Acara Lomba bertanggung jawab secara penuh terhadap rangkaian acara 
+dalam LKS jenjang SMK Tingkat Nasional. 
+Tanggung jawab Koordinator Acara adalah: 
+a. Menyusun rencana kerja harian saat pra-kompetisi/pra-lomba (2 minggu sebelum 
+
+acara), kompetisi, dan pasca kompetisi tepat setelah selesai acara;  
+b. Mengkoordinir Acara pelaksanaan kegiatan LKS secara keseluruhan dari mulai 
+
+persiapan, pembukaan, pelaksanaan hari H lomba, penutupan dan pasca lomba; 
+c. Membuat susunan acara secara rinci dan jelas; 
+d. Memastikan dan berkoordinasi dengan semua pihak (internal BPTI-Puspresnas, 
+
+Internal Kemendikbudristek) dan tamu dari lembaga lain, dalam rangka acara LKS 
+jenjang SMK; 
+
+16 
+ 
+
+
+
+ 
+
+e. Bekerjasama dengan Manajemen Program untuk memastikan keterlaksanaan 
+sosialisasi dan koordinasi dengan protokol Menteri Pendidikan dan Kebudayaan, 
+Riset dan Teknologi, BKHM, K/L lainnya dan Sponsorship; 
+
+f. Memastikan keterlaksanaan konsep dan finalisasi media publikasi kegiatan 
+(pamphlet, brosur, spanduk, poster, undangan sesuai dengan kebutuhan kegiatan) 
+yang dipersiapkan oleh Tim Publikasi dan dokumentasi; 
+
+g. Berfungsi sebagai koordinator lapangan dan mengatur hal-hal teknis di lapangan 
+saat acara berlangsung; 
+
+h. Memastikan publikasi dan dokumentasi terlaksana dengan baik dari mulai awal 
+pelaksanaan hingga acara penutupan; 
+
+i. Berkoordinasi dengan Sekretariat untuk menentukan dresscode dan undangan 
+VVIP, VIP dan undangan lainnya; 
+
+j. Bekerjasama dengan seluruh kelompok kerja untuk memastikan kesiapan seluruh 
+aspek pada semua ruang meeting, ruang per jenis lomba, pusat acara, tayangan 
+ekspose, ruang transit, dan kelengkapan pendukung acara; 
+
+k. Melaksanakan kurasi hasil karya termasuk pendataan, seleksi, pengemasan untuk 
+siap dipamerkan, ruang pamer dan penyimpanan seluruh hasil karya sebagai 
+dokumen penting; (Tugas Koordinator Bidang Lomba)  
+
+l. Bekerjasama dengan Penanggung jawab logistik dan perlengkapan untuk mengatur 
+penyimpanan sesuai dengan layout acara; 
+
+m. Memastikan keterlaksanaan hasil karya yang dipamerkan; 
+n. Bekerjasama dengan kelompok kerja lainnya, mengamati kelancaran masing-
+
+masing bidang lomba. Jika ada permasalahan harus segera diantisipasi; 
+o. Menyiapkan laporan pelaksanaan acara lomba untuk semua area acara; 
+
+6. Penanggung Jawab Logistik dan Perlengkapan 
+a. Menyusun rencana kerja harian saat pra-kompetisi/pra-lomba (2 minggu sebelum 
+
+acara), kompetisi, dan pasca kompetisi tepat setelah selesai acara;  
+b. Berkoordinasi dengan pihak yang memberikan bantuan untuk menyusun daftar 
+
+logistik dan perlengkapan yang dibutuhkan; 
+c. Merancang dan mendata peralatan perlengkapan kegiatan yang dibutuhkan dengan 
+
+sebelumnya mengadakan koordinasi dengan bidang lain terkait yang 
+membutuhkan perlengkapan sarana; 
+
+d. Mencatat perlengkapan yang digunakan; 
+e. Membantu penjab dalam mengecek kelengkapan setiap bidang lomba; 
+f. Memastikan seluruh alat, bahan dan kelengkapan lomba tersedia pada saat 
+
+pelaksanaan lomba; 
+g. Melakukan pengamatan terhadap berbagai hal yang dilaksanakan pihak yang 
+
+memberikan bantuan dan apabila ditemukan kekurangan harus segera 
+berkoordinasi dengan pihak yang terkait; 
+
+h. Membuat list perlengkapan dan peralatan yang dibutuhkan; 
+i. Mengadakan dan mendistribusikan perlengkapan kegiatan. 
+
+17 
+ 
+
+
+
+ 
+
+7. Tim Publikasi dan Dokumentasi 
+a. Menyusun rencana kerja harian saat pra-kompetisi/pra-lomba (2 minggu sebelum 
+
+acara), kompetisi, dan pasca kompetisi tepat setelah selesai acara;  
+b. Menyusun alur dokumentasi untuk menjadi satu rangkaian yang mengalir; 
+c. Membuat list kebutuhan yang terkait dengan promosi acara; 
+d. Mempublikasikan kegiatan LKS jenjang SMK Tingkat Nasional dalam media 
+
+publikasi kegiatan (misalnya dalam bentuk pamflet, leaflet, brosur, spanduk, 
+baliho, poster, undangan sesuai dengan kebutuhan kegiatan) dan menyebarkannya 
+kepada pihak terkait; 
+
+e. Membantu divisi kesekretariatan dalam mengadakan dan mengelola dokumen-
+dokumen yang diperlukan dalam kegiatan; 
+
+f. Mengagendakan sosialisasi LKS jenjang SMK Tingkat Nasional; 
+g. Menyediakan, memproses dan memproduksi dokumentasi kegiatan dalam bentuk 
+
+foto atau video (termasuk menyiapkan video tentang pelaksanaan LKS jenjang 
+SMK tahun lalu untuk tayangan awal); 
+
+h. Pembagian tugas dalam mengambil dokumentasi pada saat kegiatan berlangsung 
+secara merata; 
+
+i. Berkoordinasi dengan divisi lain (desain, dekorasi dan IT) secara kooperatif; 
+j. Mengambil foto dengan baik dan mengarsipkannya dalam satu folder dengan rapi; 
+k. Berkoordinasi dengan divisi Acara terkait juri perlombaan, pemateri dan 
+
+moderator; 
+l. Menginformasikan agenda rapat Tim LKS jenjang SMK dan menginformasikan 
+
+kegiatan kepada semua pihak; 
+m. Standby bersama Penanggung Jawab Acara Lomba untuk menjemput Tamu Utama 
+
+dan melakukan dokumentasi kehadiran; 
+n. Melakukan dokumentasi foto dan video dengan tampilan yang berkualitas pada 
+
+tahap kesiapan ruang, kehadiran tamu, proses acara pembukaan, di setiap jenis 
+lomba, acara penyerahan hadiah, acara penutupan, tempat pameran dan lainnya; 
+
+o. Menyiapkan press release kegiatan harian dan berkoordinasi dengan BKHM.   
+
+8. Tim Informasi Teknologi (Tim IT) 
+Tim IT bertanggung jawab terhadap Web LKS jenjang SMK Tingkat Nasional, 
+Tanggungjawab Tim IT adalah: 
+a. Menyusun rencana kerja terkait dengan pekerjaan IT; 
+b. Berkoordinasi dengan Penanggung Jawab teknis Lomba terkait dengan tugas dan 
+
+tanggungjawab Tim IT;  
+c. Berkoordinasi dengan dinas provinsi terkait dengan registrasi; 
+d. Bekerjasama dengan Tim Penanggung Jawab kelompok Lomba untuk memastikan 
+
+seluruh sistem IT terlaksana dengan baik dan lancar; 
+e. Melakukan pemeliharaan Web LKS jenjang SMK; 
+f. Berkoordinasi dengan Tim aplikasi CIS yang berhubungan dengan sistem penilaian 
+
+dan registrasi peserta; 
+g. Membuat design banner, poster perlombaan, KTA dan ID Card;  
+h. Melaporkan data peserta terbaru; 
+
+18 
+ 
+
+
+
+ 
+
+i. Melaporkan permasalahan yang terjadi (seperti gangguan jaringan, pendaftaran, 
+kesalahan data, dll) kepada Koordinator Lomba; 
+
+j. Berkoordinasi dengan Dewan Juri, Tim Juri, Tim Teknisi bidang lomba untuk 
+menyediakan hasil karya siswa berupa video bernarasi untuk dinilai oleh Tim Juri 
+dan diawasi oleh tim Dewan Juri; 
+
+k. Melaporkan hasil penilaian kepada Penanggung Jawab Teknis Bidang Lomba. 
+
+9. Narahubung 
+Narahubung bertanggung jawab terhadap komunikasi dan penyampaian informasi 
+terkait pelaksanaan lomba. Tugas dan Fungsi Narahubung adalah: 
+a. Berkoordinasi dengan koordinator bidang lomba; 
+b. Memberikan informasi yang jelas kepada setiap peserta/ketua 
+
+kontingen/pembimbing tentang kegiatan lomba LKS jenjang SMK;  
+c. Menerima saran /masukan dan keluhan dari peserta/ketua kontingen/pembimbing 
+
+lalu menyampaikan kepada panitia sebagai bahan evaluasi pada kegiatan lomba 
+tersebut; 
+
+d. Menjawab pertanyan-pertanyaan yang datang dari para peserta/ketua 
+kontingen/pembimbing;  
+
+e. Membuat WAG dan menjadi admin dalam grup tersebut guna mempermudah 
+memberikan informasi kepada peserta/ketua kontingen/pembimbing; 
+
+f. Melaporkan segala sesuatu terkait hasil kerja dan permasalahan yang harus segera 
+diantisipasi kepada koordinator bidang lomba. 
+
+10. Dewan Juri 
+ Dewan Juri adalah sekelompok orang yang bertanggung jawab terhadap peraturan 
+
+umum, Etika, permasalahan yang terjadi di bidang lomba dan pemecahan masalah 
+ketika terjadi konflik serta melakukan verifikasi penilaian lomba. 
+
+ Tanggung jawab Dewan Juri: 
+a. Melakukan koordinasi dengan para juri dan memberikan arahan untuk kelancaran 
+
+pelaksanaan lomba; 
+b. Melaksanakan rapat teknis atau TM Umum dengan para Juri, Teknisi dan Ketua 
+
+Kontingen; 
+c. Melakukan pengambilan keputusan apabila terjadi perbedaan penilaian antar juri 
+
+untuk setiap bidang lomba; 
+d. Melakukan pengambilan keputusan apabila terjadi permasalahan merujuk kepada 
+
+Kode Etik pada setiap bidang lomba; 
+e. Mengesahkan nilai hasil lomba dari CIS dalam bentuk print out yang telah di 
+
+verifikasi oleh juri; 
+f. Membuat hasil rekapitulasi nilai setiap peserta dan Berita Acara untuk setiap 
+
+bidang lomba dan menyerahkan kepada Penanggung Jawab LKS jenjang SMK. 
+  
+
+19 
+ 
+
+
+
+ 
+
+11. Juri 
+ Tenaga ahli di bidangnya yang ditunjuk atau pun diusulkan oleh BPTI serta 
+
+bertanggung jawab untuk keberlangsungan kegiatan uji coba dan pelaksanaan LKS 
+jenjang SMK Tingkat Nasional serta melakukan penilaian sesuai standar yang sudah 
+ditentukan, didukung oleh Teknisi dan di support oleh Dewan Juri 
+a. Juri untuk setiap bidang lomba minimal terdiri atas: 
+b. Satu orang ketua merangkap anggota; 
+c. Satu orang sekretaris merangkap anggota; 
+d. Selebihnya sebagai anggota. 
+e. Juri berlatar belakang dari DU/DI, asosiasi profesi, dan akademisi yang menguasai 
+
+bidang keahlian yang dilombakan.  
+f. Ketua Juri bersama dengan anggota juri bertanggung jawab untuk: 
+g. Mempersiapkan kesiapan instalasi, mesin, alat, dan bahan yang disiapkan oleh tim 
+
+teknis, kelengkapan instrumen penilaian maupun dokumen lain terkait dengan 
+penjurian, sebelum lomba dimulai; 
+
+h. Memastikan kelengkapan materi yang akan dilombakan dengan berkoordinasi 
+kepada sekolah peserta apabila dilaksanakan secara daring, menentukan   kriteria   
+penilaian, menetapkan jadwal dan batas waktu maksimal untuk setiap pelaksanaan 
+lomba sesuai bidangnya, serta  menyiapkan  instruksi  kerja yang ada di proyek uji 
+untuk peserta; 
+
+i. Berkoordinasi dengan panitia Informasi Teknologi (IT) untuk memeriksa 
+keakuratan data registrasi peserta (provinsi, nama, tanggal lahir, dan sebagainya), 
+sebelum lomba dimulai; 
+
+j. Mengikuti TM Umum yang dipimpin oleh Dewan Juri 
+k. Ketua Juri bersama anggota menyepakati skema penilaian yang akan digunakan 
+
+yang dilakukan sebelum TM Khusus; 
+l. Memimpin rapat teknis atau TM Khusus dengan para peserta lomba dan guru 
+
+pembimbing; 
+m. Menyepakati aturan khusus terkait bidang lomba bersama para guru pembimbing 
+
+melalui TM Khusus; 
+n. Melakukan penilaian dan penjurian serta mensosialisasikan proyek uji dan besaran 
+
+skema penilaian; 
+o. Melakukan penilaian bidang lomba dan merekap hasil penilaian berdasarkan 
+
+ranking; 
+p. Memberikan nilai hardcopy kepada teknisi untuk bisa di input oleh teknisi ke CIS 
+
+atau input nilai langsung ke CIS dengan bantuan Teknisi;  
+q. Melakukan pengambilan keputusan perihal permasalahan teknis yang terjadi di 
+
+bidang lomba masing-masing; 
+r. Melakukan verifikasi nilai yang di input ke CIS sesuai dengan data Juri sebelum 
+
+Berita Acara diserahkan ke Dewan Juri;  
+s. Mengesahkan hasil akhir penilaian dengan menandatangani Berita Acara dan 
+
+diberikan kepada Dewan Juri. 
+ 
+ 
+
+20 
+ 
+
+
+
+ 
+
+12. Pengampu: 
+a. Membantu juri untuk mengecek kesiapan tempat keberlangsungan lomba sesuai 
+
+dengan bidang lombanya; 
+b. Membantu juri dalam pelaksanaan rapat teknis (Technical Committee Meeting); 
+c. Menyiapkan materi lomba sesuai dengan bidang lombanya; 
+d. Membantu Sebagai penghubung antara juri dengan panitia dan peserta lomba; 
+e. Membantu memeriksa data registrasi peserta sebelum lomba dimulai; 
+f. Membantu menjadi pembawa acara (sesuai kebutuhan bidang lomba; 
+g. Membantu juri menginput nilai (bila diperlukan); 
+h. Menyiapkan kelengkapan juri (misalnya alat tulis, kalkulator, dsb.). 
+
+13. Teknisi Workshop Manager (dari panitia lokal) 
+ Teknisi workshop manager adalah sekelompok orang yang mensupport juri dalam 
+
+menjalankan kegiatan LKS jenjang SMK Tingkat Nasional. 
+ Teknisi Bidang Lomba bertanggung jawab: 
+
+a. Berkoordinasi dengan Juri Bidang Lomba terkait; 
+b. Berkoordinasi dengan koordinator Bidang Lomba; 
+c. Memastikan seluruh alat, bahan dan perlengkapan Juri tersedia pada saat 
+
+pelaksanaan lomba; 
+d. Mengatur penempatan alat, bahan dan perlengkapan Juri; 
+e. Mengatur pemasangan/instalasi peralatan Juri; 
+f. Memastikan alat dan perlengkapan Juri dapat dioperasikan; 
+g. Masuk ke dalam WAG masing-masing lomba dengan para Juri 
+h. Import Skema Penilaian ke dalam CIS; 
+i. Melaporkan permasalahan yang terjadi ke WAG dengan koordinator Bidang 
+
+Lomba; 
+j. Meminta jadwal Lomba bidang lomba dan meneruskan ke Penanggung Jawab 
+
+Kelompok Bidang Lomba; 
+k. Melakukan pengaturan waktu marking untuk setiap kriteria atau modul soal dalam 
+
+sistem CIS; 
+l. Input nilai ke CIS (Sistem Penilaian Komputerisasi Lomba Kompetensi Siswa 
+
+Nasional); 
+m. Menangani permasalahan (Teknis) yang ada di ruang Juri, jika tidak bisa ditangani 
+
+maka meneruskan info tersebut ke Penanggung Jawab Kelompok Bidang Lomba; 
+n. Membatu print out dokumen yang diperlukan oleh Juri; 
+o. Melaporkan hasil kepada Ketua Juri. 
+
+ 
+
+14. Tim CIS 
+ Tim CIS bertanggung jawab dalam sistem penilaian (CIS System) guna menunjang 
+
+dokumen hasil penilaian LKS jenjang SMK Tingkat Nasional. Tanggung jawab Tim 
+CIS adalah: 
+a. Menyusun rencana kerja serta alur proses penilaian dengan menggunakan sistem 
+
+CIS; 
+
+21 
+ 
+
+
+
+ 
+
+b. Berkoordinasi dengan koordinator bidang lomba;  
+c. Bekerjasama dengan Tim koordinator kelompok lomba; 
+d. Membuat Flow Proses Input Nilai ke CIS untuk mempermudah Teknisi; 
+e. Memberikan penjelasan tentang proses penilaian/aplikasi CIS kepada koordinator 
+
+Bidang Lomba serta keterkaitannya dengan Penanggung Jawab Acara Lomba; 
+f. Melakukan input Logo Provinsi ke sistem CIS; 
+g. MengImport data peserta LKS Nasional ke dalam sistem CIS; 
+h. Menambahkan User di Sistem CIS (PIC, Dewan Juri, Juri, Peserta, Superadmin, 
+
+Entry CIS); 
+i. Merevisi input nilai yang salah dan lock system setelah dikonfirmasi ke Juri dan 
+
+Dewan Juri; 
+j. Mencetak hasil Entry nilai lomba pada setiap bidang lomba; 
+k. Melaporkan hasil kepada koordinator Bidang Lomba. 
+
+ 
+F. Mekanisme 
+
+ Penyelenggaraan LKS SMK dilakukan secara bertingkat mulai dari tingkat sekolah, 
+tingkat kabupaten/kota, tingkat provinsi, dan tingkat nasional. Tingkatan ini merupakan 
+tahapan proses seleksi dimana setiap tahapan mempunyai ketentuannya tersendiri. Adapun 
+penyelenggaraan pada setiap tingkatan adalah sebagai berikut. 
+1. Tingkat Sekolah 
+
+a. Menunjuk guru pendamping sesuai bidang lomba yang diikuti  
+b. Memperoleh izin dari orang tua/wali yang dibuktikan dengan melampirkan surat 
+
+izin dari orang tua siswa  untuk diikutsertakan dalam LKS tingkat nasional. 
+(Format Terlampir) 
+
+c. Menerima arahan dan pendampingan teknis dari dinas pendidikan provinsi dalam 
+rangka pelaksanaan LKS tingkat nasional  
+
+d. Memberikan arahan tentang ketentuan bidang lomba kepada peserta. 
+e. Memastikan peserta telah berhasil mendaftar dan memenuhi persyaratan lomba. 
+f. Memfasilitasi sarana prasarana peserta pada pelaksanaan LKS tingkat nasional 
+
+secara luring/offline  
+ 
+
+2. Tingkat Provinsi 
+a. Menyelenggarakan LKS tingkat provinsi.  
+b. Memberikan arahan dan pendampingan teknis kepada sekolah peserta LKS tingkat 
+
+nasional 
+c. Memfasilitasi infrastruktur yang dibutuhkan dalam pengembangan sistem 
+
+pendukung maupun kegiatan utama demi terselenggaranya kegiatan pelaksanaan 
+LKS Tingkat Provinsi. 
+
+d. Dibuatkan akun Laman LKS SMK Nasional oleh panitia. 
+e. Menerbitkan dan mengunggah SK Pemenang LKS Tingkat Provinsi dan 
+
+disampaikan melalui laman  https://smk.pusatprestasinasional.kemdikbud.go.id/lks  
+dan divalidasi Balai Pengembangan Talenta Indonesia. 
+
+22 
+ 
+
+
+
+ 
+
+f. Mendaftarkan peserta LKS Nasional melalui laman  
+https://smk.pusatprestasinasional.kemdikbud.go.id/lks 
+
+g. Jika ada peserta yang mengundurkan diri/pergantian nama peserta maka wajib 
+mengunduh dokumen surat pernyataan mengundurkan diri/pergantian peserta 
+dilaman https://smk.pusatprestasinasional.kemdikbud.go.id/lks dalam menu Form 
+Konfirmasi, dengan batas waktu H-7 sebelum pelaksanaan lomba. 
+Catatan: Tautan portal registrasi peserta lomba akan diinformasikan lebih lanjut 
+melalui surat  pemberitahuan dan laman BPTI  
+
+ 
+3. Tingkat Nasional 
+
+a. Memutakhirkan Petunjuk Teknis   
+b. Membuat Aplikasi  
+c. Melakukan koordinasi dan sosialisasi Peraturan Sekretaris Jenderal Kementerian 
+
+Pendidikan, Kebudayaan, Riset, dan Teknologi tentang LKS Tingkat Nasional 
+kepada Dinas Pendidikan Provinsi di Seluruh Indonesia. 
+
+d. Uji coba Aplikasi kepada tim juri. 
+e. Memastikan seluruh kebutuhan pelaksanaannya dapat terpenuhi dengan baik. 
+f. Memfasilitasi infrastruktur yang dibutuhkan dalam pengembangan sistem 
+
+pendukung maupun kegiatan utama demi terselenggaranya kegiatan  
+g. Membentuk Panitia Pelaksana 
+h. Melakukan telaah terhadap dokumen penilaian (test project/proyek uji, Marking 
+
+Scheme dan ketentuan penilaian lainnya) yang telah diserahkan oleh juri pada waktu 
+3 (tiga) bulan sebelum pelaksanaan lomba 
+
+i. Menyampaikan dokumen penilaian (test project/proyek uji, Marking Scheme dan 
+ketentuan penilaian lainnya) yang telah ditelaah dan didiskusikan dengan juri dan 
+dewan juri kepada dinas pendidikan provinsi 
+
+j. Memverifikasi data siswa yang mendaftar sebagai peserta lomba 
+k. Menerbitkan SK Dewan Juri, Juri, pengampu, Workshop Manager, dan SK Teknisi  
+l. Menerbitkan SK pemenang lomba berdasarkan Berita Acara Pemenang LKS 
+
+Tingkat Nasional 2024 dari dewan juri 
+  
+
+23 
+ 
+
+
+
+ 
+
+F. Jadwal 
+
+No Jenis Kegiatan Waktu Keterangan 
+
+Pendaftaran online di 13 Februari – 13 April Portal registrasi: 
+1. laman BPTI  2024 https://bpti.kemdikbud.go.id 
+2. Sosialisasi 11-13 Februari 2024 Zoom Meeting 
+3. Seleksi tingkat sekolah Februari s.d Mei 2024 Sekolah/pemda setempat 
+4. Seleksi kabupaten/kota Februari s.d Mei 2024 Pemerintah daerah setempat 
+5. Seleksi tingkat provinsi Februari s.d Mei 2024 Pemerintah daerah setempat 
+
+6. Pendaftaran ulang peserta 
+LKS tingkat nasional  Mei 2024 https://bpti.kemdikbud.go.id
+
+/dadaftar-ulang 
+
+7. Pelaksanaan LKS tingkat 18 s.d 24 Agustus 2024  Dilaksanakan secara  
+nasional Tahun 2024 luring 
+
+ 
+Proses penyelenggaraan/pelaksanaan LKS SMK 2024 sebagai berikut. 
+
+1. Tahap Pendaftaran  
+a. Mendapatkan akun login dari dinas provinsi 
+
+Wajib Melengkapi data diri peserta melalui laman 
+https://smk.pusatprestasinasional.kemdikbud.go.id/lks. Jika NISN tidak ditemukan 
+peserta harus melapor ke operator sekolah untuk verifikasi dan validasi data silahkan 
+unduh file melalui laman berikut https://ringkas.kemdikbud.go.id/updatedata untuk 
+informasi lebih lanjut. 
+
+b. Login untuk mendapatkan format Surat Pernyataan Kesediaan mengikuti lomba dan 
+Surat Pernyataan izin dari orangtua/wali, kemudian dicetak, dilengkapi dan diunggah 
+ke laman  https://smk.pusatprestasinasional.kemdikbud.go.id/lks 
+
+c. Mengunduh dokumen lomba (Deskripsi Teknis/kisi-kisi/Juknis/Kode Etik dan Kartu 
+Peserta) 
+
+d. Jika peserta sudah melengkapi data diri peserta wajib bergabung dalam WAG bidang 
+lomba melalui laman  https://smk.pusatprestasinasional.kemdikbud.go.id/lks 
+
+e. Peserta yang telah didaftarkan oleh dinas provinsi segera mengakses laman 
+https://smk.pusatprestasinasional.kemdikbud.go.id/lks. Jika NISN tidak ditemukan 
+peserta harus melapor ke operator sekolah. Untuk verifikasi dan validasi data silahkan 
+unduh file melalui laman berikut https://ringkas.kemdikbud.go.id/updatedata. Lengkapi 
+data diri peserta dan unggah pasfoto berwarna  di menu ‘akun saya’ dan sub menu 
+‘profile saya’. File format pasfotoyang diterima adalah JPG, dengan ukuran maksimal 
+2MB   
+
+f. Peserta mengunduh format dan mengunggah kembali surat pernyataan dari Kepala 
+Sekolah, surat pernyataan peserta, surat pernyataan dari orang tua/wali dan kartu 
+kepesertaan. 
+
+g. Peserta mengunduh dokumen lomba (Deskripsi Teknis/Kisi-kisi/Juknis/Kode Etik dan 
+Kartu Peserta), jika peserta sudah melengkapi data diri peserta wajib bergabung dalam 
+
+24 
+ 
+
+
+
+ 
+
+WAG bidang lomba melalui laman, https://smk.pusatprestasinasional. 
+kemdikbud.go.id/lks 
+
+ 
+G. Skema Penilaian  
+
+ Skema Penilaian merupakan penetapan kriteria yang digunakan untuk menilai kinerja 
+peserta sesuai proyek uji atau test project yang telah ditetapkan. 
+1. Skala Penilaian 
+ Setiap bidang lomba memiliki skema penilaian dengan skala nilai 0 hingga 100. 
+2. Kriteria Penilaian 
+ Kriteria penilaian terdiri dari kategori dan atau modul yang diujikan serta dinilai oleh 
+
+juri. Kriteria penilaian dapat terdiri dari satu modul atau terbagi dalam beberapa 
+modul proyek uji. Setiap bidang lomba idealnya memiliki beberapa kategori atau 
+modul penilaian. 
+
+3. Sub Kriteria Penilaian 
+ Setiap kriteria penilaian terbagi menjadi satu atau lebih sub kriteria yang membagi 
+
+kriteria menjadi terkelompokkan sesuai dengan kategori atau rumpunnya. 
+4. Aspek Penilaian 
+ Aspek Penilaian merupakan bagian dari sub kriteria yang merupakan penjabaran 
+
+aspek yang akan dinilai (assessment dan marking) sesuai dengan proyek uji yang 
+diberikan. Setiap sub kriteria dapat terbagi menjadi satu atau lebih aspek. Aspek 
+dikategorikan sebagai judgement atau measurement yang mencerminkan metode 
+penilaian yang dilakukan. Aspek penilaian setiap bidang lomba sekurang-kurangnya 
+75 aspek dan tidak lebih dari 225 aspek. 
+
+5. Alokasi Nilai 
+ Setiap aspek penilaian tidak boleh lebih dari 2 poin atau sama dengan 2 persen dari 
+
+total point dalam skala 100. 
+ 
+H. Formulir atau Lembar Penilaian 
+
+ Formulir atau disebut Lembar Penilaian merupakan alat bantu pencatatan nilai pada kertas 
+dari sistem CIS (Competition Information System) setelah setiap juri bidang lomba 
+melengkapi format penilaian (Marking Scheme). CIS menghasilkan formulir/lembar 
+penilaian yang berisi: 
+● Semua aspek, baik penilaian judgment maupun measurement 
+● Rincian aspek dengan penjelasan tolak ukur proses penilaian (assessment) 
+● Nilai atau skor maksimum untuk setiap aspek 
+
+ Formulir penilaian dalam format lanskap dapat digunakan untuk memungkinkan juri 
+mencatat poin penilaian lebih dari satu kompetitor pada satu halaman dalam proses 
+penilaian. Formulir penilaian lanskap dapat digunakan untuk mencatat raihan skor dan 
+penilai untuk judgement dan measurement. 
+
+  
+
+25 
+ 
+
+
+
+ 
+
+ 
+I. Prosedur Pengujian dan Penilaian 
+
+1. Prosedur Pengujian Measurement 
+ Pertimbangan pengujian dan penilaian untuk measurement adalah sebagai berikut: 
+
+● Iya benar jika sesuai dengan prasyarat yang sudah ditentukan atau tidak. 
+● Tidak ada toleransi nilai atas kesalahan atau ketidaksesuaian sekecil apapun 
+
+terhadap tolak ukur yang sudah ditentukan sebelumnya. 
+ 
+
+2. Prosedur Pengujian Judgement  
+ Skor merupakan angka penilaian yang diberikan juri untuk aspek judgement. Skor 
+
+harus dalam kisaran 0, 1, 2 atau 3. Nilai setiap aspek judgement yang diberikan 
+dihitung dari skor yang diberikan oleh juri dalam tim penilaian. Masing-masing dari 
+juri menilai setiap aspek penilaian, apakah peserta sudah mengerjakan atau tidak. Skor 
+dari 0 hingga 3 terkait dengan standar industri sebagai berikut: 
+0: Kinerja dibawah standar industri, termasuk tidak mengerjakan 
+1: Kinerja memenuhi standar industri 
+2: Kinerja melampaui standar industri 
+3: Kinerja luar biasa terkait dengan ekspektasi industri 
+
+3. Pengujian dan penilaian harian 
+        Pengujian dan penilaian untuk setiap sub kriteria ditentukan waktunya dalam CIS 
+
+(Competition Information System). Skor dan penilaian untuk setiap Sub Kriteria yang 
+dinilai pada hari tersebut harus dapat dimasukan ke dalam CIS setiap harinya dan 
+maksimal pada hari terakhir. Bidang lomba tertentu yang melakukan penilaian langsung 
+hanya pada hari terakhir harus ditentukan di dalam CIS dan disetujui oleh Dewan Juri. 
+
+ 
+J. Finalisasi Nilai 
+
+1. Memeriksa Formulir Penilaian 
+Setelah melakukan proses pengujian dan penilaian, skor dan atau nilai dimasukan ke 
+sistem CIS dari formulir penilaian yang sudah diisi juri saat penilaian berlangsung. 
+Sebagai alternatif, skor dan nilai dapat dimasukkan langsung ke dalam CIS 
+menggunakan komputer atau laptop yang dalam hal ini tidak menggunakan formulir 
+penilaian. Skor penilaian yang sudah dimasukan kedalam CIS dikunci oleh Ketua 
+Dewan Juri pada saat semua nilai sub kriteria tersebut selesai dimasukan pada setiap 
+harinya. Semua juri kemudian harus diberi kesempatan untuk meninjau formulir 
+penilaian yang ditulis tangan dengan hasil masukan skor penilaian ke sistem CIS. Jika 
+proses memasukan data CIS langsung tanpa tulis tangan formulir penilaian, juri tidak 
+perlu meninjau hasil dokumen CIS karena tujuan utama tinjauan ini adalah untuk 
+mengidentifikasi dan mengoreksi perbedaan antara lembar tulisan tangan dengan hasil 
+yang dimasukkan ke dalam CIS. Jika sebuah penilaian perlu diubah karena sebuah 
+kesalahan, berdasarkan persetujuan ketua dewan juri, admin sistem membuka sub 
+kriteria, membuat perubahan, dan mengunci kembali aspek tersebut. Semua juri dalam 
+bidang tersebut harus menandatangani formulir untuk mengkonfirmasi persetujuan 
+amandemen tersebut. 
+
+ 
+
+26 
+ 
+
+
+
+ 
+
+2. Penyelesaian Penilaian dan Kompetisi 
+ Proses penilaian oleh juri dan proses memasukan skor penilaian ke dalam sistem CIS 
+
+harus selesai sebelum pukul 10:00 pada H +1 (hari penutupan dan pengumuman). 
+Tugas Juri bidang lomba lengkap setelah hasil penilaian sudah dicetak dan dibuatkan 
+ke dalam berita acara serta ditandatangani oleh semua Juri Bidang Lomba untuk 
+diserahkan dan divalidasi oleh dewan juri. 
+
+ 
+K. Competition Information System (CIS) 
+
+1. Skala Penilaian LKS Nasional 
+ Lomba Kompetensi Siswa tingkat Nasional menggunakan skala nilai sebagai hasil 
+
+akhir pada semua bidang lomba dengan skala yang sama yaitu Skala Worldskills. Hasil 
+penilaian setiap bidang lomba dengan skala 100 diolah menggunakan Sistem CIS 
+sebagai proses standarisasi skala Worldskills. Prosedur ini menetapkan nilai median 
+setiap bidang lomba di posisi 700 poin. 
+
+2. Pembulatan 
+ Nilai yang diberikan untuk setiap aspek dibulatkan menjadi dua desimal dibelakang 
+
+koma. Apabila desimal nilai ketiga sama dengan atau lebih besar dari 5 akan dibulatkan 
+keatas. Jika nilai desimal ketiga kurang dari 5 akan dibulatkan ke bawah. Contoh:  1,055 
+menjadi 1,06 dan 1,054 menjadi 1,05. 
+
+ 
+L. Sosialisasi Sistem Penilaian 
+
+ Sistem Penilaian Lomba Kompetensi Siswa SMK Tingkat Nasional dengan menggunakan 
+CIS (Competition Information System) wajib disosialisasikan oleh juri kepada kontingen 
+dalam hal ini peserta dan pembimbing sekurang-kurangnya pada saat Technical Meeting 
+LKS Nasional. Dalam kegiatan sosialisasi  tersebut memberikan penjelasan dan 
+pemanfaatan CIS serta demonstrasi penilaian kepada kontingen langsung oleh tim juri 
+bidang lomba. 
+
+ 
+Ketetapan Hasil Penilaian 
+
+ Semua hasil penilaian lomba yang diproses menggunakan sistem CIS wajib ditandatangani 
+oleh Juri dan Dewan Juri sebagai instrumen mutlak hasil akhir pelaksanaan penilaian 
+lomba.  
+
+ 
+M. Publikasi Hasil Penilaian 
+
+ Hasil lomba setiap bidang diumumkan pada saat acara penutupan dan pengumuman 
+pemenang. Hasil penilaian LKS Nasional akan diberikan kepada setiap kontingen provinsi 
+dengan mencantumkan nilai yang diperoleh dan penghargaan yang dicapai oleh setiap 
+peserta. Hasil pemenang LKS Nasional akan dipublikasikan secara resmi melalui laman 
+web Puspresnas. Juri dan Panitia tidak diperkenankan memberikan hasil penilaian kepada 
+pihak manapun selain pengumuman resmi dari Balai Pengembangan Talenta Indonesia. 
+
+ 
+N. Perizinan Penggunaan Sistem CIS di LKS Provinsi 
+
+ Sesuai dengan ketentuan Worldskills, CIS hanya dapat digunakan atas izin dari 
+Worldskills atau Member Worldskills. Setiap penggunaan aplikasi CIS oleh institusi diluar 
+
+27 
+ 
+
+
+
+ 
+
+Kemdikbud harus meminta izin penggunaan sistem CIS melalui surat resmi kepada 
+Kemdikbud sebagai member Worldskills. Kemdikbud akan memandu penggunaan dan 
+pemanfaatan sistem CIS kepada penanggung jawab provinsi. Provinsi yang menggunakan 
+aplikasi CIS harus menyiapkan infrastructure seperti domain, server VPS (Virtual Private 
+Server) dan hal lain yang dibutuhkan. 
+
+ 
+O. Pembiayaan 
+
+ Pembiayaan LKS SMK 2024 tingkat nasional dibebankan pada DIPA BPTI Tahun 
+Anggaran 2024 
+
+ 
+P. Kegiatan Pendukung dan Program Berkelanjutan 
+
+ A. Kegiatan Pendukung  
+ Kegiatan atau acara pendukung pada penyelenggaraan LKS SMK 2024 tingkat 
+
+nasional, misalnya. 
+1) Pelaksanaan pameran hasil karya peserta lomba LKS di akhir penyelenggaraan (di 
+
+tingkat provinsi dan nasional). 
+ Pameran hasil karya dimaksudkan untuk menampilkan hasil karya dari lomba/ajang 
+
+talenta muda Indonesia yang berprestasi pada pelaksanaan LKS. Pameran hasil karya 
+dapat dilaksanakan pula dalam bentuk virtual pada acara penutupan secara live 
+streaming/tayangan langsung, mencakup informasi tentang: 
+a) kreasi dan inovasi pada bidang vokasi. 
+b) adanya testimoni dari beberapa peserta didik dan juga pemangku kepentingan. 
+c) menampilkan peserta didik berprestasi dan unsur dari satuan pendidikan. 
+d) penyelenggaraan pameran produk atau hasil karya inovasi unggulan peserta didik  
+
+SMK peserta LKS yang didukung oleh pihak pemerintah daerah,  pihak sekolah 
+dan MKKS. 
+
+2) Pelaksanaan pameran hasil karya secara virtual dan berkala 
+ Pameran hasil karya secara virtual dan berkala merupakan kegiatan pameran yang 
+
+dilakukan pada waktu tertentu untuk menjaring dukungan ekosistem pendidikan  di 
+tingkat provinsi dan pusat atau nasional. 
+Informasi yang disampaikan pada pameran berkala tersebut setidak-tidaknya seperti 
+yang disampaikan pada pameran virtual di akhir penyelenggaraan LKSN tingkat 
+nasional 
+
+3) Seminar nasional dan internasional  
+Seminar nasional dan internasional dapat digunakan sebagai sarana peningkatan 
+kompetensi melalui diseminasi maupun knowledge sharing serta sarana promosi 
+prestasi. Pelaksanaan Knowledge sharing dan promosi prestasi pada seminar 
+nasional dan internasional menggunakan strategi berikut: 
+a) menampilkan hasil karya dilengkapi dengan penjelasan dari pihak yang 
+
+berwenang serta dilanjutkan dengan menjaring pendapat, masukan dan 
+kesepakatan dari berbagai pihak terkait program tindak lanjut.  
+
+b) kontribusi pemikiran dari semua pihak baik secara langsung maupun tertulis 
+pada waktu kemudian.  
+
+28 
+ 
+
+
+
+ 
+
+c) Peningkatan kompetensi guru pembimbing dengan diberikan pembekalan oleh 
+juri bidang masing-masing. 
+
+ 
+Q. Program Berkelanjutan 
+
+ Program keberlanjutan pasca tercapainya keberhasilan peningkatan prestasi peserta didik 
+dapat meliputi: 
+
+1. menyusun jalur karir peserta didik berprestasi, 
+2. mengidentifikasi dan membangun kemitraan dengan pihak yang bersedia, 
+3. Penguatan fasilitasi terkait jalur karir peserta didik berprestasi,  
+4. Melaksanakan berbagai pertemuan dengan berbagai pihak terkait kemitraan dan 
+
+koordinasi serta 
+5. Melakukan pemantauan, evaluasi dan pendampingan bekerjasama dengan ekosistem 
+
+pendidikan  terkait. 
+Program berkelanjutan yang dimaksud, yaitu. 
+Job Matching/Job Fair secara virtual atau luring  
+Job Matching akan dilaksanakan secara virtual maupun luring oleh Puspresnas sesuai 
+dengan kondisi yang ada melalui koordinasi dengan pihak ekosistem pendidikan baik di 
+tingkat nasional atau pusat maupun provinsi. Job Matching juga dapat dilakukan melalui 
+kerjasama dengan komunitas tingkat internasional. Kegiatan ini dapat dilaksanakan 
+sebelum maupun setelah LKS-N SMK selesai yang diperkuat dengan kesediaan Dunia 
+Usaha dan Dunia Industri (DU/DI) terkait kesempatan bekerja serta data-data yang 
+diperlukan. Pelaksanaan Job Matching akan dilanjutkan dengan pengumuman oleh 
+Puspresnas apabila peserta didik SMK telah diterima bekerja. 
+1. Sertifikasi Kompetensi 
+
+ Puspresnas/BPTI melalui kerjasama dengan berbagai pihak memungkinkan 
+mendukung sertifikasi kompetensi untuk peserta LKSN Jenjang SMK dalam rangka 
+mengukur kompetensi peserta didik SMK.  Berbagai hal teknis mengenai sertifikasi 
+kompetensi tersebut perlu berhubungan atau berkomunikasi dengan lembaga 
+sertifikasi profesi atau lembaga sertifikasi kompetensi  
+
+ Untuk bidang - bidang yang masih melaksanakan lomba secara Daring diperlukan hal-
+hal  yang menunjang keberhasilan pelaksanaan kegiatan diatas, antara lain; 
+a. Sistem koneksi jaringan internet memadai. 
+b. Partisipasi ekosistem/komunitas tingkat nasional dan daerah di bidang vokasi. 
+c. Partisipasi ekosistem/komunitas internasional di bidang vokasi. 
+d. Partisipasi unsur terkait di lingkungan Kemendikbud Ristek. 
+
+ Perencanaan program dan implementasi keberlanjutan dapat dilaksanakan pada tahun 
+berjalan ataupun tahun berikutnya. Terkait dengan strategi pencapaian keberhasilan 
+diatas, sangat dimungkinkan tidak dapat dilaksanakan secara menyeluruh atau 
+sebagian oleh Puspresnas dikarenakan keterbatasan dana, waktu, dan 
+kurangnya SDM khususnya pada bidang Dikmen SMK.  
+
+ Untuk hal tersebut tim Dikmen SMK, bidang Dikmen, Puspresnas perlu menyusun 
+laporan tentang hal-hal yang telah maupun yang belum dilaksanakan selama tahun 
+anggaran berjalan serta rencana tindak lanjut di tahun berikutnya. 
+
+ 
+
+29 
+ 
+
+
+
+ 
+
+BAB III 
+NORMA DAN KETENTUAN PENYELENGGARAAN 
+
+ 
+A. Peristilahan dan Ketentuan Umum 
+
+Berikut ini adalah istilah dan ketentuan yang bersifat umum yang berlaku dalam buku 
+pedoman ini, yang disadur dari sumber-sumber yang otoritatif, atau dirumuskan kembali 
+dengan penyesuaian konteks dan tujuan pedoman. 
+1. Talenta mempunyai dua arti, sebagai kata sifat dan kata benda. Sebagai kata sifat, talenta 
+
+diartikan sebagai performa bakat yang menghasilkan prestasi setelah mendapatkan 
+pembinaan atau pengembangan melalui program yang sistematis dan berkelanjutan. 
+Sebagai kata benda (menurut dokumen MTN), talenta diartikan sebagai individu yang 
+memiliki kemampuan terbaik dari yang terbaik di bidangnya pada tingkat nasional untuk 
+bersaing di kancah internasional, dengan misi untuk mengangkat kebanggaan nasional 
+
+2. Bakat adalah kemampuan istimewa yang bersifat bawaan sejak lahir pada bidang talenta 
+tertentu. 
+
+3. Manajemen Talenta Nasional adalah rangkaian upaya terstruktur dan berkelanjutan 
+dalam menghasilkan Talenta, melalui pendekatan makro yang berfokus pada ekosistem 
+pendukung di tingkat negara serta pendekatan mikro yang berfokus pada sinergi dan 
+keberlanjutan proses pembibitan, pengembangan potensi, dan penguatan ketalentaan 
+
+4. Ajang talenta merupakan kegiatan yang memberikan wadah aktualisasi talenta peserta 
+didik yang dapat bersifat kompetisi/lomba, festival, dan eksibisi, untuk menghasilkan 
+capaian prestasi dalam berbagai bidang sesuai minat dan bakat. 
+
+5. Prestasi talenta adalah capaian kemampuan peserta didik sesuai dengan talentanya (minat 
+dan bakat) pada tingkatan tertentu, melalui ajang talenta/non-ajang yang diselenggarakan 
+BPTI/Puspresnas atau pihak lainnya yang diakui melalui proses kurasi talenta. 
+
+6. Bidang talenta adalah bidang-bidang yang diuraikan dari subyek ilmu pengetahuan, 
+teknologi, seni, dan olah raga, yang digunakan untuk pengorganisasian ajang talenta dan 
+jenis prestasi talenta 
+
+7. Kelompok bidang talenta adalah hasil pengelompokan bidang-bidang prestasi talenta 
+BPTI/Puspresnas yang mengacu pada kebijakan Manajemen Talenta Nasional (MTN) 
+tentang bidang talenta sebagai berikut,: (1) Bidang Riset dan Inovasi; (2) Bidang Seni 
+dan Budaya; (3) Bidang Olah Raga. Untuk kepentingan pengelolaan ajang talenta, maka 
+pengorganisasian bidang ajang talenta adalah sebagai berikut: 
+a. Kelompok bidang Riset dan Inovasi, mencakup bidang dan ajang berikut: 
+
+1) Bidang Sains: OSN, ONMIPA, dan lain-lain 
+2) Bidang Riset: OPSI, PIMNAS, dan lain-lain 
+3) Bidang Vokasi: LKS SMK, LKS DISABILITAS, dan lain-lain 
+4) Bidang Kewirausahaan: FIKSI, dan lain-lain 
+5) Bidang Inovasi: KMHE, dan lain-lain 
+
+ 
+ 
+ 
+ 
+
+30 
+ 
+
+
+
+ 
+
+b. Kelompok bidang Seni dan Budaya, mencakup bidang dan ajang berikut: 
+1) Bidang Seni: FLS2N, Paduan Suara, Pasparawi, MTQ, dan lain-lain 
+2) Bidang Bahasa: LDBI, NSDC, dan lain-lain 
+3) Bidang Budaya: - 
+
+c. Kelompok bidang Olahraga, mencakup bidang dan ajang berikut: 
+1) Bidang Olahraga: O2SN, GSI, dan lain-lain 
+2) Bidang Kesehatan Jasmani: - 
+
+B. Deskripsi Teknis Bidang Lomba 
+
+1. Proses penilaian merupakan rangkaian pengujian, pengukuran, dan penaksiran hasil 
+ pekerjaan berdasarkan proyek uji dan skema penilaian yang sudah ditetapkan. 
+
+Assessment adalah istilah yang luas dan mencakup penilaian termasuk didalamnya 
+metode yang digunakan dan serta hasil. 
+
+2. Marking (pemberian skor penilaian)  
+ Pemberian skor penilaian merupakan proses penetapan skala atau angka di dalam 
+
+mekanisme penilaian oleh juri menggunakan CIS. Marking adalah istilah yang lebih 
+sempit yang mengacu pada penetapan skala atau angka di dalam proses penilaian. 
+
+3. Standar Okupasi Kerja/Kompetensi 
+ Standar Okupasi Kerja dalam LKS tingkat nasional merupakan spesifikasi pekerjaan 
+
+dalam lomba yang menggambarkan okupasi pekerjaan di Industri. Setiap bidang lomba 
+wajib menentukan Standar Okupasi Kerja yang sesuai dengan Proyek Uji atau Test 
+project yang diujikan dalam Lomba Kompetensi Siswa tingkat Nasional. Standar 
+Okupasi Kerja berupa Pengetahuan, Pemahaman, Keterampilan dan kemampuan yang 
+mendukung praktik terbaik dalam kinerja teknis dan kejuruan di tempat kerja.  
+
+4. Deskripsi teknis 
+ Deskripsi Teknis adalah informasi lengkap tentang bidang lomba dalam LKS SMK 
+
+2024 yang meliputi, nama bidang lomba, ruang lingkup, sistem penilaian, alat, bahan, 
+jadwal, dan lain-lain dalam rangka penyelenggaraan ajang talenta LKS SMK  
+
+5. Pemutakhiran dan Validitas 
+ Deskripsi Teknis akan diperbaharui oleh Juri setiap siklus perlombaan untuk memastikan 
+
+bahwa keterampilan yang dilombakan mencerminkan  pada dunia industri dan dunia usaha. 
+ Pemutakhiran termasuk: 
+ a.) Penambahan alat baru atau perlengkapan khusus. 
+ b.) Perubahan pada spesifikasi apa pun yang tercantum dalam bagian Kompetisi 
+ c.) Aturan khusus keahlian  
+ Kemutakhiran Deskripsi Teknis untuk Kompetisi harus ditandatangani oleh tim 
+
+31 
+ 
+
+
+
+ 
+
+penyusun. 
+ Template Deskripsi Teknis akan digunakan untuk pembuatan atau pembaruan Deskripsi 
+
+Teknis, setelah diperbaiki, divalidasi oleh Ketua Juri dan Penanggung Jawab Bidang 
+Lomba     dan diserahkan ke Sekretariat Panitia Bidang lomba. Spesifikasi sesuai standar 
+yang telah ditentukan yang mengacu pada Standar Worldskills .  
+
+6. Jaminan Kualitas, Konsultasi dan Kemutakhiran 
+ Rekomendasi untuk perubahan pada Deskripsi dan Standar Pekerjaan Nasional 
+
+(Okupasi Nasional) sesuai dengan standar internasional diperiksa kualitas format dan 
+isinya, terhadap standar pekerjaan. Khusus untuk juri dibutuhkan portofolio selama dua 
+tahun terakhir (sertifikat) yang relevan dengan bidang lomba. Juri yang tidak memenuhi 
+persyaratan kualitas disampaikan kepada Dewan Juri untuk selanjutnya dilaporkan 
+secara tertulis kepada Pejabat berwenang di Puspresnas. Juri bertugas dalam kurun 
+waktu maksimal 3 periode perlombaan.  
+
+ Tim Juri mengembangkan Deskripsi Teknis dengan mengidentifikasi perubahan dan 
+trend setiap bidang lomba sesuai dengan Standar Pekerjaan Nasional (Okupasi 
+Nasional), yang telah disinkronkan dengan dunia industri. Deskripsi Teknis akan 
+dipublikasikan pada laman https://smk.pusatprestasinasional.kemdikbud.go.id/lks/ 
+
+7. Peraturan Khusus 
+ Pada perlombaan, Juri harus menerapkan aturan yang berlaku khusus untuk masing-
+
+masing bidang lomba yang disepakati yang menjadi bagian dari pemutakhiran 
+Deskripsi Teknis. Aturan khusus disusun untuk memberi perincian dan kejelasan 
+khusus di bidang lomba masing-masing, agar tidak menyimpang dari Pedoman Umum 
+sebagai aturan utama. Peraturan khusus dalam hal ini akan dijelaskan pada deskripsi 
+masing-masing bidang lomba.  
+
+8. Proyek Uji (Test Project) 
+adalah instruksi/gambar kerja yang menjelaskan pekerjaan di masing-masing bidang 
+keahlian. Proyek Uji (Test Project) tersebut akan dikerjakan oleh Peserta LKSN untuk 
+menunjukkan keunggulan dan keahlian dalam melaksanakan pekerjaan dalam Proyek 
+Uji (Test Project) tersebut. Proyek Uji (Test Project) harus meliputi konteks, tujuan, 
+proses, aspek K3 dan hasil kerja, serta skema penilaian yang berlaku 
+
+9. Durasi  
+ Kompetisi berlangsung selama 3 hari. Total durasi efektif lomba pada tiap proyek uji 
+
+antara 15 sampai dengan 18 jam, dengan durasi lomba per hari untuk setiap peserta 
+maksimal 5 jam sampai 6 jam.  Proyek uji harus dirancang sesuai dengan standar 
+profesional terkini dan memenuhi peraturan K3, secara detail dijelaskan dalam 
+
+32 
+ 
+
+
+
+ 
+
+deskripsi teknis masing-masing bidang lomba.  
+ 
+10. Bahan dan Peralatan yang Digunakan 
+
+Proyek Uji (Test Project) harus diselesaikan menggunakan bahan dan peralatan yang 
+tercantum dalam deskripsi teknis bidang lomba yang disiapkan oleh Balai 
+Pengembangan Talenta Indonesia berdasarkan kesepakatan bersama dengan Dinas 
+Provinsi. Bahan dan peralatan yang digunakan diharapkan sama untuk menunjang 
+keadilan serta penggunaan alat bantu mengacu pada persyaratan/kebijakan di setiap 
+bidang lomba. Daftar bahan dan peralatan akan diinformasikan pada setiap deskripsi 
+teknis bidang lomba. 
+
+11. Format 
+ Semua Proyek Uji (Test Project) tersedia dalam bentuk softcopy atau hardcopy.  Proyek 
+
+Uji (Test Project) disusun berdasarkan template LKSN 2024. Format di setiap bidang 
+lomba mengikuti ketentuan yang berada di deskripsi teknis. 
+
+12. Komposisi Proyek Uji  
+ Komposisi proyek uji adalah sebagai berikut: softskill 10-30% dan hardskill 70-90% 
+
+dengan total keduanya adalah 100%. Untuk komposisi Proyek Uji (Test Project) pada 
+setiap bidang lomba secara lebih rinci mengikuti ketentuan yang berada di deskripsi 
+teknis. 
+
+ 
+ 
+
+13. Jaminan dan Kendali Mutu 
+Proyek uji dirancang dan dikembangkan oleh tim juri sesuai dengan perkembangan 
+teknologi terkini. Proyek Uji (Test Project) tidak boleh dibuat berpihak dan 
+menguntungkan pihak-pihak tertentu. Tim juri wajib menjamin kerahasiaan serta 
+
+33 
+ 
+
+
+
+ 
+
+mengontrol kualitas proyek uji. Berikut adalah 3 tahapan yang perlu diperhatikan oleh 
+tim juri dalam menjaga jaminan dan kendali mutu:  
+a. Konsep Desain: tim penyusun harus membuat konsep Proyek Uji (Test Project), 
+
+berdasarkan bidang lomba, tujuan, proses, dan hasil pekerjaan. Hal ini membutuhkan 
+penelitian, dan keterampilan analitis, selain itu harus terbiasa dengan praktik yang 
+terkait dengan pekerjaan tersebut. Hal ini untuk menyesuaikan dengan standar yang 
+berlaku di setiap bidang lomba.  
+
+b. Reviu: dilakukan pada tahap awal dari desain dan pengembangan Proyek Uji (Test 
+Project). Hal ini dimaksudkan untuk memeriksa apakah tim penyusun memiliki 
+pemahaman, kapabilitas dan sumber daya untuk menyelesaikan tugas sesuai harapan 
+dengan meninjau ide dan draf awal. 
+
+c. Verifikasi: merupakan tahap kedua terhadap jaminan dan kontrol kualitas. Kegiatan 
+ini bertujuan memverifikasi kelayakan, kesesuaian, dan optimalisasi rancangan 
+(rancangan yang sesuai dengan kriteria yang diberikan), skema penilaian, dan daftar 
+alat dan bahan. Verifikasi harus dilakukan sampai tahap uji coba, hal itu 
+dimaksudkan untuk mengetahui apakah Proyek Uji (Test Project) bisa diselesaikan 
+dengan baik atau tidak. 
+
+d. Aspek K3: tim penyusun membuat konsep Proyek Uji (Test Project) mengacu pada 
+aspek K3 untuk menunjang keselarasan dengan Budaya Industri serta menjunjung 
+tinggi Safety dan Keselamatan Kerja. Hal ini dimaksudkan untuk memeriksa apakah 
+competitor memiliki pemahaman dan pengaplikasian terkait keselamatan kerja. 
+
+14. Jadwal dan Personel 
+ Dalam kegiatan pengaturan jadwal dan personel dalam penyusunan Proyek Uji (Test 
+
+Project), pihak Panitia bertanggung jawab untuk : 
+ • Pemilihan tim penyusun pembuat Proyek Uji (Test Project) yang sekaligus merangkap 
+
+berperan sebagai reviewer/pengulas. 
+ • Menentukan jadwal untuk menyelesaikan desain dan pengembangan Proyek Uji (Test 
+
+Project), termasuk jaminan kualitas dan safety-nya. 
+15. Sosialisasi Proyek Uji Test 
+
+Waktu untuk sosialisasi Proyek Uji (Test Project) ditentukan dalam deskripsi teknis 
+setiap bidang lomba. Dalam pembagian kisi – kisi dan Proyek Uji (Test Project) 
+merujuk ke dalam Deskripsi Teknis. Kisi kisi akan disampaikan saat Technical Meeting 
+pada setiap bidang lomba. 
+
+34 
+ 
+
+
+
+ 
+
+C. Persyaratan Peserta, Ketua Kontingen, Pembimbing, Juri, Workshop Manager, dan 
+Teknisi 
+Persyaratan Peserta 
+a. Peserta LKS adalah siswa aktif, yaitu: kelas XI/XII/XIII (bagi SMK empat tahun) 
+
+yang sudah mengikuti seleksi dan dinyatakan juara pada tingkat LKS Provinsi, 
+selanjutnya dapat mengikuti penyelenggaraan LKS dibuktikan dengan scan 
+sertifikat/piagam penghargaan sebagai juara tingkat provinsi dan dibuktikan dengan 
+SK penetapan; Belum pernah menjadi juara LKS tingkat nasional (emas, perak, 
+perunggu); 
+
+b. Memiliki NISN (Nomor Induk Siswa Nasional) dan terdaftar di Data Pokok 
+Pendidikan (Dapodik). 
+
+c. Setiap provinsi mengirimkan daftar nama siswa dan bidang lomba yang diikuti 
+melalui pendaftaran yang dilakukan, dan panitia akan memberikan konfirmasi telah 
+mendaftar; 
+Peserta harus mengirimkan berkas administrasi secara daring (Online) melalui 
+laman: https://smk.pusatprestasinasional.kemdikbud.go.id/lks dan mengisi formulir 
+pendaftaran. 
+
+ 
+Persyaratan Ketua Kontingen 
+a. Setiap   provinsi   menunjuk   satu   orang   perwakilan   dari   unsur   Dinas Pendidikan 
+
+Provinsi sebagai Ketua Kontingen; 
+b. Ketua kontingen perlu mempersiapkan data portofolio siswa yang mengikuti lomba di 
+
+tingkat Provinsi diunggah pada laman: 
+https://smk.pusatprestasinasional.kemdikbud.go.id/lks Ketua Kontingen bertanggung 
+jawab memastikan peserta mengikuti LKS sesuai jadwal yang telah ditentukan 
+
+c. Ketua Kontingen bertanggung jawab mengkoordinir seluruh delegasi LKS di masing-
+masing provinsi secara menyeluruh mencakup pendaftaran Online, memastikan 
+pendamping dan peserta mengikuti Technical Meeting, serta mempersiapkan sarana 
+dan prasarana lomba, dan memastikan peserta mengikuti LKS; 
+
+d. Ketua Kontingen bertanggungjawab terhadap kelengkapan dokumen registrasi 
+peserta; 
+
+e. Ketua Kontingen bertanggungjawab mengkoordinasikan hal teknis dan non teknis 
+peserta dan pendamping; 
+
+f. Ketua Kontingen wajib mengikuti Technical Meeting (TM) Umum. 
+g. Ketua Kontingen wajib meneruskan informasi hasil  TM Umum baik kepada peserta 
+
+maupun guru pembimbing masing-masing bidang lomba; 
+
+35 
+ 
+
+
+
+ 
+
+h. Ketua   Kontingen   berkomitmen dan wajib   mengikuti update informasi yang 
+disampaikan melalui panitia LKS Nasional, dan bertanggungjawab atas 
+terdistribusinya informasi kepada anggota kontingen dari provinsinya. 
+
+i. Hanya Ketua Kontingen yang memiliki hak untuk menyampaikan 
+keberatan/ketidaksesuaian (Teknis dan Non Teknis) terkait dengan pelaksanaan lomba 
+(secara tertulis, melalui laman:  
+https://smk.pusatprestasinasional.kemdikbud.go.id/lks. 
+
+Persyaratan Pembimbing 
+a. Diprioritaskan mempunyai kompetensi yang sesuai dengan kompetensi bidang lomba 
+
+peserta  yang didampingi. 
+b. Memiliki Surat Keputusan penetapan sebagai pendamping dari dinas provinsi 
+c. Memiliki integritas yang tinggi. 
+d. Memahami dan mengindahkan tata tertib dan peraturan lomba Pembiayaan dari Dinas 
+
+Provinsi masing-masing. 
+ 
+
+Persyaratan Juri 
+a. Kompeten pada bidang lomba yang diampu, berasal dari akademisi/ Dunia Usaha 
+
+Dunia Industri/ Praktisi (bukan guru)/ praktisi maupun profesional. 
+b. Berpengalaman menjadi Juri/Assessor sesuai dengan bidangnya. 
+c. Bersikap adil dan tidak berpihak. 
+d. Bertanggung jawab terhadap keputusannya.  
+e. Mampu mengoperasikan perangkat digital dan internet.  
+f. Bersedia menandatangani pakta integritas sebagai juri LKS (format terlampir).  
+g. Ditetapkan melalui Surat Keputusan (SK) Kepala Balai Pengembangan Talenta 
+
+Indonesia Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+h. Menetapkan sistem penilaian merujuk pada Marking Scheme yang digunakan pada 
+
+Worldskills  Competition  
+i. Memastikan komponen penilaian telah mengakomodir aspek hardskill maupun 
+
+softskill. 
+j. Memastikan bahwa peserta telah memahami tentang materi lomba serta petunjuk-
+
+petunjuknya termasuk sistem penilaian. 
+k. Menyerahkan ketentuan dokumen penilaian (test project/proyek uji, Marking Scheme 
+
+dan ketentuan penilaian lainnya) kepada Balai Pengembangan Talenta Indonesia 
+paling lambat 3 (tiga) bulan sebelum pelaksanaan LKS tingkat Nasional 
+
+36 
+ 
+
+
+
+ 
+
+l. Melengkapi ‘Curriculum Vitae’, disertai rekomendasi dari pimpinan dan atau 
+instansi/lembaga tempat kerja. 
+
+Persyaratan Workshop Manager 
+a. Kompeten pada bidang lomba yang diampu, berasal dari panitia local. 
+b. Memiliki SK penetapan sebagai workshop manager pada bidang lomba yang diampu 
+c. Memiliki integritas yang tinggi 
+d. Memahami dan mengindahkan tata tertib dan peraturan lomba. 
+
+ 
+Persyaratan Teknisi 
+a. Kompeten pada bidang lomba yang diampu, berasal dari panitia lokal. 
+b. Ditetapkan melalui Surat Keputusan (SK) Kepala Balai Pengembangan Talenta 
+
+Indonesia Kementrian Pendidikan dan Kebudayaan, sebagai teknisi pada bidang lomba 
+yang diampu  
+
+c. Memiliki integritas yang tinggi 
+d. Memahami dan mengindahkan tata tertib dan peraturan lomba  
+e. Mampu mengoperasikan perangkat digital dan internet.  
+f. Berpengalaman menjadi teknisi sesuai dengan bidangnya. 
+g. Bersedia menandatangani pakta integritas sebagai Teknisi LKS (format terlampir). 
+h. Melengkapi ‘Curriculum Vitae’, disertai rekomendasi dari pimpinan dan atau 
+
+instansi/lembaga tempat kerja. 
+1. Ketentuan Umum dan Seleksi Peserta 
+
+Ketentuan umum seleksi sebagai berikut : 
+Nomor bidang lomba 
+Penomoran bidang lomba dimulai dari nomor: 01 sampai dengan nomor: 37.  
+a. Pendaftaran LKS Secara Daring; 
+
+Pendaftaran peserta (registrasi) dilakukan secara daring melalui laman: 
+https://smk.pusatprestasinasional.kemdikbud.go.id/pendaftaran-lks dibuka tanggal dan 
+bulan (tanggal dan bulan ditentukan kemudian melalui surat edaran) tahun 2024 pukul 
+00.00 WIB dan ditutup tanggal dan bulan (ditentukan kemudian melalui surat edaran) 
+tahun 2024 pukul 23.59 WIB, Jika NISN tidak ditemukan peserta harus melapor ke 
+operator sekolah untuk verifikasi dan validasi data Jika NISN tidak ditemukan peserta 
+harus melapor ke operator sekolah untuk verifikasi dan validasi data silahkan unduh 
+file melalui laman berikut http://ringkas.kemdikbud.go.id/updatedata  untuk informasi 
+lebih lanjut.; 
+ 
+
+37 
+ 
+
+
+
+ 
+
+*Catatan:  Status peserta pada saat mendaftar berstatus sebagai siswa aktif. Kepastian 
+tautan portal registrasi peserta akan diinformasikan lebih lanjut melalui surat edaran resmi 
+dan laman Balai Pengembangan Talenta Indonesia SMK 
+
+b. Pendaftaran daring  dinyatakan  sah sebagai  peserta  untuk    mengikuti  LKS  Tingkat 
+Nasional  setelah mendapat konfirmasi dari panitia. 
+
+c. Pembukaan dan penutupan LKSN 2024 akan diinformasikan lebih lanjut 
+d. Technical Meeting Umum dilaksanakan pada tanggal dan bulan ditentukan kemudian 
+
+melalui surat pemberitahuan yang dikoordinasikan oleh dewan juri dan harus dihadiri 
+oleh ketua kontingen dan juri secara online satu minggu sebelum pembukaan. Ketua 
+kontingen memberi nama pada aplikasi Zoom dengan menggunakan nama PROVINSI; 
+
+e. Technical Meeting Khusus akan dilakukan pada tanggal dan bulan ditentukan kemudian 
+melalui surat pemberitahuan setelah acara pembukaan yang bertujuan untuk melakukan 
+persiapan, pengenalan materi lomba.  
+
+f. Durasi Lomba 
+Durasi efektif lomba berkisar antara 12 jam sampai dengan 18 jam secara keseluruhan, 
+dengan keterangan 1 hari maksimal 5 jam sampai  6 jam;  
+
+g. Bahasa 
+Komunikasi  resmi  dalam  kegiatan  LKS  SMK  Tingkat  Nasional menggunakan 
+Bahasa Indonesia kecuali bidang lomba tertentu sesuai kebutuhan. 
+
+ 
+2. Ketentuan Penghargaan 
+     Pemenang  di setiap bidang lomba diatur sebagai berikut. 
+
+1. Pemenang mengikuti skema CIS; 
+2. Penetapan pemenang diurutkan dari nilai tertinggi (Jika terdapat nilai yang sama maka 
+
+dewan juri akan melihat serta mempertimbangkan perolehan skor pada modul 
+representatif); 
+
+3. Penetapan Certificate for Excellence diberikan kepada peserta apabila memperoleh 
+nilai di atas  ≥ 700 (Standar CIS) 
+
+4. Setiap peringkat kejuaraan (Pemenang I, II,dan III) pemenangnya 1 (Satu) Orang/ 1 
+(Satu) Tim/bidang lomba. 
+
+5. Nilai Ambang Batas (Passing Grade) untuk Certificate for Excellence digunakan skala 
+700. 
+
+  
+
+38 
+ 
+
+
+
+ 
+
+ 
+D. Bentuk penghargaan yang diberikan pada LKS SMK 2024 Tingkat Nasional adalah. 
+
+1. Medali 
+ Setiap bidang lomba ditetapkan 3 pemenang. Medali emas diberikan untuk juara 1; 
+
+medali perak diberikan untuk juara 2; dan medali perunggu diberikan untuk juara 3 
+2. Certificate for Excellence diberikan kepada peserta bila memperoleh nilai ≥ 700 
+
+(Standar CIS) 
+3. Piala Juara Umum adalah kontingen dengan perolehan medali dan Certificate for 
+
+Excellence terbanyak, dengan ketentuan sebagai berikut: 
+a. medali emas  
+b. medali perak  
+c. medali perunggu  
+d. certifikat for excellence  
+
+4. Piala Bergilir 
+Piala bergilir menjadi piala tetap bagi provinsi yang menjadi juara umum sebanyak 3 
+kali berturut-turut. 
+
+5. Hadiah 
+a. Hadiah dalam bentuk apresiasi pembinaan diberikan kepada juara 1, 2, dan 3 untuk 
+
+setiap bidang lomba  
+b. Apresiasi dari sponsor merupakan bentuk kontribusi kepada pendidikan pada bidang 
+
+lomba tertentu (apabila ada). 
+E. Pengawasan dan Sanksi Pelanggaran 
+
+1. Pengawasan penyelenggaraan LKS SMK secara keseluruhan dilakukan oleh BPTI. 
+Pengawasan penyelenggaraan di tingkat Provinsi dapat melibatkan Dinas Pendidikan 
+setempat, MKKS, unit pelaksana teknis Kemendikbudristek di daerah (BPMPV, 
+BBPMV, BBPPMPV). Sedangkan di tingkat pusat/nasional, pengawasan ditentukan 
+oleh BPTI. 
+ 
+
+2. Pada penyelenggaraan LKS tingkat nasional/daerah, jika terjadi pelanggaran terhadap 
+norma standar, sanksi  ditetapkan oleh panitia setelah memperhatikan berita acara dari 
+dewan juri. Sedangkan pelanggaran terhadap teknis lomba, sanksi ditetapkan oleh juri 
+bidang lomba. 
+
+  
+
+39 
+ 
+
+
+
+ 
+
+ 
+F. Keamanan dan Keselamatan Penyelenggaraan 
+
+Keselamatan dan kesehatan kerja merupakan suatu tindakan yang mengimplikasikan 
+pemahaman teori keselamatan dan kesehatan kerja yang bertujuan untuk menjaga, baik 
+bagi peserta lomba maupun peralatan dari kecelakaan maupun kerusakan sehingga dapat 
+menjamin keutuhan dan kesempurnaan di dalam melaksanakan sebuah pekerjaan. 
+Tujuan dari penerapan keselamatan dan kesehatan kerja adalah sebagai berikut:  
+1. Melindungi peserta dalam melaksanakan lomba untuk memperoleh keselamatan dan 
+
+kesehatan; 
+2. Menjamin keselamatan dan kesehatan bagi setiap orang yang berada di tempat lomba; 
+3. Menjamin sumber-sumber produksi dan peralatan-peralatan lomba digunakan, 
+
+dipelihara, dirawat secara aman dan efisien; 
+4. Mencegah dan mengurangi/memperkecil terjadinya kecelakaan yang terjadi di tempat 
+
+lomba; 
+5. Mencegah dan mengurangi/memperkecil kemungkinan terjadinya kebakaran sebagai 
+
+salah satu bentuk kecelakaan di tempat lomba yang berhubungan dengan api, zat kimia, 
+listrik dan material yang mudah terbakar;  
+
+6. Memberi pertolongan pertama pada kecelakaan, sebagai langkah pertolongan awal 
+dalam penanggulangan kecelakaan yang terjadi. 
+Kaidah 5S yang diperkenalkan pertama kali di Singapura tahun 1986, di Indonesia 
+dikenal dengan sebutan 5R (Ringkas, Rapi, Resik, Rawat, dan Rajin). Isi program 5S 
+adalah: 
+a. Seiri (Pemilahan) 
+ Seiri adalah memilah barang (alat dan bahan) yang diperlukan, belum diperlukan, 
+
+tidak di perlukan dan barang tidak sesuai penempatanya. Jika seiri terpenuhi maka: 
+efisiensi ruangan bengkel listrik, produktivitas meningkat, tidak terjadi pemborosan 
+rungan, K3 dan lingkungan kerja meningkat, tidak terjadi penumpukan barang serta 
+terdapat peningkatan proses produktivitas kerja. 
+
+b. Seiton (Penataan) 
+ Langkah berikutnya adalah Seiton yang berarti rapi. Seiton bertujuan untuk menata 
+
+barang yang berguna secara rapi dan teratur. Identifikasi semua barang yang ada, 
+kemudian dikelompokkan menurut kegunaan, lalu diberi penjelasan tentang nama 
+barang, tempat, dan jumlah barang supaya mudah ketika akan digunakan. 
+
+ 
+
+40 
+ 
+
+
+
+ 
+
+c. Seiso (Pembersihan) 
+ Tahap selanjutnya adalah penataan yang disebut tahap Seiso atau resik, bertujuan 
+
+untuk menjaga kebersihan bengkel listrik. Ruangan bengkel listrik dibuat bersih, 
+sehat dan nyaman untuk menghindari menurunnya motivasi belajar akibat dari 
+tempat kerja yang kotor dan berantakan. Keuntungan lainnya dari kondisi bengkel 
+yang bersih adalah membuat awet peralatan yang berada di bengkel listrik. 
+
+d. Seiketsu (Pemantapan) 
+ Seiketsu berarti merawat, bertujuan untuk mempertahankan kondisi lingkungan kerja 
+
+yang sudah baik. Memberikan standar pada label petunjuk dalam semua operasi, 
+memeriksa keadaan tempat kerja dengan peralatan yang digunakan, serta menyediakan 
+tempat sampah. Tahap perawatan merupakan tahap yang lebih sulit. Tahap perawatan 
+membutuhkan konsistensi bekerja secara berkesinambungan. 
+
+e. Shitsuke (Pembiasaan) 
+ Shitsuke yang berarti rajin, rajin berhubungan dengan pembiasaan. Bertujuan agar 
+
+seseorang terbiasa membina disiplin diri, mampu dan berani mengubah perilaku ke arah 
+yang lebih baik secara konsisten. Melakukan yang boleh dilakukan dan mematuhi 
+larangan atau peraturan.  
+
+Penerapan K3 pada LKS SMK 2024 diantaranya: 
+1. Mencegah dan mengurangi kecelakaan kerja dengan cara sosialisasi dan penerapan 5S; 
+2. Menyiapkan jalur evakuasi keadaan darurat; 
+3. Menyiapkan P3K dan tenaga medis selama pelaksanaan lomba;  
+4. Penerangan yang cukup dan sesuai; 
+5. Suhu dan kelembaban udara yang cukup baik; 
+6. Menyediakan ventilasi yang cukup; 
+7. Memelihara kebersihan, kesehatan, dan ketertiban; 
+8. Mencegah terkena aliran listrik berbahaya; 
+
+ 
+G. Tata Tertib 
+
+1. Tata Tertib Peserta 
+a. Peserta lomba harus memahami segala ketentuan yang terkait dengan LKS 
+
+Tingkat Nasional dan mempersiapkan diri sesuai dengan ketentuan masing- 
+masing bidang lomba; 
+
+b. Sebelum pelaksanaan lomba, peserta wajib mengikuti TM Khusus bidang lomba; 
+
+41 
+ 
+
+
+
+ 
+
+c. Peserta memahami tentang pedoman umum, Deskripsi Teknis Lomba dan 
+penjelasan teknis lainya dalam Technical Meeting yang dituangkan dalam 
+dokumen tertulis.  
+
+2. Tata Tertib Pelaksanaan Lomba 
+ Tata tertib untuk teknis pelaksanaan lomba sebagai berikut. 
+
+a. Area lomba menyesuaikan dengan kebutuhan masing-masing bidang lomba 
+b. Pada saat lomba berlangsung, hanya peserta yang diperbolehkan berada di area lomba 
+
+(selain peserta harus berada di luar area lomba) 
+c. Ketentuan lain yang tidak tercantum dalam Panduan Teknis ini akan dijelaskan pada 
+
+dokumen bidang lomba (Deskripsi Teknis) LKS luring  
+d. Layout, Sarana dan Prasarana harus dilakukan pengaturan dengan jelas sesuai dengan 
+
+kondisi lapangan pada saat lomba serta perlu dijelaskan secara detail pada Deskripsi 
+Teknis lomba. 
+
+ 
+  
+
+42 
+ 
+
+
+
+ 
+
+BAB IV 
+KETENTUAN KHUSUS 
+
+ 
+Semua hal yang menyangkut penyelenggaraan ajang talenta yang diatur dalam pedoman ini 
+dapat berubah sesuai dengan kondisi dan perkembangan kebijakan. Untuk itu, BPTI akan 
+memberitahukannya pada saat perubahan itu sudah ditetapkan, dan akan disampaikan 
+secepatnya melalui adendum atau melalui dokumen lainnya yang tidak dapat dipisahkan dari 
+buku pedoman ini. 
+
+43 
+ 
+
+
+
+ 
+
+BAB V 
+PENUTUP 
+
+ 
+
+ Puji syukur kepada Tuhan Yang Maha Kuasa, buku Pedoman LKS SMK 2024 ini pada 
+akhirnya dapat diselesaikan. Semoga dapat bermanfaat bagi semua pihak yang terkait, guna 
+berbagai kepentingan sesuai tugas dan kewenangannya serta dapat digunakan sebagai dasar 
+kebutuhan penyusunan anggaran pelaksanaan LKS SMK di tingkat daerah. Tim penyusun 
+berharap buku Pedoman ini sudah dapat menjadi acuan yang komprehensif dan dapat 
+meminimalisir potensi masalah yang akan terjadi. 
+
+ Balai Pengembangan Talenta Indonesia, Pusat Prestasi Nasional juga mengharapkan 
+dinas pendidikan provinsi dan dinas pendidikan kabupaten/kota dapat membantu 
+menyebarluaskan buku pedoman ini segera ke satuan pendidikan di daerahnya masing-masing 
+agar para calon peserta lomba dapat mempersiapkan diri sebaik-baiknya. 
+ 
+
+ Terima kasih kami sampaikan kepada tim penulis, penyunting, dan kontributor lainnya. 
+Tentunya buku pedoman ini tentu belum dapat dikatakan sempurna. Balai Pengembangan 
+Talenta Indonesia, Pusat Prestasi Nasional membuka diri untuk menerima masukan dari 
+masyarakat atau para pemangku kepentingan.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44 
+ 
+
+
+
+ 
+
+LAMPIRAN 
+ 
+ 
+ 
+
+(KOP SURAT SEKOLAH) 
+SURAT KETERANGAN KEPALA SEKOLAH 
+
+Nomor:  ..............  1) 
+ 
+Yang bertanda tangan di bawah ini : 
+Nama : .......................... 3) 
+NIP : .......................... 4) 
+Jabatan : Kepala ............. 2) 
+NPSN : .......................... 
+ 
+dengan ini menerangkan bahwa nama-nama tersebut di bawah ini, adalah benar peserta 
+didik di ........................... 2) dan yang bersangkutan sebagai wakil dari ...........................2) 
+untuk mengikuti Kegiatan LKS SMK Tahun 2024 Secara Luring (Offline). 
+ 
+
+No. Nama Lengkap Siswa NISN Kelas Bidang Lomba yang 
+Diikuti 
+
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+
+ 
+Demikian surat rekomendasi ini dibuat untuk digunakan sebagai salah satu persyaratan 
+pendaftaran peserta Kegiatan LKS SMK 
+ 
+
+........................ ,............,.... 2024 
+ 
+
+tanda tangan dan stempel 
+ 
+ 
+
+........................................... 3) 
+NIP...........................................   4) 
+
+Keterangan pengisian : 
+1) :    Diisi dengan nomor surat sekolah 
+2) : Diisi dengan nama sekolah 
+3) : Diisi dengan nama kepala sekolah 
+4) : Diisi dengan Nomor Induk Pegawai (NIP) kepala sekolah, bila ada
+
+45 
+ 
+
+
+
+ 
+
+SURAT IJIN ORANGTUA 
+ 
+ 
+Yang bertanda tangan di bawah ini : 
+Nama :   
+Alamat : 
+Pekerjaan  : 
+ 
+Orangtua dari  : 
+Nama : 
+Tempat,Tgl lahir : 
+Alamat : 
+Asal Sekolah : 
+Kelas : 
+ 
+dengan ini mengijinkan anak saya tersebut di atas untuk mengikuti Kegiatan LKS SMK Tahun 
+2024 Seara Luring (Offline) pada bidang Lomba ............................... *) 
+Demikian surat ijin ini di buat untuk digunakan sebagai salah satu persyaratan pendaftaran 
+Kegiatan LKS SMKTahun 2024 Secara Luring (Offline) 
+ 
+
+........................ ,...................................,.... 2024 
+ 
+ 
+
+                   Materai 10.000, tanda tangan  
+
+..................... ..................... 3) 
+
+ 
+
+ 
+
+*) diisi sesuai bidang lomba Lomba yang diikuti 
+  
+
+46 
+ 
+
+
+
+ 
+
+    KOP Lembaga/Institusi/ Perguruan Tinggi/Komunitas 
+PAKTA INTEGRITAS 
+
+BIDANG LOMBA .................. 
+ 
+
+Saya, ..............................................................., dari Lembaga/Institusi/Perguruan 
+Tinggi/Komunitas ............................................ bertindak sebagai Juri  pada Lomba 
+Kompetensi Siswa SMK Nasional  Tahun 2024 Secara Luring (Offline) dari tanggal ….. sd. 
+….  …………………. 2024, menyatakan bahwa saya akan melaksanakan ketentuan sebagai 
+berikut : 
+
+1. Bersikap transparan, jujur, obyektif dan akuntabel dalam melaksanakan rapat teknis 
+Technical Meeting Umum;  
+
+2. Melakukan koordinasi dengan sesama juri pada bidang lomba yang sama untuk 
+kelancaran pelaksanaan kompetisi; 
+
+3. Melakukan musyawarah apabila terjadi perbedaan penilaian antar Juri;  
+
+4. Bertanggungjawab menanda tangani dan menyerahkan rekapitulasi hasil penilaian 
+kepada panitia Pelaksana yang ditunjuk; 
+
+5. Bersedia tidak melakukan praktek Korupsi, Kolusi, dan Nepotisme (KKN) dalam 
+melaksanakan tugas tanggungjawab sebagai Juri bidang lomba ........................... pada 
+penyelenggaraan LKS SMK, Pusat Prestasi Nasional.  
+
+6. Bersedia tidak melakukan praktek suap dan/atau gratifikasi dari pihak manapun dalam 
+melaksanakan tugas tanggungjawab sebagai Juri bidang lomba ........................... pada 
+penyelenggaraan LKS SMK, Pusat Prestasi Nasional.   
+
+7. Bersedia melaporkan kepada pihak yang berwenang apabila mengetahui terdapat 
+indikasi praktik KKN dalam pelaksanaan LKS SMK, Pusat Prestasi Nasional.  
+
+8. Tidak terlibat dalam pembinaan dan pembimbingan calon peserta atau kandidat LKS 
+SMK di tingkat kabupaten, provinsi dan nasional.  
+
+9. Apabila saya melanggar hal-hal yang telah saya nyatakan dalam Pakta Integritas ini, 
+saya bersedia dikenakan sanksi moral, sanksi administrasi serta tuntutan ganti rugi dan pidana 
+sesuai hukum dan ketentuan perundang-undangan yang berlaku. 
+Demikian pernyataan pakta integritas ini saya buat dengan sebenarnya dan apabila melanggar, 
+maka saya bersedia menerima sanksi sebagaimana ditetapkan dalam peraturan perundang-
+undangan yang berlaku.  
+ 
+
+.................., ......... ........................... 2024 
+ Pembuat Pernyataan, 
+
+Meterai Rp10.000,- 
+ 
+
+ 
+ 
+                                                                           (.........................................................) 
+
+47 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+
+48

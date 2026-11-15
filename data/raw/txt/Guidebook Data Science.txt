@@ -1,0 +1,375 @@
+﻿DIKTISAINTEK 
+BE AK 
+
+GUIDE BOOK 
+DATA SCIENCE 
+
+@ ARA 
+7.0 
+
+J 
+df = ara_its X ara__its jm ARA7.0 @) ara-its.id 
+
+
+
+DATA SCIENCE, 
+Data Science (DS) adalah sebuah cabang 
+
+perlombaan dari ARA 7.0 yang ditujukan bagi siswa/i 
+jenjang SMA/SMK/MA dan mahasiswa/i aktif dari 
+
+PTN/PTS di seluruh Indonesia untuk menyelesaikan 
+sebuah studi kasus nyata menggunakan analisis 
+
+data. Peserta ditantang untuk mengolah, 
+menganalisis, dan memodelkan sebuah dataset yang 
+
+telah disediakan. Dengan memanfaatkan berbagai 
+metode statistika, algoritma machine learning, dan | 
+kemampuan pemrograman, peserta harus mampu 
+menemukan insight tersembunyi dan membangun 
+
+solusi prediktif yang akurat, serta | 
+
+
+
+KETENTUAN UMUM 
+
+1. Peserta mematuhi ketentuan umum kompetisi ARA Gs 
+7.0, 
+
+2. Peserta adalah pihak yang telah mengikuti mekanisme 
+pendaftaran di situs resmi ARA 7.0. 
+
+3. Setiap peserta merupakan mahasiswa aktif dari 
+Perguruan Tinggi atau siswa SMA/SMK/SLTA 
+sederajat yang terdaftar di Indonesia. Dibuktikan 
+dengan adanya surat keterangan mahasiswa aktif atau 
+KTM (Kartu Tanda Mahasiswa) bagi mahasiswa dan 
+surat keterangan siswa aktif atau Kartu Tanda Pelajar 
+bagi siswa yang dilampirkan pada saat pendaftaran 
+Data Science ARA 7.0. 
+
+4. Setiap tim terdiri dari 1-3 orang yang berasal dari 
+instansi/lembaga yang sama. 
+
+5. Peserta bukan merupakan anggota Himpunan 
+Mahasiswa Teknologi Informasi (HMIT) Institut 
+Teknologi Sepuluh Nopember dan/atau panitia ARA 
+7.0. 
+
+. Peserta merupakan Warga Negara Indonesia. 
+
+. Setiap peserta hanya boleh terdaftar dalam satu tim. 
+8. Peserta yang telah mendaftar tidak boleh digantikan 
+
+oleh orang lain dengan alasan apapun. 
+9. Peserta/tim harus menyelesaikan administrasi 
+
+pendaftaran selambat - lambatnya pada tanggal yang 
+telah ditentukan. 
+
+10. Peserta/tim yang tidak memenuhi administrasi 
+pendaftaran sampai waktu yang telah ditentukan akan 
+dinyatakan gugur. 
+
+11. Peserta/tim yang dapat mengikuti kompetisi adalah 
+peserta / tim yang sudah diverifikasi oleh panitia ARA 
+7.0. 
+
+12. Peserta/tim yang dinyatakan lolos dari babak 
+penyisihan wajib mengkonfirmasi kehadiran pada 
+babak final Data Science ARA 7.0 yang diadakan 
+secara luring/offline di Institut Teknologi Sepuluh 
+
+9, Nopember Surabaya. 
+
+N OF 
+
+
+
+KETENTUAN UMUM 
+
+13. Peserta/tim yang tidak mengkonfirmasi kehadiran 
+pada babak final hingga batas waktu yang ditentukan 
+panitia akan dianggap mengundurkan diri, dan 
+digantikan oleh peserta/tim dalam waiting list. 
+
+14. Pemenang wajib mengikuti acara awarding, jika tidak 
+maka akan kehilangan hak atas hadiah yang 
+dimenangkan, kecuali telah memberikan alasan yang 
+telah diterima oleh panitia. 
+
+15. Panitia berhak mencabut gelar juara dari pemenang 
+apabila ditemukan kecurangan atau pelanggaran yang 
+dilakukan oleh peserta pada saat perlombaan atau 
+setelah perlombaan selesai. 
+
+16. Panitia berhak mendiskualifikasi peserta/tim yang 
+terindikasi melakukan kecurangan atau melanggar 
+ketentuan yang ada. 
+
+17. Keputusan juri dan panitia ARA 7.0 tidak dapat 
+diganggu gugat. 
+
+Panitia dapat mengubah seluruh atau sebagian konten pada 
+guidebook atau hal lainnya yang akan disampaikan ke 
+peserta sewaktu - waktu. sen 
+
+>, 
+
+
+
+BIAYA 
+PENDAF TARAN 
+
+
+
+MEKANISME 
+PENDAF TARAN 
+
+1. Peserta / Tim melakukan pendaftaran sesuai dengan 
+periode pendaftaran yang telah ditentukan dengan 
+nominal sesuai dengan timeline biaya pendaftaran. 
+
+2. Peserta/Tim diwajibkan memiliki akun Kaggle yang akan 
+digunakan selama perlombaan berlangsung. 
+
+3. Peserta/Tim diwajibkan untuk mengisi setiap data yang 
+ada di formulir pendaftaran Data Science ARA di situs 
+resmi ARA 7.0 dengan benar dan dapat 
+dipertanggungjawabkan. 
+
+4. Peserta/Tim dapat melakukan pembayaran biaya 
+pendaftaran sesuai dengan nominal biaya pendaftaran 
+yang telah ditentukan ke rekening yang disediakan di 
+website pendaftaran. 
+
+5. Peserta/Tim yang telah melengkapi berkas pendaftaran 
+akan diverifikasi oleh panitia dalam rentang waktu 2x24 
+(empat puluh delapan) jam. Apabila tim belum diverifikasi 
+dalam rentang waktu tersebut, peserta dapat 
+menghubungi panitia melalui Contact Person yang 
+tersedia. 
+
+y ‘lo : 
+
+
+
+TIMELINE 
+PERLOMBAAN 
+
+
+
+BABAK PENYISIHAN 
+Tahap penyisihan diikuti oleh seluruh tim yang telah 
+terdaftar resmi pada cabang lomba Data Science ARA 7.0. 
+Pada tahap ini, peserta akan berkompetisi untuk 
+memperebutkan posisi di tahap final. 
+1. Babak penyisihan dilakukan secara online melalui 
+
+platform Kaggle Competition. 
+. Dataset akan disediakan oleh panitia pada page Kaggle 
+Competition. 
+
+. Kompetisi berlangsung selama delapan hari yaitu pada 
+tanggal 5 — 12 Februari 2026. 
+
+. Sistem leaderboard kaggle akan diperbarui secara 
+otomatis, sehingga peserta dapat melihat peringkat 
+secara real-time 
+
+. Di akhir babak penyisihan, panitia akan melakukan 
+penilaian terhadap hasil pekerjaan dari peserta. 
+
+. Berdasarkan penilaian akhir, panitia akan mengumumkan 
+
+5 (lima) tim peserta dengan hasil tertinggi yang lolos ke 
+babak final. pengumuman akan dilakukan melalui email 
+dan instagram. 
+
+BABAK FINAL 
+Tahap final diikuti oleh 5 tim terbaik dari tahap penyisihan, 
+berdasarkan penilaian akhir dari skor kaggle. 
+1. Para finalis akan melakukan presentasi final yang 
+
+dilakukan pada tanggal 28 Februari secara luring di 
+Departemen Teknologi Informasi Institut Teknologi 
+Sepuluh Nopember. Juri akan melakukan penilaian 
+terhadap presentasi, tanya jawab kepada peserta, dan 
+menilai jawaban dari peserta tersebut. 
+
+. Penilaian pada tahap ini berfokus pada kemampuan 
+presentasi dan komunikasi insight yang telah ditemukan. 
+
+. Ketentuan lebih lanjut mengenai tahap final akan 
+dijelaskan di Panduan Tahap Final yang akan dikirimkan 
+kepada Setiap finalis. 
+
+
+
+TEKNIS LOMBA 
+
+ese 
+
+= 
+
+- Setiap peserta diminta membuat prediksi dengan 
+memanfaatkan metode machine learning atau deep 
+learning menggunakan dataset yang diberikan oleh 
+panitia. 
+
+- Peserta memiliki kebebasan penuh dalam memilih 
+platform, bahasa pemrograman, dan library yang akan 
+digunakan selama kompetisi berlangsung. 
+
+- Selama perlombaan, peserta tidak diperbolehkan 
+melakukan prediksi secara manual maupun 
+mengumpulkan hasil prediksi yang tidak dihasilkan 
+melalui model. 
+
+* Peserta tidak diperkenankan untuk bekerja sama, saling 
+membagikan hasil pengerjaan, atau melakukan tindakan 
+plagiarisme kode antar tim. 
+
+- Peserta dilarang menggunakan model LLM (Large 
+Language Model), AutoML, maupun teknologi Generative 
+Al seperti ChatGPT, Claude, Gemini, DeepSeek dan 
+model serupa sebagai alat untuk melakukan prediksi. 
+
+- Informasi dan peraturan tambahan akan diumumkan 
+melalui halaman kompetisi di Kaggle. 
+
+- Dokumentasi pada notebook wajib ditulis menggunakan 
+Bahasa Indonesia atau Bahasa Inggris. Pemilihan bahasa 
+tidak akan memengaruhi proses penilaian. 
+
+* Tim wajib mencantumkan nama yang sama dengan nama 
+yang terdaftar. Apabila terdapat ketidaksesuaian nama 
+tim di Kaggle atau pada berkas submisi, maka tim 
+dianggap tidak melakukan pengumpulan atau wajib 
+melakukan konfirmasi ulang kepada panitia. 
+
+- Setiap peserta wajib memastikan bahwa model yang 
+dibuat dapat direproduksi oleh panitia. 
+
+
+
+| PENYISIHAN] 
+G Dataset akan tersedia di Kaggle dan masing masing tim 
+
+dapat mengirimkan hasil prediksi maksimal lima kali 
+dalam satu hari. Dari seluruh submisi, hanya tiga yang 
+akan dipertimbangkan sebagai penilaian private score 
+dan panitia akan memilih nilai terbaik di antara 
+ketiganya. 
+
+* Semua proses submisi wajib dilakukan sebagai tim 
+melalui Kaggle. Submisi individu tidak diperbolehkan. 
+
+- Public score pada leaderboard Kaggle hanya 
+menampilkan tiga puluh persen dari total data uji. 
+
+- Panitia akan mengevaluasi hasil penyisihan berdasarkan 
+metrik penilaian prediksi dan kualitas dokumentasi pad 
+notebook. Sebanyak 5 (lima) tim dengan nilai terbaik 
+berhak melanjutkan ke babak final. 
+
+- Pada tahap final, finalis diminta mempertahankan 
+kualitas model yang telah dikembangkan sebelumnya 
+pada babak penyisihan dan menyusun solusi terbaik 
+berdasarkan analisis yang telah dilakukan, 
+
+- Setiap tim diwajibkan membuat slide presentasi yang 
+berisi penjelasan lengkap mengenai solusi yang telah 
+dirancang. Konten presentasi setidaknya mencakup 
+namun tidak terbatas pada: 
+
+- Pemahaman terhadap permasalahan yang 
+diselesaikan. 
+
+- Insight penting dan hasil analisis data. 
+- Rancangan dan penjelasan metode atau model yang 
+diusulkan 
+
+- Hasil dan pembahasan eksperimen model 
+- Kesimpulan dan saran pengembangan lebih lanjut. 
+
+- Setiap tim wajib mengirimkan slide presentasi dalam 
+format PDF melalui platform yang ditentukan oleh 
+panitia. 
+
+- Presentasi dilakukan dengan durasi pemaparan selama 
+10 menit dan dilanjutkan sesi tanya jawab dari juri 
+dengan durasi maksimal 20 menit. 
+
+
+
+TIMELINE 
+PENDAF TARAN 
+
+
+
+BERKAS 
+PENDAF TARAN 
+
+- Kartu Identitas Pelajar/Mahasiswa atau Surat | 
+Keterangan terlegalisir resmi dari Sekolah/ Perguruan_ | 
+Tinggi yang dapat menjadi bukti keterangan sebagai 
+
+| siswa SMA/SMK sederajat atau mahasiswa Perguruan 
+
+Tinggi $1/D3/ Sederajat yang masih aktif. 
+- Bukti Re-Upload Poster Data Science ARA 7.0 di story 
+instagram yang disediakan pada its.id/m/PosterDSARA7 
+
+- Bukti telah mengikuti sosial media ARA @ara_its 
+
+gt araits XX ara__its jm ARA7.0 @) ara-its.id 
+
+
+
+IWNIS 
+NVIV lINSd 
+
+NVIVIINad @ 
+wWaisis < 
+
+~w 
+
+
+
+@ KETENTUAN 
+f DISKUALIFIKA S
+
+.e  
+
+Peserta akan didiskualifikasi jika terindikasi melakukan 
+salah satu dari perbuatan berikut, baik secara sengaja | 
+maupun tidak sengaja: 
+1. Peserta yang terdaftar lebih dari 1 tim. 
+2. Tim yang tidak memenuhi syarat administrasi. 
+3. Melakukan kolaborasi dengan tim lain ataupun dengan 
+
+pihak di luar kompetisi. 
+4. Menyalin atau menjiplak karya milik tim lain maupun 
+
+pihak eksternal dalam bentuk apa pun. , 
+5. Melakukan tindakan kecurangan atau pelanggaran lain 
+
+yang bertentangan dengan peraturan kompetisi yang | 
+telah dijelaskan pada bagian sebelumnya. | 
+
+6. Melakukan tindakan yang mengganggu pelaksanaan | | 
+
+kompetisi atau menunjukkan perilaku yang tidak sesuai | 
+dengan ketentuan yang berlaku. : 
+
+
+
+PENGHARGAAN 
+
+
+
+{| + Ramzy (+62 812-3425-4904) ‘ 
+J - Viko (+62 856-5553-3503)

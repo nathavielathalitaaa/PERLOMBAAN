@@ -1,0 +1,512 @@
+﻿LATAR BELAKANG BI-OJK Hackathon mengusung 3 (tiga) problem statements:
+I. AI as a Service (AIaaS) for Digital Delivered Service Export
+
+Solusi berdasarkan AIaaS dapat meningkatkan daya saing global, esiensi serta 
+Dalam era digital yang berkembang pesat, inovasi dalam layanan digital dan solusi keuangan mendukung transformasi digital dan pertumbuhan ekonomi melalui ekspor layanan 
+menjadi elemen kunci dalam membangun pertumbuhan ekonomi yang inklusif dan digital. Use case yang diangkat:
+berkelanjutan. a. Personalized Training
+
+b. Multi Language Virtual Assistance
+Hadirnya teknologi seperti AI/ML, cloud computing, dan blockchain telah membuka peluang c. Cross Border Settlement
+baru dalam berbagai sektor. Teknologi tersebut telah merevolusi proses bisnis dengan II. Financial Innovation & Public Services
+mengotomasi proses, meningkatkan esiensi operasional, mengoptimalkan analisis data dalam Solusi dalam memperluas literasi inklusi keuangan digital termasuk menghasilkan 
+skala besar, dan meningkatkan transparansi. Kombinasi teknologi ini perlu dimanfaatkan dalam produk/layanan baru yang inovatif serta mendukung layanan publik. Use case yang 
+mendorong digitally-delivered service export  yang saat ini memiliki pertumbuhan yang semakin diangkat:
+signikan pada pasar global. Indonesia sendiri memiliki potensi besar dalam digitally-delivered a. Financial Literacy Improvement
+service export yang dapat menjadi motor pertumbuhan ekonomi untuk mencapai visi Indonesia b. MSME Business, Credit Rating, And Financial Solution
+Emas 2045 serta mewujudkan Asta Cita dalam bidang ekonomi digital dan layanan publik. c. Public Services Optimization, i.e: Bansos
+
+III. Risk Management & Consumer Protection
+Dalam rangka mengoptimalisasi transformasi dan inovasi digital secara berkelanjutan, diperlukan 
+
+Solusi dalam rangka memitigasi risiko fraud transaksi, kebocoran data pada ekosistem 
+kebijakan pemerintah yang mampu menciptakan lingkungan inovasi yang kondusif, mendukung 
+
+blockchain maupun non-blockchain. Solusi tersebut dapat bermanfaat pada sektor 
+persaingan yang sehat, serta mempercepat pertumbuhan industri digital. Dalam konteks ini, 
+
+pemerintah maupun swasta serta pemberantasan aktivitas judi online. Use case yang 
+BI-OJK Hackathon menjadi wadah strategis untuk menyalurkan kreativitas, mengembangkan 
+
+diangkat:
+solusi inovatif, dan meningkatkan daya saing global terutama dalam manajemen risiko, 
+perlindungan konsumen, inovasi keuangan, dan mendukung penyelenggaraan layanan publik. a. Real-time Fraud Detection System
+
+b. Fraud Prevention
+Kompetisi ini mengusung tema "Empowering the Future: Innovating Digital Services and c. AML/CFT Compliance
+Financial Solutions for Inclusive Growth and Resilient Economy", yang bertujuan untuk d. Capital Outow Detection
+mendorong inovasi digital dalam menciptakan solusi keuangan yang inklusif serta memperkuat e. Smart Contract Audit
+ketahanan ekonomi. Melalui Hackathon ini, peserta diharapkan dapat mengembangkan solusi f. On-Chain Analysis
+berbasis teknologi yang tidak hanya mempermudah akses keuangan bagi masyarakat luas, tetapi 
+juga mendukung keberlanjutan ekonomi di tengah ketidakpastian global melalui kolaborasi 
+lintas sektor, baik antara regulator, pelaku industri, maupun masyarakat. DATA STATISTIK
+
+Innovator Hackaton 2025 meningkat signikankhususnya Statistik Jumlah Problem Statement Finalis
+terkait Financial Innovation, dan Risk Management
+
+2,133 2,336
+Submission PS 1 PS 2 PS 3
+
+457 743
+48% PS 2: 449
+
+63% Top 30 Top 10
+yoy 43% PS 3: 407
+
+Prof. Mahasiswa Prof. Mahasiswa
+9% PS 1: 82
+
+9.5% 3 2 2 1
+yoy
+
+4 7 1 2
+
+2024 2025 8 8 2 2
+
+PENDAFTAR SUBMISI
+
+Statistik Jumlah Problem Statement Finalis
+
+PROFESSIONAL (5) MAHASISWA (5)
+
+Allobank (1) BRI (1) Masyarakat Umum (1) UGM (1) ITB (1) UI (1) BINUS (2)
+
+2 3
+
+
+
+1. Tiwas Tak Gondeli Tenanan Risk Management & Consumer Protection
+
+Problem Statement Nama:
+AHMAD ZAKI AKMAL
+
+Blockchain berkembang pesat, namun aspek keamanannya masih rapuh. Hingga 2025, Keahlian:
+kerugian akibat serangan siber diperkirakan mencapai $11,79 miliar. Audit adalah solusi utama, Full Stack Developer, Designer
+namun jumlah auditor smart contract sangat terbatas. Dalam mengatasi keterbatasan tersebut, 
+salah satu pendekatannya melalui bantuan Large Language Models (LLM) tetapi terdapat isu LinkedIn/Prole:
+
+https://www.linkedin.com/in/ahmad-zaki-akmal/
+mengenai besarnya carbon footprint yang dihasilkan ketika LLM inference.
+
+Solution
+Nama:
+
+GardaChain adalah platform audit keamanan smart contract berbasis Lightweight LLM. BAGUS RAKADYANTO O.P.
+Teknologi ini membantu auditor menemukan celah, menilai tingkat risiko, dan memberi Keahlian:
+rekomendasi hanya dalam hitungan menit. Auditor cukup memvalidasi, lalu laporan audit AI Engineer, Software Architect
+langsung siap. Lebih cepat, esien, dan berkelanjutan dibanding pendekatan LLM konvensional.
+
+LinkedIn/Prole:
+linkedin.com/in/bagus-raka
+
+Impact
+
+Dengan GardaChain, ekosistem blockchain menjadi lebih tahan serangan dan potensi kerugian 
+bisa ditekan drastis. Proses audit jadi lebih singkat, biaya lebih esien, dan ramah lingkungan Nama:
+berkat model AI berparameter rendah yang minim carbon footprint. Solusi ini membuka MOH RIZKY ARIF
+peluang besar di pasar audit blockchain global yang terus tumbuh.
+
+Keahlian:
+Backend Developer, Cloud Engineer
+
+LinkedIn/Prole:
+linkedin.com/in/moh-rizky-arif
+
+Scan Here for
+Innovation Deck
+
+4 5
+
+
+
+2. MTAF Impact Financial Innovation & Public Services
+
+Problem Statement Nama:
+MARVEL SUBEKTI
+
+Indonesia memiliki 65,5 juta UMKM, namun hanya 15,7% yang menembus pasar global. 
+Padahal UMKM menyumbang 61% PDB dan menyerap 97% tenaga kerja. Pemerintah Keahlian:
+menargetkan ekspor UMKM sebesar 9,63% pada tahun 2025 dan 21,57% pada tahun 2029. Prototyping, UX Designer
+tapi tanpa teknologi, proses ekspor tetap rumit, mahal, dan membatasi akses UMKM ke pasar LinkedIn/Prole:
+dunia. Oleh karena itu, diperlukan inovasi berbasis teknologi yang mampu menyederhanakan https://id.linkedin.com/in/marvel-subekti
+proses persiapan ekspor, memperluas akses pasar internasional, serta meningkatkan partisipasi 
+UMKM di ranah perdagangan global.
+
+Solution Nama:
+KINANTI W. ASIH
+
+UMKM SIAP adalah AI-powered Smart Export Consultant berbasis web yang menyederhanakan 
+persiapan ekspor. Keahlian:
+- Export Readiness Check » asesmen + rekomendasi personal. Data Science
+- Market Intelligence » AI analisis data global untuk pasar terbaik.
+- B2B Automatching » koneksi otomatis ke buyer internasional + email multibahasa. LinkedIn/Prole:
+- AI Export Buddy » asisten ekspor 24/7. https://id.linkedin.com/in/kinanti-wening-asih
+
+- Document Center » dokumen ekspor sesuai standar internasional.
+
+Dengan AI, UMKM bisa ekspor lebih cepat, murah, dan terarah.
+
+Nama:
+Impact TIMOTHY SUBEKTI
+
+Keahlian:
+UMKM SIAP menyederhanakan proses persiapan ekspor, membuka peluang perdagangan baru Git, Java, Golang, Node.js, Next.js, React Native, AWS
+senilai $10 juta pada 2026 dan lebih dari $50 juta pada 2029.
+
+LinkedIn/Prole:
+Solusi ini juga mendukung tercapainya target ekspor UMKM sebesar $35 miliar pada 2029, dan https://id.linkedin.com/in/timothy-subekti
+target kontribusi 70% PDB (2028), serta melahirkan generasi UMKM global yang siap bersaing 
+di pasar internasional.
+
+Scan Here for Nama:
+Innovation Deck M. FADHIL AMRI
+
+Keahlian:
+Data Analysis, ML, NLP, Agentic AI, TensorFlow, Torch
+
+LinkedIn/Prole:
+https://id.linkedin.com/in/fadhilamri/in
+
+6 7
+
+
+
+3. KancaKids AI as a Service for Digital Delivered Service Export
+
+Problem Statement Nama:
+JAMES ALVIN DHANARDI
+
+Anak dan remaja Indonesia punya literasi nansial rendah (51,86%), bahkan lebih rendah dari Keahlian:
+kelompok lansia. Akibatnya, perilaku berisiko seperti judi online, kecanduan game berbayar, AI Development, Data Science
+hingga korupsi sejak muda terus meningkat.
+Akar masalah: edukasi nansial tidak menarik bagi anak. LinkedIn/Prole:
+
+https://www.linkedin.com/in/james-dhanardi/?originalSubdomain=id
+
+Solution
+
+Kami membuat literasi nansial jadi petualangan seru: anak mengambil keputusan, merasakan Nama:
+konsekuensi, dan belajar mengelola uang lewat cerita yang mereka ciptakan sendiri. WISNU PUTRA
+
+Bagi guru & orang tua, tersedia dashboard AI untuk memantau kemajuan, memberi Keahlian:
+rekomendasi personal, dan menyesuaikan dengan kurikulum nasional. Pengembangan API dan Cloud Computing
+
+LinkedIn/Prole:
+https://www.linkedin.com/in/wisnuputraaa/?originalSubdomain=id
+
+Impact
+
+KANCA menghadirkan dampak nyata:
+- 59 % pemahaman nansial anak Nama:
+- 80 % antusiasme belajar NICHOLAS LORENZO SETIAWAN
+- 40 % waktu guru & orang tua lebih banyak untuk pengembangan anak
+Dalam jangka panjang: Keahlian:
+- Penurunan 60–80% perilaku nansial negatif UI/UX & Machine Learning
+- 70% sekolah mitra terintegrasi LinkedIn/Prole:
+- Literasi nansial naik ke 69,35% https://www.linkedin.com/in/nicholaslorenzosetiawan/?originalSubdomain=id
+Visi kami: Mencetak generasi cerdas nansial & berkarakter jujur menuju Indonesia Emas 2045.
+
+Scan Here for Nama:
+Innovation Deck HIBATULLAH FAWWAZ HANA
+
+Keahlian:
+Frontend & Software Engineering
+
+LinkedIn/Prole:
+https://id.linkedin.com/in/hib4
+
+8 9
+
+
+
+4. Double Core Team Financial Innovation & Public Services
+
+Problem Statement Nama:
+SYAHRUL APRIANSYAH
+
+Penyaluran Bantuan Langsung Tunai (BLT) di Indonesia menghadapi tantangan serius berupa Keahlian:
+salah sasaran. Sistem verikasi berbasis angka gagal menangkap konteks sosial nyata, sehingga Back-end / AI Engineer Developer
+banyak keluarga rentan terlewat atau tidak tepat menerima bantuan.
+
+LinkedIn/Prole:
+http://linkedin.com/in/failasuf-indi/
+
+Solution
+
+SIBISA (Sistem Intelijen BLT & Inklusi Sosial Adaptif) memadukan AI + narrative intelligence + Nama:
+RAG untuk membaca data naratif (wawancara, musyawarah desa, laporan lapangan). FAILASUF INDI MARSENDY
+Hasilnya: skor kelayakan yang transparan, deteksi anomali, rekomendasi adaptif, serta edukasi Keahlian:
+nansial personal untuk penerima manfaat. Team Leader/ Front-end / AI Engineer Developer
+
+LinkedIn/Prole:
+https://www.linkedin.com/in/syahrul-apriansyah-257bab207/
+
+Impact
+
+SIBISA menjadikan distribusi BLT lebih tepat sasaran, transparan, dan adaptif. Tidak hanya 
+menyalurkan bantuan, tapi juga membangun literasi keuangan keluarga penerima. Dengan 
+itu, SIBISA berpotensi menjadi standar baru bansos nasional, meningkatkan kepercayaan 
+publik, dan menghadirkan keadilan sosial yang lebih merata.
+
+Scan Here for
+Innovation Deck
+
+10 11
+
+
+
+5. Chain Intelligence Risk Management & Consumer Protection
+
+Problem Statement Nama:
+ADZIN ZHALIFUNNAS
+
+Tingginya volume transaksi di ekosistem kripto Indonesia telah meningkatkan risiko fraud dan Keahlian:
+kejahatan nansial. Masalah utamanya adalah kesulitan dalam melakukan on-chain Product Owner
+analysis secara esien dan sesuai regulasi serta kondisi di Indonesia. Proses audit dan risk 
+management yang masih manual membuat pengawasan menjadi lambat dan rentan kesalahan. LinkedIn/Prole:
+
+https://www.linkedin.com/in/adzin-zhalifunnas/
+
+Solution
+
+Chain Intelligence Analytics (CIA) adalah platform pengawasan kripto berbasis real-time Nama:
+
+on-chain analysis.CIA berfokus pada dua tur utama: ELLEN CHANDRA
+- Compliance Dashboard » memantau kepatuhan regulasi dengan visualisasi data otomatis. Keahlian:
+- Smart Alarm » mendeteksi aktivitas mencurigakan & memberi peringatan dini. Product Designer
+
+Dengan CIA, regulator bisa menggantikan audit manual dengan pengawasan otomatis, akurat, LinkedIn/Prole:
+dan adaptif terhadap regulasi terbaru. https://www.linkedin.com/in/ellen-chandra/
+
+Impact
+Nama:
+
+CIA memperkuat integritas pasar aset digital di Indonesia: JOSEPH CHRISTIAN Y.
+- Esiensi regulasi: beban audit manual berkurang hingga 80%. Keahlian:
+- Integritas pasar: fraud dicegah, kepercayaan publik tumbuh. Engineer
+- Perlindungan konsumen: rasa aman meningkat, target kepercayaan naik 50%.
+
+LinkedIn/Prole:
+CIA berpotensi menjadi standar pengawasan kripto nasional, menghubungkan kepatuhan, https://www.linkedin.com/in/joseph-yusmita/
+keamanan, dan kepercayaan dalam satu platform.
+
+Scan Here for Nama:
+Innovation Deck VINCENT WINSEN T.
+
+Keahlian:
+Engineer
+
+LinkedIn/Prole:
+https://www.linkedin.com/in/vincent-winsen-trijunius/
+
+12 13
+
+
+
+6. Meaningful Intelligence Risk Management & Consumer Protection
+
+Problem Statement Nama:
+SIGIT WIDODO
+
+Sepanjang November 2024 hingga Agustus 2025, kerugian akibat penipuan digital di Indonesia Keahlian:
+menembus lebih dari Rp 4,6 triliun. Modus‐modus seperti rekayasa sosial dan mule account lolos Solution Architect
+karena pengawasan masih terpisah-pisah antara rekening bank, dompet digital, dan kanal lain 
+serta transaksi digital yang terus meningkat. LinkedIn/Prole:
+
+linkedin.com/in/sigit-widodo-27b05b17a
+
+Solution
+Nama:
+
+Garda AI menjawab tantangan itu dengan platform Transaction Risk Intelligence untuk deteksi 
+THARIQ ISKANDAR Z M P
+
+fraud & anomali secara real-time berbasis Hybrid Graph-AI Federatif. Solusi ini menyatukan data 
+transaksi bank, dompet digital, QRIS, hingga blockchain tanpa memindahkan data mentah. Keahlian:
+Arsitektur federatifnya mencegah single-point-of-failure sambil tetap memproses volume AI/ML Engineer
+transaksi masif secara real-time.
+
+LinkedIn/Prole:
+linkedin.com/in/thariqizmp
+
+Impact
+
+1. Konsumen : Transaksi digital lebih aman, kepercayaan naik. Nama:
+2. Ekonomi Digital Indonesia : Biaya fraud berkurang signikan, menumbuhkan keyakinan BIMO SATRIO AJI
+publik, memperluas penetrasi pembayaran digital, serta mendorong konsumsi dan inklusi 
+keuangan. Keahlian:
+3. Bank Indonesia : Visibilitas lintas-platform serta alat pengawasan sistemik real-time. Data Specialist
+4. Otoritas Jasa Keuangan : Framework risk-based supervision yang terukur serta bukti 
+kepatuhan dan pelaporan STR otomatis mempercepat penindakan hukum. LinkedIn/Prole:
+
+linkedin.com/in/bimooaji
+
+Scan Here for
+Innovation Deck
+
+14 15
+
+
+
+7. IONIFY AI as a Service for Digital Delivered Service Export
+
+Problem Statement Nama:
+MUHAMAD LUTHFI REYNALDI
+
+1. Inesiensi Onboarding: Proses onboarding dan upskilling lambat, menyebabkan rendahnya Keahlian:
+produktivitas, tingginya turnover, dan beban tambahan bagi karyawan senior. Data Scientist
+2. Akses Pengetahuan Terbatas: Pengetahuan sulit diakses dan tidak terstruktur, membuat LinkedIn/Prole:
+karyawan baru kesulitan. https://www.linkedin.com/in/luthrey/
+
+3. Keterbatasan Solusi Pasar: LMS, KMS, dan platform pelatihan umum bersifat pasif dan tidak 
+mampu memberikan konten yang relevan dan kontekstual secara otomatis.
+
+Nama:
+Solution QAIS JABBAR
+
+Keahlian:
+Tara adalah platform AIaaS yang bertujuan mempercepat kapabilitas talenta digital untuk Cloud Engineer
+mendorong produktivitas dan daya saing ekonomi digital. Tara menyintesis pengetahuan 
+internal secara cerdas dan real-time menjadi pembelajaran yang personal, interaktif, dan LinkedIn/Prole:
+relevan bagi setiap karyawan. https://www.linkedin.com/in/qaisjabbar/
+
+Impact
+Nama:
+
+Efektivitas Pelatihan: MUCHAMMAD GEMA
+- Meningkatkan Knowledge Retention Score sebesar 30% dibanding pelatihan tradisionalk Keahlian:
+- Mencapai Training Completion Rate di atas 90% berkat konten yang relevan dan personal. Backend Engineer
+Esiensi Operasional: LinkedIn/Prole:
+- Menurunkan New Hire Turnover Rate sebesar 15% dengan pengalaman onboarding yang lebih https://www.linkedin.com/in/gemaakbar07/
+baik.
+
+Scan Here for
+Innovation Deck
+
+16 17
+
+
+
+8. Niriksagara Financial Innovation & Public Services
+
+Problem Statement Nama:
+RYAN AGATHA
+
+1. Tidak ada peta risiko nasional untuk memantau kondisi jalan & jembatan secara objektif dan Keahlian:
+aktual. Selain itu, keputusan perbaikan jalan belum berdasarkan urgensi dan dampak ekonomi AI Engineer
+2. Dalam rangka esiensi anggaran, pemanfaatan skal berbasis prioritas ekonomi dan risiko LinkedIn/Prole:
+menjadi hal mendesak https://id.linkedin.com/in/ryan-agatha-282199bb
+
+Solution
+Nama:
+
+Platform berbasis AI + computer vision untuk memantau infrastruktur secara real-time melalui 3 REZAQUL KHAQ
+stream utama:
+1. Pantau:  deteksi kerusakan otomatis dari citra. Keahlian:
+2. Prioritaskan: pemetaan risiko berdasar dampak ekonomi, logistik, & ketahanan pangan. Structural Engineer
+3. Kelola: dashboard prioritas perbaikan dan skema pembiayaan kreatif.
+
+LinkedIn/Prole:
+https://au.linkedin.com/in/rezaqul-khaq-a14a538a
+
+Impact
+
+1. Tersedia Peta Skala Risiko Pengelolaan Infrastruktur yang memuat tingkatan urgensi perbaikan
+Nama:
+
+2. Perencanaan berbasis data (evidence-based planning) dan risiko M RIFQI AZIZ
+
+3. Evaluasi pelaksanaan anggaran berbasis hasil (performance-based budgeting) Keahlian:
+Software Engineer
+
+4. Inovasi pembiayaan non-APBD untuk daerah yang memiliki keterbatasan anggaran
+LinkedIn/Prole:
+https://id.linkedin.com/in/muhammad-rifqi-aziz-47327b236
+
+Scan Here for Nama:
+Innovation Deck FRANCISCUS LEONARDO
+
+Keahlian:
+Pavement (Road & Bridge) Engineer
+
+LinkedIn/Prole:
+
+18 19
+
+
+
+9. Dewantara AI as a Service for Digital Delivered Service Export
+
+Problem Statement Nama:
+GITA PRASULISTIYONO PUTRA
+
+AI jadi mesin pertumbuhan global, tapi 99% UMKM, guru, dan aparat desa di Indonesia Keahlian:
+tertinggal karena biaya, waktu, dan keahlian teknis. Membangun chatbot AI butuh bulan dan 
+ratusan juta, sehingga hanya segelintir korporasi yang bisa. Akibatnya, jurang digital melebar 
+dan potensi ekonomi lokal tidak tergarap. LinkedIn/Prole:
+
+https://id.linkedin.com/in/gitaprasulistiyono
+
+Solution
+
+Dewantara adalah platform “AI in 5 minutes” berbasis WhatsApp. Cukup unggah dokumen 
+atau deskripsi kebutuhan, sistem otomatis membangun chatbot RAG AI siap pakai tanpa 
+coding, tanpa infrastruktur mahal. Bisa dipakai untuk customer service UMKM, asisten pengajar, 
+informasi publik desa, hingga monetisasi konten digital.
+
+Impact
+
+Dewantara mendemokratisasi AI di Indonesia:
+- Target 12,7 juta pengguna aktif bulanan 2030
+- Menurunkan biaya adopsi AI hingga >90%
+- Meningkatkan daya saing UMKM & literasi digital masyarakat
+- Proyeksi revenue Rp 773,8 miliar pada 2030
+
+Dengan model AIaaS inklusif, Dewantara bukan sekadar teknologi, tapi gerakan untuk 
+menjadikan masyarakat Indonesia pelaku, bukan penonton, dalam ekonomi digital.
+
+Scan Here for
+Innovation Deck
+
+20 21
+
+
+
+10. Orbit Risk Management & Consumer Protection
+
+Problem Statement Nama:
+MUHAMMAD FARHAN ZAHID
+
+Kerugian akibat online fraud di Indonesia pada 2025 mencapai Rp3,2 triliun dengan 14.495 Keahlian:
+laporan kasus, menjadikannya kejahatan siber paling banyak dilaporkan. Modus scam Project Leader and Project Management
+berkembang cepat (teks, gambar, video, URL, dokumen), sementara literasi digital rendah 
+dan solusi yang ada belum mampu mendeteksi serta mencegah fraud secara real-time. LinkedIn/Prole:
+
+http://ipb.link/portfolio-zahid
+
+Solution
+
+ChatBIJAK adalah platform AI untuk pencegahan fraud digital secara end-to-end: Nama:
+
+- Analisis teks, video, gambar, URL, & dokumen secara instan MUHAMMAD IRSYAD ROBBANI
+- Ditenagai GraphRAG + SearXNG untuk hasil kontekstual sesuai regulasi Indonesia Keahlian:
+- Dashboard real-time untuk masyarakat, regulator, dan bank dalam investigasi tren penipuan AI / Data Engineer
+
+ChatBIJAK bekerja langsung di kanal pesan populer (WhatsApp, Telegram, dsb.), membuat LinkedIn/Prole:
+proteksi bisa diakses semua lapisan masyarakat tanpa hambatan teknis. github.com/Irsyadobby
+
+Impact
+Nama:
+
+1. Masyarakat: terlindungi dari penipuan digital, serta meningkatkan kepercayaan pada layanan MUHAMMAD DZAKWAN ALIFI
+keuangan digital. Keahlian:
+2. Regulator: mendapatkan insight berbasis data real-time untuk kebijakan anti-fraud yang AI Engineer / Backend Developer
+adaptif. LinkedIn/Prole:
+3. Ekonomi Digital: menurunkan kerugian akibat fraud, menaikkan kepercayaan publik, dorong https://github.com/dzakwanali/
+
+pertumbuhan transaksi digital yang lebih inklusif & aman.
+
+Scan Here for
+Innovation Deck
+
+22 23

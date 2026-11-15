@@ -1,0 +1,539 @@
+﻿gui
+debook Peserta 
+
+Isoterm
+Oktan ITB 2027
+
+
+
+Deskripsi Lomba
+ISOTERM (Indonesia’s Innovative Research Competition) merupakan
+kompetisi karya tulis ilmiah tingkat nasional yang diselenggarakan oleh
+OKTAN ITB dan terbuka bagi seluruh mahasiswa aktif di Indonesia.
+ISOTERM hadir sebagai wadah bagi mahasiswa untuk mengembangkan
+ide, inovasi, dan gagasan kreatif dalam menjawab berbagai tantangan
+di masyarakat, khususnya melalui penerapan ilmu kimia yang mendukung
+keberlanjutan. Melalui ISOTERM, mahasiswa diharapkan dapat
+berkolaborasi dan berkontribusi melalui karya ilmiah yang memberikan
+dampak bagi masyarakat, lingkungan, serta kemajuan pendidikan di
+Indonesia.
+
+
+
+Tema
+The Molecular Spark: Chemical Innovation
+
+to Heal the Earth
+
+Tema “The Molecular Spark: Chemical Innovation to Heal the Earth”
+terinspirasi dari zona hadal, wilayah terdalam lautan yang berada lebih
+dari 6.000 meter di bawah permukaan laut, tempat kehidupan tetap
+bertahan dalam kondisi ekstrem dan menghasilkan cahayanya sendiri.
+Fenomena tersebut menjadi simbol bahwa perubahan dapat bermula
+dari percikan kecil, termasuk dari reaksi dan inovasi pada tingkat
+molekuler, yang kemudian berkembang menjadi solusi bagi persoalan
+lingkungan. Melalui tema ini, OKTAN ITB 2027 mengajak peserta untuk
+menjelajahi berbagai bidang ilmu kimia dan menghasilkan gagasan
+serta inovasi yang dapat berkontribusi dalam menjawab tantangan
+lingkungan dan membantu memulihkan bumi.
+
+
+
+Tahapan Lomba
+1. Tahap Seleksi Abstrak
+Pada tahap ini, setiap tim diwajibkan untuk melakukan pendaftaran dan
+pengunggahan abstrak sebagai bagian dari proses seleksi awal. Tim
+yang dinyatakan lolos seleksi abstrak akan diumumkan secara resmi
+melalui email kepada ketua tim masing-masing.
+
+2.Tahap Seleksi Full Paper
+Pada tahap ini, tim yang telah lolos seleksi abstrak akan melanjutkan ke
+tahap pengumpulan full paper. Ketentuan teknis, termasuk mekanisme
+dan jadwal pembayaran, akan diinformasikan lebih lanjut oleh panitia.
+Pada tahap ini akan dipilih lima tim finalis yang hasilnya akan
+diumumkan secara resmi melalui akun Instagram OKTAN ITB (@oktanitb).
+
+3.Final
+Pada tahap ini, lima tim finalis teratas akan melakukan presentasi karya
+(pitching) di hadapan dewan juri secara luring. Setiap tim diwajibkan
+untuk menampilkan prototipe ataupun video produk/gagasan sebagai
+bentuk pendukung dari ide yang dikembangkan. Dewan juri pada tahap
+ini terdiri atas dosen dari berbagai kelompok keilmuan di Program Studi
+Kimia ITB. Setelah sesi presentasi, kegiatan akan dilanjutkan dengan
+pameran inovasi karya finalis yang bersifat terbuka untuk umum
+sehingga masyarakat dapat melihat dan mengenal lebih dekat hasil
+inovasi para peserta.
+
+
+
+Subtema
+Critical Elements 
+Green Extraction and Recovery of Rare Earth Metals
+
+Subtema ini berfokus pada upaya memperoleh unsur kritis, seperti logam khusus dan
+tanah jarang, melalui proses ekstraksi dan pemurnian yang lebih ramah lingkungan. Unsur
+kritis dapat diperoleh dari sumber primer, seperti bijih mineral, maupun sumber sekunder,
+seperti limbah elektronik melalui konsep urban mining. Prosesnya dapat memanfaatkan
+green solvent, seperti DES/NADES, atau bioleaching dengan bantuan mikroorganisme
+untuk meningkatkan perolehan unsur kritis sekaligus meminimalkan dampak lingkungan.
+
+Environmental Restoration
+Chemical Solutions for Soil and Water Pollution
+
+Subtema ini berfokus pada penerapan ilmu kimia dalam mengatasi pencemaran tanah
+dan perairan akibat logam berat, pestisida, senyawa organik berbahaya, dan
+kontaminan lainnya. Pengembangan dapat diarahkan pada teknologi untuk mengurangi
+keberadaan polutan di lingkungan, seperti adsorpsi menggunakan zeolit, filtrasi
+membran, fotokatalisis untuk menguraikan polutan organik, maupun bioremediasi
+menggunakan mikroorganisme. Inovasi tersebut diharapkan dapat menghasilkan metode
+pengolahan yang lebih efektif dan mendukung pemulihan kualitas lingkungan.
+
+Circular Materials
+Molecular Design for Sustainable Alternatives
+
+Subtema ini berfokus pada perancangan material dengan sifat dan fungsi tertentu
+untuk mengurangi dampak lingkungan dari material konvensional. Pengembangannya  
+memanfaatkan sumber terbarukan maupun limbah melalui pengaturan struktur,
+komposisi, dan modifikasi kimia. Prinsip green chemistry, seperti penggunaan bahan
+baku terbarukan dan perancangan material agar dapat terdegradasi, dapat diterapkan
+dalam pengembangan bioplastik berbasis pati, biokomposit, material berbasis selulosa,
+serta alternatif bahan aditif yang sulit terurai dan berpotensi bioakumulatif.
+
+
+
+Subtema
+Molecular Synthesis
+Renewable Feedstocks to Chemical Products
+
+Subtema ini berfokus pada pemanfaatan biomassa sebagai bahan baku terbarukan
+untuk menghasilkan bahan kimia melalui sintesis dan transformasi molekul.
+Kandungan biomassa, seperti karbohidrat, lignin, lipid, dan metabolit sekunder,
+dapat diolah menjadi commodity chemicals maupun fine chemicals. Prosesnya
+dapat melibatkan sintesis organik, katalisis, biotransformasi, dan pendekatan
+kemoenzimatik, seperti produksi bioetanol, esterifikasi minyak nabati menggunakan
+lipase, dan transformasi lignin menjadi vanilin.
+
+Energy Transition
+Renewable Energy & Carbon Capture
+
+Subtema ini berfokus pada pengembangan teknologi kimia untuk mendukung
+peralihan menuju energi bersih dan mengurangi emisi gas rumah kaca. Pemanfaatan
+energi terbarukan dapat dikembangkan melalui sel bahan bakar (fuel cells),
+elektrolisis air untuk menghasilkan hidrogen hijau, serta sistem penyimpanan energi.
+Selain itu, emisi CO₂ dapat ditangani melalui teknologi Carbon Capture, Utilization,
+and Storage (CCUS), yang mencakup penangkapan CO₂ untuk kemudian
+dimanfaatkan sebagai bahan baku kimia dan bahan bakar.
+
+
+
+Timeline
+10 Oktober 2026 – 1 November 2026
+Registrasi dan Pengumpulan Abstrak
+
+Pukul 23.59 WIB
+
+16 November 2026
+Pengumuman Lolos Abstrak
+
+Pukul 15.00 WIB
+17 November 2026 - 9 Desember 2026
+Pengumpulan Full Paper Gelombang 1
+
+Pukul 23.59 WIB
+10 Desember 2026 – 3 Januari 2027
+Pengumpulan Full Paper Gelombang 2
+
+Pukul 23.59 WIB
+18 Januari 2027
+
+Pengumuman Finalis
+
+Pukul 15.00 WIB
+18 – 19 Januari 2027
+
+Konfirmasi Kehadiran Peserta
+
+20 Januari 2027
+Technical Meeting
+
+Daring
+
+ 21 – 29Januari 2027
+Pengumpulan PPT dan Poster
+
+Pukul 23.59 WIB
+
+30 – 31 Januari 2027
+Presentasi Final dan Pameran Karya
+
+Kampus Ganesha, ITB
+
+
+
+Ketentuan Umum Peserta
+Peserta adalah mahasiswa aktif pada jenjang Strata-1 atau vokasi yang berasal
+dari Perguruan Tinggi Negeri maupun Swasta di seluruh Indonesia, dari berbagai
+program studi, kecuali Program Studi Kimia ITB. Status mahasiswa aktif wajib
+dibuktikan melalui Kartu Tanda Mahasiswa (KTM) atau surat keterangan aktif kuliah.
+
+Peserta bersifat tim/kelompok. Satu tim terdiri dari 2-3 peserta dengan satu
+peserta sebagai ketua. Setiap peserta boleh terdaftar pada maksimal 2 tim, tetapi
+hanya boleh menjadi ketua tim pada salah satu tim.
+
+Anggota tim berasal dari perguruan tinggi yang sama dan dibolehkan berasal
+dari jurusan atau program studi yang berbeda.
+
+Satu tim dapat mengirimkan maksimal 2 karya dengan ketua kelompok yang
+berbeda.
+
+Setiap tim harus memiliki dosen pembimbing yang dibuktikan melalui dokumen
+keterangan dosen pembimbing.
+
+Karya yang dikirimkan merupakan naskah orisinal atau tidak melakukan plagiat,
+dibuktikan  dengan lembar orisinalitas yang telah disediakan oleh panitia.
+
+Karya yang diajukan belum pernah menang di perlombaan mana pun dan tidak
+dalam proses perlombaan lain.
+
+Apabila terdapat kecurangan yang ditemukan oleh panitia, baik sebelum, selama,
+ataupun setelah kompetisi berlangsung, maka peserta yang bersangkutan
+dinyatakan GUGUR atau DISKUALIFIKASI.
+
+Keputusan dewan juri bersifat mutlak dan tidak dapat diganggu gugat.
+Seluruh nilai dan rincian penilaian karya tulis ilmiah bersifat internal dan tidak
+dipublikasikan maupun diberikan kepada peserta.
+
+
+
+Tahap Registrasi
+Pendaftaran terakhir dapat dilakukan pada tanggal 8 November 2026 melalui
+tautan oktan2027.vercel.app
+
+Setiap tim mengunggah satu buah berkas (PDF maks. 2 MB) yang berisi
+dokumen gabungan untuk seluruh anggota tim. Dokumen yang perlu
+dilampirkan adalah sebagai berikut.
+a. Kartu tanda mahasiswa (KTM)*
+b. Pas foto formal berlatar biru/ merah berukuran 3x4
+c. Keterangan dosen pembimbing
+d. Bukti twibbon yang diunggah melalui akun di Instagram pribadi
+* Apabila tidak terdapat kartu tanda mahasiswa (KTM) karena suatu hal, KTM
+dapat diganti dengan surat keterangan aktif dari program studi/departemen.
+
+Twibbon bersifat wajib untuk seluruh anggota dalam tim. Twibbon dan caption
+dapat diakses melalui link bit.ly/KITISOTERM2027
+
+Berkas tersebut dikumpulkan dengan format nama:
+BerkasISOTERM27_Subtema_Nama Tim_Perguruan Tinggi (tidak disingkat)
+Contoh:
+BerkasISOTERM27_Critical Elements_EndoEksoterm_Institut Teknologi Bandung
+
+Data dan berkas yang telah diunggah akan diverifikasi maksimal tiga hari setelah
+penutupan pendaftaran.
+
+Peserta diharapkan memeriksa email (inbox dan spam) secara berkala untuk
+mengetahui status verifikasi.
+
+Apabila belum menerima status verifikasi, harap menghubungi narahubung
+pendaftaran
+
+
+
+Tahap Pengumpulan Abstrak
+Pengumpulan abstrak dilakukan bersamaan dengan tahap pendaftaran melalui
+tautan oktan2027.vercel.app
+
+Pendaftaran dan pengumpulan abstrak tidak dipungut biaya (GRATIS).
+
+File abstrak dikumpulkan dengan format .pdf dengan format penamaan file:
+AbstrakISOTERM27_Subtema_Nama Tim_Perguruan Tinggi (tidak disingkat)
+Contoh:
+AbstrakISOTERM27_Critical Elements_EndoEksoterm_Institut Teknologi Bandung
+
+Pengumuman lolos abstrak akan diumumkan pada tanggal 16 November 2026
+melalui email ketua tim. Peserta yang lolos seleksi abstrak dapat melanjutkan ke
+tahap pengumpulan karya tulis ilmiah.
+
+Ketentuan abstrak dan sistematika penulisan dapat dilihat pada bagian
+ketentuan karya dan sistematika penulisan.
+
+
+
+Tahap Pengumpulan  Full Paper
+Pengumpulan karya tulis ilmiah dan bukti pembayaran dimulai sejak pengumuman
+lolos abstrak hingga 3 Januari 2027 melalui tautan oktan2027.vercel.app
+
+Peserta yang lolos seleksi abstrak dan ingin melanjutkan ke tahap seleksi full
+paper wajib melakukan pembayaran. Pembayaran dibagi menjadi 2 gelombang
+dengan rincian sebagai berikut.
+
+Gelombang Periode Pendaftaran Biaya
+
+1 17 November 2026 - 9 Desember 2026 Rp129.000
+
+2 10 Desember 2026 – 3 Januari 2027 Rp159.000
+
+Pembayaran dapat dilakukan dengan melakukan transfer melalui rekening berikut.
+BCA 7773477991 a. n. Feren Ferinawati
+
+Unggah bukti pembayaran (format JPG/PNG/PDF maks. 2 MB) dengan format
+penamaan file:
+ISOBayar(Gelombang)_Subtema_Nama Tim_Perguruan Tinggi (tidak disingkat)
+Contoh: 
+ISOBAYAR(1)_Critical Elements_EndoEksoterm_Institut Teknologi Bandung
+
+Apabila satu tim mengirimkan dua buah abstrak dan keduanya dinyatakan lolos,
+tim tersebut wajib membayar uang pendaftaran untuk masing-masing karya tulis
+ilmiah yang telah lolos (pembayaran berlaku kelipatan). Pengunggahan bukti
+pembayaran dengan format penamaan file sebagai berikut:
+ISOBayar(Gelombang)_Nama Tim_Perguruan Tinggi (tidak disingkat)_Karya
+
+1/2/1&2*
+Contoh:
+
+ISOBayar(1) EndoEksoterm_Institut Teknologi Bandung_Karya 1
+ISOBayar(1)_ EndoEksoterm_Institut Teknologi Bandung_Karya 2
+
+Atau pembayaran sekaligus dengan penamaan sebagai berikut:
+ISOBayar(1) EndoEksoterm_Institut Teknologi Bandung_Karya 1&2
+
+*Apabila mengirimkan lebih dari 1 karya, dokumen pembayaran dapat
+digabungkan dalam 1 dokumen
+
+
+
+Dokumen karya tulis ilmiah dikumpulkan dengan format PDF (maks. 10 MB) dengan
+format penamaan:
+
+ISOTERM27_Subtema_Nama Tim_Perguruan Tinggi (tidak
+disingkat)_Karya(1/2)*
+
+Contoh:
+ISOTERM27_Critical Elements_ EndoEksoterm_Institut Teknologi Bandung_Karya 1
+*Apabila mengirim lebih dari 1 karya, dokumen karya tulis ilmiah dikirimkan dalam
+bentuk soft file terpisah untuk masing-masing karya
+
+Bukti pembayaran diunggah bersamaan dengan pengumpulan dokumen full paper
+pada form pengumpulan karya.
+
+Peserta tidak diperbolehkan membatalkan pengumpulan dokumen full paper
+yang sudah dikumpulkan.
+
+Pengumuman peserta yang lolos tahap full paper akan dilakukan pada 18
+Januari 2027 melalui media sosial OKTAN ITB. Tim yang lolos akan melanjutkan
+ke tahap final. Selain itu, akan diumumkan juga tim waitlist yang berhasil lolos final,
+yaitu tim dengan skor tertinggi berikutnya (dengan subtema yang sama) yang akan
+menggantikan jika ada tim yang tidak dapat hadir di tahap final.
+
+Kelima tim yang lolos ke tahap final wajib memberikan konfirmasi ketersediaan
+paling lambat 19 Januari 2027.
+
+
+
+Ketentuan Karya Abstrak
+Abstrak berisi intisari atau penggambaran karya tulis ilmiah untuk menyelesaikan
+permasalahan sesuai dengan subtema yang disediakan. Karya bersifat asli (bukan
+karya jiplakan) dan jauh dari unsur duplikasi.
+1.  Sifat dan isi tulisan : Kreatif dan inovatif
+2.Bahasa : Bahasa Indonesia yang baku dan ejaan yang disempurnakan, 
+
+  sederhana, jelas, tidak ambigu, mengutamakan istilah yang 
+  mudah dimengerti, dan tidak menggunakan singkatan seperti 
+  tdk, tsb, yg, dgn, dan dll.
+
+3.Ukuran Kertas : A4
+4.Font Style : Times New Roman
+5.Size Font : Judul Karya = 14
+
+  Naskah = 12
+  Nama penulis = 12
+
+6.Text Alignment : Justified
+7.Page Margin : Kiri 3 cm, serta atas, bawah, dan kanan 2 cm
+8.Ukuran Spasi : 1,15 dengan before & after spacing 0 pt
+9.Jumlah Kata : 150-300 kata
+10.Judul Abstrak : Maksimal 20 Kata
+11.Ketentuan Lainnya : Nama penulis dan asal universitas diketik miring di bawah judul
+12.Keyword : 3-5 kata yang memberikan gambaran abstrak
+13. Isi abstrak : - Latar belakang permasalahan
+
+ - Perumusan masalah
+ - Tujuan atau inovasi
+ - Metode
+ - Hasil atau temuan utama (findings)
+ - Implikasi dari ide yang diajukan dan kesimpulan
+
+14.Format abstrak dapat diakses pada bit.ly/KITISOTERM2027
+
+
+
+Ketentuan Karya Full Paper
+Karya tulis ilmiah merupakan laporan penelitian yang disusun secara sistematis untuk
+menjawab permasalahan sesuai subtema yang ditetapkan. Karya harus bersifat asli
+(bukan karya jiplakan), dan didukung oleh data serta informasi yang dapat
+dipertanggungjawabkan. Penulisan mencakup latar belakang, rumusan masalah, tujuan,
+metode penelitian, hasil dan pembahasan, serta kesimpulan. Penelitian dapat dilakukan
+melalui eksperimen, simulasi, atau metode ilmiah lain yang sesuai dengan tujuan
+penelitian. Hasil penelitian harus dianalisis dan dibahas berdasarkan data yang
+diperoleh serta didukung oleh literatur ilmiah yang relevan.
+1.  Sifat dan isi tulisan : Kreatif dan inovatif
+2.Bahasa : Bahasa Indonesia yang baku dan ejaan yang
+
+ disempurnakan, sederhana, jelas, tidak ambigu,  
+ mengutamakan istilah yang mudah dimengerti, 
+ dan tidak menggunakan singkatan seperti tdk, 
+ tsb, yg, dgn, dan dll.
+
+3.Ukuran Kertas : A4
+4.Font Style : Times New Roman
+5.Size Font : 12
+6.Text Alignment : Justified
+7.Page Margin : Kiri 3 cm, serta atas, bawah, dan kanan 2 cm
+8.Ukuran Spasi : 1,5 dengan before & after spacing 0 pt
+9.Jumlah Halaman : Maksimal 20 halaman (tidak termasuk cover, lembar
+
+  pengesahan, lembar orisinalitas, daftar isi, daftar
+  gambar, daftar tabel, daftar pustaka, dan lampiran)
+
+10.Cover : Terdiri dari keterangan “ISOTERM : INDONESIA’S
+  INNOVATIVE RESEARCH COMPETITION 2027”, judul,
+  nama tim, nama dan NIM anggota, serta tidak
+  menyertakan nama serta logo institusi. 
+
+11.Tingkat Similarity : Maksimal 20%
+12.Ketentuan nomor halaman :
+
+a. Bagian awal karya ilmiah (halaman judul, halaman pengesahan, halaman orisinalitas
+    karya, kata pengantar, daftar isi, daftar tabel, daftar gambar, daftar lampiran, dan
+    abstrak) diberi nomor halaman angka romawi kecil (i, ii, iii, dan seterusnya) pada posisi
+    tengah di bagian bawah. Halaman judul tidak diberi nomor, tetapi tetap dihitung.
+b. Mulai dari BAB I sampai daftar pustaka diberi nomor halaman angka (1, 2, 3, dan
+    seterusnya) pada posisi tengah di bagian bawah.
+
+13.Lembar pengesahan, lembar orisinalitas karya, dan lembar pernyataan penggunaan AI
+dapat diakses pada bit.ly/KITISOTERM2027
+
+
+
+Kriteria Penilaian Abstrak
+Format Penulisan
+
+Kesesuaian dengan format anjuran
+
+Penggunaan ejaan dan kata-kata normatif
+yang tepat 30%
+
+Penggunaan bahasa Indonesia yang baik,
+benar, dan mudah dipahami
+
+Keaslian Karya
+
+Plagiarisme
+20%
+
+Belum pernah dipublikasikan
+
+Ide
+
+Kesesuaian ide dan pemecahan masalah
+dengan tema tertentu
+
+Kebaruan ide atau inovasi untuk
+memecahkan masalah
+
+40%
+Penyampaian hasil penelitian secara
+informatif dan faktual
+
+Dampak keberlanjutan bagi masyarakat
+dan lingkungan
+
+Administrasi
+
+Kelengkapan administrasi 10%
+
+
+
+Kriteria Penilaian Full Paper
+Format Penulisan
+
+Kesesuaian dengan format anjuran
+
+Penggunaan ejaan dan kata-kata normatif
+yang tepat 20%
+
+Penggunaan bahasa Indonesia yang baik,
+benar, dan mudah dipahami
+
+Keaslian Karya
+
+Plagiarisme (maksimal 20%)
+15%
+
+Belum pernah dipublikasikan
+
+Ide dan Inovasi
+
+Kesesuaian ide dan pemecahan masalah
+dengan tema tertentu
+
+Kebaruan ide atau inovasi untuk
+memecahkan masalah
+
+45%
+Argumentasi dan kedalaman analisis
+mengenai topik yang dipilih
+
+Penyampaian hasil penelitian secara
+informatif dan faktual
+
+Sumber Data
+
+Kesesuaian dan keakuratan informasi
+dengan bibliografi
+
+20%
+Data yang digunakan berasal dari publikasi
+dalam 10 tahun terakhir.
+
+
+
+Pelanggaran Full Paper
+Format Penulisan Keterangan Skor Pelanggaran
+
+Jumlah halaman yang berlebih Ya/Tidak -5
+
+Penomoran halaman tidak sesuai Ya/Tidak -5
+
+Lembar pengesahan tidak tepat Ya/Tidak -10
+
+Lembar originalitas tidak sesuai Ya/Tidak -10
+
+Lembar pernyataan penggunaan
+Ya/Tidak -10
+
+AI tidak sesuai
+
+Hadiah
+Juara I                : Rp 9.000.000 + Sertifikat Juara  I
+
+Juara II               : Rp 6.000.000 + Sertifikat Juara II 
+
+Juara III                : Rp 3.000.000 + Sertifikat Juara III 
+
+Juara Harapan I            : Rp 2.000.000 + Sertifikat Juara Harapan 
+
+Juara Harapan II           : Rp 1.500.000 + Sertifikat Juara Harapan II
+
+Juara Favorit             : Rp 500.000 + Sertifikat Finalis Terfavorit
+
+
+
+Narahubung
+Narahubung dapat dihubungi pada pukul 08.00 – 20.00 WIB, kecuali pada
+periode akhir pengumpulan karya (baik abstrak maupun full paper) dapat
+dihubungi 24 jam. Peserta tidak diperkenankan melakukan panggilan
+telepon dalam bentuk apapun. Mohon pastikan setiap pertanyaan
+disampaikan dengan jelas dan lengkap melalui chat agar dapat
+memperoleh respons yang tepat. 
+
+Nomor WhatsApp                      : 085190984288 (ISOTERM OKTAN ITB 2027)

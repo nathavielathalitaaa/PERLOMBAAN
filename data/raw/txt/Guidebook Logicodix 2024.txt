@@ -1,0 +1,499 @@
+﻿LOGICODIX 2024
+Kompetisi Logika dan Pemrograman
+untuk Siswa SMA / SMK Sederajat 
+
+GUIDEBOOK
+LOGICODIX
+2024
+
+@logicodix
+logicodix@gmail.com
+
+
+
+DAFTAR ISI
+Pendahuluan 01
+
+Timeline 03
+
+Hadiah dan Penghargaan 04
+
+Ketentuan Lomba 05
+
+Peraturan Khusus 07
+
+Teknis Pelaksanaan Lomba 11
+
+Panduan Babak Final Offline 12
+
+FAQ 15
+
+Kontak Panitia 17
+
+012 LOGICODIX
+
+
+
+Logicodix berasal dari gabungan kata "Logica" dan
+"Codicis". Logica mengacu pada logika, yaitu ilmu
+tentang penalaran yang valid, mencakup studi
+tentang bentuk-bentuk penalaran yang benar,
+metode untuk membuat inferensi yang valid, dan
+evaluasi argumen. Codicis diartikan sebagai sistem
+simbol atau aturan yang digunakan untuk mewakili
+informasi. Logicodix adalah perlombaan yang
+menggabungkan kecerdasan logika dengan
+keahlian pemrograman dalam satu arena penuh
+tantangan dan inovasi. Logicodix bukan hanya
+tentang memecahkan masalah, tetapi juga mengubah
+cara berpikir peserta dalam merancang solusi kreatif
+dan efektif. Setiap babak dirancang untuk memaksa
+peserta berpikir di luar kotak dan mendorong inovasi
+dalam kode mereka.
+
+01 LOGICODIX
+
+
+
+“ENDLESS LOGIC AND CREATIVITY
+UNLEASHING SOLUTIONS THROUGH
+
+PROGRAMMING”
+Tema ini menekankan bahwa kemampuan berpikir logis yang tak
+terbatas dan kreativitas adalah kunci dalam menemukan solusi
+inovatif melalui pemrograman. Logicodix mengajak peserta untuk
+memanfaatkan logika sebagai fondasi dalam menyusun solusi
+sistematis, sementara kreativitas digunakan untuk berpikir di luar
+batasan, menciptakan pendekatan baru dalam menghadapi
+tantangan pemrograman. Dengan keterampilan pemrograman,
+peserta diharapkan mampu "membuka" solusi atas masalah kompleks
+secara efektif dan efisien. 
+
+012 LOGICODIX
+
+
+
+24 SEPTEMBER – 8 OKTOBER Pendaftaran
+
+9 OKTOBER 2024 Technical Meeting (TM)
+
+11 OKTOBER Babak Penyisihan
+
+12 OKTOBER Pengumuman Hasil Penyisihan 
+
+15 OKTOBER Babak Semifinal 
+
+17 OKTOBER Pengumuman Hasil Semifinal
+
+24 OKTOBER Babak Final & Awarding 
+
+013 LOGICODIX
+
+
+
+JUARA 1
+Plakat + Rp 1.500.000,00
+
+JUARA 2
+Plakat + Rp 1.250.000,00
+
+JUARA 3
+Plakat + Rp 1.000.000,00
+
+● Sertifikat: Setiap peserta akan menerima
+sertifikat keikutsertaan
+
+014 LOGICODIX
+
+
+
+KETENTUAN
+PERLOMBAAN
+
+Persyaratan Umum
+1.Lomba terbuka untuk siswa SMA/SMK/MA sederajat dari seluruh
+
+Indonesia. 
+2.Peserta Logicodix adalah siswa/i aktif atau belum lulus dengan
+
+jenjang pendidikan SMA/SMK/MA Sederajat yang dibuktikan dengan
+Kartu Tanda Pelajar atau Surat Keterangan Aktif dari sekolah. 
+
+3.Usia peserta maksimal 19 tahun pada tanggal pelaksanaan lomba. 
+4.Lomba dilakukan secara tim, Setiap tim hanya dapat
+
+beranggotakan minimal 2 (dua) orang dan maksimal 3 (tiga)
+orang yang berasal dari sekolah yang sama. 
+
+5.Pendaftaran dilakukan melalui Google Form. 
+6.Biaya pendaftaran yang telah diterima oleh panitia tidak dapat
+
+ditarik Kembali dengan alasan apapun 
+7.Peserta wajib mengikuti seluruh rangkaian acara, prosedur dan
+
+ketentuan Lomba Logicodix 2024.
+
+Aturan Umum Lomba
+1.Peserta diharuskan hadir tepat waktu sesuai dengan jadwal yang
+
+telah ditentukan. Terlambat lebih dari 15 menit tanpa
+pemberitahuan sebelumnya akan menyebabkan diskualifikasi dari
+lomba. 
+
+2.Peserta diwajibkan menggunakan perangkat dan software yang
+telah disetujui oleh panitia. Penggunaan software ilegal atau yang
+dapat menimbulkan kecurangan dilarang keras. Untuk babak
+penyisihan dan semifinal, Safe Exam Browser (SEB) akan digunakan
+sebagai pengaman.
+
+015 LOGICODIX
+
+
+
+3.Semua jawaban dan solusi yang diberikan harus merupakan hasil
+kerja sendiri. Peserta dilarang menyalin atau melakukan plagiarisme
+dari sumber lain. Pelanggaran ini akan menyebabkan diskualifikasi. 
+
+4.Peserta dilarang menerima bantuan dari pihak lain selama
+perlombaan, termasuk dari teman, orang tua, guru, atau pihak
+eksternal. 
+
+5.Peserta diharuskan segera melaporkan setiap masalah teknis atau
+kendala yang dihadapi selama lomba kepada panitia melalui kanal
+komunikasi resmi yang telah disediakan. 
+
+6 Setiap peserta bertanggung jawab menyediakan perangkat seperti
+laptop, koneksi internet yang stabil untuk babak penyisihan dan babak
+semifinal. 
+
+7. Saat perlombaan di babak penyisihan dan babak semifinal, peserta
+diharapkan menyediakan device tambahan untuk mengikuti zoom
+meeting. 
+
+8.Peserta yang lolos ke babak final diwajibkan hadir secara offline di
+lokasi final yang telah ditentukan, yaitu di kampus UNESA Surabaya.
+Akomodasi dan transportasi ditanggung oleh peserta masing-masing.
+Ketidakhadiran tanpa alasan yang valid dapat menyebabkan
+diskualifikasi. 
+
+9.Semua keputusan yang diambil oleh panitia dan juri bersifat final dan
+tidak dapat diganggu gugat. Peserta diharapkan mematuhi setiap
+keputusan yang telah diambil dengan baik. 
+
+016 LOGICODIX
+
+
+
+PERATURAN
+KHUSUS
+
+1. Larangan:
+1.Peserta tidak diperbolehkan membawa catatan, buku, atau materi
+
+referensi apa pun selama lomba, baik di babak online maupun
+offline. 
+
+2.Dilarang bekerja sama dengan tim lain atau menerima bantuan
+dari pihak luar selama kompetisi berlangsung. Setiap tim harus
+mengerjakan soal secara mandiri. 
+
+3.Penggunaan perangkat lain selain yang disetujui oleh panitia,
+seperti ponsel, tablet, atau perangkat tambahan yang tidak
+diperlukan untuk lomba, dilarang.
+
+2. Durasi Dan Ketentuan Waktu:
+1.Setiap babak memiliki batas waktu pengerjaan soal yang sudah
+
+ditentukan. Peserta wajib menyelesaikan soal dan mengumpulkan
+jawaban sebelum waktu berakhir. 
+
+2.Terlambat dalam pengumpulan jawaban akan mengakibatkan
+pengurangan poin atau diskualifikasi, tergantung pada tingkat
+keterlambatan dan alasan yang diberikan.
+
+3. Pengawasan Online: 
+1.Selama babak online, peserta akan diawasi melalui software
+
+proctoring, seperti Safe Exam Browser (SEB), dan panitia berhak
+melakukan pengawasan tambahan melalui zoom meeting untuk
+memastikan tidak ada kecurangan. 
+
+2.Pastikan kamera dan mikrofon perangkat berfungsi dengan baik
+selama lomba berlangsung untuk memfasilitasi pengawasan. 
+
+017 LOGICODIX
+
+
+
+4. Pengawasan Offline: 
+1.Peserta yang lolos ke babak final offline wajib hadir di lokasi lomba
+
+sesuai waktu yang ditentukan. Ketidakhadiran tanpa
+pemberitahuan sebelumnya akan menyebabkan diskualifikasi. 
+
+2.Peserta wajib membawa identitas diri berupa Kartu Tanda Pelajar
+atau Surat Keterangan Siswa Aktif dari sekolah. Perlengkapan
+lomba seperti PC dan Laptop disediakan oleh panitia.
+
+5. Kewajiban Mematuhi Tata Tertib:
+1.Peserta wajib mematuhi semua tata tertib dan instruksi dari panitia
+
+yang telah ditetapkan sebelum dan selama kompetisi berlangsung.
+Pelanggaran terhadap tata tertib akan mendapatkan teguran atau
+sanksi sesuai tingkat kesalahannya
+
+6. Konsekuensi Pelanggaran
+Diskualifikasi Langsung :
+
+1.Kecurangan dalam bentuk plagiarisme, penggunaan software
+ilegal, atau bantuan dari pihak lain akan menyebabkan
+diskualifikasi langsung dari lomba. 
+
+2.Peserta yang melanggar aturan penggunaan perangkat atau
+ketahuan menggunakan aplikasi yang tidak diizinkan juga akan
+didiskualifikasi tanpa pengecualian.
+
+Pengurangan Poin :
+1.Jawaban yang terlambat dikumpulkan setelah waktu yang
+
+ditentukan akan dikenakan pengurangan poin atau tidak dinilai
+sama sekali. 
+
+2.Adanya indikasi plagiarisme dalam jawaban atau kode
+program akan mengakibatkan pengurangan nilai atau
+diskualifikasi. 
+
+018 LOGICODIX
+
+
+
+Larangan Mengikuti Lomba Berikutnya:
+1.Pelanggaran serius, seperti kecurangan atau tindakan yang
+
+tidak sesuai dengan etika kompetisi, akan mengakibatkan
+larangan mengikuti Logicodix di masa mendatang. Nama
+peserta yang melakukan pelanggaran akan dicatat dan diblokir
+untuk kompetisi berikutnya.
+
+Keputusan Juri Tidak Bisa Diganggu Gugat:
+1.Semua keputusan yang diambil oleh juri dan panitia bersifat
+
+final dan tidak dapat diganggu gugat. Keberatan atau protes
+terhadap hasil keputusan tidak akan dilayani.
+
+7. Kebijakan Teknis dan Force Majeure:
+1.Jika terjadi gangguan teknis di luar kendali peserta (seperti
+
+server down atau koneksi internet terputus), peserta wajib
+segera melaporkan kepada panitia untuk solusi lebih lanjut.
+Panitia akan mempertimbangkan ulang berdasarkan situasi
+yang terjadi. 
+
+2.Dalam kondisi force majeure yang tidak terduga, seperti
+bencana alam atau keadaan darurat lainnya, panitia berhak
+untuk menunda, mengubah, atau membatalkan lomba dengan
+pemberitahuan sebelumnya kepada peserta. 
+
+019 LOGICODIX
+
+
+
+Babak Penyisihan (Online)
+Format: 90 soal pilihan ganda mencakup logika dan dasar
+pemrograman java. 
+Durasi: 90 menit.
+
+Babak Semifinal (Online)
+Format: 70 soal algoritma mencakup Algoritma dan Analisis
+Pemrograman (C++) 
+Durasi: 90 menit. 
+
+Babak Final (Offline)
+Format: Penyelesaian masalah pemrograman kompleks yang
+dinilai berdasarkan kreativitas dan inovasi. 
+Durasi: 90 menit. 
+
+0101 LOGICODIX
+
+
+
+Babak Penyisihan (Online)
+Format Lomba: Pilihan Ganda.  
+Platform yang Digunakan: Safe Exam Browser. 
+Akses dan Login: Panduan login akan diberikan sebelum lomba.
+
+Babak Semifinal (Online)
+Format Lomba: Pilihan Ganda.  
+Platform yang Digunakan: Safe Exam Browser. 
+Akses dan Login: Panduan login akan diberikan sebelum lomba.
+
+Babak Final (Offline)
+Format Lomba: Live Coding. 
+Lokasi Final: Gedung A10, Teknik Informatika, UNESA Ketintang. 
+Kehadiran: Peserta wajib hadir di lokasi 
+
+Hal-hal yang belum diinformasikan pada mekanisme perlombaan ini
+akan diinformasikan lebih lanjut pada technical meeting.
+
+01 1 LOGICODIX
+
+
+
+PANDUAN BABAK
+FINAL OFFLINE
+
+Babak final kompetisi Logicodix akan dilaksanakan secara offline di Gedung A10,
+Jurusan Teknik Informatika, Universitas Negeri Surabaya (UNESA) Kampus Ketintang.
+Semua tim yang lolos dari babak semifinal wajib hadir di lokasi dengan mematuhi
+ketentuan dan aturan yang telah ditetapkan. 
+
+Ketentuan Ketentuan Umum Babak Final Offline: 
+1.Lokasi
+
+Babak final akan diadakan di Gedung A10, Teknik Informatika,
+Universitas Negeri Surabaya (UNESA), Kampus Ketintang. 
+
+2.Kehadiran
+Tim yang lolos semifinal diwajibkan hadir secara offline di
+lokasi yang telah ditentukan. 
+Peserta harus tiba di lokasi minimal 30 menit sebelum waktu
+perlombaan dimulai untuk melakukan registrasi ulang dan
+persiapan. Peserta yang terlambat lebih dari 15 menit akan
+didiskualifikasi. 
+Setiap peserta wajib mendaftar ulang di meja registrasi yang
+telah disediakan sebelum acara dimulai.
+
+3.Identitas Diri
+Peserta diwajibkan membawa dokumen identitas resmi
+berupa Kartu Tanda Pelajar atau Surat Keterangan Aktif dari
+sekolah. 
+Panitia berhak untuk memeriksa identitas peserta. Jika
+identitas peserta tidak sesuai dengan yang didaftarkan, tim
+akan didiskualifikasi. 
+
+0121 LOGICODIX
+
+
+
+4.Dress Code
+Peserta diharuskan memakai seragam sekolah yang rapi dan
+lengkap atau identitas sekolah selama acara berlangsung. 
+Seragam yang dikenakan harus sesuai dengan ketentuan
+sekolah masing-masing. 
+Jika peserta tidak mengenakan seragam sekolah, mereka
+harus berpakaian sopan dan rapi. Peserta dengan pakaian
+tidak pantas akan dikeluarkan dari lomba. 
+
+5. Akomodasi dan Transportasi:
+Semua biaya akomodasi dan transportasi menuju lokasi
+babak final menjadi tanggungan masing-masing tim peserta.
+Panitia tidak menyediakan akomodasi, namun akan
+memberikan rekomendasi tempat penginapan terdekat jika
+diperlukan
+
+6. Aturan Pengawasan:
+Pengawasan akan dilakukan secara ketat selama babak final
+berlangsung. Pengawas berhak memeriksa perangkat yang
+digunakan peserta untuk memastikan tidak ada pelanggaran
+aturan, seperti penggunaan software ilegal atau komunikasi
+dengan pihak luar. 
+Jika ditemukan kecurangan, tim akan langsung didiskualifikasi. 
+
+7. Konsekuensi Ketidakhadiran: 
+Tim yang tidak hadir tanpa pemberitahuan resmi atau alasan
+yang jelas akan didiskualifikasi dari kompetisi. 
+Tim wajib menginformasikan panitia jika ada kendala yang
+menghalangi kehadiran sesegera mungkin, namun keputusan
+final tetap berada di tangan panitia.
+
+0131 LOGICODIX
+
+
+
+8.Jadwal Acara
+Final dimulai pukul 09.00 WIB, dan peserta diharapkan hadir
+paling lambat pukul 08.30 WIB untuk registrasi ulang. 
+Pengumuman pemenang dan awarding ceremony akan
+dilakukan pada hari yang sama setelah seluruh babak final
+selesai. 
+
+0141 LOGICODIX
+
+
+
+Siapa yang boleh mengikuti Logicodix?
+01 Peserta adalah siswa SMA/SMK/MA sederajat, usia maksimal 19
+
+tahun. 
+
+Bagaimana cara mendaftar? 
+02 Pendaftaran dilakukan secara online melalui google form
+
+Apa yang harus dibawa saat final?
+03 Peserta harus membawa identitas diri seperti Kartu Tanda
+
+Pelajar atau Surat Keterangan Siswa Aktif dari sekolah.
+
+Apa konsekuensi dari pelanggaran aturan? 
+04 Pelanggaran dapat mengakibatkan diskualifikasi atau
+
+pengurangan poin. 
+
+ Apakah akomodasi untuk peserta
+
+05 ditanggung panitia?
+Akomodasi ditanggung oleh peserta sendiri. Peserta diharapkan
+untuk mempersiapkan penginapan jika diperlukan
+
+0151 LOGICODIX
+
+
+
+Di mana lokasi final diadakan?
+06 Final akan diadakan di Gedung A10, Teknik Informatika,
+
+Universitas Negeri Surabaya (UNESA), Kampus Ketintang. 
+
+Apa yang harus dilakukan jika mengalami
+07 masalah teknis selama lomba?
+
+Segera hubungi panitia melalui kontak tim teknis yang
+disediakan untuk mendapatkan bantuan. 
+
+Apakah setiap peserta akan mendapatkan
+08 sertifikat?
+
+Ya, setiap peserta akan menerima sertifikat keikutsertaan. 
+
+0161 LOGICODIX
+
+
+
+KONTAK PANITIA :
+● Informasi Kontak: 
+
+Aisyah Lintang Z. A. (+62 852-3174-8470)
+Ryan Dwi Antoni (+62 821-7804-3501) 
+
+● Tim Teknis: 
+Tiara Pramita Sari (+62 878-5148-9781)
+I Putu Surya Pratama (+62 813-3947-1628)
+
+PEMBAYARAN :
+BNI : 1884889095 a/n Juwita Simarmata
+BCA : 2991130570 a/n Juwita Simarmata
+Dana : 081377351124 a.n Juwita Simarmata
+
+0171 LOGICODIX
+
+
+
+"Logic is the key, creativity is the
+door. With both, there are no limits to
+
+the solutions we can create.
+LOGICODIX
+
+2024
+
+@logicodix         logicodix@gmail.com
